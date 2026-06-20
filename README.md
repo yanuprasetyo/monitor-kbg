@@ -6,7 +6,7 @@ Dashboard pemantauan berita otomatis untuk isu:
 - **Kekerasan Berbasis Gender (KBG)**
 - **Kekerasan Berbasis Gender Online (KBGO)**
 
-**Dashboard:** `https://<username>.github.io/<repo-name>/`
+**Dashboard:** `(https://yanuprasetyo.github.io/monitor-kbg/)
 
 ---
 
