@@ -6,271 +6,175 @@
 <title>Monitor Berita — UU TPKS & Kekerasan Berbasis Gender</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
   :root {
-    --bg:        #0f1117;
-    --surface:   #1a1d27;
-    --border:    #2a2d3a;
-    --muted:     #4a4d60;
-    --text:      #e8eaf2;
-    --text-dim:  #9094a8;
-    --accent:    #c45c8a;
-    --accent-2:  #7b5ea7;
-    --tpks:      #e07b5a;
-    --ks:        #c45c8a;
-    --kbg:       #7b5ea7;
-    --kbgo:      #4e8fa8;
-    --green:     #5aad8a;
+    --bg:       #0f1117;
+    --surface:  #1a1d27;
+    --surface2: #13151f;
+    --border:   #2a2d3a;
+    --muted:    #4a4d60;
+    --text:     #e8eaf2;
+    --text-dim: #9094a8;
+    --accent:   #c45c8a;
+    --tpks:     #e07b5a;
+    --ks:       #c45c8a;
+    --kbg:      #7b5ea7;
+    --kbgo:     #4e8fa8;
+    --green:    #5aad8a;
   }
-
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 15px; line-height: 1.6; min-height: 100vh; }
 
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'IBM Plex Sans', system-ui, sans-serif;
-    font-size: 15px;
-    line-height: 1.6;
-    min-height: 100vh;
+  /* ── Nav tabs ── */
+  .nav-tabs {
+    display: flex;
+    gap: 0;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface2);
+    padding: 0 32px;
   }
+  .nav-tab {
+    padding: 12px 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-dim);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: all 0.15s;
+    user-select: none;
+  }
+  .nav-tab:hover { color: var(--text); }
+  .nav-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
 
   /* ── Header ── */
-  header {
-    border-bottom: 1px solid var(--border);
-    padding: 28px 32px 24px;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 16px;
-  }
-  .header-left h1 { font-size: 1.15rem; font-weight: 600; letter-spacing: 0.01em; }
-  .header-left .tagline { font-size: 0.82rem; color: var(--text-dim); margin-top: 3px; font-family: 'IBM Plex Mono', monospace; }
-  .status-badge { display: flex; align-items: center; gap: 7px; font-size: 0.78rem; font-family: 'IBM Plex Mono', monospace; color: var(--text-dim); margin-top: 4px; }
+  header { border-bottom: 1px solid var(--border); padding: 24px 32px 20px; display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+  .header-left h1 { font-size: 1.1rem; font-weight: 600; letter-spacing: 0.01em; }
+  .header-left .tagline { font-size: 0.8rem; color: var(--text-dim); margin-top: 3px; font-family: 'IBM Plex Mono', monospace; }
+  .status-badge { display: flex; align-items: center; gap: 7px; font-size: 0.76rem; font-family: 'IBM Plex Mono', monospace; color: var(--text-dim); margin-top: 4px; }
   .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); animation: pulse 2.5s ease-in-out infinite; }
-  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
 
   /* ── Stats bar ── */
-  .stats-bar {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-    gap: 1px;
-    background: var(--border);
-    border-bottom: 1px solid var(--border);
-  }
-  .stat-cell { background: var(--surface); padding: 18px 24px; cursor: pointer; transition: background 0.15s; position: relative; }
+  .stats-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1px; background: var(--border); border-bottom: 1px solid var(--border); }
+  .stat-cell { background: var(--surface); padding: 16px 20px; cursor: pointer; transition: background .15s; position: relative; }
   .stat-cell:hover { background: #1f2235; }
-  .stat-cell.active::after { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 2px; }
-  .stat-cell[data-filter="tpks"].active::after     { background: var(--tpks); }
+  .stat-cell.active::after { content:''; position:absolute; bottom:0; left:0; right:0; height:2px; }
+  .stat-cell[data-filter="tpks"].active::after            { background: var(--tpks); }
   .stat-cell[data-filter="kekerasan_seksual"].active::after { background: var(--ks); }
-  .stat-cell[data-filter="kbg"].active::after      { background: var(--kbg); }
-  .stat-cell[data-filter="kbgo"].active::after     { background: var(--kbgo); }
-  .stat-cell[data-filter="all"].active::after      { background: var(--accent); }
-  .stat-count { font-size: 1.9rem; font-weight: 600; font-family: 'IBM Plex Mono', monospace; line-height: 1; margin-bottom: 5px; }
-  .stat-cell[data-filter="tpks"] .stat-count      { color: var(--tpks); }
+  .stat-cell[data-filter="kbg"].active::after             { background: var(--kbg); }
+  .stat-cell[data-filter="kbgo"].active::after            { background: var(--kbgo); }
+  .stat-cell[data-filter="all"].active::after             { background: var(--accent); }
+  .stat-count { font-size: 1.8rem; font-weight: 600; font-family: 'IBM Plex Mono', monospace; line-height: 1; margin-bottom: 4px; }
+  .stat-cell[data-filter="tpks"] .stat-count             { color: var(--tpks); }
   .stat-cell[data-filter="kekerasan_seksual"] .stat-count { color: var(--ks); }
-  .stat-cell[data-filter="kbg"] .stat-count       { color: var(--kbg); }
-  .stat-cell[data-filter="kbgo"] .stat-count      { color: var(--kbgo); }
-  .stat-cell[data-filter="all"] .stat-count       { color: var(--accent); }
-  .stat-label { font-size: 0.75rem; color: var(--text-dim); line-height: 1.3; }
+  .stat-cell[data-filter="kbg"] .stat-count              { color: var(--kbg); }
+  .stat-cell[data-filter="kbgo"] .stat-count             { color: var(--kbgo); }
+  .stat-cell[data-filter="all"] .stat-count              { color: var(--accent); }
+  .stat-label { font-size: 0.73rem; color: var(--text-dim); line-height: 1.3; }
 
   /* ── Toolbar ── */
-  .toolbar {
-    padding: 14px 32px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    border-bottom: 1px solid var(--border);
-    flex-wrap: wrap;
-  }
+  .toolbar { padding: 12px 32px; display: flex; align-items: center; gap: 10px; border-bottom: 1px solid var(--border); flex-wrap: wrap; }
+  .search-box { flex:1; min-width:180px; position:relative; }
+  .search-box input { width:100%; background:var(--surface); border:1px solid var(--border); border-radius:6px; padding:8px 12px 8px 34px; color:var(--text); font-family:inherit; font-size:0.87rem; outline:none; transition:border-color .15s; }
+  .search-box input:focus { border-color:var(--muted); }
+  .search-box input::placeholder { color:var(--muted); }
+  .search-icon { position:absolute; left:11px; top:50%; transform:translateY(-50%); color:var(--muted); font-size:0.9rem; pointer-events:none; }
 
-  .search-box { flex: 1; min-width: 180px; position: relative; }
-  .search-box input {
-    width: 100%;
-    background: var(--surface);
-    border: 1px solid var(--border);
+  select.ui-select { background:var(--surface); border:1px solid var(--border); border-radius:6px; padding:8px 12px; color:var(--text-dim); font-family:inherit; font-size:0.82rem; outline:none; cursor:pointer; }
+
+  /* Export button */
+  .btn-export {
+    display: flex; align-items: center; gap: 6px;
+    padding: 8px 14px;
     border-radius: 6px;
-    padding: 8px 12px 8px 34px;
-    color: var(--text);
-    font-family: inherit;
-    font-size: 0.88rem;
-    outline: none;
-    transition: border-color 0.15s;
-  }
-  .search-box input:focus { border-color: var(--muted); }
-  .search-box input::placeholder { color: var(--muted); }
-  .search-icon { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 0.9rem; pointer-events: none; }
-
-  /* ── Date filter row ── */
-  .date-filter-row {
-    padding: 10px 32px 12px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    border-bottom: 1px solid var(--border);
-    flex-wrap: wrap;
-    background: #13151f;
-  }
-
-  .date-filter-label {
-    font-size: 0.75rem;
-    font-family: 'IBM Plex Mono', monospace;
-    color: var(--text-dim);
-    white-space: nowrap;
-  }
-
-  /* Quick range chips */
-  .date-chips { display: flex; gap: 6px; flex-wrap: wrap; }
-  .chip {
-    font-size: 0.75rem;
-    font-family: 'IBM Plex Mono', monospace;
-    padding: 4px 10px;
-    border-radius: 20px;
-    border: 1px solid var(--border);
-    background: var(--surface);
-    color: var(--text-dim);
-    cursor: pointer;
-    transition: all 0.15s;
-    white-space: nowrap;
-  }
-  .chip:hover { border-color: var(--muted); color: var(--text); }
-  .chip.active { border-color: var(--accent); color: var(--accent); background: #2a1520; }
-
-  .date-divider {
-    width: 1px; height: 20px;
-    background: var(--border);
-    margin: 0 4px;
-  }
-
-  /* Month/Year selects */
-  .date-selects { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-  .date-sel-group { display: flex; align-items: center; gap: 6px; }
-  .date-sel-group span { font-size: 0.72rem; color: var(--muted); font-family: 'IBM Plex Mono', monospace; }
-
-  select.date-select {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 5px 10px;
-    color: var(--text-dim);
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 0.78rem;
-    outline: none;
-    cursor: pointer;
-    transition: border-color 0.15s;
-  }
-  select.date-select:focus { border-color: var(--muted); }
-
-  .date-arrow { color: var(--muted); font-size: 0.8rem; padding: 0 2px; }
-
-  .btn-reset-date {
-    font-size: 0.72rem;
-    font-family: 'IBM Plex Mono', monospace;
-    padding: 4px 10px;
-    border-radius: 6px;
-    border: 1px solid var(--border);
+    border: 1px solid var(--green);
     background: transparent;
-    color: var(--muted);
-    cursor: pointer;
-    transition: all 0.15s;
-    white-space: nowrap;
-  }
-  .btn-reset-date:hover { color: var(--text); border-color: var(--muted); }
-
-  /* Active date filter indicator */
-  .date-active-badge {
-    display: none;
-    font-size: 0.7rem;
+    color: var(--green);
     font-family: 'IBM Plex Mono', monospace;
-    background: #2a1520;
-    border: 1px solid var(--accent);
-    color: var(--accent);
-    padding: 3px 8px;
-    border-radius: 4px;
-  }
-  .date-active-badge.visible { display: inline-block; }
-
-  .sort-select {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 8px 12px;
-    color: var(--text-dim);
-    font-family: inherit;
-    font-size: 0.82rem;
-    outline: none;
-    cursor: pointer;
-  }
-
-  .result-count {
     font-size: 0.78rem;
-    font-family: 'IBM Plex Mono', monospace;
-    color: var(--muted);
+    font-weight: 500;
+    cursor: pointer;
+    transition: all .15s;
     white-space: nowrap;
   }
+  .btn-export:hover { background: #142a20; }
+
+  .result-count { font-size: 0.77rem; font-family: 'IBM Plex Mono', monospace; color: var(--muted); white-space: nowrap; }
+
+  /* ── Date filter ── */
+  .date-filter-row { padding: 10px 32px 12px; display:flex; align-items:center; gap:10px; border-bottom:1px solid var(--border); flex-wrap:wrap; background:var(--surface2); }
+  .date-filter-label { font-size:0.74rem; font-family:'IBM Plex Mono',monospace; color:var(--text-dim); white-space:nowrap; }
+  .date-chips { display:flex; gap:6px; flex-wrap:wrap; }
+  .chip { font-size:0.74rem; font-family:'IBM Plex Mono',monospace; padding:4px 10px; border-radius:20px; border:1px solid var(--border); background:var(--surface); color:var(--text-dim); cursor:pointer; transition:all .15s; white-space:nowrap; }
+  .chip:hover { border-color:var(--muted); color:var(--text); }
+  .chip.active { border-color:var(--accent); color:var(--accent); background:#2a1520; }
+  .date-divider { width:1px; height:20px; background:var(--border); margin:0 2px; }
+  .date-selects { display:flex; align-items:center; gap:6px; flex-wrap:wrap; }
+  .date-sel-group { display:flex; align-items:center; gap:6px; }
+  .date-sel-group span { font-size:0.72rem; color:var(--muted); font-family:'IBM Plex Mono',monospace; }
+  select.date-select { background:var(--surface); border:1px solid var(--border); border-radius:6px; padding:5px 8px; color:var(--text-dim); font-family:'IBM Plex Mono',monospace; font-size:0.76rem; outline:none; cursor:pointer; }
+  .date-arrow { color:var(--muted); font-size:0.8rem; padding:0 2px; }
+  .btn-reset-date { font-size:0.72rem; font-family:'IBM Plex Mono',monospace; padding:4px 10px; border-radius:6px; border:1px solid var(--border); background:transparent; color:var(--muted); cursor:pointer; transition:all .15s; white-space:nowrap; }
+  .btn-reset-date:hover { color:var(--text); border-color:var(--muted); }
+  .date-active-badge { display:none; font-size:0.7rem; font-family:'IBM Plex Mono',monospace; background:#2a1520; border:1px solid var(--accent); color:var(--accent); padding:3px 8px; border-radius:4px; }
+  .date-active-badge.visible { display:inline-block; }
+
+  /* ── Page panels ── */
+  .panel { display: none; }
+  .panel.active { display: block; }
 
   /* ── News list ── */
   main { padding: 24px 32px; max-width: 960px; }
-  .news-list { display: flex; flex-direction: column; gap: 2px; }
+  .news-list { display:flex; flex-direction:column; gap:2px; }
+  .news-item { background:var(--surface); border:1px solid var(--border); border-radius:8px; padding:16px 18px; display:grid; grid-template-columns:3px 1fr; gap:14px; transition:border-color .15s, transform .1s; margin-bottom:8px; }
+  .news-item:hover { border-color:var(--muted); transform:translateX(2px); }
+  .news-stripe { border-radius:2px; }
+  .news-item[data-kw="tpks"] .news-stripe              { background:var(--tpks); }
+  .news-item[data-kw="kekerasan_seksual"] .news-stripe  { background:var(--ks); }
+  .news-item[data-kw="kbg"] .news-stripe                { background:var(--kbg); }
+  .news-item[data-kw="kbgo"] .news-stripe               { background:var(--kbgo); }
+  .news-meta { display:flex; align-items:center; gap:9px; margin-bottom:7px; flex-wrap:wrap; }
+  .kw-tag { font-size:0.67rem; font-family:'IBM Plex Mono',monospace; padding:2px 7px; border-radius:3px; font-weight:500; letter-spacing:.02em; }
+  .kw-tag.tpks              { background:#3a1e10; color:var(--tpks); }
+  .kw-tag.kekerasan_seksual  { background:#3a1020; color:var(--ks); }
+  .kw-tag.kbg                { background:#251830; color:var(--kbg); }
+  .kw-tag.kbgo               { background:#102030; color:var(--kbgo); }
+  .news-source { font-size:0.77rem; color:var(--text-dim); font-weight:500; }
+  .news-date { font-size:0.74rem; font-family:'IBM Plex Mono',monospace; color:var(--muted); margin-left:auto; }
+  .news-title { font-size:0.95rem; font-weight:500; line-height:1.45; margin-bottom:5px; }
+  .news-title a { color:var(--text); text-decoration:none; transition:color .15s; }
+  .news-title a:hover { color:var(--accent); }
+  .news-desc { font-size:0.81rem; color:var(--text-dim); line-height:1.5; }
 
-  .news-item {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 18px 20px;
-    display: grid;
-    grid-template-columns: 3px 1fr;
-    gap: 16px;
-    transition: border-color 0.15s, transform 0.1s;
-    margin-bottom: 8px;
-  }
-  .news-item:hover { border-color: var(--muted); transform: translateX(2px); }
+  /* ── Charts panel ── */
+  .charts-panel { padding: 28px 32px; }
+  .charts-panel h2 { font-size: 0.95rem; font-weight: 600; color: var(--text-dim); margin-bottom: 20px; font-family: 'IBM Plex Mono', monospace; letter-spacing: .04em; text-transform: uppercase; }
 
-  .news-stripe { border-radius: 2px; }
-  .news-item[data-kw="tpks"] .news-stripe              { background: var(--tpks); }
-  .news-item[data-kw="kekerasan_seksual"] .news-stripe  { background: var(--ks); }
-  .news-item[data-kw="kbg"] .news-stripe                { background: var(--kbg); }
-  .news-item[data-kw="kbgo"] .news-stripe               { background: var(--kbgo); }
+  .charts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 20px 22px; }
+  .chart-card.wide { grid-column: 1 / -1; }
+  .chart-title { font-size: 0.8rem; font-family: 'IBM Plex Mono', monospace; color: var(--text-dim); margin-bottom: 16px; letter-spacing: .02em; }
+  .chart-wrap { position: relative; }
 
-  .news-meta { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; flex-wrap: wrap; }
-
-  .kw-tag { font-size: 0.68rem; font-family: 'IBM Plex Mono', monospace; padding: 2px 7px; border-radius: 3px; font-weight: 500; letter-spacing: 0.02em; }
-  .kw-tag.tpks              { background: #3a1e10; color: var(--tpks); }
-  .kw-tag.kekerasan_seksual  { background: #3a1020; color: var(--ks); }
-  .kw-tag.kbg                { background: #251830; color: var(--kbg); }
-  .kw-tag.kbgo               { background: #102030; color: var(--kbgo); }
-
-  .news-source { font-size: 0.78rem; color: var(--text-dim); font-weight: 500; }
-  .news-date { font-size: 0.75rem; font-family: 'IBM Plex Mono', monospace; color: var(--muted); margin-left: auto; }
-
-  .news-title { font-size: 0.97rem; font-weight: 500; line-height: 1.45; margin-bottom: 6px; }
-  .news-title a { color: var(--text); text-decoration: none; transition: color 0.15s; }
-  .news-title a:hover { color: var(--accent); }
-  .news-desc { font-size: 0.82rem; color: var(--text-dim); line-height: 1.5; }
+  .chart-note { font-size: 0.74rem; color: var(--muted); font-family: 'IBM Plex Mono', monospace; margin-top: 10px; }
 
   /* ── State messages ── */
-  .state-msg { padding: 60px 32px; text-align: center; color: var(--muted); font-size: 0.9rem; }
-  .state-msg .icon { font-size: 2.5rem; margin-bottom: 12px; }
+  .state-msg { padding: 60px 32px; text-align:center; color:var(--muted); font-size:0.9rem; }
+  .state-msg .icon { font-size:2.5rem; margin-bottom:12px; }
 
   /* ── Footer ── */
-  footer {
-    padding: 24px 32px;
-    border-top: 1px solid var(--border);
-    font-size: 0.75rem;
-    color: var(--muted);
-    font-family: 'IBM Plex Mono', monospace;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
+  footer { padding: 20px 32px; border-top: 1px solid var(--border); font-size: 0.74rem; color: var(--muted); font-family: 'IBM Plex Mono', monospace; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
 
-  /* ── Responsive ── */
   @media (max-width: 640px) {
-    header, main, .toolbar, .date-filter-row, footer { padding-left: 16px; padding-right: 16px; }
+    header, main, .toolbar, .date-filter-row, .charts-panel, footer { padding-left:16px; padding-right:16px; }
     .stats-bar { grid-template-columns: 1fr 1fr; }
-    .news-date { display: none; }
-    .date-divider { display: none; }
+    .news-date { display:none; }
+    .date-divider { display:none; }
+    .charts-grid { grid-template-columns: 1fr; }
+    .chart-card.wide { grid-column: 1; }
+    .nav-tabs { padding: 0 16px; }
   }
 </style>
 </head>
@@ -287,7 +191,7 @@
   </div>
 </header>
 
-<!-- Keyword filter -->
+<!-- Keyword stats -->
 <div class="stats-bar">
   <div class="stat-cell active" data-filter="all" onclick="setFilter('all')">
     <div class="stat-count" id="count-all">—</div>
@@ -311,70 +215,109 @@
   </div>
 </div>
 
-<!-- Search + sort toolbar -->
-<div class="toolbar">
-  <div class="search-box">
-    <span class="search-icon">⌕</span>
-    <input type="text" id="search-input" placeholder="Cari judul, sumber, atau kata kunci..." oninput="renderNews()">
-  </div>
-  <select class="sort-select" id="sort-select" onchange="renderNews()">
-    <option value="date-desc">Terbaru</option>
-    <option value="date-asc">Terlama</option>
-    <option value="source">Nama Media</option>
-  </select>
-  <span class="result-count" id="result-count"></span>
+<!-- Nav tabs -->
+<div class="nav-tabs">
+  <div class="nav-tab active" onclick="switchTab('berita')">📰 Daftar Berita</div>
+  <div class="nav-tab" onclick="switchTab('grafik')">📊 Grafik &amp; Analisis</div>
 </div>
 
-<!-- Date filter row -->
-<div class="date-filter-row">
-  <span class="date-filter-label">Rentang:</span>
+<!-- ════ PANEL BERITA ════ -->
+<div class="panel active" id="panel-berita">
 
-  <!-- Quick chips -->
-  <div class="date-chips">
-    <span class="chip active" data-range="all"    onclick="setQuickRange('all')">Semua</span>
-    <span class="chip"        data-range="today"  onclick="setQuickRange('today')">Hari ini</span>
-    <span class="chip"        data-range="7d"     onclick="setQuickRange('7d')">7 hari</span>
-    <span class="chip"        data-range="30d"    onclick="setQuickRange('30d')">30 hari</span>
-    <span class="chip"        data-range="90d"    onclick="setQuickRange('90d')">3 bulan</span>
+  <!-- Toolbar -->
+  <div class="toolbar">
+    <div class="search-box">
+      <span class="search-icon">⌕</span>
+      <input type="text" id="search-input" placeholder="Cari judul, sumber, atau kata kunci..." oninput="renderNews()">
+    </div>
+    <select class="ui-select" id="sort-select" onchange="renderNews()">
+      <option value="date-desc">Terbaru</option>
+      <option value="date-asc">Terlama</option>
+      <option value="source">Nama Media</option>
+    </select>
+    <button class="btn-export" onclick="exportExcel()">
+      ↓ Unduh Excel
+    </button>
+    <span class="result-count" id="result-count"></span>
   </div>
 
-  <div class="date-divider"></div>
-
-  <!-- Month/Year range selects -->
-  <div class="date-selects">
-    <div class="date-sel-group">
-      <span>Dari</span>
-      <select class="date-select" id="from-month" onchange="onManualDate()">
-        <option value="">Bulan</option>
-      </select>
-      <select class="date-select" id="from-year" onchange="onManualDate()">
-        <option value="">Tahun</option>
-      </select>
+  <!-- Date filter -->
+  <div class="date-filter-row">
+    <span class="date-filter-label">Rentang:</span>
+    <div class="date-chips">
+      <span class="chip active" data-range="all"   onclick="setQuickRange('all')">Semua</span>
+      <span class="chip" data-range="today"         onclick="setQuickRange('today')">Hari ini</span>
+      <span class="chip" data-range="7d"            onclick="setQuickRange('7d')">7 hari</span>
+      <span class="chip" data-range="30d"           onclick="setQuickRange('30d')">30 hari</span>
+      <span class="chip" data-range="90d"           onclick="setQuickRange('90d')">3 bulan</span>
     </div>
-    <span class="date-arrow">→</span>
-    <div class="date-sel-group">
-      <span>Sampai</span>
-      <select class="date-select" id="to-month" onchange="onManualDate()">
-        <option value="">Bulan</option>
-      </select>
-      <select class="date-select" id="to-year" onchange="onManualDate()">
-        <option value="">Tahun</option>
-      </select>
+    <div class="date-divider"></div>
+    <div class="date-selects">
+      <div class="date-sel-group">
+        <span>Dari</span>
+        <select class="date-select" id="from-month" onchange="onManualDate()"><option value="">Bulan</option></select>
+        <select class="date-select" id="from-year"  onchange="onManualDate()"><option value="">Tahun</option></select>
+      </div>
+      <span class="date-arrow">→</span>
+      <div class="date-sel-group">
+        <span>Sampai</span>
+        <select class="date-select" id="to-month" onchange="onManualDate()"><option value="">Bulan</option></select>
+        <select class="date-select" id="to-year"  onchange="onManualDate()"><option value="">Tahun</option></select>
+      </div>
     </div>
+    <span class="date-active-badge" id="date-active-badge"></span>
+    <button class="btn-reset-date" onclick="resetDateFilter()">× Reset</button>
   </div>
 
-  <span class="date-active-badge" id="date-active-badge"></span>
-  <button class="btn-reset-date" onclick="resetDateFilter()">× Reset tanggal</button>
+  <main>
+    <div id="news-list" class="news-list">
+      <div class="state-msg"><div class="icon">⏳</div><div>Memuat berita...</div></div>
+    </div>
+  </main>
 </div>
 
-<main>
-  <div id="news-list" class="news-list">
-    <div class="state-msg">
-      <div class="icon">⏳</div>
-      <div>Memuat berita...</div>
+<!-- ════ PANEL GRAFIK ════ -->
+<div class="panel" id="panel-grafik">
+  <div class="charts-panel">
+    <h2>Grafik &amp; Analisis Tematik</h2>
+    <div class="charts-grid">
+
+      <!-- 1. Donut: distribusi per topik -->
+      <div class="chart-card">
+        <div class="chart-title">Distribusi Berita per Topik</div>
+        <div class="chart-wrap" style="height:220px">
+          <canvas id="chart-donut"></canvas>
+        </div>
+      </div>
+
+      <!-- 2. Bar: media terbanyak -->
+      <div class="chart-card">
+        <div class="chart-title">10 Media Terbanyak Meliput</div>
+        <div class="chart-wrap" style="height:220px">
+          <canvas id="chart-media"></canvas>
+        </div>
+      </div>
+
+      <!-- 3. Line: tren berita per hari (wide) -->
+      <div class="chart-card wide">
+        <div class="chart-title">Tren Jumlah Berita per Hari</div>
+        <div class="chart-wrap" style="height:200px">
+          <canvas id="chart-tren"></canvas>
+        </div>
+        <div class="chart-note">* Menampilkan 30 hari terakhir dari data yang tersedia.</div>
+      </div>
+
+      <!-- 4. Stacked bar: topik per hari -->
+      <div class="chart-card wide">
+        <div class="chart-title">Komposisi Topik per Hari</div>
+        <div class="chart-wrap" style="height:200px">
+          <canvas id="chart-stacked"></canvas>
+        </div>
+      </div>
+
     </div>
   </div>
-</main>
+</div>
 
 <footer>
   <span>Sumber: Google News RSS · Diperbarui otomatis tiap 6 jam via GitHub Actions</span>
@@ -382,201 +325,148 @@
 </footer>
 
 <script>
+/* ════════════════════════════════════════
+   STATE
+════════════════════════════════════════ */
 let allArticles = [];
 let currentFilter = 'all';
-
-// Date filter state
-let dateFrom = null;   // Date object or null
-let dateTo   = null;   // Date object or null (end of day)
+let dateFrom = null, dateTo = null;
 let activeChip = 'all';
+let chartsBuilt = false;
 
-/* ─── Date helpers ─── */
-function startOfDay(d) {
-  const r = new Date(d); r.setHours(0,0,0,0); return r;
+const MONTHS_ID = ['Januari','Februari','Maret','April','Mei','Juni','Juli','Agustus','September','Oktober','November','Desember'];
+const TOPIC_COLORS = { tpks:'#e07b5a', kekerasan_seksual:'#c45c8a', kbg:'#7b5ea7', kbgo:'#4e8fa8' };
+const TOPIC_LABELS = { tpks:'UU TPKS', kekerasan_seksual:'Kekerasan Seksual', kbg:'KBG', kbgo:'KBGO' };
+
+/* ════════════════════════════════════════
+   TAB SWITCHING
+════════════════════════════════════════ */
+function switchTab(tab) {
+  document.querySelectorAll('.nav-tab').forEach((el, i) => el.classList.toggle('active', ['berita','grafik'][i] === tab));
+  document.getElementById('panel-berita').classList.toggle('active', tab === 'berita');
+  document.getElementById('panel-grafik').classList.toggle('active', tab === 'grafik');
+  if (tab === 'grafik' && !chartsBuilt && allArticles.length) buildCharts();
 }
-function endOfDay(d) {
-  const r = new Date(d); r.setHours(23,59,59,999); return r;
-}
-function daysAgo(n) {
-  const d = new Date(); d.setDate(d.getDate() - n); return startOfDay(d);
-}
+
+/* ════════════════════════════════════════
+   DATE HELPERS
+════════════════════════════════════════ */
+function startOfDay(d) { const r=new Date(d); r.setHours(0,0,0,0); return r; }
+function endOfDay(d)   { const r=new Date(d); r.setHours(23,59,59,999); return r; }
+function daysAgo(n)    { const d=new Date(); d.setDate(d.getDate()-n); return startOfDay(d); }
 
 function setQuickRange(range) {
   activeChip = range;
   document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.range === range));
-  // Clear manual selects
-  ['from-month','from-year','to-month','to-year'].forEach(id => document.getElementById(id).value = '');
-
+  ['from-month','from-year','to-month','to-year'].forEach(id => document.getElementById(id).value='');
   const now = new Date();
-  if (range === 'all')   { dateFrom = null; dateTo = null; }
-  else if (range === 'today') { dateFrom = startOfDay(now); dateTo = endOfDay(now); }
-  else if (range === '7d')    { dateFrom = daysAgo(7);       dateTo = endOfDay(now); }
-  else if (range === '30d')   { dateFrom = daysAgo(30);      dateTo = endOfDay(now); }
-  else if (range === '90d')   { dateFrom = daysAgo(90);      dateTo = endOfDay(now); }
-
-  updateDateBadge();
-  renderNews();
+  if      (range==='all')   { dateFrom=null; dateTo=null; }
+  else if (range==='today') { dateFrom=startOfDay(now); dateTo=endOfDay(now); }
+  else if (range==='7d')    { dateFrom=daysAgo(7);  dateTo=endOfDay(now); }
+  else if (range==='30d')   { dateFrom=daysAgo(30); dateTo=endOfDay(now); }
+  else if (range==='90d')   { dateFrom=daysAgo(90); dateTo=endOfDay(now); }
+  updateDateBadge(); renderNews();
 }
 
 function onManualDate() {
-  // Deactivate chips
-  activeChip = 'manual';
-  document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
-
-  const fromMonth = document.getElementById('from-month').value;
-  const fromYear  = document.getElementById('from-year').value;
-  const toMonth   = document.getElementById('to-month').value;
-  const toYear    = document.getElementById('to-year').value;
-
-  dateFrom = null; dateTo = null;
-
-  if (fromYear) {
-    const m = fromMonth ? parseInt(fromMonth) - 1 : 0;
-    dateFrom = new Date(parseInt(fromYear), m, 1, 0, 0, 0, 0);
-  }
-  if (toYear) {
-    const m = toMonth ? parseInt(toMonth) : 12;  // default end of year
-    // Last day of selected month (or year)
-    dateTo = new Date(parseInt(toYear), m, 0, 23, 59, 59, 999);
-  }
-
-  updateDateBadge();
-  renderNews();
+  activeChip='manual';
+  document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+  const fm=document.getElementById('from-month').value, fy=document.getElementById('from-year').value;
+  const tm=document.getElementById('to-month').value,   ty=document.getElementById('to-year').value;
+  dateFrom=null; dateTo=null;
+  if (fy) { const m=fm?parseInt(fm)-1:0; dateFrom=new Date(parseInt(fy),m,1,0,0,0,0); }
+  if (ty) { const m=tm?parseInt(tm):12;  dateTo=new Date(parseInt(ty),m,0,23,59,59,999); }
+  updateDateBadge(); renderNews();
 }
 
 function resetDateFilter() {
-  dateFrom = null; dateTo = null; activeChip = 'all';
-  document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.range === 'all'));
-  ['from-month','from-year','to-month','to-year'].forEach(id => document.getElementById(id).value = '');
-  updateDateBadge();
-  renderNews();
+  dateFrom=null; dateTo=null; activeChip='all';
+  document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('active',c.dataset.range==='all'));
+  ['from-month','from-year','to-month','to-year'].forEach(id=>document.getElementById(id).value='');
+  updateDateBadge(); renderNews();
 }
 
 function updateDateBadge() {
-  const badge = document.getElementById('date-active-badge');
-  if (!dateFrom && !dateTo) {
-    badge.textContent = '';
-    badge.classList.remove('visible');
-    return;
-  }
-  const fmt = d => d ? d.toLocaleDateString('id-ID', { day:'2-digit', month:'short', year:'numeric' }) : '…';
-  badge.textContent = `${fmt(dateFrom)} – ${fmt(dateTo)}`;
+  const badge=document.getElementById('date-active-badge');
+  if (!dateFrom && !dateTo) { badge.textContent=''; badge.classList.remove('visible'); return; }
+  const fmt=d=>d?d.toLocaleDateString('id-ID',{day:'2-digit',month:'short',year:'numeric'}):'…';
+  badge.textContent=`${fmt(dateFrom)} – ${fmt(dateTo)}`;
   badge.classList.add('visible');
 }
 
-/* ─── Populate month/year dropdowns from data ─── */
-const MONTHS_ID = ['Januari','Februari','Maret','April','Mei','Juni','Juli','Agustus','September','Oktober','November','Desember'];
-
 function populateDateDropdowns() {
-  // Collect unique years from articles
-  const years = [...new Set(allArticles.map(a => new Date(a.pubDate).getFullYear()).filter(y => !isNaN(y)))].sort((a,b) => a-b);
-
-  ['from-year','to-year'].forEach(id => {
-    const sel = document.getElementById(id);
-    const cur = sel.value;
-    sel.innerHTML = '<option value="">Tahun</option>';
-    years.forEach(y => {
-      const opt = document.createElement('option');
-      opt.value = y; opt.textContent = y;
-      if (String(y) === cur) opt.selected = true;
-      sel.appendChild(opt);
-    });
+  const years=[...new Set(allArticles.map(a=>new Date(a.pubDate).getFullYear()).filter(y=>!isNaN(y)))].sort((a,b)=>a-b);
+  ['from-year','to-year'].forEach(id=>{
+    const sel=document.getElementById(id); sel.innerHTML='<option value="">Tahun</option>';
+    years.forEach(y=>{ const o=document.createElement('option'); o.value=y; o.textContent=y; sel.appendChild(o); });
   });
-
-  ['from-month','to-month'].forEach(id => {
-    const sel = document.getElementById(id);
-    const cur = sel.value;
-    sel.innerHTML = '<option value="">Bulan</option>';
-    MONTHS_ID.forEach((name, i) => {
-      const opt = document.createElement('option');
-      opt.value = i + 1; opt.textContent = name;
-      if (String(i+1) === cur) opt.selected = true;
-      sel.appendChild(opt);
-    });
+  ['from-month','to-month'].forEach(id=>{
+    const sel=document.getElementById(id); sel.innerHTML='<option value="">Bulan</option>';
+    MONTHS_ID.forEach((name,i)=>{ const o=document.createElement('option'); o.value=i+1; o.textContent=name; sel.appendChild(o); });
   });
 }
 
-/* ─── Format helpers ─── */
-function formatDate(iso) {
-  if (!iso) return '';
-  const d = new Date(iso);
-  if (isNaN(d)) return iso;
-  return d.toLocaleString('id-ID', { day:'2-digit', month:'short', year:'numeric', hour:'2-digit', minute:'2-digit', timeZone:'Asia/Jakarta' }) + ' WIB';
+/* ════════════════════════════════════════
+   FILTERED ARTICLES
+════════════════════════════════════════ */
+function getFiltered() {
+  let items = currentFilter==='all' ? [...allArticles] : allArticles.filter(a=>a.keyword_id===currentFilter);
+  if (dateFrom||dateTo) {
+    items=items.filter(a=>{ const d=new Date(a.pubDate); if(isNaN(d)) return true; if(dateFrom&&d<dateFrom) return false; if(dateTo&&d>dateTo) return false; return true; });
+  }
+  const q=document.getElementById('search-input').value.toLowerCase().trim();
+  if (q) items=items.filter(a=>a.title.toLowerCase().includes(q)||a.source.toLowerCase().includes(q)||(a.description||'').toLowerCase().includes(q));
+  return items;
 }
 
-function formatDateShort(iso) {
-  if (!iso) return '';
-  const d = new Date(iso);
-  if (isNaN(d)) return '';
-  const now = new Date();
-  const diffH = (now - d) / 3600000;
-  if (diffH < 1)  return `${Math.round(diffH * 60)} mnt lalu`;
-  if (diffH < 24) return `${Math.round(diffH)} jam lalu`;
-  if (diffH < 48) return 'Kemarin';
-  return d.toLocaleDateString('id-ID', { day:'2-digit', month:'short', year:'numeric' });
-}
-
-function escHtml(str) {
-  if (!str) return '';
-  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
-
-/* ─── Keyword filter ─── */
+/* ════════════════════════════════════════
+   KEYWORD FILTER
+════════════════════════════════════════ */
 function setFilter(f) {
-  currentFilter = f;
-  document.querySelectorAll('.stat-cell').forEach(el => el.classList.toggle('active', el.dataset.filter === f));
+  currentFilter=f;
+  document.querySelectorAll('.stat-cell').forEach(el=>el.classList.toggle('active',el.dataset.filter===f));
   renderNews();
 }
 
-/* ─── Main render ─── */
+/* ════════════════════════════════════════
+   FORMAT HELPERS
+════════════════════════════════════════ */
+function formatDate(iso) {
+  if (!iso) return '';
+  const d=new Date(iso); if(isNaN(d)) return iso;
+  return d.toLocaleString('id-ID',{day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Asia/Jakarta'})+' WIB';
+}
+function formatDateShort(iso) {
+  if (!iso) return ''; const d=new Date(iso); if(isNaN(d)) return '';
+  const now=new Date(), diffH=(now-d)/3600000;
+  if(diffH<1) return `${Math.round(diffH*60)} mnt lalu`;
+  if(diffH<24) return `${Math.round(diffH)} jam lalu`;
+  if(diffH<48) return 'Kemarin';
+  return d.toLocaleDateString('id-ID',{day:'2-digit',month:'short',year:'numeric'});
+}
+function escHtml(str) {
+  if(!str) return '';
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+/* ════════════════════════════════════════
+   RENDER NEWS LIST
+════════════════════════════════════════ */
 function renderNews() {
-  const q    = document.getElementById('search-input').value.toLowerCase().trim();
-  const sort = document.getElementById('sort-select').value;
-
-  let items = currentFilter === 'all'
-    ? [...allArticles]
-    : allArticles.filter(a => a.keyword_id === currentFilter);
-
-  // Date filter
-  if (dateFrom || dateTo) {
-    items = items.filter(a => {
-      const d = new Date(a.pubDate);
-      if (isNaN(d)) return true;
-      if (dateFrom && d < dateFrom) return false;
-      if (dateTo   && d > dateTo)   return false;
-      return true;
-    });
-  }
-
-  // Search filter
-  if (q) {
-    items = items.filter(a =>
-      a.title.toLowerCase().includes(q) ||
-      a.source.toLowerCase().includes(q) ||
-      (a.description || '').toLowerCase().includes(q)
-    );
-  }
-
-  // Sort
-  if (sort === 'date-desc') items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-  else if (sort === 'date-asc') items.sort((a, b) => new Date(a.pubDate) - new Date(b.pubDate));
-  else if (sort === 'source') items.sort((a, b) => a.source.localeCompare(b.source));
-
-  document.getElementById('result-count').textContent = `${items.length} berita`;
-
-  const container = document.getElementById('news-list');
-
-  if (items.length === 0) {
-    const hint = (dateFrom || dateTo) ? ' dalam rentang tanggal ini' : '';
-    container.innerHTML = `
-      <div class="state-msg">
-        <div class="icon">🔍</div>
-        <div>Tidak ada berita ditemukan${q ? ` untuk "<strong>${q}</strong>"` : ''}${hint}.</div>
-      </div>`;
+  const sort=document.getElementById('sort-select').value;
+  let items=getFiltered();
+  if(sort==='date-desc') items.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
+  else if(sort==='date-asc') items.sort((a,b)=>new Date(a.pubDate)-new Date(b.pubDate));
+  else if(sort==='source') items.sort((a,b)=>a.source.localeCompare(b.source));
+  document.getElementById('result-count').textContent=`${items.length} berita`;
+  const container=document.getElementById('news-list');
+  if(items.length===0){
+    const hint=(dateFrom||dateTo)?' dalam rentang tanggal ini':'';
+    const q=document.getElementById('search-input').value.trim();
+    container.innerHTML=`<div class="state-msg"><div class="icon">🔍</div><div>Tidak ada berita ditemukan${q?` untuk "<strong>${q}</strong>"`:''}${hint}.</div></div>`;
     return;
   }
-
-  container.innerHTML = items.map(a => `
+  container.innerHTML=items.map(a=>`
     <div class="news-item" data-kw="${a.keyword_id}">
       <div class="news-stripe"></div>
       <div class="news-body">
@@ -585,47 +475,211 @@ function renderNews() {
           <span class="news-source">${escHtml(a.source)}</span>
           <span class="news-date">${formatDateShort(a.pubDate)}</span>
         </div>
-        <div class="news-title">
-          <a href="${escHtml(a.link)}" target="_blank" rel="noopener noreferrer">${escHtml(a.title)}</a>
-        </div>
-        ${a.description ? `<div class="news-desc">${escHtml(a.description)}</div>` : ''}
+        <div class="news-title"><a href="${escHtml(a.link)}" target="_blank" rel="noopener noreferrer">${escHtml(a.title)}</a></div>
+        ${a.description?`<div class="news-desc">${escHtml(a.description)}</div>`:''}
       </div>
-    </div>
-  `).join('');
+    </div>`).join('');
 }
 
-/* ─── Load data ─── */
+/* ════════════════════════════════════════
+   EXPORT EXCEL
+════════════════════════════════════════ */
+function exportExcel() {
+  const items = getFiltered();
+  if (!items.length) { alert('Tidak ada data untuk diekspor.'); return; }
+
+  const rows = items.map((a, i) => ({
+    'No': i + 1,
+    'Topik': a.keyword_label,
+    'Judul Berita': a.title,
+    'Media / Sumber': a.source,
+    'Tanggal Terbit': a.pubDate ? new Date(a.pubDate).toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' }) : '',
+    'Ringkasan': a.description || '',
+    'URL': a.link,
+  }));
+
+  const ws = XLSX.utils.json_to_sheet(rows);
+
+  // Auto column width
+  const colWidths = [
+    { wch: 5 }, { wch: 22 }, { wch: 70 }, { wch: 25 },
+    { wch: 22 }, { wch: 60 }, { wch: 80 }
+  ];
+  ws['!cols'] = colWidths;
+
+  const wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, ws, 'Berita KBG');
+
+  // Metadata sheet
+  const meta = [
+    ['Diekspor pada', new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' })],
+    ['Filter topik', currentFilter === 'all' ? 'Semua topik' : TOPIC_LABELS[currentFilter] || currentFilter],
+    ['Rentang tanggal', dateFrom || dateTo ? `${dateFrom?.toLocaleDateString('id-ID') || '—'} s/d ${dateTo?.toLocaleDateString('id-ID') || '—'}` : 'Semua tanggal'],
+    ['Total berita', items.length],
+    ['Sumber data', 'Google News RSS via monitor-kbg GitHub Pages'],
+  ];
+  const wsMeta = XLSX.utils.aoa_to_sheet(meta);
+  wsMeta['!cols'] = [{ wch: 20 }, { wch: 50 }];
+  XLSX.utils.book_append_sheet(wb, wsMeta, 'Info Ekspor');
+
+  const fname = `berita-kbg_${new Date().toISOString().slice(0,10)}.xlsx`;
+  XLSX.writeFile(wb, fname);
+}
+
+/* ════════════════════════════════════════
+   BUILD CHARTS
+════════════════════════════════════════ */
+const chartInstances = {};
+
+function destroyChart(id) {
+  if (chartInstances[id]) { chartInstances[id].destroy(); delete chartInstances[id]; }
+}
+
+function buildCharts() {
+  chartsBuilt = true;
+  const articles = allArticles;
+
+  const chartDefaults = {
+    color: '#9094a8',
+    plugins: { legend: { labels: { color: '#9094a8', font: { family: "'IBM Plex Mono'" } } } },
+  };
+  Chart.defaults.color = '#9094a8';
+  Chart.defaults.borderColor = '#2a2d3a';
+
+  /* 1. Donut: distribusi per topik */
+  const topicCounts = {};
+  articles.forEach(a => { topicCounts[a.keyword_id] = (topicCounts[a.keyword_id]||0)+1; });
+  const donutLabels = Object.keys(topicCounts).map(k => TOPIC_LABELS[k]||k);
+  const donutData   = Object.keys(topicCounts).map(k => topicCounts[k]);
+  const donutColors = Object.keys(topicCounts).map(k => TOPIC_COLORS[k]||'#888');
+
+  destroyChart('donut');
+  chartInstances['donut'] = new Chart(document.getElementById('chart-donut'), {
+    type: 'doughnut',
+    data: { labels: donutLabels, datasets: [{ data: donutData, backgroundColor: donutColors, borderColor: '#1a1d27', borderWidth: 3 }] },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { position: 'right', labels: { color: '#9094a8', font: { family:"'IBM Plex Mono'", size: 11 }, padding: 12 } } }
+    }
+  });
+
+  /* 2. Bar: top 10 media */
+  const mediaCounts = {};
+  articles.forEach(a => { if(a.source) mediaCounts[a.source] = (mediaCounts[a.source]||0)+1; });
+  const topMedia = Object.entries(mediaCounts).sort((a,b)=>b[1]-a[1]).slice(0,10);
+
+  destroyChart('media');
+  chartInstances['media'] = new Chart(document.getElementById('chart-media'), {
+    type: 'bar',
+    data: {
+      labels: topMedia.map(m=>m[0]),
+      datasets: [{ label: 'Jumlah Berita', data: topMedia.map(m=>m[1]), backgroundColor: '#7b5ea7', borderRadius: 4 }]
+    },
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#9094a8', font:{family:"'IBM Plex Mono'",size:10} }, grid: { color: '#2a2d3a' } },
+        y: { ticks: { color: '#e8eaf2', font:{family:"'IBM Plex Sans'",size:11} }, grid: { display: false } }
+      }
+    }
+  });
+
+  /* 3 & 4. Line tren + Stacked — group by date */
+  // Get last 30 days of data
+  const now = new Date();
+  const cutoff = new Date(now); cutoff.setDate(cutoff.getDate()-29); cutoff.setHours(0,0,0,0);
+
+  const dateMap = {};  // { 'YYYY-MM-DD': { tpks:0, ks:0, kbg:0, kbgo:0, total:0 } }
+  articles.forEach(a => {
+    const d = new Date(a.pubDate);
+    if (isNaN(d)||d<cutoff) return;
+    const key = d.toISOString().slice(0,10);
+    if (!dateMap[key]) dateMap[key] = { tpks:0, kekerasan_seksual:0, kbg:0, kbgo:0, total:0 };
+    dateMap[key][a.keyword_id] = (dateMap[key][a.keyword_id]||0)+1;
+    dateMap[key].total++;
+  });
+
+  const dateKeys = Object.keys(dateMap).sort();
+  const dateLabels = dateKeys.map(k => {
+    const d = new Date(k+'T12:00:00');
+    return d.toLocaleDateString('id-ID', { day:'2-digit', month:'short' });
+  });
+
+  /* 3. Line tren total */
+  destroyChart('tren');
+  chartInstances['tren'] = new Chart(document.getElementById('chart-tren'), {
+    type: 'line',
+    data: {
+      labels: dateLabels,
+      datasets: [{
+        label: 'Total Berita',
+        data: dateKeys.map(k=>dateMap[k].total),
+        borderColor: '#c45c8a', backgroundColor: 'rgba(196,92,138,0.12)',
+        borderWidth: 2, pointRadius: 3, pointBackgroundColor: '#c45c8a', fill: true, tension: 0.3
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color:'#9094a8', font:{family:"'IBM Plex Mono'",size:10}, maxRotation:45 }, grid:{color:'#2a2d3a'} },
+        y: { ticks: { color:'#9094a8', font:{family:"'IBM Plex Mono'",size:10} }, grid:{color:'#2a2d3a'}, beginAtZero:true }
+      }
+    }
+  });
+
+  /* 4. Stacked bar per topik */
+  destroyChart('stacked');
+  chartInstances['stacked'] = new Chart(document.getElementById('chart-stacked'), {
+    type: 'bar',
+    data: {
+      labels: dateLabels,
+      datasets: [
+        { label:'UU TPKS',           data: dateKeys.map(k=>dateMap[k].tpks||0),              backgroundColor:'#e07b5a', borderRadius:2 },
+        { label:'Kekerasan Seksual', data: dateKeys.map(k=>dateMap[k].kekerasan_seksual||0), backgroundColor:'#c45c8a', borderRadius:2 },
+        { label:'KBG',               data: dateKeys.map(k=>dateMap[k].kbg||0),               backgroundColor:'#7b5ea7', borderRadius:2 },
+        { label:'KBGO',              data: dateKeys.map(k=>dateMap[k].kbgo||0),              backgroundColor:'#4e8fa8', borderRadius:2 },
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { labels: { color:'#9094a8', font:{family:"'IBM Plex Mono'",size:11}, boxWidth:12 } } },
+      scales: {
+        x: { stacked:true, ticks:{color:'#9094a8',font:{family:"'IBM Plex Mono'",size:10},maxRotation:45}, grid:{color:'#2a2d3a'} },
+        y: { stacked:true, ticks:{color:'#9094a8',font:{family:"'IBM Plex Mono'",size:10}}, grid:{color:'#2a2d3a'}, beginAtZero:true }
+      }
+    }
+  });
+}
+
+/* ════════════════════════════════════════
+   LOAD DATA
+════════════════════════════════════════ */
 async function loadData() {
   try {
-    const res = await fetch('data/news.json?_=' + Date.now());
-    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const res = await fetch('data/news.json?_='+Date.now());
+    if (!res.ok) throw new Error('HTTP '+res.status);
     const data = await res.json();
-
     allArticles = data.articles || [];
 
-    document.getElementById('count-all').textContent = data.total || allArticles.length;
-    const stats = data.stats || {};
-    ['tpks','kekerasan_seksual','kbg','kbgo'].forEach(id => {
-      const el = document.getElementById('count-' + id);
-      if (el) el.textContent = stats[id] ?? allArticles.filter(a => a.keyword_id === id).length;
+    document.getElementById('count-all').textContent = data.total||allArticles.length;
+    const stats = data.stats||{};
+    ['tpks','kekerasan_seksual','kbg','kbgo'].forEach(id=>{
+      const el=document.getElementById('count-'+id);
+      if(el) el.textContent=stats[id]??allArticles.filter(a=>a.keyword_id===id).length;
     });
-
-    const updated = data.updated_at ? formatDate(data.updated_at) : 'Tidak diketahui';
-    document.getElementById('last-updated').textContent = 'Diperbarui: ' + updated;
-    document.getElementById('footer-total').textContent = `Total ${data.total} artikel dipantau`;
+    document.getElementById('last-updated').textContent='Diperbarui: '+(data.updated_at?formatDate(data.updated_at):'Tidak diketahui');
+    document.getElementById('footer-total').textContent=`Total ${data.total} artikel dipantau`;
 
     populateDateDropdowns();
     renderNews();
-  } catch (e) {
-    console.error('Gagal memuat data:', e);
-    document.getElementById('news-list').innerHTML = `
-      <div class="state-msg">
-        <div class="icon">⚠️</div>
-        <div>Gagal memuat data berita.<br>
-        <small style="color:var(--muted);font-family:monospace">${e.message}</small><br><br>
-        Pastikan file <code>data/news.json</code> tersedia.</div>
-      </div>`;
-    document.getElementById('last-updated').textContent = 'Data belum tersedia';
+  } catch(e) {
+    console.error(e);
+    document.getElementById('news-list').innerHTML=`
+      <div class="state-msg"><div class="icon">⚠️</div>
+      <div>Gagal memuat data.<br><small style="color:var(--muted);font-family:monospace">${e.message}</small></div></div>`;
+    document.getElementById('last-updated').textContent='Data belum tersedia';
   }
 }
 
