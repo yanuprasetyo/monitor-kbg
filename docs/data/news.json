@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-06-20T11:58:52.588937+00:00",
+  "total": 0,
+  "stats": {
+    "tpks": 0,
+    "kekerasan_seksual": 0,
+    "kbg": 0,
+    "kbgo": 0
+  },
+  "keywords": [
+    {
+      "id": "tpks",
+      "label": "UU TPKS"
+    },
+    {
+      "id": "kekerasan_seksual",
+      "label": "Kekerasan Seksual"
+    },
+    {
+      "id": "kbg",
+      "label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "id": "kbgo",
+      "label": "Kekerasan Berbasis Gender Online"
+    }
+  ],
+  "articles": []
+}

@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Monitor Berita — UU TPKS & Kekerasan Berbasis Gender</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:        #0f1117;
+    --surface:   #1a1d27;
+    --border:    #2a2d3a;
+    --muted:     #4a4d60;
+    --text:      #e8eaf2;
+    --text-dim:  #9094a8;
+    --accent:    #c45c8a;   /* plum-rose: warna gerakan antikekerasan */
+    --accent-2:  #7b5ea7;   /* ungu: solidaritas feminis */
+    --tpks:      #e07b5a;
+    --ks:        #c45c8a;
+    --kbg:       #7b5ea7;
+    --kbgo:      #4e8fa8;
+    --green:     #5aad8a;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans', system-ui, sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 28px 32px 24px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  .header-left h1 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    color: var(--text);
+  }
+
+  .header-left .tagline {
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    margin-top: 3px;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .status-badge {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 0.78rem;
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--text-dim);
+    margin-top: 4px;
+  }
+
+  .dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--green);
+    animation: pulse 2.5s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+
+  /* ── Stats bar ── */
+  .stats-bar {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .stat-cell {
+    background: var(--surface);
+    padding: 18px 24px;
+    cursor: pointer;
+    transition: background 0.15s;
+    position: relative;
+  }
+
+  .stat-cell:hover { background: #1f2235; }
+
+  .stat-cell.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 2px;
+  }
+
+  .stat-cell[data-filter="tpks"].active::after     { background: var(--tpks); }
+  .stat-cell[data-filter="kekerasan_seksual"].active::after { background: var(--ks); }
+  .stat-cell[data-filter="kbg"].active::after      { background: var(--kbg); }
+  .stat-cell[data-filter="kbgo"].active::after     { background: var(--kbgo); }
+  .stat-cell[data-filter="all"].active::after      { background: var(--accent); }
+
+  .stat-count {
+    font-size: 1.9rem;
+    font-weight: 600;
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 1;
+    margin-bottom: 5px;
+  }
+
+  .stat-cell[data-filter="tpks"] .stat-count     { color: var(--tpks); }
+  .stat-cell[data-filter="kekerasan_seksual"] .stat-count { color: var(--ks); }
+  .stat-cell[data-filter="kbg"] .stat-count      { color: var(--kbg); }
+  .stat-cell[data-filter="kbgo"] .stat-count     { color: var(--kbgo); }
+  .stat-cell[data-filter="all"] .stat-count      { color: var(--accent); }
+
+  .stat-label {
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    line-height: 1.3;
+  }
+
+  /* ── Toolbar ── */
+  .toolbar {
+    padding: 16px 32px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+  }
+
+  .search-box {
+    flex: 1;
+    min-width: 200px;
+    position: relative;
+  }
+
+  .search-box input {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px 12px 8px 36px;
+    color: var(--text);
+    font-family: inherit;
+    font-size: 0.88rem;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .search-box input:focus { border-color: var(--muted); }
+  .search-box input::placeholder { color: var(--muted); }
+
+  .search-icon {
+    position: absolute;
+    left: 11px; top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    font-size: 0.9rem;
+    pointer-events: none;
+  }
+
+  .sort-select {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px 12px;
+    color: var(--text-dim);
+    font-family: inherit;
+    font-size: 0.82rem;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .result-count {
+    font-size: 0.78rem;
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  /* ── News list ── */
+  main {
+    padding: 24px 32px;
+    max-width: 960px;
+  }
+
+  .news-list { display: flex; flex-direction: column; gap: 2px; }
+
+  .news-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 18px 20px;
+    display: grid;
+    grid-template-columns: 3px 1fr;
+    gap: 16px;
+    transition: border-color 0.15s, transform 0.1s;
+    margin-bottom: 8px;
+  }
+
+  .news-item:hover {
+    border-color: var(--muted);
+    transform: translateX(2px);
+  }
+
+  .news-stripe { border-radius: 2px; }
+  .news-item[data-kw="tpks"] .news-stripe             { background: var(--tpks); }
+  .news-item[data-kw="kekerasan_seksual"] .news-stripe { background: var(--ks); }
+  .news-item[data-kw="kbg"] .news-stripe               { background: var(--kbg); }
+  .news-item[data-kw="kbgo"] .news-stripe              { background: var(--kbgo); }
+
+  .news-body {}
+
+  .news-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+
+  .kw-tag {
+    font-size: 0.68rem;
+    font-family: 'IBM Plex Mono', monospace;
+    padding: 2px 7px;
+    border-radius: 3px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+
+  .kw-tag.tpks             { background: #3a1e10; color: var(--tpks); }
+  .kw-tag.kekerasan_seksual { background: #3a1020; color: var(--ks); }
+  .kw-tag.kbg               { background: #251830; color: var(--kbg); }
+  .kw-tag.kbgo              { background: #102030; color: var(--kbgo); }
+
+  .news-source {
+    font-size: 0.78rem;
+    color: var(--text-dim);
+    font-weight: 500;
+  }
+
+  .news-date {
+    font-size: 0.75rem;
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--muted);
+    margin-left: auto;
+  }
+
+  .news-title {
+    font-size: 0.97rem;
+    font-weight: 500;
+    line-height: 1.45;
+    margin-bottom: 6px;
+  }
+
+  .news-title a {
+    color: var(--text);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+
+  .news-title a:hover { color: var(--accent); }
+
+  .news-desc {
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    line-height: 1.5;
+  }
+
+  /* ── Empty / loading ── */
+  .state-msg {
+    padding: 60px 32px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+
+  .state-msg .icon { font-size: 2.5rem; margin-bottom: 12px; }
+
+  /* ── Footer ── */
+  footer {
+    padding: 24px 32px;
+    border-top: 1px solid var(--border);
+    font-size: 0.75rem;
+    color: var(--muted);
+    font-family: 'IBM Plex Mono', monospace;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 600px) {
+    header, main, .toolbar, footer { padding-left: 16px; padding-right: 16px; }
+    .stats-bar { grid-template-columns: 1fr 1fr; }
+    .news-date { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <h1>Monitor Berita — UU TPKS &amp; Kekerasan Berbasis Gender</h1>
+    <div class="tagline">Pemantauan media otomatis · Indonesia</div>
+    <div class="status-badge">
+      <span class="dot"></span>
+      <span id="last-updated">Memuat data...</span>
+    </div>
+  </div>
+</header>
+
+<div class="stats-bar">
+  <div class="stat-cell active" data-filter="all" onclick="setFilter('all')">
+    <div class="stat-count" id="count-all">—</div>
+    <div class="stat-label">Semua Berita</div>
+  </div>
+  <div class="stat-cell" data-filter="tpks" onclick="setFilter('tpks')">
+    <div class="stat-count" id="count-tpks">—</div>
+    <div class="stat-label">UU TPKS</div>
+  </div>
+  <div class="stat-cell" data-filter="kekerasan_seksual" onclick="setFilter('kekerasan_seksual')">
+    <div class="stat-count" id="count-kekerasan_seksual">—</div>
+    <div class="stat-label">Kekerasan Seksual</div>
+  </div>
+  <div class="stat-cell" data-filter="kbg" onclick="setFilter('kbg')">
+    <div class="stat-count" id="count-kbg">—</div>
+    <div class="stat-label">Kekerasan Berbasis Gender</div>
+  </div>
+  <div class="stat-cell" data-filter="kbgo" onclick="setFilter('kbgo')">
+    <div class="stat-count" id="count-kbgo">—</div>
+    <div class="stat-label">KBGO (Online)</div>
+  </div>
+</div>
+
+<div class="toolbar">
+  <div class="search-box">
+    <span class="search-icon">⌕</span>
+    <input type="text" id="search-input" placeholder="Cari judul, sumber, atau kata kunci..." oninput="renderNews()">
+  </div>
+  <select class="sort-select" id="sort-select" onchange="renderNews()">
+    <option value="date-desc">Terbaru</option>
+    <option value="date-asc">Terlama</option>
+    <option value="source">Nama Media</option>
+  </select>
+  <span class="result-count" id="result-count"></span>
+</div>
+
+<main>
+  <div id="news-list" class="news-list">
+    <div class="state-msg">
+      <div class="icon">⏳</div>
+      <div>Memuat berita...</div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <span>Sumber: Google News RSS · Diperbarui otomatis tiap 6 jam via GitHub Actions</span>
+  <span id="footer-total"></span>
+</footer>
+
+<script>
+let allArticles = [];
+let currentFilter = 'all';
+
+function formatDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d)) return iso;
+  return d.toLocaleString('id-ID', {
+    day: '2-digit', month: 'short', year: 'numeric',
+    hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Jakarta'
+  }) + ' WIB';
+}
+
+function formatDateShort(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d)) return '';
+  const now = new Date();
+  const diffH = (now - d) / 3600000;
+  if (diffH < 1) return `${Math.round(diffH * 60)} mnt lalu`;
+  if (diffH < 24) return `${Math.round(diffH)} jam lalu`;
+  if (diffH < 48) return 'Kemarin';
+  return d.toLocaleDateString('id-ID', { day: '2-digit', month: 'short', year: 'numeric' });
+}
+
+function setFilter(f) {
+  currentFilter = f;
+  document.querySelectorAll('.stat-cell').forEach(el => {
+    el.classList.toggle('active', el.dataset.filter === f);
+  });
+  renderNews();
+}
+
+function renderNews() {
+  const q = document.getElementById('search-input').value.toLowerCase().trim();
+  const sort = document.getElementById('sort-select').value;
+
+  let items = currentFilter === 'all'
+    ? [...allArticles]
+    : allArticles.filter(a => a.keyword_id === currentFilter);
+
+  if (q) {
+    items = items.filter(a =>
+      a.title.toLowerCase().includes(q) ||
+      a.source.toLowerCase().includes(q) ||
+      (a.description || '').toLowerCase().includes(q)
+    );
+  }
+
+  if (sort === 'date-desc') items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  else if (sort === 'date-asc') items.sort((a, b) => new Date(a.pubDate) - new Date(b.pubDate));
+  else if (sort === 'source') items.sort((a, b) => a.source.localeCompare(b.source));
+
+  document.getElementById('result-count').textContent = `${items.length} berita`;
+
+  const container = document.getElementById('news-list');
+
+  if (items.length === 0) {
+    container.innerHTML = `
+      <div class="state-msg">
+        <div class="icon">🔍</div>
+        <div>Tidak ada berita ditemukan${q ? ` untuk "<strong>${q}</strong>"` : ''}.</div>
+      </div>`;
+    return;
+  }
+
+  container.innerHTML = items.map(a => `
+    <div class="news-item" data-kw="${a.keyword_id}">
+      <div class="news-stripe"></div>
+      <div class="news-body">
+        <div class="news-meta">
+          <span class="kw-tag ${a.keyword_id}">${a.keyword_label}</span>
+          <span class="news-source">${escHtml(a.source)}</span>
+          <span class="news-date">${formatDateShort(a.pubDate)}</span>
+        </div>
+        <div class="news-title">
+          <a href="${escHtml(a.link)}" target="_blank" rel="noopener noreferrer">${escHtml(a.title)}</a>
+        </div>
+        ${a.description ? `<div class="news-desc">${escHtml(a.description)}</div>` : ''}
+      </div>
+    </div>
+  `).join('');
+}
+
+function escHtml(str) {
+  if (!str) return '';
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+async function loadData() {
+  try {
+    // Coba load dari file JSON (GitHub Pages)
+    const res = await fetch('data/news.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+
+    allArticles = data.articles || [];
+
+    // Update stats
+    document.getElementById('count-all').textContent = data.total || allArticles.length;
+    const stats = data.stats || {};
+    ['tpks','kekerasan_seksual','kbg','kbgo'].forEach(id => {
+      const el = document.getElementById('count-' + id);
+      if (el) el.textContent = stats[id] ?? allArticles.filter(a => a.keyword_id === id).length;
+    });
+
+    // Update timestamp
+    const updated = data.updated_at ? formatDate(data.updated_at) : 'Tidak diketahui';
+    document.getElementById('last-updated').textContent = 'Diperbarui: ' + updated;
+    document.getElementById('footer-total').textContent = `Total ${data.total} artikel dipantau`;
+
+    renderNews();
+  } catch (e) {
+    console.error('Gagal memuat data:', e);
+    document.getElementById('news-list').innerHTML = `
+      <div class="state-msg">
+        <div class="icon">⚠️</div>
+        <div>Gagal memuat data berita.<br>
+        <small style="color:var(--muted);font-family:monospace">${e.message}</small><br><br>
+        Pastikan file <code>data/news.json</code> tersedia.<br>
+        Jalankan <code>python scripts/fetch_news.py</code> untuk mengisi data pertama kali.</div>
+      </div>`;
+    document.getElementById('last-updated').textContent = 'Data belum tersedia';
+  }
+}
+
+loadData();
+</script>
+</body>
+</html>
