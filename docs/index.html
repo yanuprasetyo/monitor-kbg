@@ -10,20 +10,20 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
   :root {
-  --bg:       #0f1117;
-  --surface:  #1a1d27;
-  --surface2: #13151f;
-  --border:   #2a2d3a;
-  --muted:    #4a4d60;
-  --text:     #e8eaf2;
-  --text-dim: #9094a8;
-  --accent:   #c45c8a;
-  --tpks:     #e07b5a;
-  --ks:       #c45c8a;
-  --kbg:      #7b5ea7;
-  --kbgo:     #4e8fa8;
-  --green:    #5aad8a;
-}
+    --bg:       #0f1117;
+    --surface:  #1a1d27;
+    --surface2: #13151f;
+    --border:   #2a2d3a;
+    --muted:    #4a4d60;
+    --text:     #e8eaf2;
+    --text-dim: #9094a8;
+    --accent:   #c45c8a;
+    --tpks:     #e07b5a;
+    --ks:       #c45c8a;
+    --kbg:      #7b5ea7;
+    --kbgo:     #4e8fa8;
+    --green:    #5aad8a;
+  }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: var(--bg); color: var(--text); font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 15px; line-height: 1.6; min-height: 100vh; }
 
@@ -101,7 +101,39 @@
   }
   .btn-export:hover { background: #142a20; }
 
+
   .result-count { font-size: 0.77rem; font-family: 'IBM Plex Mono', monospace; color: var(--muted); white-space: nowrap; }
+
+  /* ── Pagination ── */
+  .pagination-bar {
+    padding: 16px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    border-top: 1px solid var(--border);
+    flex-wrap: wrap;
+    background: var(--surface2);
+  }
+  .pagination-info { font-size: 0.76rem; font-family: 'IBM Plex Mono', monospace; color: var(--text-dim); }
+  .pagination-controls { display: flex; align-items: center; gap: 6px; }
+  .pg-btn {
+    min-width: 32px; height: 32px;
+    padding: 0 8px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-dim);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    cursor: pointer;
+    transition: all .15s;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .pg-btn:hover:not(:disabled) { border-color: var(--muted); color: var(--text); }
+  .pg-btn.active { border-color: var(--accent); color: var(--accent); background: #2a1520; }
+  .pg-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+  .pg-ellipsis { color: var(--muted); font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem; padding: 0 4px; }
 
   /* ── Date filter ── */
   .date-filter-row { padding: 10px 32px 12px; display:flex; align-items:center; gap:10px; border-bottom:1px solid var(--border); flex-wrap:wrap; background:var(--surface2); }
@@ -183,7 +215,7 @@
 <header>
   <div class="header-left">
     <h1>Monitor Berita — UU TPKS &amp; Kekerasan Berbasis Gender</h1>
-    <div class="tagline">Pemantauan media otomatis · Indonesia · Riset & Advokasi </div>
+    <div class="tagline">Pemantauan media otomatis · Indonesia</div>
     <div class="status-badge">
       <span class="dot"></span>
       <span id="last-updated">Memuat data...</span>
@@ -228,7 +260,7 @@
   <div class="toolbar">
     <div class="search-box">
       <span class="search-icon">⌕</span>
-      <input type="text" id="search-input" placeholder="Cari judul, sumber, atau kata kunci..." oninput="renderNews()">
+      <input type="text" id="search-input" placeholder="Cari judul, sumber, atau kata kunci..." oninput="currentPage=1; renderNews()">
     </div>
     <select class="ui-select" id="sort-select" onchange="renderNews()">
       <option value="date-desc">Terbaru</option>
@@ -238,6 +270,12 @@
     <button class="btn-export" onclick="exportExcel()">
       ↓ Unduh Excel
     </button>
+    <select class="ui-select" id="perpage-select" onchange="onPerPageChange()" title="Artikel per halaman">
+      <option value="25">25/hal</option>
+      <option value="50" selected>50/hal</option>
+      <option value="100">100/hal</option>
+      <option value="0">Semua</option>
+    </select>
     <span class="result-count" id="result-count"></span>
   </div>
 
@@ -274,6 +312,12 @@
       <div class="state-msg"><div class="icon">⏳</div><div>Memuat berita...</div></div>
     </div>
   </main>
+
+  <!-- Pagination -->
+  <div class="pagination-bar" id="pagination-bar" style="display:none">
+    <span class="pagination-info" id="pagination-info"></span>
+    <div class="pagination-controls" id="pagination-controls"></div>
+  </div>
 </div>
 
 <!-- ════ PANEL GRAFIK ════ -->
@@ -320,7 +364,7 @@
 </div>
 
 <footer>
-  <span>Sumber: Google News RSS · Diperbarui otomatis tiap 6 jam via GitHub Actions · https://yanuendarprasetyo.com/ </span>
+  <span>Sumber: Google News RSS · Diperbarui otomatis tiap 6 jam via GitHub Actions</span>
   <span id="footer-total"></span>
 </footer>
 
@@ -333,6 +377,7 @@ let currentFilter = 'all';
 let dateFrom = null, dateTo = null;
 let activeChip = 'all';
 let chartsBuilt = false;
+let currentPage = 1;
 
 const MONTHS_ID = ['Januari','Februari','Maret','April','Mei','Juni','Juli','Agustus','September','Oktober','November','Desember'];
 const TOPIC_COLORS = { tpks:'#e07b5a', kekerasan_seksual:'#c45c8a', kbg:'#7b5ea7', kbgo:'#4e8fa8' };
@@ -365,7 +410,7 @@ function setQuickRange(range) {
   else if (range==='7d')    { dateFrom=daysAgo(7);  dateTo=endOfDay(now); }
   else if (range==='30d')   { dateFrom=daysAgo(30); dateTo=endOfDay(now); }
   else if (range==='90d')   { dateFrom=daysAgo(90); dateTo=endOfDay(now); }
-  updateDateBadge(); renderNews();
+  currentPage=1; updateDateBadge(); renderNews();
 }
 
 function onManualDate() {
@@ -376,11 +421,11 @@ function onManualDate() {
   dateFrom=null; dateTo=null;
   if (fy) { const m=fm?parseInt(fm)-1:0; dateFrom=new Date(parseInt(fy),m,1,0,0,0,0); }
   if (ty) { const m=tm?parseInt(tm):12;  dateTo=new Date(parseInt(ty),m,0,23,59,59,999); }
-  updateDateBadge(); renderNews();
+  currentPage=1; updateDateBadge(); renderNews();
 }
 
 function resetDateFilter() {
-  dateFrom=null; dateTo=null; activeChip='all';
+  dateFrom=null; dateTo=null; activeChip='all'; currentPage=1;
   document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('active',c.dataset.range==='all'));
   ['from-month','from-year','to-month','to-year'].forEach(id=>document.getElementById(id).value='');
   updateDateBadge(); renderNews();
@@ -423,7 +468,7 @@ function getFiltered() {
    KEYWORD FILTER
 ════════════════════════════════════════ */
 function setFilter(f) {
-  currentFilter=f;
+  currentFilter=f; currentPage=1;
   document.querySelectorAll('.stat-cell').forEach(el=>el.classList.toggle('active',el.dataset.filter===f));
   renderNews();
 }
@@ -450,23 +495,95 @@ function escHtml(str) {
 }
 
 /* ════════════════════════════════════════
-   RENDER NEWS LIST
+   RENDER NEWS LIST + PAGINATION
 ════════════════════════════════════════ */
+function getPerPage() {
+  return parseInt(document.getElementById('perpage-select').value) || 0;
+}
+
+function onPerPageChange() {
+  currentPage = 1;
+  renderNews();
+}
+
+function goToPage(p) {
+  currentPage = p;
+  renderNews();
+  // Scroll ke atas daftar berita
+  document.getElementById('news-list').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function renderPagination(total, perPage) {
+  const bar  = document.getElementById('pagination-bar');
+  const info = document.getElementById('pagination-info');
+  const ctrl = document.getElementById('pagination-controls');
+
+  if (perPage === 0 || total === 0) { bar.style.display = 'none'; return; }
+
+  const totalPages = Math.ceil(total / perPage);
+  if (totalPages <= 1) { bar.style.display = 'none'; return; }
+
+  bar.style.display = 'flex';
+  const start = (currentPage - 1) * perPage + 1;
+  const end   = Math.min(currentPage * perPage, total);
+  info.textContent = `Menampilkan ${start}–${end} dari ${total} berita`;
+
+  // Build page buttons: prev, [1]...[current-1][current][current+1]...[last], next
+  let btns = '';
+  btns += `<button class="pg-btn" onclick="goToPage(${currentPage-1})" ${currentPage===1?'disabled':''}>‹</button>`;
+
+  const pages = [];
+  if (totalPages <= 7) {
+    for (let i=1; i<=totalPages; i++) pages.push(i);
+  } else {
+    pages.push(1);
+    if (currentPage > 3) pages.push('...');
+    for (let i=Math.max(2,currentPage-1); i<=Math.min(totalPages-1,currentPage+1); i++) pages.push(i);
+    if (currentPage < totalPages-2) pages.push('...');
+    pages.push(totalPages);
+  }
+
+  pages.forEach(p => {
+    if (p === '...') {
+      btns += `<span class="pg-ellipsis">…</span>`;
+    } else {
+      btns += `<button class="pg-btn ${p===currentPage?'active':''}" onclick="goToPage(${p})">${p}</button>`;
+    }
+  });
+
+  btns += `<button class="pg-btn" onclick="goToPage(${currentPage+1})" ${currentPage===totalPages?'disabled':''}>›</button>`;
+  ctrl.innerHTML = btns;
+}
+
 function renderNews() {
-  const sort=document.getElementById('sort-select').value;
-  let items=getFiltered();
+  const sort = document.getElementById('sort-select').value;
+  let items = getFiltered();
   if(sort==='date-desc') items.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
   else if(sort==='date-asc') items.sort((a,b)=>new Date(a.pubDate)-new Date(b.pubDate));
   else if(sort==='source') items.sort((a,b)=>a.source.localeCompare(b.source));
-  document.getElementById('result-count').textContent=`${items.length} berita`;
-  const container=document.getElementById('news-list');
-  if(items.length===0){
-    const hint=(dateFrom||dateTo)?' dalam rentang tanggal ini':'';
-    const q=document.getElementById('search-input').value.trim();
-    container.innerHTML=`<div class="state-msg"><div class="icon">🔍</div><div>Tidak ada berita ditemukan${q?` untuk "<strong>${q}</strong>"`:''}${hint}.</div></div>`;
+
+  const total   = items.length;
+  const perPage = getPerPage();
+
+  document.getElementById('result-count').textContent = `${total} berita`;
+
+  const container = document.getElementById('news-list');
+  if (total === 0) {
+    const hint = (dateFrom||dateTo) ? ' dalam rentang tanggal ini' : '';
+    const q = document.getElementById('search-input').value.trim();
+    container.innerHTML = `<div class="state-msg"><div class="icon">🔍</div><div>Tidak ada berita ditemukan${q?` untuk "<strong>${q}</strong>"`:''}${hint}.</div></div>`;
+    document.getElementById('pagination-bar').style.display = 'none';
     return;
   }
-  container.innerHTML=items.map(a=>`
+
+  // Paginate
+  const maxPage = perPage > 0 ? Math.ceil(total / perPage) : 1;
+  if (currentPage > maxPage) currentPage = maxPage;
+  const pageItems = perPage > 0
+    ? items.slice((currentPage-1)*perPage, currentPage*perPage)
+    : items;
+
+  container.innerHTML = pageItems.map(a => `
     <div class="news-item" data-kw="${a.keyword_id}">
       <div class="news-stripe"></div>
       <div class="news-body">
@@ -476,9 +593,11 @@ function renderNews() {
           <span class="news-date">${formatDateShort(a.pubDate)}</span>
         </div>
         <div class="news-title"><a href="${escHtml(a.link)}" target="_blank" rel="noopener noreferrer">${escHtml(a.title)}</a></div>
-        ${a.description?`<div class="news-desc">${escHtml(a.description)}</div>`:''}
+        ${a.description ? `<div class="news-desc">${escHtml(a.description)}</div>` : ''}
       </div>
     </div>`).join('');
+
+  renderPagination(total, perPage);
 }
 
 /* ════════════════════════════════════════
