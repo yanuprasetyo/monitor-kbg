@@ -1,28 +1,31 @@
 #!/usr/bin/env python3
 """
 Fetch berita terkait UU TPKS, Kekerasan Seksual, KBG, dan KBGO
-dari Google News RSS, simpan ke docs/data/news.json
+dari Google News RSS, AKUMULASI ke docs/data/news.json (tidak menimpa data lama)
 """
 
 import json
 import os
 import re
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from urllib.request import urlopen, Request
 from urllib.parse import quote_plus
 from urllib.error import URLError
 import time
 
 KEYWORDS = [
-    {"id": "tpks", "label": "UU TPKS", "query": "UU TPKS kekerasan seksual"},
-    {"id": "kekerasan_seksual", "label": "Kekerasan Seksual", "query": "kekerasan seksual Indonesia"},
-    {"id": "kbg", "label": "Kekerasan Berbasis Gender", "query": "kekerasan berbasis gender KBG"},
-    {"id": "kbgo", "label": "Kekerasan Berbasis Gender Online", "query": "kekerasan berbasis gender online KBGO"},
+    {"id": "tpks",             "label": "UU TPKS",                        "query": "UU TPKS kekerasan seksual"},
+    {"id": "kekerasan_seksual","label": "Kekerasan Seksual",              "query": "kekerasan seksual Indonesia"},
+    {"id": "kbg",              "label": "Kekerasan Berbasis Gender",       "query": "kekerasan berbasis gender KBG"},
+    {"id": "kbgo",             "label": "Kekerasan Berbasis Gender Online","query": "kekerasan berbasis gender online KBGO"},
 ]
 
-MAX_PER_KEYWORD = 15
+MAX_PER_KEYWORD = 15          # batas RSS Google News
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "docs", "data", "news.json")
+
+# Hapus berita lebih tua dari N hari (0 = simpan selamanya)
+MAX_AGE_DAYS = 0
 
 HEADERS = {
     "User-Agent": (
@@ -35,28 +38,20 @@ HEADERS = {
     "Cache-Control": "no-cache",
 }
 
+
 def clean_html(text):
     if not text:
         return ""
     text = re.sub(r"<[^>]+>", "", text)
-    text = re.sub(r"&amp;", "&", text)
-    text = re.sub(r"&lt;", "<", text)
-    text = re.sub(r"&gt;", ">", text)
-    text = re.sub(r"&quot;", '"', text)
-    text = re.sub(r"&#39;", "'", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
+    for ent, rep in [("&amp;","&"),("&lt;","<"),("&gt;",">"),("&quot;",'"'),("&#39;","'")]:
+        text = text.replace(ent, rep)
+    return re.sub(r"\s+", " ", text).strip()
+
 
 def parse_date(date_str):
-    """Parse RSS date string ke ISO format."""
     if not date_str:
         return datetime.now(timezone.utc).isoformat()
-    formats = [
-        "%a, %d %b %Y %H:%M:%S %z",
-        "%a, %d %b %Y %H:%M:%S GMT",
-        "%Y-%m-%dT%H:%M:%SZ",
-    ]
-    for fmt in formats:
+    for fmt in ["%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S GMT", "%Y-%m-%dT%H:%M:%SZ"]:
         try:
             dt = datetime.strptime(date_str.strip(), fmt)
             if dt.tzinfo is None:
@@ -66,11 +61,12 @@ def parse_date(date_str):
             continue
     return datetime.now(timezone.utc).isoformat()
 
+
 def extract_source(title):
-    """Ekstrak nama media dari judul Google News (format: 'Judul - Media')."""
     if " - " in title:
         return title.rsplit(" - ", 1)[-1].strip()
     return "Tidak diketahui"
+
 
 def fetch_rss(keyword_obj):
     query = quote_plus(keyword_obj["query"])
@@ -84,70 +80,122 @@ def fetch_rss(keyword_obj):
         channel = root.find("channel")
         if channel is None:
             return articles
-        items = channel.findall("item")
-        for item in items[:MAX_PER_KEYWORD]:
+        for item in channel.findall("item")[:MAX_PER_KEYWORD]:
             title_raw = item.findtext("title", "")
-            title = clean_html(title_raw)
-            link = item.findtext("link", "")
-            pub_date = parse_date(item.findtext("pubDate", ""))
-            description = clean_html(item.findtext("description", ""))
-            source_name = extract_source(title_raw)
-            # Hapus nama media dari judul
+            title     = clean_html(title_raw)
+            link      = item.findtext("link", "")
+            pub_date  = parse_date(item.findtext("pubDate", ""))
+            desc      = clean_html(item.findtext("description", ""))
+            source    = extract_source(title_raw)
             if " - " in title:
                 title = title.rsplit(" - ", 1)[0].strip()
             articles.append({
-                "title": title,
-                "link": link,
-                "pubDate": pub_date,
-                "source": source_name,
-                "description": description[:300] if description else "",
-                "keyword_id": keyword_obj["id"],
+                "title":         title,
+                "link":          link,
+                "pubDate":       pub_date,
+                "source":        source,
+                "description":   desc[:300] if desc else "",
+                "keyword_id":    keyword_obj["id"],
                 "keyword_label": keyword_obj["label"],
             })
     except (URLError, ET.ParseError, Exception) as e:
         print(f"  [ERROR] {keyword_obj['label']}: {e}")
     return articles
 
+
+def load_existing():
+    """Baca data lama dari news.json jika ada."""
+    if not os.path.exists(OUTPUT_PATH):
+        return []
+    try:
+        with open(OUTPUT_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return data.get("articles", [])
+    except Exception as e:
+        print(f"  [WARN] Gagal membaca data lama: {e}")
+        return []
+
+
 def main():
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    all_articles = []
-    stats = {}
 
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Mulai fetch berita...")
 
+    # 1. Ambil berita baru
+    new_articles = []
     for kw in KEYWORDS:
         print(f"  Fetching: {kw['label']}...")
-        articles = fetch_rss(kw)
-        all_articles.extend(articles)
-        stats[kw["id"]] = len(articles)
-        print(f"    → {len(articles)} berita ditemukan")
-        time.sleep(2)  # jeda antar request
+        arts = fetch_rss(kw)
+        new_articles.extend(arts)
+        print(f"    → {len(arts)} berita ditemukan")
+        time.sleep(2)
 
-    # Deduplicate berdasarkan link
+    # 2. Baca arsip lama
+    old_articles = load_existing()
+    print(f"\n  Arsip lama: {len(old_articles)} artikel")
+
+    # 3. Gabungkan — deduplikasi berdasarkan URL
     seen_links = set()
-    unique_articles = []
-    for a in all_articles:
-        if a["link"] not in seen_links:
-            seen_links.add(a["link"])
-            unique_articles.append(a)
+    combined   = []
 
-    # Sort by date terbaru
-    unique_articles.sort(key=lambda x: x["pubDate"], reverse=True)
+    # Prioritaskan data baru (masuk dulu)
+    for a in new_articles:
+        if a["link"] and a["link"] not in seen_links:
+            seen_links.add(a["link"])
+            combined.append(a)
+
+    # Tambahkan arsip lama yang belum ada
+    for a in old_articles:
+        if a["link"] and a["link"] not in seen_links:
+            seen_links.add(a["link"])
+            combined.append(a)
+
+    # 4. Opsional: buang artikel terlalu lama
+    if MAX_AGE_DAYS > 0:
+        cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
+        before = len(combined)
+        combined = [
+            a for a in combined
+            if _parse_iso(a.get("pubDate","")) >= cutoff
+        ]
+        print(f"  Dipangkas (>{MAX_AGE_DAYS} hari): {before - len(combined)} artikel dihapus")
+
+    # 5. Sort terbaru di atas
+    combined.sort(key=lambda x: x.get("pubDate",""), reverse=True)
+
+    # 6. Hitung stats per keyword
+    stats = {kw["id"]: 0 for kw in KEYWORDS}
+    for a in combined:
+        kid = a.get("keyword_id","")
+        if kid in stats:
+            stats[kid] += 1
 
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "total": len(unique_articles),
-        "stats": stats,
-        "keywords": [{"id": k["id"], "label": k["label"]} for k in KEYWORDS],
-        "articles": unique_articles,
+        "total":      len(combined),
+        "stats":      stats,
+        "new_this_fetch": len(new_articles),
+        "keywords":   [{"id": k["id"], "label": k["label"]} for k in KEYWORDS],
+        "articles":   combined,
     }
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✓ Selesai. {len(unique_articles)} artikel unik disimpan ke {OUTPUT_PATH}")
+    added = len(combined) - len(old_articles)
+    print(f"\n✓ Selesai.")
+    print(f"  Baru ditambahkan : {max(added,0)} artikel unik")
+    print(f"  Total arsip      : {len(combined)} artikel")
     for kw in KEYWORDS:
         print(f"  {kw['label']}: {stats[kw['id']]} artikel")
+
+
+def _parse_iso(iso_str):
+    try:
+        return datetime.fromisoformat(iso_str)
+    except Exception:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
 
 if __name__ == "__main__":
     main()
