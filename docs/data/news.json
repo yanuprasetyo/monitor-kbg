@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-21T13:59:57.896522+00:00",
+  "updated_at": "2026-06-21T14:32:35.511949+00:00",
   "total": 65,
   "stats": {
     "tpks": 18,
+    "kbgo": 15,
     "kekerasan_seksual": 18,
-    "kbg": 14,
-    "kbgo": 15
+    "kbg": 14
   },
-  "new_this_fetch": 45,
+  "new_this_fetch": 0,
   "keywords": [
     {
       "id": "tpks",
