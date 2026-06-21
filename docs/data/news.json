@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-21T09:43:35.941964+00:00",
-  "total": 62,
+  "updated_at": "2026-06-21T13:59:57.896522+00:00",
+  "total": 65,
   "stats": {
-    "tpks": 17,
-    "kekerasan_seksual": 15,
-    "kbg": 15,
+    "tpks": 18,
+    "kekerasan_seksual": 18,
+    "kbg": 14,
     "kbgo": 15
   },
-  "new_this_fetch": 60,
+  "new_this_fetch": 45,
   "keywords": [
     {
       "id": "tpks",
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Perempuan Bandung Disekap 3 Tahun, DPR Minta Pelaku Dijerat UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSi11a2RFR3F6YlVBbW5iMEJLZ1RPc29oMlkwVmRsRkFhZlVaeTVNenQ2Q0xlYXRxTU9iZzZLYXM2Y1VfZGk5RENZTGI4SFFCUmlyMmFMZ0otdXZaZWRmMWhBd1B0Q2hHQlFnRWlTWEY1NlpUY1RwSkFPblFic25HQ1pJcm9CU3lNaEMycU9JSjVvR1lqa0hlOTg2NXVsQzI3RmpZRHZUby05NkxtQUF5aU9BQnlidkZzUU12Y2tBbWNFSEFJb19IRnpxUQ?oc=5",
+      "pubDate": "2026-06-21T10:01:55+00:00",
+      "source": "Publicanews",
+      "description": "Perempuan Bandung Disekap 3 Tahun, DPR Minta Pelaku Dijerat UU TPKS&nbsp;&nbsp;Publicanews",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Bukan Bikin Baper, Catcalling Itu Pelecehan! Yuk, Pahami Sisi Hukumnya",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc25TY01XZFh2QkR5bnkzN1AxbWNJdFR2Q2tzM1ppRk9SY2hMWmNJbVl2dzdRZUQ5cEZaMjRuRDluSU9mWjJ1c3IwTmJDRG5NRWlUc3NqQW1QY1o2X2FRSjVCOE1Gc3hZdEZoRFV5WW52alpnT1BxT1hQNzMyWHBOQk1GTUlwQnVva2sxdmVWV1hUWW5mNUJOT1Y4Njk1SlVVbk9yOQ?oc=5",
@@ -231,8 +240,8 @@
       "pubDate": "2026-05-11T14:16:26+00:00",
       "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
       "description": "Semarak 16 HAKtP, Kemen PPPA Serukan Perlindungan Perempuan dari Segala Bentuk Kekerasan&nbsp;&nbsp;Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Usut tuntas kekerasan seksual atas para pelajar di Pesantren Pati dan Bogor",
@@ -244,11 +253,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYXFnUUJxZm9ROFA1bkgtTTh5Qzl4RDVQWEljM2IyRU4xaU01ZEl0SnRxVFMxLUc5a2xjNTNkVEF0R2FlbXhvQ1otblduUjJGT18tdGZUYlhTVmZqaVVwRld4bnlkUDVuVXVmdHRkbG0tWXF5ZHFIOHo4dFY2S01Wb1AxVG9fQ1NFenVET1hFcERSX0dud1Eta3NQWnBrcUw0LXpabXBlSlI1V2VfZFFtZGt2bTRzOXZnZWlUUEI0UXptN3hoVF9YbFE5UU1XVXJmSmtaWWVrc3ptaloySllJYmNNbW5ZSDNRODFsUk9RcUx5bnA4aHRB?oc=5",
+      "pubDate": "2026-05-06T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren&nbsp;&nbsp;Komnas Perempuan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Tentang Kekerasan Seksual di Pesantren, Wamenag Minta Pelaku Dihukum Berat",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjR4NXRYS3JvM0tjZm9xRTdDM2x4Z09GeG4zaGtocmpWR192RUtFZU1FWnl4SEFOWWpneVNXZnpJdkNDWEJzT1VrcEliOWxFZlhiakRHcmJCMXE1UWh6eGctMUcxcmtxTXlqZ0FCRUEzVmRRNXNoN2NSRnZXV19DdnlHUW83SUdSRXRVYzBneTVzVVkzZVI1V29CZEV1b2N4d09vWXp4TVdVaDZyLTFJ?oc=5",
       "pubDate": "2026-05-04T07:00:00+00:00",
-      "source": "Kementerian Agama Republik Indonesia",
-      "description": "Tentang Kekerasan Seksual di Pesantren, Wamenag Minta Pelaku Dihukum Berat&nbsp;&nbsp;Kementerian Agama Republik Indonesia",
+      "source": "Kementerian Agama",
+      "description": "Tentang Kekerasan Seksual di Pesantren, Wamenag Minta Pelaku Dihukum Berat&nbsp;&nbsp;Kementerian Agama",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -323,6 +341,15 @@
       "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas&nbsp;&nbsp;Prohealth.id",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UWtQejdyeVBhamt6bThRek5NV2kwOXZfR2xjTE5BZHgxRk1qNUllSDN5U3hvLWVFTW5MYUZoUVNRcjZwampTdnRsb0Vwb2dUQ1hSQzh2dVQwZUFEQXJEZdIBZkFVX3lxTE54d2ZpbWNVOU1LX242LUExdnl3dndQZVdnUE5LZU8zeFVCSGR1WXhWTlZTdDFUakRVRnZBWnlJdmRjVWgydGxEc3p5ZDhMQUZaNURGZWxCTVowaWp3UlhSSXY2X1VoUQ?oc=5",
+      "pubDate": "2026-04-15T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?&nbsp;&nbsp;BBC",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "BEM UI Kawal Kasus Dugaan Kekerasan Seksual di FH UI, Dorong Sanksi dan Audit Investigasi",
