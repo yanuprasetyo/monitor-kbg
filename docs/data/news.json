@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-21T15:05:14.392906+00:00",
-  "total": 73,
+  "updated_at": "2026-06-21T19:24:38.102162+00:00",
+  "total": 75,
   "stats": {
     "tpks": 23,
     "kekerasan_seksual": 17,
     "kbg": 15,
-    "kbgo": 18
+    "kbgo": 20
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -172,6 +172,15 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
+      "title": "Ketika Layar Ponselmu Jadi Senjata untuk Menyerangmu, Misogini di Dunia Online",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUJQcjlhTDhzbFlMU3hvTVA1V254LW85Ym54LW9HNTF4bDUycTVoYTA0aXhCX1dhazVYZVdSYXVyZnRNTmVCUUg0SjFhbmU2Xzlpa1NoUHB0ZVRQTlFRX3lVcGZTaGc4aTkzaTFaZDdldWMxNzFNMEpDektJdnd2dEhEZlFIejdqU1lxZWstaVdqaTY2ZGZ0TXR1UGJiT25SVmU4NTl3cWZRQVE?oc=5",
+      "pubDate": "2026-06-11T00:26:31+00:00",
+      "source": "Konde.co",
+      "description": "Ketika Layar Ponselmu Jadi Senjata untuk Menyerangmu, Misogini di Dunia Online",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Majelis Hakim PN Gowa Vonis Dosen UNM Pelaku Kekerasan Seksual 4 Tahun 6 Bulan Penjara",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1JJdThzMURyY2FrZjJVcXI3REJzNW4wLWdoQk5CX0FEVWtyeF9UaGxRem9ZLXFTTUxNdUxlc1c4cFlqSlZWU2NfYmRrbWFwc1BSd3lGaVlZVzFpUDZUQU8tMnFKaENrOVVJR0Z4LXZkTUhDc3EzTVlyYW8zdWxZbzdnNUFUWktSclVFNUtQeS1wQXdEMVktQUVQNjFlM1JiYVRUOHdHZGxpYUoyODZxckNlQjB6T3JVc3A4d3N6NlJ3WGM?oc=5",
       "pubDate": "2026-06-10T09:15:26+00:00",
@@ -320,7 +329,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQy1LendFeHJyLWlxbGg0c3c0cjJKWHZOYmV4dDhOSndpOVA5RWxJR015NjhwOHJRRlFDdFZjX0xwNlBXZE1WTkk1S0thSEZXMDdjbXFIN1gwUFNYaU4xY1NZM0xXdnVEZDB4MUpQbzBUdlFka2ZSajRMMTllVjZMbnZLZDV4d1Rsb29ucFJmWXRLZUllbEM1aU81LWJDcDJvMVhuN0xRNEVpQ2daWVp1YXFKZmFieWJqdHpV?oc=5",
       "pubDate": "2026-04-28T07:00:00+00:00",
       "source": "Dandapala Digital",
-      "description": "Tak Terbukti Bersalah, Terdakwa Kasus Kekerasan Seksual Divonis Bebas PN Simalungun&nbsp;&nbsp;Dandapala Digital",
+      "description": "Tak Terbukti Bersalah, Terdakwa Kasus Kekerasan Seksual Divonis Bebas PN Simalungun",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -341,6 +350,15 @@
       "description": "Kartini dan Luka yang Tak Terlihat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
