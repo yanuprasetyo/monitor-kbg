@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-22T03:43:57.946654+00:00",
-  "total": 77,
+  "updated_at": "2026-06-22T11:45:51.035827+00:00",
+  "total": 83,
   "stats": {
-    "tpks": 25,
-    "kekerasan_seksual": 18,
+    "tpks": 26,
+    "kekerasan_seksual": 20,
     "kbg": 15,
-    "kbgo": 19
+    "kbgo": 22
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kata UI Soal Korban Kekerasan Seksual Lapor ke Kemendiktisaintek",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTcyVG51ZlV2SjZ2eVdnVDNjS012c082bHFtQ3JJbzVKMDY0NnNfMUpORWl6Vy1qem1QNjYxQXFpU0V3ZlhkVzhWckZ0dkJ5Tkp4OWNsYXpKMTgxaFJtaHc5bE44MzNDY3ZNTExpWUVHX1lRVVA1MkFHelJnM1R5YTJYcTVsSkFXeXNCbjZ3TV9XVEZfa1lpbTZvTGplcFJIclBZ?oc=5",
+      "pubDate": "2026-06-22T07:09:17+00:00",
+      "source": "Tempo.co",
+      "description": "Kata UI Soal Korban Kekerasan Seksual Lapor ke Kemendiktisaintek",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Korban Kekerasan Seksual FH UI Ajukan Keberatan ke Itjen",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHUzTTRLeDAyQ0NZRGxBcWx3ZkVKWHAzbUhmYzJQLWxrdnlGLU0xbFZRM1BqcnVkU3JjUjZkN1Y5R0lRRnpEajlHVWIyYUtkZjVTWWZGSV9vRXJ6RkM5S2IyV3RILW5Ya29LYzRqMTN6TnpIMEkxazZRdDRDOHVlcXBkbFFWZjJMLWVXQmgzQU5hdVNvWXFIYw?oc=5",
@@ -155,12 +164,30 @@
     },
     {
       "title": "Komnas Perempuan: Perlu percepatan implementasi UU TPKS di daerah",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTg1ZWdZUXhBU29qZHlYTVRqTjZfQnhxWHhXaVdzTjJjUDdxbzRCdW5qZDRLb1d0VDZ1RnlkYVNvTW5sWUNSS3NzUjJ0Z05CMFEwdEZwZzh1YTE3YlI3cTNVd2IyaW1MTXRDc3cyWWJXaWVkbTFEeEM3amQzelplZTE0WHdVbmhBVkZ4Q0RjMlF0X2l2RXhzME5JcXQ0dElsQ3Zkc2hRRXdudzliZXc?oc=5",
+      "pubDate": "2026-06-15T08:46:43+00:00",
+      "source": "ANTARA News Sulteng",
+      "description": "Komnas Perempuan: Perlu percepatan implementasi UU TPKS di daerah",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan: Perlu percepatan implementasi UU TPKS di daerah",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUHFFajJoUUFwZkljeE9oVjVkSFpGQUo0czBLNjJrNFJjSDBTQmdHSG9tLTFLOHFVMGZ0WWRUQjNpNUxNZ2xrS3ZKa0RqWlVpZjRCZHkwWmhDTDQ3ZWpCRlIwdUNQSElucjhEdUo0M2xTUW5QRlBGeEVUN0dCX3pfejhDVC1OTmdPbURWZ1RsVHA2WU52S1piWnZ5Q1dzbFlMUE5FclliZXd1Z9IBrAFBVV95cUxObU1BMzE2TVZWTzExZ3dMUFpydVdSUlhiRklvdVExa0E5bS11VlJmTnlHUVk2VkFGSm5yMkZKV1MyVFl3bnhUZDdGeEJnbi1fYjR2enFjNlg3UDJ3UUQ0c2ZybGR0V1JZTnZXN1dsOVhGN0NJbkRzNEFPYVc1ZW9JbElDUkw5V0NWaE40QzRGbG82WUdXRmFPLWprWjNzbkkxZFBKSDRoRXNydXNw?oc=5",
       "pubDate": "2026-06-15T08:37:34+00:00",
       "source": "ANTARA News",
       "description": "Komnas Perempuan: Perlu percepatan implementasi UU TPKS di daerah",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Miris! Pelajar Mendominasi Korban Kasus Kekerasan di Semarang Sepanjang 2026",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uN1VHdHhpanlGRzFfZ0h0Uk9kc2dyM2JKODllV3BhYW1Db2pZVGxQWllIWnBscEVEZjhITURISEgtYXRnOWRuaDFBNVlzSWMzTDdVa1BCSW9DSzMzUHBjRndsTF9WS0x5MlhhUHVFR3BpeFU?oc=5",
+      "pubDate": "2026-06-14T14:33:24+00:00",
+      "source": "Lingkar TV",
+      "description": "Miris! Pelajar Mendominasi Korban Kasus Kekerasan di Semarang Sepanjang 2026",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Komnas Perempuan dukung Pemda Kabupaten Belitung Selenggarakan Pelatihan menggunakan Modul Akademi Penghapusan Kekerasan Seksual",
@@ -201,7 +228,7 @@
     {
       "title": "Jaringan PPHAM NTB Rumuskan Strategi Advokasi Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTQzNG5sTEtpcm8wOUliYkRpQ2ZNT0dvRi10MEdDVFV6V25lUm1KeVQxV0wwRk1GUVRhX1lkb3ZrNVgtVkhCUUdWOXpJazFLT252c01xOUo4RUdiYlhkY3hJUTRpYnF2RDhHRjRvRmMyZWRteTRsZThoNUd2UnAtUHJoY3ZWdndBbkJwUm0yc1VNZGJjQ0J6QzBCQjdaUQ?oc=5",
-      "pubDate": "2026-06-07T07:00:00+00:00",
+      "pubDate": "2026-06-06T07:00:00+00:00",
       "source": "Bimakini",
       "description": "Jaringan PPHAM NTB Rumuskan Strategi Advokasi Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
@@ -244,6 +271,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0VZZUx6SW1EMXBlcDhTeWJLYjVaLTlLbnJ3LUM5RUZGWWo5QmhsS1dfY0x5RW9GUjlkQ3QyZnJTOUJlVWdaZVBVd0cxaVVpVkFlbW11RlZHS0RWNGJGR3hJSTNpY0ZTUmN3N2RjeEJJbG12eXF4ejFlYVJoT2l2TWRNQXA4NHFmaDVyXzF4VXd6V21jcVNSd3NHZHZSTEhubnJN?oc=5",
+      "pubDate": "2026-06-02T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnbTVlWkRySlJCNHRSa1V3aDRtbTdVOXFndDFySktQZFQ4WlpmQzdhQ2F6RXY1NHZNOVZCbm1TNkNtVGdIcXRORnZnRDZ1bURtaHlQeFVLbWtlUjFya1JUc9IBZkFVX3lxTE9qLVE3ZzQ0ZlNRTnFXLUhzeVpMZzdPaWNSVmlsc2pwTTh0WFV5OWpnckVWRXJ1SzZ5TzVENldPbVU3YklGS2FjWHRIbEhQV1ZsUTg2bVNka3BILTNqTW9ha0VtdUJudw?oc=5",
       "pubDate": "2026-05-29T07:00:00+00:00",
@@ -251,6 +287,15 @@
       "description": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Discord dan Ruang Gelap KBGO Anak yang Jarang Kita Bicarakan",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xRVhsUGJ2bGwxV2ZmYmdvQ3pybVhUY0t5LU82bWhsOENlWnF1OUFQTW1yT2JINnptYTZRaG1BSndweXk1MTA4RDVtYVNmQVNuTjdKS2tjc2VFQmJfeW9LQUhpMEd5SFREYkswY3h0eFNPdw?oc=5",
+      "pubDate": "2026-05-28T07:00:00+00:00",
+      "source": "Magdalene.co",
+      "description": "Discord dan Ruang Gelap KBGO Anak yang Jarang Kita Bicarakan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Universitas Sunan Gresik dan Pemdes Sedagaran Bentuk Satgas Anti-Kekerasan Berbasis Religiusitas",
@@ -314,6 +359,15 @@
       "description": "Menteri PPPA Minta Polisi Percepat Proses Penyidikan Tersangka Pelaku Kekerasan Seksual Pondok Pesantren di Pati",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOTRKRFFHdEdMdmhWbFZ1VEZYVnVmX2lfMmFCZWJIT3VkMHRMZklyYm9kMm5FU093SG5jNFJNbmZ6c0xkeENDYmh2UFdGc1FTN0JQNlFhM2RIMm91c2lDRFV5VmZsYmJYNkpkeGRDZFE0Y2Z4WVJ1a0dqbzE0TjJLVV9HU2ZKUlpaWWtkcXB4M3BoUExYVkNMU1B2ZUcxbjhtd29sMTBDVXN2LTd1enlDLXg0aDVYNldwYWJoeTlLMEpaQlZkcDhBTWxPRmQtdnMyYkhPXzE1ejhOZGR1Z1BFbU5sa3h1UQ?oc=5",
+      "pubDate": "2026-05-07T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren",
@@ -472,7 +526,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "UNICEF",
+      "source": "Unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
