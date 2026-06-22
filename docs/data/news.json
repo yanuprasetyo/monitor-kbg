@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-21T19:24:38.102162+00:00",
-  "total": 75,
+  "updated_at": "2026-06-22T03:43:57.946654+00:00",
+  "total": 77,
   "stats": {
-    "tpks": 23,
-    "kekerasan_seksual": 17,
+    "tpks": 25,
+    "kekerasan_seksual": 18,
     "kbg": 15,
-    "kbgo": 20
+    "kbgo": 19
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Korban Kekerasan Seksual FH UI Ajukan Keberatan ke Itjen",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHUzTTRLeDAyQ0NZRGxBcWx3ZkVKWHAzbUhmYzJQLWxrdnlGLU0xbFZRM1BqcnVkU3JjUjZkN1Y5R0lRRnpEajlHVWIyYUtkZjVTWWZGSV9vRXJ6RkM5S2IyV3RILW5Ya29LYzRqMTN6TnpIMEkxazZRdDRDOHVlcXBkbFFWZjJMLWVXQmgzQU5hdVNvWXFIYw?oc=5",
+      "pubDate": "2026-06-22T01:08:00+00:00",
+      "source": "Tempo.co",
+      "description": "Korban Kekerasan Seksual FH UI Ajukan Keberatan ke Itjen",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Perempuan Bandung Disekap 3 Tahun, DPR Minta Pelaku Dijerat UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSi11a2RFR3F6YlVBbW5iMEJLZ1RPc29oMlkwVmRsRkFhZlVaeTVNenQ2Q0xlYXRxTU9iZzZLYXM2Y1VfZGk5RENZTGI4SFFCUmlyMmFMZ0otdXZaZWRmMWhBd1B0Q2hHQlFnRWlTWEY1NlpUY1RwSkFPblFic25HQ1pJcm9CU3lNaEMycU9JSjVvR1lqa0hlOTg2NXVsQzI3RmpZRHZUby05NkxtQUF5aU9BQnlidkZzUU12Y2tBbWNFSEFJb19IRnpxUQ?oc=5",
@@ -463,7 +472,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -492,6 +501,15 @@
       "pubDate": "2026-03-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Implementasi UU TPKS Harus Utamakan Perlindungan Korban, Bukan Mediasi Damai",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Polri Luncurkan Modul Pelatihan TPKS, Menteri PPPA: Polisi Garda Terdepan Perlindungan Korban",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUY1ZnJtVlhROEh5YWdEc0lNUG1jSnMzbjBhQ1I2RHpuTDF1YkE5bmZJeVBDWENVSEM5d3RMQXRUazNTanBoMFhLZV9yWGZPeE9HZ1pLM242azNmTmRiTkFVbVFQazZURFFwck5DRklnX3A4VmQtdUdQbGo1Vk9td1k4WThOUjZRc1NVb3ZkQ1VoUlNXVEptNGZNNldsUzVlbnZaclVrVTYydlA1UUFlUEJMcjJ1bGFBNE0wVVZtQlZBcFlOaThNX2NHcEJxampGbEtZ?oc=5",
+      "pubDate": "2026-03-02T08:00:00+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "Polri Luncurkan Modul Pelatihan TPKS, Menteri PPPA: Polisi Garda Terdepan Perlindungan Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -622,20 +640,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNl80Vk5HTGV0RW5rcnNpWmxKa04td0EtVFhLWlQxMzVzYmFBMnp1U2MxM3BfdXNFdllqWWRQam1tX3Jwbzk1T1pBVk12LTIwVzZ4RlpYLVk3SDJtMGxzdnBxazY1RVJWN3o5eG9NNEVmZDdldW41R21lN0EtUFU5a0VrbEM2bWstYWVveWJsZ0FPd1FPZ2F2ZlJkbGN2RjRHVFBId1k2d2R3VzN6MDRYNzBDcS1ONzJ1RXg5VVNFenFkQzVndHBXWXRXWjJGY0pBMUVZbUZkenA?oc=5",
-      "pubDate": "2025-12-09T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Kekerasan Berbasis Gender Online: Korban Terjebak Konflik UU TPKS dan Ancaman UU ITE",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW9wSlpidFFmTzE4MXBjbkVtQkhNMG9BdW5UMTN3TlB1MTRKM19IZl9sWkNyNHZtTTNIM2x5VnJyeFg1alFQeG1obmpsRk5WSFllWEJWWjRFcVp5RUxteGcyRE9aWkdGTkE0bFN4bnBnaGtZWUExNGp6RVhxN0lnNjU3eTNHQnJmNWZtNlJsTWlqeFVqRGllRTl1QktmNzFoemxrWVl2U2t1WG00eEZiV25ZbjBhcXJSWUM1ODNQa29sc2F0dkp3Z1hSUzIzMnJMcVJBSA?oc=5",
       "pubDate": "2025-12-09T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Kekerasan Berbasis Gender Online: Korban Terjebak Konflik UU TPKS dan Ancaman UU ITE",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNl80Vk5HTGV0RW5rcnNpWmxKa04td0EtVFhLWlQxMzVzYmFBMnp1U2MxM3BfdXNFdllqWWRQam1tX3Jwbzk1T1pBVk12LTIwVzZ4RlpYLVk3SDJtMGxzdnBxazY1RVJWN3o5eG9NNEVmZDdldW41R21lN0EtUFU5a0VrbEM2bWstYWVveWJsZ0FPd1FPZ2F2ZlJkbGN2RjRHVFBId1k2d2R3VzN6MDRYNzBDcS1ONzJ1RXg5VVNFenFkQzVndHBXWXRXWjJGY0pBMUVZbUZkenA?oc=5",
+      "pubDate": "2025-12-09T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -680,7 +698,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMW1kRE9wcXdQYUFucUZ3TkxYdHpfeE1aaXZrcjJzMGwwX0syQzZPeURYQzZuby02SkVSLUJ1YjVTLWEybmRjTlJwcjl1OFFielZTVGlwbG9UYUV3a1p2VmpndUQwdG1saWl2R2kzbVNZaThSUENPd3A1NG5uaWVFcU9qYnh4Q24tWndzdE1KTEpVdHcyWkpGQm0yVWVScHBIdkNZbjY5T01JOXE2UXVGZm1B?oc=5",
       "pubDate": "2025-09-23T07:00:00+00:00",
       "source": "Dandapala Digital",
-      "description": "Kena UU TPKS, Pelaku Asusila Penyandang Difabel di NTT Dibui 5 Tahun 4 Bulan&nbsp;&nbsp;Dandapala Digital",
+      "description": "Kena UU TPKS, Pelaku Asusila Penyandang Difabel di NTT Dibui 5 Tahun 4 Bulan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
