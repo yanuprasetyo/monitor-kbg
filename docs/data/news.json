@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-23T09:31:27.279828+00:00",
-  "total": 98,
+  "updated_at": "2026-06-23T14:39:14.829337+00:00",
+  "total": 104,
   "stats": {
     "tpks": 35,
-    "kekerasan_seksual": 22,
-    "kbg": 16,
-    "kbgo": 25
+    "kekerasan_seksual": 25,
+    "kbg": 18,
+    "kbgo": 26
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kasus KBG Mengkhawatirkan, Pemda Masif Cegah Kekerasan Gender",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUpfZkFZMVU1NEM4SlBUUjdiX1pJSi0ydWdpWF9jYWFXNDgzUnF5cHRKdnp0M2NxVnp5NHJnajVvMUgzdTNpMTRNcGc0T2stUDVkMVpFN2t2dkh4WVJqMFpQbXdZZ2NnU3NuVzlLYmlEbWZXRlU1cGNRZ3FIWUxzbWNFNkhqSmpqamlJZGxIdlo?oc=5",
+      "pubDate": "2026-06-23T11:59:54+00:00",
+      "source": "RadarMandalika.ID",
+      "description": "Kasus KBG Mengkhawatirkan, Pemda Masif Cegah Kekerasan Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Jumlah Kasus Masih Tinggi, Pemkab Lobar Gandeng Jaringan CSO Tekan Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSk56RnhkTFRTNVVXWDhHLTdkQlBlRkNULS1QcFU5Q3hDM093M2NGbGR6VE01b2xGNDZXaEtmNUVKb0NPLWlUenVsdmVNMEpGSUV6ZHZ0NnpnUzFkRktKWG1rbjJic1VXNW5EQzI3d242NktTQ0FrUUpHWnRwcFRvVG5xcW9DQld2bTBHOWFXWnJBdDJGd1pYTXBWYktmWTI2WDNMY0JXMDk0YUNDejFXSk1aLXFuRmI4VEdldzJYZHBWdw?oc=5",
+      "pubDate": "2026-06-23T11:57:16+00:00",
+      "source": "SUARANTB.com",
+      "description": "Jumlah Kasus Masih Tinggi, Pemkab Lobar Gandeng Jaringan CSO Tekan Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
     {
       "title": "LBH Apik Desak Penyekap Wanita di Bandung Juga Dijerat UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjRIei1JMC1KQXJkelhvX1Jxb2xDd2VSTXFud3dibnVMVU5aOXktZ1QzaVBycEw1WDhZODAzY3NQajhHaHNYZ0RubTUzY1d6d2ZzWnpsdFZyb0loUl9kNEkzQVlVdDI1aUJtSUlwOEVwZTdyY2ZraGtnOHAtY29sMGgxdkRybjkwcFBKUA?oc=5",
@@ -271,6 +289,15 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
+      "title": "Maraknya Kekerasan Berbasis Gender Online Jadi Tantangan Ruang Digital Indonesia - Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaTA3YkxVVG1HRUd3Q1pPcGllcGVacll5WHNmYnZBVkZ5S0cxZldYa1ZDeWRRUm15UkRUM2dsTDdqbjBuMG50dVpGeEM0bUs5bVZoSjhiNjdNS1lDZzJyb3loeGFRd1VtM1k3V0cyd0VGclhWRV9mejl0QUZwc3k1Rk5WOFA4U2VZRTlYVk5MQ1RqSEtkSlBnbXduVUNxeDJHM1cxZXZNeFNveWZ2S3pnX1N4cGZPcHhhY3VYTTN6a3RXanJUUC02ckpsMEVZS3dMdDdBRW9LX0MwY1VWZE1NdHlLMDFXVTZwMXfSAe8BQVVfeXFMTmhIN21sNGZOeVdtX3Z0UFMxU0dXZkZqNXJrVHpmWkMySnZFYlBZWDRjM3VIaU8tTkVqVlV5RzhGM3hlYUcyZG45MjBiMWdGRkRVSTBmcEFyQnhLYWE0N0RPUms3ZmYzZ0w3YzNMcVoxWnVZdHh5X05KTkNlVUI1YUE0cFd1QlhiX3VVclQ3SUVpTVJmUUR2dXV6M0hkVzVLS2Z4b013eTYwOVRxRV9XUTRhSkwyQkdRWktNSV9lNENYUlh1WlJMNWZmQjFSTWVROGhhWExfZVZyem44bllHZGxBako2OFRfTU4tNG5LZEU?oc=5",
+      "pubDate": "2026-06-11T04:08:06+00:00",
+      "source": "Kompasiana.com",
+      "description": "Maraknya Kekerasan Berbasis Gender Online Jadi Tantangan Ruang Digital Indonesia - Kompasiana.com",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Ketika Layar Ponselmu Jadi Senjata untuk Menyerangmu, Misogini di Dunia Online",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUJQcjlhTDhzbFlMU3hvTVA1V254LW85Ym54LW9HNTF4bDUycTVoYTA0aXhCX1dhazVYZVdSYXVyZnRNTmVCUUg0SjFhbmU2Xzlpa1NoUHB0ZVRQTlFRX3lVcGZTaGc4aTkzaTFaZDdldWMxNzFNMEpDektJdnd2dEhEZlFIejdqU1lxZWstaVdqaTY2ZGZ0TXR1UGJiT25SVmU4NTl3cWZRQVE?oc=5",
       "pubDate": "2026-06-11T00:26:31+00:00",
@@ -447,6 +474,15 @@
       "pubDate": "2026-05-08T07:00:00+00:00",
       "source": "Amnesty International Indonesia",
       "description": "Usut tuntas kekerasan seksual atas para pelajar di Pesantren Pati dan Bogor",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUEJxYWRVaVRBVEVGUGIwMWFwWkhUQklmSzZvcWFZWHJoa1JPQVdtS0M3bFFlY3NES3VJNDd6NnEtUGVySW1lbVBzZ05xMFBIUi1JWXlCWHRDcHBNTXNWSNIBZkFVX3lxTE9kaWRfQ1VYWG9JZGNnOElsX1FqakJXWGhUM0FJSHVEeWhIcXhYNC02WTRaVFFQeUVDcjA4dk9fVm41eEREbUsxU2pONFhKRUtXRXZmOW5DOU9iazNuS3BidW9nRnpOdw?oc=5",
+      "pubDate": "2026-05-07T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -775,6 +811,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGIzalRIcFBZQmZmWHF1WDlTNmtqY2hyOEtwQWFZS2J2OW5TMGFaSWFBVkNaV05rQ093MW10WkdyU2JibmxuOTRQbDZxTGhzTlEtNXRrby1POVF5dTFQdUxjNmpDTnJJbDZPVXBoVUE0RXBUblJCMmRMLXJBdFdmWk8wWjVxMFlsc0ZFLS1Hdzd2RDlLTlk4QlhTZGF0WUZlbjY2cWliaWRIVTBpemh5emhPZHo0S2hTYlJzOHZ3V0cxckxhZVBuZnlVN3JUX0pUTXZxQjd2U0xFNHg5bE9SOFh2ZlkxQUdwTFpONQ?oc=5",
+      "pubDate": "2026-02-02T08:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXpmRUk2QmljZ0FCSzRhTmpFZFZZMVZDdmtJcDZzU01CYjhlVDIwQ0ZxeW03NVBWS3NyY2pvNzhCeVJyb1hvbWpQN0FrV1dMYUxrMEpURjdIbXV1QlBrT3ZJdWJfTXdiX09Ham92YXNYV2hwVGRJNHgzOGg1ZFdMd1hMbGdxdDBXZGpPaWpseF9Kb2prWXJWd1A5ZFpGVWFvR2pDSHp5Q01hbGhUcF9B?oc=5",
       "pubDate": "2026-01-08T08:00:00+00:00",
@@ -899,6 +944,15 @@
       "description": "Penerapan Perekaman Elektronik dalam Perkara Tindak Pidana Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Menteri PPPA: Banyak Perempuan dan Anak Korban Kekerasan Tidak Berani Melapor",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZFZMQkQzb2hDc0NzY3p2aGliR3Rob1RQbFZwSnNzc1NUa29LYWpDNDlNMGhGV1pOSnRBT3hWVGRpN053dlRKM01Vb0t5a0dXWEhVTDEwR1dOM0VJWFQyNXpPUlQ5OHNSQVExUG1FNUdIQ2l3NVBvV3hMX25RMm4zUDJFc0pnYl9jMXluNVR1azVaSW1HbVdMa01XSVFwdW1yZlhabVBKeDdZX1UzUGM0aDdzMkhKblk?oc=5",
+      "pubDate": "2025-08-06T07:00:00+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "Menteri PPPA: Banyak Perempuan dan Anak Korban Kekerasan Tidak Berani Melapor",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Waspada Kekerasan Berbasis Gender Online (KBGO): Lindungi Hak Perempuan dan Anak di Ruang Digital",
