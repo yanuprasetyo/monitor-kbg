@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-23T02:48:32.562120+00:00",
-  "total": 96,
+  "updated_at": "2026-06-23T09:31:27.279828+00:00",
+  "total": 98,
   "stats": {
-    "tpks": 34,
+    "tpks": 35,
     "kekerasan_seksual": 22,
     "kbg": 16,
-    "kbgo": 24
+    "kbgo": 25
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,9 +28,18 @@
   ],
   "articles": [
     {
+      "title": "LBH Apik Desak Penyekap Wanita di Bandung Juga Dijerat UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjRIei1JMC1KQXJkelhvX1Jxb2xDd2VSTXFud3dibnVMVU5aOXktZ1QzaVBycEw1WDhZODAzY3NQajhHaHNYZ0RubTUzY1d6d2ZzWnpsdFZyb0loUl9kNEkzQVlVdDI1aUJtSUlwOEVwZTdyY2ZraGtnOHAtY29sMGgxdkRybjkwcFBKUA?oc=5",
+      "pubDate": "2026-06-23T06:41:00+00:00",
+      "source": "Tirto.id",
+      "description": "LBH Apik Desak Penyekap Wanita di Bandung Juga Dijerat UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Aliansi Mahasiswa Unimal Gelar Mimbar Bebas “Indonesia Krisis”, Soroti MBG hingga Kekerasan Seksual di Kampus",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLWJMQnV5NGRETjJpdnBBYVJPWXZ0UkZZNUlQSkZNemRVTHp6TDg2Q0k3RktUYWRZWXVXWkxwbGItWFpGV3ZqMzdMcVd6REl2NGE3RjRIel9qQ2RMZmdWMzFwWURJYXQ3elZhbmxJeXN6ZHBfMjBUMU1HS0d5cVBPME00VjBFSkVuWTVUUk9jX1ZZOXFfa0ZBS2NBcFo5bk9UZ1o0TWpYRUxYMExkcHBpU3FPZ28tb0dYWU5SenFaMnlFXzFybXJoX1hIaXJ3NXBMMlI4WXc5MEg?oc=5",
-      "pubDate": "2026-06-22T15:08:56+00:00",
+      "pubDate": "2026-06-22T16:13:12+00:00",
       "source": "satupena.co.id",
       "description": "Aliansi Mahasiswa Unimal Gelar Mimbar Bebas “Indonesia Krisis”, Soroti MBG hingga Kekerasan Seksual di Kampus",
       "keyword_id": "kekerasan_seksual",
@@ -235,6 +244,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Ketika Layar Jadi Senjata: Kekerasan Berbasis Gender Online dan Budaya Misoginis di Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSTlldEZIZmh1NVI4aTQyMnBFNDFGNkkzd2ttMUp2dDJiaHA5X0ZXeG1pUGJVMkFOaGJhTThoeG1iTGFwdlpSNkYwSlpSQnB6TDRIdzZfTXMzSEpEX0pIWjZMNzI4Z0FYTzRsWWFxamc5Y3dUV0dIWVBOanVabHhzempVdl9sVmpQVVgxdHJVdkpVWUFIbHhYenVYcDVYRkNmLWVTNS1nS19fbXdISWxwR2JGX3VoaWl1OG5F?oc=5",
+      "pubDate": "2026-06-12T10:10:30+00:00",
+      "source": "Siaran Berita",
+      "description": "Ketika Layar Jadi Senjata: Kekerasan Berbasis Gender Online dan Budaya Misoginis di Indonesia",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Komnas Perempuan dukung Pemda Kabupaten Belitung Selenggarakan Pelatihan menggunakan Modul Akademi Penghapusan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMUktRzNpamp3ZWxkd3Rqc1h5N3djZmtSM3hSd0o5eWxGUElhOEZpeWJLaE9xMXlIZ1d1QjdqSnhZRHlmcllhdUFYWm9IU0x5dHZDc1ZCeDdIUjlERzVJQTBLMWlJQmFiZ0ZIcER3MmRDaDhxZEVlY0lMcmpaekVIN1c3amNld3ZRZWtuc20yWFQzVHB5Wml4T05UNHZKRUg0bVN6Wko5Y3BzX051RzN4SUdrbG9vTGJvdGtJRzJTS19ZaEN0WjhVUDB3UUVrVjZDMGxTb1JfTE0zUDJUdXlDNjM1Q2RCWmFiZkJHWVpRa3NScGlDcmg5WW1xYXVMSTdUZUNvbWVINjV0eGFVZkE?oc=5",
       "pubDate": "2026-06-12T07:00:00+00:00",
@@ -246,7 +264,7 @@
     {
       "title": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0EtR1EtV01uV3BVeFp1Sm12QkZ1MF9FenRPa01td0ZjUVBGNlZpeV9UTldQQXF5ODBtQzFsYjV1WTVfTjc4TU9XOEpkcHYxa3lvanZEYnBMZEF3cUtQaVdHRHBTT0VVY04xUFdlTlR2d2J5QTZHVnkyWlFVUGJKMW1LLWk?oc=5",
-      "pubDate": "2026-06-11T13:29:00+00:00",
+      "pubDate": "2026-06-11T07:00:00+00:00",
       "source": "BIDIKKASUSNEWS.COM",
       "description": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "keyword_id": "kbg",
@@ -514,20 +532,11 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
+      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
       "source": "Tribrata News",
-      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
+      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -539,6 +548,15 @@
       "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Menteri PPPA Dorong Penanganan Tegas dan Pencegahan Sistemik Kasus Kekerasan Seksual di Kampus",
