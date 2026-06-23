@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-23T14:39:14.829337+00:00",
-  "total": 104,
+  "updated_at": "2026-06-23T19:55:37.092873+00:00",
+  "total": 106,
   "stats": {
     "tpks": 35,
-    "kekerasan_seksual": 25,
+    "kekerasan_seksual": 27,
     "kbg": 18,
     "kbgo": 26
   },
@@ -28,6 +28,15 @@
   ],
   "articles": [
     {
+      "title": "Kekerasan Seksual Jadi Senjata Perang di Sudan, PBB Ungkap Ratusan Korban Termasuk Anak-anak",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaW92NWg4X1dYcHJiYllYQjFwejYxY2xuRnhRQlBwV2stS3l4LTZvaWxQQ3RlemQxVUVrQ0JtVzZNa3Fib2c5SktDUnpjRTA1ZXltRWVpWXg3eUc0UE44MmFuMDkxWFZrVU1IU2gxUGllblFEaVAxRzV3LVlUaXFlTmlMLWpLdUFxSW1qY0lGdzJaSWNVTzF6VmlhVDhhR253V0pEVFlzcWJXd3prbFZRcGRGQ1NFWUVkbEdxejh2Nk1aal9KYnBYTnZaM1p0ZlZ3NGc4bTdVcEJrWmYxcUw4S3Zn?oc=5",
+      "pubDate": "2026-06-23T12:29:15+00:00",
+      "source": "IndonesiaInside",
+      "description": "Kekerasan Seksual Jadi Senjata Perang di Sudan, PBB Ungkap Ratusan Korban Termasuk Anak-anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Kasus KBG Mengkhawatirkan, Pemda Masif Cegah Kekerasan Gender",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUpfZkFZMVU1NEM4SlBUUjdiX1pJSi0ydWdpWF9jYWFXNDgzUnF5cHRKdnp0M2NxVnp5NHJnajVvMUgzdTNpMTRNcGc0T2stUDVkMVpFN2t2dkh4WVJqMFpQbXdZZ2NnU3NuVzlLYmlEbWZXRlU1cGNRZ3FIWUxzbWNFNkhqSmpqamlJZGxIdlo?oc=5",
       "pubDate": "2026-06-23T11:59:54+00:00",
@@ -44,6 +53,15 @@
       "description": "Jumlah Kasus Masih Tinggi, Pemkab Lobar Gandeng Jaringan CSO Tekan Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Polisi Tangkap Pemuda Terkait Dugaan Kekerasan Seksual terhadap Siswi di Batam",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0dWYmVlZlhjMXJFVzByWVJ4M2FzNDItYS1CZWctbi15R1NJd0hHQlRHNUZPbHhoZVQwMGFHa0xFazV4M1JtMGFzS2taamZveUVPX29CUmxPWGhZYzZDZlRxX2stVVFUdHZDRHRRSXA4RDQtcEI5QllwRU5KWmN2OXA2YndGYzJiWVhBZjNnU3hrSnF4N0lYbXAtRnpHZlFQekJva2c2U3ByUFVFdHBGV3d4UWF3aWVaQWk1cDRxcw?oc=5",
+      "pubDate": "2026-06-23T11:39:44+00:00",
+      "source": "Media Indonesia",
+      "description": "Polisi Tangkap Pemuda Terkait Dugaan Kekerasan Seksual terhadap Siswi di Batam",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "LBH Apik Desak Penyekap Wanita di Bandung Juga Dijerat UU TPKS",
@@ -309,7 +327,7 @@
     {
       "title": "Majelis Hakim PN Gowa Vonis Dosen UNM Pelaku Kekerasan Seksual 4 Tahun 6 Bulan Penjara",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1JJdThzMURyY2FrZjJVcXI3REJzNW4wLWdoQk5CX0FEVWtyeF9UaGxRem9ZLXFTTUxNdUxlc1c4cFlqSlZWU2NfYmRrbWFwc1BSd3lGaVlZVzFpUDZUQU8tMnFKaENrOVVJR0Z4LXZkTUhDc3EzTVlyYW8zdWxZbzdnNUFUWktSclVFNUtQeS1wQXdEMVktQUVQNjFlM1JiYVRUOHdHZGxpYUoyODZxckNlQjB6T3JVc3A4d3N6NlJ3WGM?oc=5",
-      "pubDate": "2026-06-10T09:15:26+00:00",
+      "pubDate": "2026-06-10T07:00:00+00:00",
       "source": "LBH Makassar",
       "description": "Majelis Hakim PN Gowa Vonis Dosen UNM Pelaku Kekerasan Seksual 4 Tahun 6 Bulan Penjara",
       "keyword_id": "tpks",
@@ -478,15 +496,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUEJxYWRVaVRBVEVGUGIwMWFwWkhUQklmSzZvcWFZWHJoa1JPQVdtS0M3bFFlY3NES3VJNDd6NnEtUGVySW1lbVBzZ05xMFBIUi1JWXlCWHRDcHBNTXNWSNIBZkFVX3lxTE9kaWRfQ1VYWG9JZGNnOElsX1FqakJXWGhUM0FJSHVEeWhIcXhYNC02WTRaVFFQeUVDcjA4dk9fVm41eEREbUsxU2pONFhKRUtXRXZmOW5DOU9iazNuS3BidW9nRnpOdw?oc=5",
-      "pubDate": "2026-05-07T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOTRKRFFHdEdMdmhWbFZ1VEZYVnVmX2lfMmFCZWJIT3VkMHRMZklyYm9kMm5FU093SG5jNFJNbmZ6c0xkeENDYmh2UFdGc1FTN0JQNlFhM2RIMm91c2lDRFV5VmZsYmJYNkpkeGRDZFE0Y2Z4WVJ1a0dqbzE0TjJLVV9HU2ZKUlpaWWtkcXB4M3BoUExYVkNMU1B2ZUcxbjhtd29sMTBDVXN2LTd1enlDLXg0aDVYNldwYWJoeTlLMEpaQlZkcDhBTWxPRmQtdnMyYkhPXzE1ejhOZGR1Z1BFbU5sa3h1UQ?oc=5",
       "pubDate": "2026-05-07T07:00:00+00:00",
@@ -494,6 +503,15 @@
       "description": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUEJxYWRVaVRBVEVGUGIwMWFwWkhUQklmSzZvcWFZWHJoa1JPQVdtS0M3bFFlY3NES3VJNDd6NnEtUGVySW1lbVBzZ05xMFBIUi1JWXlCWHRDcHBNTXNWSNIBZkFVX3lxTE9kaWRfQ1VYWG9JZGNnOElsX1FqakJXWGhUM0FJSHVEeWhIcXhYNC02WTRaVFFQeUVDcjA4dk9fVm41eEREbUsxU2pONFhKRUtXRXZmOW5DOU9iazNuS3BidW9nRnpOdw?oc=5",
+      "pubDate": "2026-05-07T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren",
