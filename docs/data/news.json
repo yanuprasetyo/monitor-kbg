@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-24T14:21:53.665326+00:00",
-  "total": 116,
+  "updated_at": "2026-06-24T19:40:40.222246+00:00",
+  "total": 117,
   "stats": {
-    "tpks": 41,
-    "kekerasan_seksual": 30,
+    "tpks": 42,
+    "kekerasan_seksual": 31,
     "kbg": 19,
-    "kbgo": 26
+    "kbgo": 25
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -62,6 +62,15 @@
       "description": "| Ketua Komisi III DPR Minta Taufik Hidayat Dijerat Pasal Berlapis",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Menpora Kecam Pelecehan Seksual Atlet Menembak oleh Pengurus Perbakin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2lJNHdmNHpxVklFaFlHcDJ3dzJZN3MzTDV3WEQwR2x4NHQ2NXFKT09JdUNkaFpxd0tOZ0c4U3pVMTNzUjhDS19pODRZZDNZUE1zWTQ3YW5tZGh2WFVyWjR6RjJUd0ZTVUFiSHVkSWliUEpXQXJVUG1aU2FFZHB2SG4zTWlKTVB1cTk1dnJ5elZBOFhoamV3WjZleU0yb003?oc=5",
+      "pubDate": "2026-06-24T05:23:00+00:00",
+      "source": "Herald ID",
+      "description": "Menpora Kecam Pelecehan Seksual Atlet Menembak oleh Pengurus Perbakin",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Selly Gantina Kutuk Penyekapan 3 Tahun di Bandung: Desak UU TPKS Diterapkan Maksimal!",
@@ -263,7 +272,7 @@
     },
     {
       "title": "Sah Jadi Inisiatif DPR, Ditunggu Pembahasan Cepat RUU Tindak Pidana Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQN00zVlZ4Zk5sVElQVTdjOGpYQUFKa1ZTcXZtWm5Fa2wzek5pUEF6NmlYMHh5UGMybEN5MXZrYmY4TkxOOTNOamE3MWhPMVdFRGU3Z2w5RE1vZXAxV3lDVTNjcllrcnBSQ3VVQko2MGNNUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnRHWEg5RlQ1Y0FpUWU2TWhUN0QyVW9wMDIxMi1jQ1NNTlpjam0wRWY4TjAzV0RTc3BST29NUVRVSmtkNmx3clluRnd3TW5qQVNiY0RuaHRpVjQ3ZWZadTFQa29ienIxSDVOTWNWUGZEcUozY1pBd2JneFBRQ1p1UTV1clE4WEtoQm5UMzhB?oc=5",
       "pubDate": "2026-06-19T07:00:00+00:00",
       "source": "Kompas.id",
       "description": "Sah Jadi Inisiatif DPR, Ditunggu Pembahasan Cepat RUU Tindak Pidana Kekerasan Seksual",
@@ -577,15 +586,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUEJxYWRVaVRBVEVGUGIwMWFwWkhUQklmSzZvcWFZWHJoa1JPQVdtS0M3bFFlY3NES3VJNDd6NnEtUGVySW1lbVBzZ05xMFBIUi1JWXlCWHRDcHBNTXNWSNIBZkFVX3lxTE9kaWRfQ1VYWG9JZGNnOElsX1FqakJXWGhUM0FJSHVEeWhIcXhYNC02WTRaVFFQeUVDcjA4dk9fVm41eEREbUsxU2pONFhKRUtXRXZmOW5DOU9iazNuS3BidW9nRnpOdw?oc=5",
-      "pubDate": "2026-05-07T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOTRKRFFHdEdMdmhWbFZ1VEZYVnVmX2lfMmFCZWJIT3VkMHRMZklyYm9kMm5FU093SG5jNFJNbmZ6c0xkeENDYmh2UFdGc1FTN0JQNlFhM2RIMm91c2lDRFV5VmZsYmJYNkpkeGRDZFE0Y2Z4WVJ1a0dqbzE0TjJLVV9HU2ZKUlpaWWtkcXB4M3BoUExYVkNMU1B2ZUcxbjhtd29sMTBDVXN2LTd1enlDLXg0aDVYNldwYWJoeTlLMEpaQlZkcDhBTWxPRmQtdnMyYkhPXzE1ejhOZGR1Z1BFbU5sa3h1UQ?oc=5",
       "pubDate": "2026-05-07T07:00:00+00:00",
@@ -593,6 +593,15 @@
       "description": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUEJxYWRVaVRBVEVGUGIwMWFwWkhUQklmSzZvcWFZWHJoa1JPQVdtS0M3bFFlY3NES3VJNDd6NnEtUGVySW1lbVBzZ05xMFBIUi1JWXlCWHRDcHBNTXNWSNIBZkFVX3lxTE9kaWRfQ1VYWG9JZGNnOElsX1FqakJXWGhUM0FJSHVEeWhIcXhYNC02WTRaVFFQeUVDcjA4dk9fVm41eEREbUsxU2pONFhKRUtXRXZmOW5DOU9iazNuS3BidW9nRnpOdw?oc=5",
+      "pubDate": "2026-05-07T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren",
@@ -951,8 +960,8 @@
       "pubDate": "2025-12-31T08:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Refleksi Bersama 3 Tahun UU TPKS: Tantangan Implementasi Masih Nyata di Sulawesi Tengah",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
