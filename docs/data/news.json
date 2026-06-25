@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-24T19:40:40.222246+00:00",
+  "updated_at": "2026-06-25T02:49:05.450416+00:00",
   "total": 117,
   "stats": {
-    "tpks": 42,
+    "tpks": 43,
     "kekerasan_seksual": 31,
     "kbg": 19,
-    "kbgo": 25
+    "kbgo": 24
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -244,11 +244,11 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Pemkab Kuningan perkuat literasi pada masyarakat cegah kekerasan digital",
+      "title": "Pemkab Kuningan perkuat literasi pada masyarakat cegah kekerasan digital - ANTARA News Jawa Barat",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUzZLc2k5OVRVakFScWNiRjQwVnFJMmNXSjRyRnoyUjREZUE4eVdicllac0NFWWlvRGRxZWNReGhQUVlQaWpLOTFENi1HRHVGRkQ4eTgxcE0wTk4zbWdHWDJfRC13aEdTVmtWUzdWa1hYVlFsLU1YMVV5dzdpdHBBRzh3amEyNno5d1ZYcjJBZFVoOGdBcEhFUmt6NHgzWGI3WUlPZnNoY2pUX3pCTGQ0V1ZhQ20wQdIBuwFBVV95cUxNVTlOYVMyaHB1ZGlSWlVMZTlxRW9oQW5pRGYybGVXTWNaWkczTHhoNGRrVFhhR2JJdDliWlJrXzFqUFdoVG9mRzVtOFNCa0ZBNklXWTV0NFhLU0NPSDNieXI3czhkRDZRMVYwVXFTSjlZTkQzTEVPdXBnUnMtZ3N2RzJib3lkQXpoMzdOSXd4cGZMUEVubmRVeFVZMlZwT0ZUSFZUSFhoMTA5R21Zd3Jtcy1XZ05hakpfTzRR?oc=5",
       "pubDate": "2026-06-19T13:23:58+00:00",
-      "source": "ANTARA News Jawa Barat",
-      "description": "Pemkab Kuningan perkuat literasi pada masyarakat cegah kekerasan digital",
+      "source": "Berita Terkini Jawa Barat",
+      "description": "Pemkab Kuningan perkuat literasi pada masyarakat cegah kekerasan digital ANTARA News Jawa Barat",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -973,20 +973,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNl80Vk5HTGV0RW5rcnNpWmxKa04td0EtVFhLWlQxMzVzYmFBMnp1U2MxM3BfdXNFdllqWWRQam1tX3Jwbzk1T1pBVk12LTIwVzZ4RlpYLVk3SDJtMGxzdnBxazY1RVJWN3o5eG9NNEVmZDdldW41R21lN0EtUFU5a0VrbEM2bWstYWVveWJsZ0FPd1FPZ2F2ZlJkbGN2RjRHVFBId1k2d2R3VzN6MDRYNzBDcS1ONzJ1RXg5VVNFenFkQzVndHBXWXRXWjJGY0pBMUVZbUZkenA?oc=5",
-      "pubDate": "2025-12-09T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Kekerasan Berbasis Gender Online: Korban Terjebak Konflik UU TPKS dan Ancaman UU ITE",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW9wSlpidFFmTzE4MXBjbkVtQkhNMG9BdW5UMTN3TlB1MTRKM19IZl9sWkNyNHZtTTNIM2x5VnJyeFg1alFQeG1obmpsRk5WSFllWEJWWjRFcVp5RUxteGcyRE9aWkdGTkE0bFN4bnBnaGtZWUExNGp6RVhxN0lnNjU3eTNHQnJmNWZtNlJsTWlqeFVqRGllRTl1QktmNzFoemxrWVl2U2t1WG00eEZiV25ZbjBhcXJSWUM1ODNQa29sc2F0dkp3Z1hSUzIzMnJMcVJBSA?oc=5",
       "pubDate": "2025-12-09T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Kekerasan Berbasis Gender Online: Korban Terjebak Konflik UU TPKS dan Ancaman UU ITE",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNl80Vk5HTGV0RW5rcnNpWmxKa04td0EtVFhLWlQxMzVzYmFBMnp1U2MxM3BfdXNFdllqWWRQam1tX3Jwbzk1T1pBVk12LTIwVzZ4RlpYLVk3SDJtMGxzdnBxazY1RVJWN3o5eG9NNEVmZDdldW41R21lN0EtUFU5a0VrbEM2bWstYWVveWJsZ0FPd1FPZ2F2ZlJkbGN2RjRHVFBId1k2d2R3VzN6MDRYNzBDcS1ONzJ1RXg5VVNFenFkQzVndHBXWXRXWjJGY0pBMUVZbUZkenA?oc=5",
+      "pubDate": "2025-12-09T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
