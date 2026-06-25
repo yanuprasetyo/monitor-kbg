@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-25T14:22:14.822015+00:00",
-  "total": 121,
+  "updated_at": "2026-06-25T19:53:05.418067+00:00",
+  "total": 122,
   "stats": {
     "tpks": 44,
-    "kekerasan_seksual": 32,
+    "kekerasan_seksual": 33,
     "kbg": 20,
     "kbgo": 25
   },
@@ -30,7 +30,7 @@
     {
       "title": "Disdikbud Kukar Jamin Hak Sekolah Anak Terlibat Kasus, TRC PPA Desak Penerapan UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUG5UR3IyQmlhSlNlU1Bma1VyekhVanl6Y2FpTGQ5NGVtaHlzbVc3OGozTHdrclZGRS1MNWNDa3VpRlZOWnMxbU50NG1iczgwSVhheElLYWNhM2E5amdBYzJSUGJPS2VMY0NUdGVnWW93S3daXzN1bURsbkVSREFSa1ZvekROaGNGWTJabFIzc1RQRnMzSGd2VW1WdTVjQ3pfUVNrZ1lKT18yUzMzX2U2TmZpSFgwbGxUdDg1c1JKUkRhbW5qN1NPaGpxdkI1LWc2XzIzUQ?oc=5",
-      "pubDate": "2026-06-25T12:11:15+00:00",
+      "pubDate": "2026-06-25T12:12:53+00:00",
       "source": "Korankaltim.com",
       "description": "Disdikbud Kukar Jamin Hak Sekolah Anak Terlibat Kasus, TRC PPA Desak Penerapan UU TPKS",
       "keyword_id": "tpks",
@@ -415,6 +415,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRwQWtzUVA4RFVTV3dQNUdVLW1JVVVNQ0YwbkVoU3dHaThZekNJRnVpMGF1ek5pQTlYUWZmZDFQSy1ZSUdmd2s4MVZnenFXdEhsd0JVWTBGS0YxU2RHZlMzQUNRNVl5QlI2alo3djVtUEpXODdORWJ2WGoxYWVCeVJUTFlyZGFQNk9OVTl6QkpsdzFDa3ZMZWpUbjh4cXRkUG9uUzdEcFEzMTFhR2Jn?oc=5",
+      "pubDate": "2026-06-11T00:49:00+00:00",
+      "source": "Badan Pembinaan Hukum Nasional",
+      "description": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Ketika Layar Ponselmu Jadi Senjata untuk Menyerangmu, Misogini di Dunia Online",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUJQcjlhTDhzbFlMU3hvTVA1V254LW85Ym54LW9HNTF4bDUycTVoYTA0aXhCX1dhazVYZVdSYXVyZnRNTmVCUUg0SjFhbmU2Xzlpa1NoUHB0ZVRQTlFRX3lVcGZTaGc4aTkzaTFaZDdldWMxNzFNMEpDektJdnd2dEhEZlFIejdqU1lxZWstaVdqaTY2ZGZ0TXR1UGJiT25SVmU4NTl3cWZRQVE?oc=5",
       "pubDate": "2026-06-11T00:26:31+00:00",
@@ -496,15 +505,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnbTVlWkRySlJCNHRSa1V3aDRtbTdVOXFndDFySktQZFQ4WlpmQzdhQ2F6RXY1NHZNOVZCbm1TNkNtVGdIcXRORnZnRDZ1bURtaHlQeFVLbWtlUjFya1JUc9IBZkFVX3lxTE9qLVE3ZzQ0ZlNRTnFXLUhzeVpMZzdPaWNSVmlsc2pwTTh0WFV5OWpnckVWRXJ1SzZ5TzVENldPbVU3YklGS2FjWHRIbEhQV1ZsUTg2bVNka3BILTNqTW9ha0VtdUJudw?oc=5",
-      "pubDate": "2026-05-29T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWnpZTmZleW1sWVJiYU9TbDFUQ0pUaVRITzlJTFVpQWdrUUdjQmdEM2RaMUt5RUozMzB6R0huMmVZS3hMQnowN3lPemdPcXRjRml1bDNweWVScnlFV1psNXlhWXExeWFMWUVzTjlER2w1RzBBakJ0MVJYSmVEejdlOVIzcGFyQzJCWUdpUl90eFJIcUFHdllERXJhMG5HM1hqTFhhSkhtcWNfbDM5YkU0SHNRN3dMWXJvd1BrNHNBMTloeFZTOHpxNGdFLTk1QTNuMF9PUE9RbmJ6bHRYNll5SEhSZXd2bk0xODdGUHFLN1pQNDhGb3Fnb1pEcUNqQkxMd0s1WnhvX2rSAY4CQVVfeXFMUFkwY0wwWkhKanBZLWg3TnBPb1NpNHZiQ3drbHhMazJIcUUzUmpRQVo4MXg1eGZ5SVcybU42ZTVEVmZTOEQ5alExTGJ4S3ZBVExOUi1Dd3lXaDdPeWVDc0VjVlRWYkpnQTdYRV9wbFduM3UtdXhOX1Fla0JPTVNod0NpdmJQYlRmc2NVa212SlhOeC1ycEdYTkE3Q3NuMGY1QWRyTEZad1Q3YnRmWUc1X09LbjRwNjhOQk1YWlBfLTdrMlBDWXZJRDJpX2h0aThWTG9sNmJRUkhGa3R6YjFMUEZnOUctMS1vaHRheEpGLUtoSHV1c2FFZWU1a083bkl5UHpqS2NlSzMwNER3Z2ln?oc=5",
       "pubDate": "2026-05-29T07:00:00+00:00",
@@ -512,6 +512,15 @@
       "description": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnbTVlWkRySlJCNHRSa1V3aDRtbTdVOXFndDFySktQZFQ4WlpmQzdhQ2F6RXY1NHZNOVZCbm1TNkNtVGdIcXRORnZnRDZ1bURtaHlQeFVLbWtlUjFya1JUc9IBZkFVX3lxTE9qLVE3ZzQ0ZlNRTnFXLUhzeVpMZzdPaWNSVmlsc2pwTTh0WFV5OWpnckVWRXJ1SzZ5TzVENldPbVU3YklGS2FjWHRIbEhQV1ZsUTg2bVNka3BILTNqTW9ha0VtdUJudw?oc=5",
+      "pubDate": "2026-05-29T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Discord dan Ruang Gelap KBGO Anak yang Jarang Kita Bicarakan",
