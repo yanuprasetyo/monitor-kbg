@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-25T02:49:05.450416+00:00",
-  "total": 117,
+  "updated_at": "2026-06-25T08:54:24.802362+00:00",
+  "total": 118,
   "stats": {
     "tpks": 43,
-    "kekerasan_seksual": 31,
+    "kekerasan_seksual": 32,
     "kbg": 19,
     "kbgo": 24
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Jangan Dianggap Sepele, Ini Contoh-Contoh Kekerasan Seksual Verbal dan Non-Verbal",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3NleERacHYxY0VIMzJndFdfbjZvZXpGZU0yejBvdWJNUkI4M2M5SWdjUEZETUgtVXR6ZnZFRVdBZTdlYTg3V2dJZFhfMXN4Y0s1NndWVm1JWFNvbldBaE82ajlZeWJpX1FUYWxBYWJYbW5pMnREaEFSMGhaeUJXNUZRT0FwYXFKMWRZeEFhQ1A1SllnSG1uNEhYbHBUdlk?oc=5",
+      "pubDate": "2026-06-25T04:00:00+00:00",
+      "source": "Inilah.com",
+      "description": "Jangan Dianggap Sepele, Ini Contoh-Contoh Kekerasan Seksual Verbal dan Non-Verbal",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Instrumen Pemantauan Pelaksanaan Pencegahan dan Pemenuhan Hak Korban Tindak Pidana Kekerasan Seksual (TPKS)",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeXBfZlFBWlQ5VUIxeFBFZWJ4M0piVGJXd0V1eTN3WkRfSGRRZXZyYlpxdElkclRONE9peTdNYk9wUVp0VEdGa3JLS1dWdEs5enNidEJQLW1MQjFwemFaUS1HTWpfX1hQY2kwWV9LdFNPUS1KanA5cFkyNjRieFJObncxR2pkdlR0Ym1BT1UzM2ZSM2ZNS21UVVYyXzlVeS1NMnU2NzdLdnkzemVoUDRjUFNvUkpGYjByMzUyOU5lZmtpZEZSQS1uMElOZnR3dWdnbUsxZHk2TWxzbUtGVjJwa2ZpVnc4b1hvdWp4Y01fNENXbl93ZU5GYzZRZnl1TGU3Mmt3?oc=5",
@@ -802,6 +811,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWxOZ1F6Z0x4UmQxbVJWVGxlQ0d4Z1hMS0tCNmNxTzJ3U18zUmFCVzNXX1B3cHZ6akRrc3NJM05FNkdNOEhZSm53bTJLTHV1a3Z4cWJwdU5ONVZBVmg0ZWRHM0FxNV9fa3NScDRPR2NVcXpnUDd0SGhpSzIyVlphTzVZaXlTSXptRWdKUm1ySGVRN2J2d2ZQYTBzZFZoMFJJcTFEUmYtYTFXZWVfLW90X0E0cy1hNUd3SC0teg?oc=5",
+      "pubDate": "2026-03-02T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Polri Luncurkan Modul Pelatihan TPKS, Menteri PPPA: Polisi Garda Terdepan Perlindungan Korban",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUY1ZnJtVlhROEh5YWdEc0lNUG1jSnMzbjBhQ1I2RHpuTDF1YkE5bmZJeVBDWENVSEM5d3RMQXRUazNTanBoMFhLZV9yWGZPeE9HZ1pLM242azNmTmRiTkFVbVFQazZURFFwck5DRklnX3A4VmQtdUdQbGo1Vk9td1k4WThOUjZRc1NVb3ZkQ1VoUlNXVEptNGZNNldsUzVlbnZaclVrVTYydlA1UUFlUEJMcjJ1bGFBNE0wVVZtQlZBcFlOaThNX2NHcEJxampGbEtZ?oc=5",
       "pubDate": "2026-03-02T08:00:00+00:00",
@@ -816,15 +834,6 @@
       "pubDate": "2026-03-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Implementasi UU TPKS Belum Merata Terhimpit Problem Struktural",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWxOZ1F6Z0x4UmQxbVJWVGxlQ0d4Z1hMS0tCNmNxTzJ3U18zUmFCVzNXX1B3cHZ6akRrc3NJM05FNkdNOEhZSm53bTJLTHV1a3Z4cWJwdU5ONVZBVmg0ZWRHM0FxNV9fa3NScDRPR2NVcXpnUDd0SGhpSzIyVlphTzVZaXlTSXptRWdKUm1ySGVRN2J2d2ZQYTBzZFZoMFJJcTFEUmYtYTFXZWVfLW90X0E0cy1hNUd3SC0teg?oc=5",
-      "pubDate": "2026-03-02T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
