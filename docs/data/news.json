@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-26T02:54:04.347025+00:00",
-  "total": 129,
+  "updated_at": "2026-06-26T08:57:33.128705+00:00",
+  "total": 130,
   "stats": {
     "tpks": 44,
     "kekerasan_seksual": 33,
-    "kbg": 27,
+    "kbg": 28,
     "kbgo": 25
   },
   "new_this_fetch": 60,
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdFk0WkE3TFc3MXJranZaSzJac2FyTTZJZ0pyMWpGd3F0Zmoyc092ZUtxcWFfVHZ6ZHVIMDB6ZENxeGxCMFlNdXhkR1hNTUhoZGNEdzlGMkxqWHFUNGl2SjRwY2xEQzFyVTMwTDdyUDdGWk1PcjRIajJUUG42X0dFY3c3M24zcEkwaUZJRVlqZkotMzdtOVJmN09HMW9qT3FFalFoTUhfend2cmpJSXQ2cHNMV3NlTktfNk1tVVhrUVQtR2dYd0xnVFNPeTUyV3M4T2c?oc=5",
+      "pubDate": "2026-06-26T04:09:48+00:00",
+      "source": "Bimakini",
+      "description": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
     {
       "title": "Disdikbud Kukar Jamin Hak Sekolah Anak Terlibat Kasus, TRC PPA Desak Penerapan UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUG5UR3IyQmlhSlNlU1Bma1VyekhVanl6Y2FpTGQ5NGVtaHlzbVc3OGozTHdrclZGRS1MNWNDa3VpRlZOWnMxbU50NG1iczgwSVhheElLYWNhM2E5amdBYzJSUGJPS2VMY0NUdGVnWW93S3daXzN1bURsbkVSREFSa1ZvekROaGNGWTJabFIzc1RQRnMzSGd2VW1WdTVjQ3pfUVNrZ1lKT18yUzMzX2U2TmZpSFgwbGxUdDg1c1JKUkRhbW5qN1NPaGpxdkI1LWc2XzIzUQ?oc=5",
@@ -505,15 +514,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWnpZTmZleW1sWVJiYU9TbDFUQ0pUaVRITzlJTFVpQWdrUUdjQmdEM2RaMUt5RUozMzB6R0huMmVZS3hMQnowN3lPemdPcXRjRml1bDNweWVScnlFV1psNXlhWXExeWFMWUVzTjlER2w1RzBBakJ0MVJYSmVEejdlOVIzcGFyQzJCWUdpUl90eFJIcUFHdllERXJhMG5HM1hqTFhhSkhtcWNfbDM5YkU0SHNRN3dMWXJvd1BrNHNBMTloeFZTOHpxNGdFLTk1QTNuMF9PUE9RbmJ6bHRYNll5SEhSZXd2bk0xODdGUHFLN1pQNDhGb3Fnb1pEcUNqQkxMd0s1WnhvX2rSAY4CQVVfeXFMUFkwY0wwWkhKanBZLWg3TnBPb1NpNHZiQ3drbHhMazJIcUUzUmpRQVo4MXg1eGZ5SVcybU42ZTVEVmZTOEQ5alExTGJ4S3ZBVExOUi1Dd3lXaDdPeWVDc0VjVlRWYkpnQTdYRV9wbFduM3UtdXhOX1Fla0JPTVNod0NpdmJQYlRmc2NVa212SlhOeC1ycEdYTkE3Q3NuMGY1QWRyTEZad1Q3YnRmWUc1X09LbjRwNjhOQk1YWlBfLTdrMlBDWXZJRDJpX2h0aThWTG9sNmJRUkhGa3R6YjFMUEZnOUctMS1vaHRheEpGLUtoSHV1c2FFZWU1a083bkl5UHpqS2NlSzMwNER3Z2ln?oc=5",
-      "pubDate": "2026-05-29T07:00:00+00:00",
-      "source": "ANTARA News Megapolitan",
-      "description": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnbTVlWkRySlJCNHRSa1V3aDRtbTdVOXFndDFySktQZFQ4WlpmQzdhQ2F6RXY1NHZNOVZCbm1TNkNtVGdIcXRORnZnRDZ1bURtaHlQeFVLbWtlUjFya1JUc9IBZkFVX3lxTE9qLVE3ZzQ0ZlNRTnFXLUhzeVpMZzdPaWNSVmlsc2pwTTh0WFV5OWpnckVWRXJ1SzZ5TzVENldPbVU3YklGS2FjWHRIbEhQV1ZsUTg2bVNka3BILTNqTW9ha0VtdUJudw?oc=5",
       "pubDate": "2026-05-29T07:00:00+00:00",
@@ -521,6 +521,15 @@
       "description": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWnpZTmZleW1sWVJiYU9TbDFUQ0pUaVRITzlJTFVpQWdrUUdjQmdEM2RaMUt5RUozMzB6R0huMmVZS3hMQnowN3lPemdPcXRjRml1bDNweWVScnlFV1psNXlhWXExeWFMWUVzTjlER2w1RzBBakJ0MVJYSmVEejdlOVIzcGFyQzJCWUdpUl90eFJIcUFHdllERXJhMG5HM1hqTFhhSkhtcWNfbDM5YkU0SHNRN3dMWXJvd1BrNHNBMTloeFZTOHpxNGdFLTk1QTNuMF9PUE9RbmJ6bHRYNll5SEhSZXd2bk0xODdGUHFLN1pQNDhGb3Fnb1pEcUNqQkxMd0s1WnhvX2rSAY4CQVVfeXFMUFkwY0wwWkhKanBZLWg3TnBPb1NpNHZiQ3drbHhMazJIcUUzUmpRQVo4MXg1eGZ5SVcybU42ZTVEVmZTOEQ5alExTGJ4S3ZBVExOUi1Dd3lXaDdPeWVDc0VjVlRWYkpnQTdYRV9wbFduM3UtdXhOX1Fla0JPTVNod0NpdmJQYlRmc2NVa212SlhOeC1ycEdYTkE3Q3NuMGY1QWRyTEZad1Q3YnRmWUc1X09LbjRwNjhOQk1YWlBfLTdrMlBDWXZJRDJpX2h0aThWTG9sNmJRUkhGa3R6YjFMUEZnOUctMS1vaHRheEpGLUtoSHV1c2FFZWU1a083bkl5UHpqS2NlSzMwNER3Z2ln?oc=5",
+      "pubDate": "2026-05-29T07:00:00+00:00",
+      "source": "ANTARA News Megapolitan",
+      "description": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Discord dan Ruang Gelap KBGO Anak yang Jarang Kita Bicarakan",
@@ -694,15 +703,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Kartini dan Luka yang Tak Terlihat",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -710,6 +710,15 @@
       "description": "Kartini dan Luka yang Tak Terlihat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
