@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-26T08:57:33.128705+00:00",
-  "total": 130,
+  "updated_at": "2026-06-26T14:14:19.303309+00:00",
+  "total": 133,
   "stats": {
-    "tpks": 44,
-    "kekerasan_seksual": 33,
+    "tpks": 46,
+    "kekerasan_seksual": 34,
     "kbg": 28,
     "kbgo": 25
   },
@@ -28,9 +28,27 @@
   ],
   "articles": [
     {
+      "title": "Partisipasi Masyarakat Kunci Cegah Kekerasan Seksual, Lestari Moerdijat Dorong Implementasi UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdUprZFF5dkNNWlZYOFV1aS1zb1BSSUx0MmxrQjJHTXhyTTQwbThZM1duMkE5YnhhbEdSUjFlaFF5alh6X1RaN2MxM3BNa0llS2VZd1FpVkhkNFppVTduV2lIcHgyeXhSekxhQ2NTYjFyWGF6QnR1R0d5Y0pKX1FjSENfNVBLYjRXSm9aNkl2MDEtdk1NRWpHSGk0V2NLWkhVLWpqTlZ1UHdua1VPaGdhREdfV3BXVm9PamZKcGVkc1c2aTlRVzhYSVpYNk9fMzB5dm4yM21vTWZQb1FT?oc=5",
+      "pubDate": "2026-06-26T12:45:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "Partisipasi Masyarakat Kunci Cegah Kekerasan Seksual, Lestari Moerdijat Dorong Implementasi UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Waka MPR Dorong Partisipasi Masyarakat dalam Pencegahan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUJYcVNvT2VoTDg0VUNxdWg2NHZGaDltSEN5V1lhalVGNXVJSEg2Skl2UnZBcDlpRk9RN3VGalhyQTh1ajFvY3V0YldmeENaV2lnZGNIY0gzNE9pZ1ViczZZb0phOHRsNEx0LVpsM0h6VTBrQ1Rha1ljbWYybWlmUUhDS0JlMUdScHZZQjZzSDNMMm5rODZHRkdVMHJpR0dmUUgyX1JodlhMWWpoQnhuTVV0MNIBuAFBVV95cUxQV09Pem13dTFiMUJqcm1BWU0xU3M3Tlh1dmEwTGhmWlFPYmx2eUJlZmI3N2xyX2NLRzVGRGpydWxxYnJBd2JydTQ5UVhmUlpLT25FeldoRkZpQ3BxQVYwS3RDVXhJdzVGeWdNZ3l0RjNRNmFuTTZOTTFvYk5EZUQzWkRxY3AwV242RVN2RDZqOXp6ZmtWX2pMd0dIREhlNmZxa0RVUmVvOTFGam1yT0l3RjRqTnlHZlpX?oc=5",
+      "pubDate": "2026-06-26T12:02:27+00:00",
+      "source": "detikNews",
+      "description": "Waka MPR Dorong Partisipasi Masyarakat dalam Pencegahan Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdFk0WkE3TFc3MXJranZaSzJac2FyTTZJZ0pyMWpGd3F0Zmoyc092ZUtxcWFfVHZ6ZHVIMDB6ZENxeGxCMFlNdXhkR1hNTUhoZGNEdzlGMkxqWHFUNGl2SjRwY2xEQzFyVTMwTDdyUDdGWk1PcjRIajJUUG42X0dFY3c3M24zcEkwaUZJRVlqZkotMzdtOVJmN09HMW9qT3FFalFoTUhfend2cmpJSXQ2cHNMV3NlTktfNk1tVVhrUVQtR2dYd0xnVFNPeTUyV3M4T2c?oc=5",
-      "pubDate": "2026-06-26T04:09:48+00:00",
+      "pubDate": "2026-06-26T06:32:00+00:00",
       "source": "Bimakini",
       "description": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "keyword_id": "kbg",
@@ -114,6 +132,15 @@
       "pubDate": "2026-06-24T05:23:00+00:00",
       "source": "Herald ID",
       "description": "Menpora Kecam Pelecehan Seksual Atlet Menembak oleh Pengurus Perbakin",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Menpora Erick Thohir Kecam Pelecehan Seksual terhadap Atlet Menem",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWRiUFFFa2FsVGFlcENNcjBYdDM2RG9GU1p5WVVoZDBqYzY2S1o4a2owV3FHSzQwX2xLNURqQi1haXJjRHdlbE03MVRVSVNkM1hJc2xEcV9YT2dEdDBWQW1tcjJwU0xLSGxUR3I2SXV3RUs1QThXSTh0SWRka1EyV2YtTGlvVUlwbmpNdm9kbWV3SG5DRDdoclI2S21qZTZRaDlCN0c4Ukg?oc=5",
+      "pubDate": "2026-06-24T03:26:26+00:00",
+      "source": "Kementerian Pemuda dan Olahraga",
+      "description": "Menpora Erick Thohir Kecam Pelecehan Seksual terhadap Atlet Menem",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -345,7 +372,7 @@
     {
       "title": "Waspadai 'Pisau Bermata Dua' Teknologi, Dinsos P3A Banjar Edukasi Kader hingga Forum Anak Soal KBGO",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT1dEeUt5T1FtTng4SVpOUDE2N0pCZ1pxTDRFOVlEcURELXd5a1Azai1fTGZRVkkxXzJNYlliTkxrTnZiZUpLTnF6TnRIR2U2ck96RVVucV8ySmlTX0RsQnlpeUlqTkNqYlJGQUJITHpzbDlXbURJMG42Tk1Ub3dwQXpMbXlndFVvblBDWV9yekh4YTBlZ1Q1RC1RbXVKajlLZXQwM3lNWjlRS2h3eE9OMElodVF6Wi1WWmJWLVVJLTNWLVU2aENqdE5QMlNEcDg5amljZFNNRGtVYkhXdkszWUZDRQ?oc=5",
-      "pubDate": "2026-06-17T07:48:00+00:00",
+      "pubDate": "2026-06-17T07:00:00+00:00",
       "source": "TIMES Indonesia",
       "description": "Waspadai 'Pisau Bermata Dua' Teknologi, Dinsos P3A Banjar Edukasi Kader hingga Forum Anak Soal KBGO",
       "keyword_id": "kbgo",
@@ -514,15 +541,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnbTVlWkRySlJCNHRSa1V3aDRtbTdVOXFndDFySktQZFQ4WlpmQzdhQ2F6RXY1NHZNOVZCbm1TNkNtVGdIcXRORnZnRDZ1bURtaHlQeFVLbWtlUjFya1JUc9IBZkFVX3lxTE9qLVE3ZzQ0ZlNRTnFXLUhzeVpMZzdPaWNSVmlsc2pwTTh0WFV5OWpnckVWRXJ1SzZ5TzVENldPbVU3YklGS2FjWHRIbEhQV1ZsUTg2bVNka3BILTNqTW9ha0VtdUJudw?oc=5",
-      "pubDate": "2026-05-29T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWnpZTmZleW1sWVJiYU9TbDFUQ0pUaVRITzlJTFVpQWdrUUdjQmdEM2RaMUt5RUozMzB6R0huMmVZS3hMQnowN3lPemdPcXRjRml1bDNweWVScnlFV1psNXlhWXExeWFMWUVzTjlER2w1RzBBakJ0MVJYSmVEejdlOVIzcGFyQzJCWUdpUl90eFJIcUFHdllERXJhMG5HM1hqTFhhSkhtcWNfbDM5YkU0SHNRN3dMWXJvd1BrNHNBMTloeFZTOHpxNGdFLTk1QTNuMF9PUE9RbmJ6bHRYNll5SEhSZXd2bk0xODdGUHFLN1pQNDhGb3Fnb1pEcUNqQkxMd0s1WnhvX2rSAY4CQVVfeXFMUFkwY0wwWkhKanBZLWg3TnBPb1NpNHZiQ3drbHhMazJIcUUzUmpRQVo4MXg1eGZ5SVcybU42ZTVEVmZTOEQ5alExTGJ4S3ZBVExOUi1Dd3lXaDdPeWVDc0VjVlRWYkpnQTdYRV9wbFduM3UtdXhOX1Fla0JPTVNod0NpdmJQYlRmc2NVa212SlhOeC1ycEdYTkE3Q3NuMGY1QWRyTEZad1Q3YnRmWUc1X09LbjRwNjhOQk1YWlBfLTdrMlBDWXZJRDJpX2h0aThWTG9sNmJRUkhGa3R6YjFMUEZnOUctMS1vaHRheEpGLUtoSHV1c2FFZWU1a083bkl5UHpqS2NlSzMwNER3Z2ln?oc=5",
       "pubDate": "2026-05-29T07:00:00+00:00",
@@ -530,6 +548,15 @@
       "description": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnbTVlWkRySlJCNHRSa1V3aDRtbTdVOXFndDFySktQZFQ4WlpmQzdhQ2F6RXY1NHZNOVZCbm1TNkNtVGdIcXRORnZnRDZ1bURtaHlQeFVLbWtlUjFya1JUc9IBZkFVX3lxTE9qLVE3ZzQ0ZlNRTnFXLUhzeVpMZzdPaWNSVmlsc2pwTTh0WFV5OWpnckVWRXJ1SzZ5TzVENldPbVU3YklGS2FjWHRIbEhQV1ZsUTg2bVNka3BILTNqTW9ha0VtdUJudw?oc=5",
+      "pubDate": "2026-05-29T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Kejahatan: Tiga anak tewas dalam sepekan – Apa itu filisida?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Discord dan Ruang Gelap KBGO Anak yang Jarang Kita Bicarakan",
@@ -640,15 +667,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOTRKRFFHdEdMdmhWbFZ1VEZYVnVmX2lfMmFCZWJIT3VkMHRMZklyYm9kMm5FU093SG5jNFJNbmZ6c0xkeENDYmh2UFdGc1FTN0JQNlFhM2RIMm91c2lDRFV5VmZsYmJYNkpkeGRDZFE0Y2Z4WVJ1a0dqbzE0TjJLVV9HU2ZKUlpaWWtkcXB4M3BoUExYVkNMU1B2ZUcxbjhtd29sMTBDVXN2LTd1enlDLXg0aDVYNldwYWJoeTlLMEpaQlZkcDhBTWxPRmQtdnMyYkhPXzE1ejhOZGR1Z1BFbU5sa3h1UQ?oc=5",
-      "pubDate": "2026-05-07T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUEJxYWRVaVRBVEVGUGIwMWFwWkhUQklmSzZvcWFZWHJoa1JPQVdtS0M3bFFlY3NES3VJNDd6NnEtUGVySW1lbVBzZ05xMFBIUi1JWXlCWHRDcHBNTXNWSNIBZkFVX3lxTE9kaWRfQ1VYWG9JZGNnOElsX1FqakJXWGhUM0FJSHVEeWhIcXhYNC02WTRaVFFQeUVDcjA4dk9fVm41eEREbUsxU2pONFhKRUtXRXZmOW5DOU9iazNuS3BidW9nRnpOdw?oc=5",
       "pubDate": "2026-05-07T07:00:00+00:00",
@@ -656,6 +674,15 @@
       "description": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOTRKRFFHdEdMdmhWbFZ1VEZYVnVmX2lfMmFCZWJIT3VkMHRMZklyYm9kMm5FU093SG5jNFJNbmZ6c0xkeENDYmh2UFdGc1FTN0JQNlFhM2RIMm91c2lDRFV5VmZsYmJYNkpkeGRDZFE0Y2Z4WVJ1a0dqbzE0TjJLVV9HU2ZKUlpaWWtkcXB4M3BoUExYVkNMU1B2ZUcxbjhtd29sMTBDVXN2LTd1enlDLXg0aDVYNldwYWJoeTlLMEpaQlZkcDhBTWxPRmQtdnMyYkhPXzE1ejhOZGR1Z1BFbU5sa3h1UQ?oc=5",
+      "pubDate": "2026-05-07T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren",
