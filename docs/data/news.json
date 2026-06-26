@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-25T19:53:05.418067+00:00",
-  "total": 122,
+  "updated_at": "2026-06-26T02:54:04.347025+00:00",
+  "total": 129,
   "stats": {
     "tpks": 44,
     "kekerasan_seksual": 33,
-    "kbg": 20,
+    "kbg": 27,
     "kbgo": 25
   },
   "new_this_fetch": 60,
@@ -397,6 +397,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRwQWtzUVA4RFVTV3dQNUdVLW1JVVVNQ0YwbkVoU3dHaThZekNJRnVpMGF1ek5pQTlYUWZmZDFQSy1ZSUdmd2s4MVZnenFXdEhsd0JVWTBGS0YxU2RHZlMzQUNRNVl5QlI2alo3djVtUEpXODdORWJ2WGoxYWVCeVJUTFlyZGFQNk9OVTl6QkpsdzFDa3ZMZWpUbjh4cXRkUG9uUzdEcFEzMTFhR2Jn?oc=5",
+      "pubDate": "2026-06-11T07:00:00+00:00",
+      "source": "Badan Pembinaan Hukum Nasional",
+      "description": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0EtR1EtV01uV3BVeFp1Sm12QkZ1MF9FenRPa01td0ZjUVBGNlZpeV9UTldQQXF5ODBtQzFsYjV1WTVfTjc4TU9XOEpkcHYxa3lvanZEYnBMZEF3cUtQaVdHRHBTT0VVY04xUFdlTlR2d2J5QTZHVnkyWlFVUGJKMW1LLWk?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
@@ -413,15 +422,6 @@
       "description": "Maraknya Kekerasan Berbasis Gender Online Jadi Tantangan Ruang Digital Indonesia - Kompasiana.com",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRwQWtzUVA4RFVTV3dQNUdVLW1JVVVNQ0YwbkVoU3dHaThZekNJRnVpMGF1ek5pQTlYUWZmZDFQSy1ZSUdmd2s4MVZnenFXdEhsd0JVWTBGS0YxU2RHZlMzQUNRNVl5QlI2alo3djVtUEpXODdORWJ2WGoxYWVCeVJUTFlyZGFQNk9OVTl6QkpsdzFDa3ZMZWpUbjh4cXRkUG9uUzdEcFEzMTFhR2Jn?oc=5",
-      "pubDate": "2026-06-11T00:49:00+00:00",
-      "source": "Badan Pembinaan Hukum Nasional",
-      "description": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Ketika Layar Ponselmu Jadi Senjata untuk Menyerangmu, Misogini di Dunia Online",
@@ -694,15 +694,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -710,6 +701,15 @@
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
@@ -1018,6 +1018,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Perbarui Peta Kekerasan Pengalaman Perempuan, Komnas Perempuan Sebut Kekerasan terhadap Perempuan Semakin Kompleks",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVjRRLWl5aDYzTzRTQmpwcEhPclVXaXNMU1E4VUVQR0E5WlpfTWkxeVlFNUFCaE9KcndyUTZkREFWcTJEOHlmaXVxSUdlVnhMUGZsYnM1MEVIbDdEdFVMU2E4VmlvNkxKSEhRdUhsT1VXNVhfQlZLUHM4dGdvWWd6RnpYTVdkZDhCZDNhQmZHOFI5dUc5RkRyWmQ3bUhvblVEaEx1c0wtUFl0Vk50VGdYVkt5TFRUcHMzYlplZlZXb21WY1ZGdERwXzJLbDZwV2xVTHNtWldOMnRHV1kxbXlGQ0kzWUE2RTR5S3ZJcTlVTlJuUFNwRmJPXy1n?oc=5",
+      "pubDate": "2025-12-16T08:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Perbarui Peta Kekerasan Pengalaman Perempuan, Komnas Perempuan Sebut Kekerasan terhadap Perempuan Semakin Kompleks",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Kekerasan Berbasis Gender Online: Korban Terjebak Konflik UU TPKS dan Ancaman UU ITE",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW9wSlpidFFmTzE4MXBjbkVtQkhNMG9BdW5UMTN3TlB1MTRKM19IZl9sWkNyNHZtTTNIM2x5VnJyeFg1alFQeG1obmpsRk5WSFllWEJWWjRFcVp5RUxteGcyRE9aWkdGTkE0bFN4bnBnaGtZWUExNGp6RVhxN0lnNjU3eTNHQnJmNWZtNlJsTWlqeFVqRGllRTl1QktmNzFoemxrWVl2U2t1WG00eEZiV25ZbjBhcXJSWUM1ODNQa29sc2F0dkp3Z1hSUzIzMnJMcVJBSA?oc=5",
       "pubDate": "2025-12-09T08:00:00+00:00",
@@ -1063,6 +1072,42 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "FGD Reviu Implementasi Permen PPPA Nomor 8 Tahun 2024 Dorong Penguatan Perlindungan Perempuan dan Anak dalam Situasi Bencana",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdkljdTZOOGd6U0pCUWVwWnZkVWExQWZmVTNEUjdaUlFxQ0hzTHhDMUFVSjRvazliV2kweEhFY29uWm0walVyZTJoVVdGY0QzbERSU2pNVWIwU1QtWWNrdi04SUdubnNfaVpJd1F6QXozdUhnUVQzSHAtYnZoQVBnTGtQRG1STUlFdlV3bmVSdjU3ODhvekhDcTUtekh4UFhwQW90OC02Mlh3bW43NWZqZUNkbVg3cl9BekpiZ1hIYVJHbjlk?oc=5",
+      "pubDate": "2025-11-11T08:00:00+00:00",
+      "source": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+      "description": "FGD Reviu Implementasi Permen PPPA Nomor 8 Tahun 2024 Dorong Penguatan Perlindungan Perempuan dan Anak dalam Situasi Bencana",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Rentan Menjadi Korban Kekerasan, Pemerintah dan DPR Komitmen Lindungi Perempuan dan Anak dalam Situasi Darurat",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNklGZTRXY3VHZFNsaFRHMnlEelVIS1NZRWhxazN5cEpoSU41clpIS2pKYVBkVm9ydm1IV0xUTFljbUVHeGVVR2l5Snh2dW9uem9oLXo1R0F6NGQ5REVlSjFHSnhCYlZYMlE2RFBjWWRGVjE5YWtzNnh6ZXo2UFdURE1uYkNtUE42d25PWEFYbzFybTlrZHJkR0RjRnViRXNZa0VucWhYcXhRMndSSHNtUHV1NmpEN01taDRnT1VKel9iREVkekx1bTVQSFFIeEJPZ0FIV2U0b01NalE0MUZPR3Uwbw?oc=5",
+      "pubDate": "2025-11-06T08:00:00+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "Rentan Menjadi Korban Kekerasan, Pemerintah dan DPR Komitmen Lindungi Perempuan dan Anak dalam Situasi Darurat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "DPRD DIY Terima Audiensi Yayasan Gembala Baik Srikandi Bahas Pencegahan Kekerasan Berbasis Gender dalam Kegiatan Budaya",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVC1qQUxZLUswVUJyRnpEUGNSTW9RWjZ0QmR2eE5YWHBqT0tYaFlmNk5ZZGR5S0JXX1kzTUpaY0UtU1lIYU5EbUE4SVBKTV9IMHB3dUFaWXk4NmhFZUxVT05TNnhRSmhBemx3bWpMNVhnbU5NaHF3UUE5WTdXVjdIcjBlYkI1Y2pyUllvLUN3RUxENjVGZEVIc3ZlRkZHcWVKcHhUd3FmNWxNTHpWeHo4T3dlQ0pCaWx1R3lKdnFRVEtaNkVhZ1BMMjU2ZHBSbUFUYW5oMlNNZHZONzdVLVJUdQ?oc=5",
+      "pubDate": "2025-10-30T07:00:00+00:00",
+      "source": "DPRD DIY",
+      "description": "DPRD DIY Terima Audiensi Yayasan Gembala Baik Srikandi Bahas Pencegahan Kekerasan Berbasis Gender dalam Kegiatan Budaya",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Negara Harus Hadir Lindungi Korban Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWhGUWNURHQxNVQweWtsbURwSUpzZTR4MDFrYm01emdRN0lRcnR0OEVuNzgtZjdaOVVtcm1PTVJEQWFSbjlPOVo0SmpYY2lpcjNLaFo4NHFPc0xTUHVuU0FXWWtoNlpLU1FrejlOTm43VFNudzNkYVNlOHd2UXBGX1I5bF8wWS1HOC1kVU9hYTJIc2Y4Z2c?oc=5",
+      "pubDate": "2025-10-29T07:00:00+00:00",
+      "source": "komnasham",
+      "description": "Negara Harus Hadir Lindungi Korban Kekerasan Seksual",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Pelaku Kekerasan Seksual Anak yang Berusia Anak Tetap Dapat Dikenakan UU Tindak Pidana Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUHlTTHZHeTFVaUtOVGhLM29JODhxY3VkZ1FGNnNxeVlqQnVVWk5OcjBVSFpfV3pXVUVEZlV5UmdIcEpiM2lLelhWWUxBNDdhRnlSY2NzaHpSMGhfNzc3ZE1VZnpZRllZWHJkRUlTMk03SUJTWmw1dHBPSVpxYzYzaHpzNzdZSjNlZVMwX0lSYkhpYm9EU1M3Z1BNeFlNaGpVZWZITkUzaHZqTk9TblhtOXF4M3NsbnJERVBpb2oyVFVYRldST2pMeE5tbUdTREI0Qm5FbDZHYmdmZTQ3SnNfa1F3d1Z0cFNOSVNQRVV3?oc=5",
       "pubDate": "2025-10-24T07:00:00+00:00",
@@ -1070,6 +1115,24 @@
       "description": "Pelaku Kekerasan Seksual Anak yang Berusia Anak Tetap Dapat Dikenakan UU Tindak Pidana Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Peringatan 16 HAKTP, BEM FH Gandeng Komnas Perempuan Soroti Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjRXb1lPVFNXcl9GNWlON2t1NVBFejlIemtWdTJrdl9jMUZSNjJXYXVGMnJVOVV6TmF5S0ZOWGI0RHV0b1dpd2tjZFh5eDNYaDJRUmlISWRtMUdUQlFUa1lxWWw3c0llZFRBUk9XS3FXbHlQSWdEeUtYaElDTjZNUXdhbDY0R1haeUVsQWpSYThWMHVKZXpzeW14MEV3cnhYempCR29aZDI?oc=5",
+      "pubDate": "2025-10-20T07:00:00+00:00",
+      "source": "Universitas Airlangga Official Website",
+      "description": "Peringatan 16 HAKTP, BEM FH Gandeng Komnas Perempuan Soroti Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Soroti Isu Gender dalam Advokasi Hukum, BEM FH Hadirkan Praktisi dalam Webinar EDGE School",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkZ4SEJvVTZMZVRwa2hSeFRXWFhOVWRvZ0hwN1BEVXg3VnBtV3Bvck50VzYtTFpuU05lNlg3ZTNCSVdvMmFDQlh5MFRaUnJVUVJnbGpjakpfVVVKcTBreDI4S0pJcmRtU3M0Z3FzN2ZxTUFuajBYb2w0S3pXbllwOVpkX2cwRHlJbGpFcHp1OGFQajF0YjZ4NmJfQzRUVEdBLVl5cnB3RnFMYl85a21r?oc=5",
+      "pubDate": "2025-10-20T07:00:00+00:00",
+      "source": "Universitas Airlangga Official Website",
+      "description": "Soroti Isu Gender dalam Advokasi Hukum, BEM FH Hadirkan Praktisi dalam Webinar EDGE School",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Kena UU TPKS, Pelaku Asusila Penyandang Difabel di NTT Dibui 5 Tahun 4 Bulan",
