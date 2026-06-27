@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-27T08:31:18.138675+00:00",
-  "total": 140,
+  "updated_at": "2026-06-27T13:23:49.260430+00:00",
+  "total": 141,
   "stats": {
     "tpks": 49,
     "kekerasan_seksual": 35,
-    "kbg": 28,
+    "kbg": 29,
     "kbgo": 28
   },
   "new_this_fetch": 60,
@@ -78,6 +78,15 @@
       "pubDate": "2026-06-26T06:32:00+00:00",
       "source": "Bimakini",
       "description": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Pemko Sibolga Dukung Penguatan Kapasitas Perlindungan Perempuan dan Anak dari KBG dalam Situasi Bencana",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVFrQ2JSMFlIMHN3bWlXV1NWNkpkc1BsSDJiTFlqSHZHSkludnQxSzZqQm5wdWwyeElqUFZJMll2VTA3QkluUVNMZjBITjhRLXY4OS1vUFVPdTI2VjZYNkpwcFlZV3k3Rlp1SmtKelEyR0NVN3FQTVhGcnpHWEFSNzh0RGx1bTZWZU83bVJkWXozbmdRR2NVV21ycUt1NWVnQno2X3ZQSjBlcDd1cWlzU2NkaWFsZFhJazFFeVBMTjJ1R2c4SlFOVHNmUHczcUttWVdsVtIB3AFBVV95cUxPTUV0czdZbHp3b1pKNlVwRlRQSWx4WWxvbS05RzRyWk9SS0NKNG5yODRBWUs5ck1zWFNjV240VHo2LTQtUDhQMndlclp6bGdIUHB0Vi1adTZ4bjhnWFAySjN2YmVLTXdLZUNvWE8zYU9nNDJ5cnVZTk5LWlRaOFJFa19OaGFKTlVINHZWdnFTd3A1NjNzb0UxUlkxeUROMW80c1U2bGJPNWtGcWNkLXpwajZ0M19kNFFiYVFlUmRMUF9pN2Q1NDJoakZEQlFVZE5HUzZVZk5GdEd5RXhL?oc=5",
+      "pubDate": "2026-06-26T00:05:21+00:00",
+      "source": "MitaNews",
+      "description": "Pemko Sibolga Dukung Penguatan Kapasitas Perlindungan Perempuan dan Anak dari KBG dalam Situasi Bencana",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
