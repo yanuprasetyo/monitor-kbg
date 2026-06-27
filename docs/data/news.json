@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-27T02:43:58.565964+00:00",
-  "total": 139,
+  "updated_at": "2026-06-27T08:31:18.138675+00:00",
+  "total": 140,
   "stats": {
     "tpks": 49,
-    "kekerasan_seksual": 33,
+    "kekerasan_seksual": 35,
     "kbg": 28,
-    "kbgo": 29
+    "kbgo": 28
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Polisi: Ahmad Al Misry Berkewarganegaraan Ganda",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTy1XUEtETGROM2lxdncwOUl4UU84VkVpeXhqM1pXOW9IekRZVUptc0o1dGJmcXBUSjRDVHUwbF9PNjJyRHVTMFBFZUFZQmxENnRoZHh0SGo3NVNubTJGQlVBRHFjVFUtTC1UR1Nsc2Z5bkpDRlZuR0RTLWdRMGNoZ2dzUjVXWGVUZ2x5RnB1cUs4eTNBT3loWjVBZkZOOFp0V1VmN2hlMnlZUnpjWnNYR2RHMHdaU0RENXc5S2ZUTGJhdExySmNzVQ?oc=5",
+      "pubDate": "2026-06-27T06:27:47+00:00",
+      "source": "Tempo.co",
+      "description": "Polisi: Ahmad Al Misry Berkewarganegaraan Ganda",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Pelaku Penyekapan dan Penyiksaan di Bandung Ancaman Bagi Masyarakat, Fahira Idris Minta APH Pastikan Tujuh Hal Ini",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTGlieDVoMmtqZXFoVUMtM1ByLXh3TENIVU5BeVoxSGN1Mng2S0NrWkRGZkFQX1ZRMThyS0ZFdTVMY0ZZa3NzMlFvbXkyQmd5a1JqNmhEd0w4U3ppdTdBT2JZbWFtd3NNREpad09RSDZ3TjFhdEN0MTZaa0ZoWlI5akp2a0NnUm9Rbm0yNTZjT0w2NlRZS2J6aFAySGJNOE9pb3BOUkJlTmx4TFFGVnRhaHBidHZTLWQ1WWlWZkxKMTVqYndTOWRfUlpUcUhXY2RXT0E2Um5OX2N4QkxuMVNzUmZ3?oc=5",
@@ -564,8 +573,8 @@
       "pubDate": "2026-06-02T07:00:00+00:00",
       "source": "Kompas.id",
       "description": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
@@ -694,15 +703,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUEJxYWRVaVRBVEVGUGIwMWFwWkhUQklmSzZvcWFZWHJoa1JPQVdtS0M3bFFlY3NES3VJNDd6NnEtUGVySW1lbVBzZ05xMFBIUi1JWXlCWHRDcHBNTXNWSNIBZkFVX3lxTE9kaWRfQ1VYWG9JZGNnOElsX1FqakJXWGhUM0FJSHVEeWhIcXhYNC02WTRaVFFQeUVDcjA4dk9fVm41eEREbUsxU2pONFhKRUtXRXZmOW5DOU9iazNuS3BidW9nRnpOdw?oc=5",
-      "pubDate": "2026-05-07T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOTRKRFFHdEdMdmhWbFZ1VEZYVnVmX2lfMmFCZWJIT3VkMHRMZklyYm9kMm5FU093SG5jNFJNbmZ6c0xkeENDYmh2UFdGc1FTN0JQNlFhM2RIMm91c2lDRFV5VmZsYmJYNkpkeGRDZFE0Y2Z4WVJ1a0dqbzE0TjJLVV9HU2ZKUlpaWWtkcXB4M3BoUExYVkNMU1B2ZUcxbjhtd29sMTBDVXN2LTd1enlDLXg0aDVYNldwYWJoeTlLMEpaQlZkcDhBTWxPRmQtdnMyYkhPXzE1ejhOZGR1Z1BFbU5sa3h1UQ?oc=5",
       "pubDate": "2026-05-07T07:00:00+00:00",
@@ -710,6 +710,15 @@
       "description": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUEJxYWRVaVRBVEVGUGIwMWFwWkhUQklmSzZvcWFZWHJoa1JPQVdtS0M3bFFlY3NES3VJNDd6NnEtUGVySW1lbVBzZ05xMFBIUi1JWXlCWHRDcHBNTXNWSNIBZkFVX3lxTE9kaWRfQ1VYWG9JZGNnOElsX1FqakJXWGhUM0FJSHVEeWhIcXhYNC02WTRaVFFQeUVDcjA4dk9fVm41eEREbUsxU2pONFhKRUtXRXZmOW5DOU9iazNuS3BidW9nRnpOdw?oc=5",
+      "pubDate": "2026-05-07T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Pati: Kemenag cabut izin operasional Ponpes Ndholo Kusumo",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren",
@@ -757,15 +766,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -773,6 +773,15 @@
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
