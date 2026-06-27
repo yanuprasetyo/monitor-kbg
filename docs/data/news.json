@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-26T19:41:56.562899+00:00",
-  "total": 138,
+  "updated_at": "2026-06-27T02:43:58.565964+00:00",
+  "total": 139,
   "stats": {
-    "tpks": 48,
+    "tpks": 49,
     "kekerasan_seksual": 33,
     "kbg": 28,
     "kbgo": 29
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Pelaku Penyekapan dan Penyiksaan di Bandung Ancaman Bagi Masyarakat, Fahira Idris Minta APH Pastikan Tujuh Hal Ini",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTGlieDVoMmtqZXFoVUMtM1ByLXh3TENIVU5BeVoxSGN1Mng2S0NrWkRGZkFQX1ZRMThyS0ZFdTVMY0ZZa3NzMlFvbXkyQmd5a1JqNmhEd0w4U3ppdTdBT2JZbWFtd3NNREpad09RSDZ3TjFhdEN0MTZaa0ZoWlI5akp2a0NnUm9Rbm0yNTZjT0w2NlRZS2J6aFAySGJNOE9pb3BOUkJlTmx4TFFGVnRhaHBidHZTLWQ1WWlWZkxKMTVqYndTOWRfUlpUcUhXY2RXT0E2Um5OX2N4QkxuMVNzUmZ3?oc=5",
+      "pubDate": "2026-06-26T23:47:07+00:00",
+      "source": "beritabuana.co",
+      "description": "Pelaku Penyekapan dan Penyiksaan di Bandung Ancaman Bagi Masyarakat, Fahira Idris Minta APH Pastikan Tujuh Hal Ini",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Lestari Moerdijat: Bangun Partisipasi Masyarakat dalam Pencegahan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM0JEWEFBVmFJcC13bTI2cnZrM1dlNHN6dms0VmpydjB6a3R4ZGFVdEVQVWl0aDBwM0dfQzRzMWhKbnNiZG5yalRjT1lqRVV0am9CVkczQTJGS0hBdE1udjdhU3U2WXdMVFJQa1NhR3pZM1RQV1EtbW9Oc0NBWUlXVG5yYWhxRElzQVJMM1hGazJza0pvMW5BYUxvSEh6cFVBX1dxOEVVNlo5QW5CY2ZGWjFqc3ZwcFZLbldoMHBxM3JFZw?oc=5",
@@ -505,15 +514,6 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "Kasus Kekerasaan Terhadap Perempuan Tinggi, OMS Didorong Cegah Kekerasan Seksual Berbasis Gender",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDhWbUFTX2V4RER1UVN5SnVDQjdRRmc5X2J2Y1J0cFFablJRaWJodXpnM1piVVRyaFI4dkFwY1FLVkdHWG5TeW5kbzRhZ09zanEwa01aUnNLOFJ1aGhNcW11NG5hLVBXcTJWeTRfSFpMX2xvVHhmazllOUowVGJMQ3N5LUVYYnV4bUVOM091cjdqbzJ6bzVUQnRUbC1OemJWVjhxQms5U0VUdFNKV1FjUlJxdURDaUh5eDBtTmpfa3N2VlJrLXY0?oc=5",
-      "pubDate": "2026-06-05T07:00:00+00:00",
-      "source": "SUARANTB.com",
-      "description": "Kasus Kekerasaan Terhadap Perempuan Tinggi, OMS Didorong Cegah Kekerasan Seksual Berbasis Gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "KBGOut: Kasus 'Rape Academy', Kekerasan Seksual yang 'Diajarkan' dan 'Dipelihara' di Ruang Digital",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHo2YmdMMnU5d3RpQnd2Tk1UQ3d4UDY1UVh3YUIyYmtxMVhmVWNjNlBlV3JBT3Iydk9UYkV1cWo2OGR2RFJPNXZscU05R0xjMVEyaUp1RXdNTG5qeG5kSGVIdGlETE16LWZXeFBRM1dLX1M1Ry04b1FzYS05dVFISFdnTm13SjA4YnFwTnZzZnh4MDFNdlhFS1BQRFgwQmx0UjJod1Bqd3FTdndoUUE2ZFAxT2plT0JRWlNQeg?oc=5",
       "pubDate": "2026-06-05T07:00:00+00:00",
@@ -521,6 +521,15 @@
       "description": "KBGOut: Kasus 'Rape Academy', Kekerasan Seksual yang 'Diajarkan' dan 'Dipelihara' di Ruang Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kasus Kekerasaan Terhadap Perempuan Tinggi, OMS Didorong Cegah Kekerasan Seksual Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDhWbUFTX2V4RER1UVN5SnVDQjdRRmc5X2J2Y1J0cFFablJRaWJodXpnM1piVVRyaFI4dkFwY1FLVkdHWG5TeW5kbzRhZ09zanEwa01aUnNLOFJ1aGhNcW11NG5hLVBXcTJWeTRfSFpMX2xvVHhmazllOUowVGJMQ3N5LUVYYnV4bUVOM091cjdqbzJ6bzVUQnRUbC1OemJWVjhxQms5U0VUdFNKV1FjUlJxdURDaUh5eDBtTmpfa3N2VlJrLXY0?oc=5",
+      "pubDate": "2026-06-05T07:00:00+00:00",
+      "source": "SUARANTB.com",
+      "description": "Kasus Kekerasaan Terhadap Perempuan Tinggi, OMS Didorong Cegah Kekerasan Seksual Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
