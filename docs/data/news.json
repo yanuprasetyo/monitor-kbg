@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-28T13:27:19.451345+00:00",
-  "total": 143,
+  "updated_at": "2026-06-28T19:12:27.802565+00:00",
+  "total": 145,
   "stats": {
     "tpks": 50,
     "kekerasan_seksual": 35,
-    "kbg": 29,
+    "kbg": 31,
     "kbgo": 29
   },
   "new_this_fetch": 60,
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Rieke Diah Pitaloka Minta Penanganan Kasus Kekerasan Ekstrem terhadap Perempuan Gunakan Dasar Hukum yang Tepat, Desak Dakwaan Berlapis bagi Pelaku",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNTIwTXljdmZCdGNQZElYbERVSy1hMkRCNkJlcjR6cXFHSDQ4MFlkOUZhT2xMZnJIMERxb01wYnN4ZXRqNHBlX3NwVnRQZmYtV05MN1A0dmN4V2FURFEyaHY0LXl2ZTJvM0lXYmxCY1d6Xy1fTDI5WXZEQ1RKc1Q3MEgzUDRFTDJ6X0dveDVUTG1adnRoOWtsMmRmeXFsSmhuaWdfWGZwc2c3OW9EV0c2dmlsTHlIbDJOWTNkbU5aLVh0OHkycjFuOWNycUVveDdLYnlqSVN1Z3Z6ZWV6aFVKQUxMbmJycDRqT2V1Tmo3RmRUWWNOdTBvalJtMFlKdw?oc=5",
+      "pubDate": "2026-06-28T13:29:41+00:00",
+      "source": "otoritas.co.id",
+      "description": "Rieke Diah Pitaloka Minta Penanganan Kasus Kekerasan Ekstrem terhadap Perempuan Gunakan Dasar Hukum yang Tepat, Desak Dakwaan Berlapis bagi Pelaku",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
     {
       "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
@@ -784,15 +793,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -809,6 +809,15 @@
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
@@ -863,6 +872,15 @@
       "description": "Menteri PPPA Dorong Penanganan Tegas dan Pencegahan Sistemik Kasus Kekerasan Seksual di Kampus",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kekerasan Berbasis Gender Tak Bisa Diselesaikan dengan Mediasi",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3FUY29LR2VDTHJHV1ViWGl5eXhjNjNXdmtrTXpJUjFsM3o5Nno0VVVIaTBNOUtZN2NpcGVEcFB3aDM5bDdZYW84Q3M3dnVENGE2MmxXbHVUdF9BODB4TUNaNmc0TG5sc2hhN3ZfVjZYMmdHODZzMThuQjJzbDJ1Z2FNVk1JTG56SWNVcmJTWmlRNnN6bTFLTm1yYzQ1dllDNUZLdFUxa05FVkNmenk3LWFqdWpwYmNVb1NDdtIBwgFBVV95cUxQME9XVzBFQWZZLWpENVJCaTV0N2wxSlBVeklHQTBOZEJTaEdBb0ZIb2kzb1pid2JabFJ5U1QxWHNKc1ROVVpUX2VUQkp5TWp1TjJCUUJUMlltd296aWpQYm9jRTNNQV84ZXJpNVktNHdTMU1fSm1jRmVMa1hELU9vZ3RmNmdENF9Hb1VpbDRQdl9qN2IySlZ3a2VPdG1pYUVMYjdmNG85M1hIdm5Td1F4YldfOENwMlN3NE1EbEFaMGNCQQ?oc=5",
+      "pubDate": "2026-04-15T14:47:10+00:00",
+      "source": "Radar Purworejo",
+      "description": "Kekerasan Berbasis Gender Tak Bisa Diselesaikan dengan Mediasi",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
