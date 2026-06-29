@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-29T10:48:18.784360+00:00",
-  "total": 149,
+  "updated_at": "2026-06-29T15:38:57.004250+00:00",
+  "total": 151,
   "stats": {
     "tpks": 49,
-    "kekerasan_seksual": 36,
-    "kbg": 32,
+    "kekerasan_seksual": 37,
+    "kbg": 33,
     "kbgo": 32
   },
   "new_this_fetch": 60,
@@ -28,6 +28,24 @@
   ],
   "articles": [
     {
+      "title": "Maraknya Kasus Kekerasan Seksual di Pesantren, Wamenag Perkuat Sistem Perlindungan",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNanhaeDlwQkJfZ1lVUTdfbllsXzIwVU5oYkNYM29VbzRNclpjUzhsaEFJVXNBNEZQUFUyZ25QOUMwQkVIR3pNLVFHYW9YNGZNaVh6ZVJtc1BLcFhCdXUwSjZoRzNnNmV0dWU3dGpYM1Jic0ZvUFA3RTlTY1VYcnJPWTc3WEkwR3JlazFWV2FmNGNXZDRTUjdtNjJfa1RGcDBWUjN3Z0RaZ3VoYklVM2VIbFliRGJrbmRTV3lLQXNnazNDNWQtOHNRWlhn?oc=5",
+      "pubDate": "2026-06-29T14:59:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "Maraknya Kasus Kekerasan Seksual di Pesantren, Wamenag Perkuat Sistem Perlindungan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Sikap Komnas Perempuan Blunder, Rieke Pitaloka: Stop Salah Alas Hukum dan Jangan Beri Celah bagi Pelaku KBG Ekstrim",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmg4NGZ5QmtMTzdWM0Q1TlFZMGt2MEVFaDdrN2NxVGYycWpJWHplMWpDMmlYWjlIWm5ESnhUS2ltLVJoaWlrbUtubEViSG1BS2pOa0Z4UVJJc0QyZjlsR1pac1o4czRsZmJWVnd1Q0hfZEJwVkk1WldXYWRDZlNMYTUtZXczWEtmdU9WTnhVTTYtVDItMmZYZFczNVBUejc5eWU1UWtwb1lweWNFTk5vZmwtUXlnRmM4cjRKQmw5cnhxQ0xiTldZTXdUZjFTczBTZGxHeG5ySFBobU9zNVdEdjZ4cFI1QlJOb2ROZU0tZ9IB7wFBVV95cUxOMmg4NGZ5QmtMTzdWM0Q1TlFZMGt2MEVFaDdrN2NxVGYycWpJWHplMWpDMmlYWjlIWm5ESnhUS2ltLVJoaWlrbUtubEViSG1BS2pOa0Z4UVJJc0QyZjlsR1pac1o4czRsZmJWVnd1Q0hfZEJwVkk1WldXYWRDZlNMYTUtZXczWEtmdU9WTnhVTTYtVDItMmZYZFczNVBUejc5eWU1UWtwb1lweWNFTk5vZmwtUXlnRmM4cjRKQmw5cnhxQ0xiTldZTXdUZjFTczBTZGxHeG5ySFBobU9zNVdEdjZ4cFI1QlJOb2ROZU0tZw?oc=5",
+      "pubDate": "2026-06-29T08:53:35+00:00",
+      "source": "Jakartanews.id",
+      "description": "Sikap Komnas Perempuan Blunder, Rieke Pitaloka: Stop Salah Alas Hukum dan Jangan Beri Celah bagi Pelaku KBG Ekstrim",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "DPPPKB3A Sumedang Catat 90 Kasus Kekerasan terhadap Perempuan dan Anak Selama Semester I 2026",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNald6Rnd3eUEtTExsbU5IUEVlU1Nub2hwZGF4UFBnRkpWLUxYRjZkRzVQN2lLbGFqalZqVFFvb0d4ZjFhWjg5VHpia29zNXI4T0JuUmNoaGFyV25xZkdKVkFLUnAwT3hWLU5mTHpsWmhMTndHVDFYYjVqXzNTVHZMWTVVWlJxLXZJVmdscmRzejFFRU0wcU9MXzJKWjA2ZUp4QnpSSnp3bHFsczFlNVBZUW9mcTRMOXIzNDg0cHUyUjZGdkRlYWtERVRR?oc=5",
       "pubDate": "2026-06-29T00:20:40+00:00",
@@ -38,7 +56,7 @@
     },
     {
       "title": "Komnas Perempuan Temukan Dugaan Kekerasan Seksual kepada YTR",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGVxckhtRy1JY0dSVmVjbGp2MTRPZjRGQW5DRkZSVmxYSFhvbWZFNHFZTHdkaTdGZ2p3c2VidUVCNUNhTlhaSkFSckFnRnp1ZXItZ1FETGpRYl9IZElfWVpQSE5mTkFhZ2FETk9yTEhNOVQwSEtWdzBVTUFDeW5OVXZlZ1FyaFpKZ1ZpcFZVY3ZjQ09lQXZhTXg0Nm5Wbnh5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUnByRXpIaGplS0VxM2kzYmVYalI1cElad1B2WmJ3eXh4WjNZWWY3Zk94WF9Bckw5SDU3N2ROTWl1WUgwSUNYT0RYdDh6Z0hzYjBCejlpNTJPckNKMUhRTlFwWlJJV2MzZlRQaXJyank4MEpKNl8tR2FqazYwUjlMWi0zdjFYX0FMb3lOWTg0NG9uM29JeFV3a3NVNDRqQQ?oc=5",
       "pubDate": "2026-06-29T00:15:00+00:00",
       "source": "Tempo.co",
       "description": "Komnas Perempuan Temukan Dugaan Kekerasan Seksual kepada YTR",
@@ -613,20 +631,20 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0VZZUx6SW1EMXBlcDhTeWJLYjVaLTlLbnJ3LUM5RUZGWWo5QmhsS1dfY0x5RW9GUjlkQ3QyZnJTOUJlVWdaZVBVd0cxaVVpVkFlbW11RlZHS0RWNGJGR3hJSTNpY0ZTUmN3N2RjeEJJbG12eXF4ejFlYVJoT2l2TWRNQXA4NHFmaDVyXzF4VXd6V21jcVNSd3NHZHZSTEhubnJN?oc=5",
-      "pubDate": "2026-06-02T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Kejahatan: Pati hingga Pekalongan, lima dugaan kekerasan seksual di ponpes",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41bTZMNG1WYzVpYW9PeGFZZ0xhNHF0U0ozYXBJcFpKcDVOc21KZlh6dnRMWjdxVk9yaU16bDVvQmVDbkdveWtrLW1xb2dLWGZKU1l3a2x3RWNhVkZLODFSadIBZkFVX3lxTE15akc5MlZIU0lZUEM2NVRRM0NwaW1sZW9pSVBhWFRHai1KYjZ0YTdmNlJvclZDVktlZ2kwVG1vSXJldmNvSGp4Ny1LOFVFSjkxb3pFOElwZU5kMTF1TnF4S0VaTjdZdw?oc=5",
       "pubDate": "2026-06-02T07:00:00+00:00",
       "source": "BBC",
       "description": "Kejahatan: Pati hingga Pekalongan, lima dugaan kekerasan seksual di ponpes",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0VZZUx6SW1EMXBlcDhTeWJLYjVaLTlLbnJ3LUM5RUZGWWo5QmhsS1dfY0x5RW9GUjlkQ3QyZnJTOUJlVWdaZVBVd0cxaVVpVkFlbW11RlZHS0RWNGJGR3hJSTNpY0ZTUmN3N2RjeEJJbG12eXF4ejFlYVJoT2l2TWRNQXA4NHFmaDVyXzF4VXd6V21jcVNSd3NHZHZSTEhubnJN?oc=5",
+      "pubDate": "2026-06-02T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -865,15 +883,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -881,6 +890,15 @@
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
@@ -1057,7 +1075,7 @@
       "title": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlJrTE5MaWJtNzJidUpybjZyZTRjNnVoTFctR0ZMdXVOb1dBTGxMTGlyNUxXYzY1WmFlTlBDOUVwYVhXaG0xZ3lFVmhpUkZtNWNsRUp2Z3JZaU0yNTVZN3h1WE42VDEtR0g4YWRLYVF1eVN5eWtNNEo1Mm1zTnpiMk1OQQ?oc=5",
       "pubDate": "2026-02-26T08:00:00+00:00",
-      "source": "Magdalene",
+      "source": "Magdalene.co",
       "description": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
