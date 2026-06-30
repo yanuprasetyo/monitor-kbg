@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-30T09:26:16.649121+00:00",
-  "total": 157,
+  "updated_at": "2026-06-30T14:09:13.660398+00:00",
+  "total": 159,
   "stats": {
     "tpks": 50,
-    "kekerasan_seksual": 38,
-    "kbg": 33,
+    "kekerasan_seksual": 39,
+    "kbg": 34,
     "kbgo": 36
   },
   "new_this_fetch": 60,
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Jawa Tengah Darurat Kekerasan Seksual di Ponpes, 7 Kasus Dalam 2 Bulan",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVB1Qmt3NGN5bm5Ubm5iYVlwMGY1WFkya0ZOS0dOOEZMYVVfWGxmNktXUHBXSDNiRkxaU082dUtmU05OS01BTEVtcEpJTGV6SmlielU0V0V0QlZxbm9tRkxBZnByQzZyckgzSWI1MkhCaGl6UXdnaGUxcmdCWV90blVvVVd3cTA1WXVOV0QzT2ZUUFNIZ1NLUXkzN29zUVJnTm5remlNQWkzbXVKMlE0MkdUaw?oc=5",
+      "pubDate": "2026-06-30T12:46:50+00:00",
+      "source": "Media Indonesia",
+      "description": "Jawa Tengah Darurat Kekerasan Seksual di Ponpes, 7 Kasus Dalam 2 Bulan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kasus KBG Ekstrem Taufik Hidayat, Rieke Diah Pitaloka: Jangan Beri Celah Hukum bagi Pelaku!",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRjYxWmE3dmJOUUhYVFdIQVlqMU53WS16UWJLRWNQX3RtRmFvanAzV3NqMkNTSnlwaGhJN3dNcm8xbXdoS0F1WmNVZjZzMVZFX1VNVEY2MlpUdDJfM1czdXBUQ3I1b1BPSXR2SDFEdWFNWDZkV19rVUZ1d3MzZjBiSGl6QjJHb3ZmZzZOb09VaWFoT3FibmRBdTQ3NzJQX0ViYlN6T2hrZlZ6MTM4QTNPQ3BoV2R5NnpsZkNyNGRQSTVhUWNPbG1xWnppdmttZjDSAdQBQVVfeXFMTzlmOHJfM3pHWVBhcGJUQjgySmpPVG44SW1zLUtwcmNnOVhzQ3RVcTViS19RXy1SZ0ZxWTMwT2IzTWgxc2ZOeVBBdE5xOVZBM3pnbG1vUFBFQjRjNFhDOV9WV3REODgySzRMc0xCejNUNmZQdlU0U2hPRzZwRG1wZ0Z4M3RuTWdXeEtDcnl5WUJPWC1BZHdHMnkyS2hZc2x5Zm9EM3lWOXJJOTlpQjZfLTRiQkYyb29sYXR4aXhObVVpUUhoWno0TTA0S1NteGlnelBkUzk?oc=5",
+      "pubDate": "2026-06-30T04:12:00+00:00",
+      "source": "gesuri.id",
+      "description": "Kasus KBG Ekstrem Taufik Hidayat, Rieke Diah Pitaloka: Jangan Beri Celah Hukum bagi Pelaku!",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
     {
       "title": "Desakan Keadilan bagi Buruh Korban Kekerasan Seksual di Sumut",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjZaM2FZV1ljYnNrS3VNZmZCaUZ1UkhPTTIxbzBkREtRdzd4VG03bEJLMWplOWtMX25SX3lYWDhDdXM4RGVVZXhfZUNEYnhvRXRfeHBlaHktVmk1YnhKSjQtWmg2Ml9VYzRpS05KZk01TWhOUHd5TEpJQW4zTW9ic3c2ZC0xZVBOeHR2S0xSYVZlNFdjVHFFR3VxWG9XX3c?oc=5",
@@ -139,7 +157,7 @@
       "title": "Kekerasan terhadap Perempuan dan Anak Masih Terjadi di Hampir Seluruh Kecamatan Sumedang, Begini Cara Aman Untuk Melapor",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYXNwbGgtM1pLc0RXM19aYkxZWnk5UXhrZ0dTcEIyYUpFMVFtbGdxZDZSTXRxcURUZmx2VUVsMDFDQlgzcDljeHptM1dxRUp4SDExdHZoWXF4NFVEejQzbmJualZLdzZGRHRzWXl2cDBVLVBuLVZMb1JhWFlRWWd1NjhrWmxhS21wcHp6X1Nwb3FzWUR5b1NmY3FmS2h6dTBzcjFubGVnbmw3Qno2TWxseEVpVXFTaHVDMXlxZE9LaWE2Wk9LenpDQW5LYmNJVFYtRlFpbGtMM0ZvOVpTRXdDUHZR0gHiAUFVX3lxTE5hc3BsaC0zWktzRFczX1piTFlaeTlReGtnR1NwQjJhSkUxUW1sZ3FkNlJNdHFxRFRmbHZVRWwwMUNCWDNwOWN4em0zV3FFSnhIMTF0dmhZcXg0VUR6NDNuYm5qVkt3NkZEdHNZeXZwMFUtUG4tVkxvUmFYWVFZZ3U2OGtabGFLbXBwenpfU3BvcXNZRHlvU2ZjcWZLaHp1MHNyMW5sZWdubDdCejZNbGx4RWlVcVNodUMxeXFkT0tpYTZaT0t6ekNBbktiY0lUVi1GUWlsa0wzRm85WlNFd0NQdlE?oc=5",
       "pubDate": "2026-06-26T10:34:48+00:00",
-      "source": "tahuekspres.com",
+      "source": "Tahu Ekspres Sumedang",
       "description": "Kekerasan terhadap Perempuan dan Anak Masih Terjadi di Hampir Seluruh Kecamatan Sumedang, Begini Cara Aman Untuk Melapor",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -157,7 +175,7 @@
       "title": "Angka Kekerasan terhadap Perempuan dan Anak di Sumedang Tembus 90 Kasus Sampai Bulan Juni 2026, Problem Parenting Saja?",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV1NleExKWnQzUkk2dE9Cd2ZWNlJkVWVzTklJdnJJYms1bi1CT1pkaHQwMm1rcHo5eEVCNXl6N3lCZlItbE1YM1pKZ1hJMS1QRjNjdzFidTZTX0RTTVVtTUtVOTlaUWxyMUFYMzVYWGhHV200NlZTa3N5eFBMN1czemQyMXlNWTRXek5QcDhjWXROVlhXV1FQUUx5Rnk2NkdMSWdjVzA3Wmxmd0NBQ0ltYlJvUDRvWjFqR25ZcENUOTdzTFhvZ0N1U3J1ZGhZZ3VSZTc2R2lkb0o1Z9IB3wFBVV95cUxQRF9DUkRXdXNTMlB6MWxzQk4yX0oxV3FfbVZOUDI2SGpuVTZGa3paMVVLV3E4MzdkUjgzdVRDQkNmeEpmU21JVlhLX09XTHIteHNKZnpNbmRCVkZsaTg1Wkw1M2ZJQ1dwZ21fV0gwZUxKWHdpZzZ2dmFJVXRhWVRkSlRtbWU3bzFnWG0zdGlzWHV4OHhtSFRXME1oUll6Ukd1OEtuMkw3empxMy1sMjM1cGk4TENnRVFQR0c5Vm5WVXhITFNuRXRwSHJ0NXhZbkE0a0t3dmJMRjJ2a2pmR2M4?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "tahuekspres.com",
+      "source": "Tahu Ekspres Sumedang",
       "description": "Angka Kekerasan terhadap Perempuan dan Anak di Sumedang Tembus 90 Kasus Sampai Bulan Juni 2026, Problem Parenting Saja?",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
