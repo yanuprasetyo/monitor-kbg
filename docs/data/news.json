@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-29T19:51:30.406725+00:00",
-  "total": 151,
+  "updated_at": "2026-06-30T02:53:13.303914+00:00",
+  "total": 154,
   "stats": {
-    "tpks": 49,
-    "kekerasan_seksual": 37,
-    "kbg": 33,
-    "kbgo": 32
+    "tpks": 50,
+    "kekerasan_seksual": 38,
+    "kbg": 32,
+    "kbgo": 34
   },
-  "new_this_fetch": 0,
+  "new_this_fetch": 60,
   "keywords": [
     {
       "id": "tpks",
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Desakan Keadilan bagi Buruh Korban Kekerasan Seksual di Sumut",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjZaM2FZV1ljYnNrS3VNZmZCaUZ1UkhPTTIxbzBkREtRdzd4VG03bEJLMWplOWtMX25SX3lYWDhDdXM4RGVVZXhfZUNEYnhvRXRfeHBlaHktVmk1YnhKSjQtWmg2Ml9VYzRpS05KZk01TWhOUHd5TEpJQW4zTW9ic3c2ZC0xZVBOeHR2S0xSYVZlNFdjVHFFR3VxWG9XX3c?oc=5",
+      "pubDate": "2026-06-29T21:14:48+00:00",
+      "source": "Betahita",
+      "description": "Desakan Keadilan bagi Buruh Korban Kekerasan Seksual di Sumut",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Maraknya Kasus Kekerasan Seksual di Pesantren, Wamenag Perkuat Sistem Perlindungan",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNanhaeDlwQkJfZ1lVUTdfbllsXzIwVU5oYkNYM29VbzRNclpjUzhsaEFJVXNBNEZQUFUyZ25QOUMwQkVIR3pNLVFHYW9YNGZNaVh6ZVJtc1BLcFhCdXUwSjZoRzNnNmV0dWU3dGpYM1Jic0ZvUFA3RTlTY1VYcnJPWTc3WEkwR3JlazFWV2FmNGNXZDRTUjdtNjJfa1RGcDBWUjN3Z0RaZ3VoYklVM2VIbFliRGJrbmRTV3lLQXNnazNDNWQtOHNRWlhn?oc=5",
@@ -56,7 +65,7 @@
     },
     {
       "title": "Komnas Perempuan Temukan Dugaan Kekerasan Seksual kepada YTR",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUnByRXpIaGplS0VxM2kzYmVYalI1cElad1B2WmJ3eXh4WjNZWWY3Zk94WF9Bckw5SDU3N2ROTWl1WUgwSUNYT0RYdDh6Z0hzYjBCejlpNTJPckNKMUhRTlFwWlJJV2MzZlRQaXJyank4MEpKNl8tR2FqazYwUjlMWi0zdjFYX0FMb3lOWTg0NG9uM29JeFV3a3NVNDRqQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGVxckhtRy1JY0dSVmVjbGp2MTRPZjRGQW5DRkZSVmxYSFhvbWZFNHFZTHdkaTdGZ2p3c2VidUVCNUNhTlhaSkFSckFnRnp1ZXItZ1FETGpRYl9IZElfWVpQSE5mTkFhZ2FETk9yTEhNOVQwSEtWdzBVTUFDeW5OVXZlZ1FyaFpKZ1ZpcFZVY3ZjQ09lQXZhTXg0Nm5Wbnh5?oc=5",
       "pubDate": "2026-06-29T00:15:00+00:00",
       "source": "Tempo.co",
       "description": "Komnas Perempuan Temukan Dugaan Kekerasan Seksual kepada YTR",
@@ -78,8 +87,8 @@
       "pubDate": "2026-06-28T05:00:29+00:00",
       "source": "Aktual.com",
       "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Polisi: Ahmad Al Misry Berkewarganegaraan Ganda",
@@ -883,15 +892,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Tribrata News",
-      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -899,6 +899,15 @@
       "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Tribrata News",
+      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
@@ -1383,6 +1392,24 @@
       "pubDate": "2025-07-25T07:00:00+00:00",
       "source": "Web Terpadu Kabupaten Tangerang",
       "description": "Waspada Kekerasan Berbasis Gender Online (KBGO): Lindungi Hak Perempuan dan Anak di Ruang Digital",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kebutuhan Mendesak untuk Kolaborasi: memerangi Kekerasan Berbasis Gender Online",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGFzSG9na2hjRjFyc0FMY0ROQ0wyNHR5ZUJWSGpnejlxSXF3M2NYeFl2LXI0YXdzY01XWWhlVzdPY3NENkZRX1Y4ekZoa3luZ2pCVWh1S2tDMDRGV2RRdkpldFpSLUt0MmwxT1RweEVFUHllSzVFd3E2d19LcWRaMjVzS3lteFJ5Q2Npd2RCNmhYeHRFV0RfX1pYYmQyb0ZNWkp6MXlKdTcxVDNqX2VoajlrR1IySjFrOW16aS01eDY1X2pUM3c?oc=5",
+      "pubDate": "2024-09-02T07:00:00+00:00",
+      "source": "UNDP",
+      "description": "Kebutuhan Mendesak untuk Kolaborasi: memerangi Kekerasan Berbasis Gender Online",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mencapai Indonesia Emas 2045 Tanpa Kekerasan Berbasis Gender Online",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlNiSGVadGRYX3ZpcXN3aC05NEhKX2FTbUN3ak1kaHZwVHNzbGhMMGVSNHdaYzdlWTRoc1BXaWxtenZTSDV6TUw0OUpCamxhaGc3S3ZTLTZBbTIwamVzYi0xaVpXX0laUlFJbW5WN3ZUTVhKZ1ZDbnl2aXo1d1M5dWI4Ym51Vm5hOENuRXZfTTdNcjE3ck9DNlZWeVN2UVNxQjM0clRB?oc=5",
+      "pubDate": "2024-08-05T07:00:00+00:00",
+      "source": "Kementerian Sekretariat Negara",
+      "description": "Mencapai Indonesia Emas 2045 Tanpa Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     }
