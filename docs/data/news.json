@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-01T14:25:59.094227+00:00",
-  "total": 170,
+  "updated_at": "2026-07-01T19:47:29.718722+00:00",
+  "total": 172,
   "stats": {
     "tpks": 55,
-    "kekerasan_seksual": 44,
+    "kekerasan_seksual": 45,
     "kbg": 34,
-    "kbgo": 37
+    "kbgo": 38
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -651,7 +651,7 @@
     {
       "title": "Miris! Pelajar Mendominasi Korban Kasus Kekerasan di Semarang Sepanjang 2026",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uN1VHdHhpanlGRzFfZ0h0Uk9kc2dyM2JKODllV3BhYW1Db2pZVGxQWllIWnBscEVEZjhITURISEgtYXRnOWRuaDFBNVlzSWMzTDdVa1BCSW9DSzMzUHBjRndsTF9WS0x5MlhhUHVFR3BpeFU?oc=5",
-      "pubDate": "2026-06-14T14:33:24+00:00",
+      "pubDate": "2026-06-14T07:00:00+00:00",
       "source": "Lingkar TV",
       "description": "Miris! Pelajar Mendominasi Korban Kasus Kekerasan di Semarang Sepanjang 2026",
       "keyword_id": "kbgo",
@@ -1027,6 +1027,15 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
+      "title": "Kekerasan Seksual Online Terus Meningkat, Negara Diminta Perkuat Perlindungan",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFU2elVSeVJMVzduYnhDM2V2M1RVV0hsMlBzdmdObnJXNkNydS1qaXIyOGhpTVRQVWpBejRPbWN5VGdKazBCVUFwZ1o3N3V3NS10MFQtM3BEdHJQc2NDZXBMd0huUUF3X0dBV1Y2amM5TGRZbm9HQkIxY1ZjRDBJS1FoN3ZwbmxUZjJNSjRUQmpubVhUQVB3d21LQUQ0QXFVQjZkYy1vUFpzVEVZbW51cFMyTHB5VjNlS21BbFo4bXZGM081RmN3dw?oc=5",
+      "pubDate": "2026-04-20T07:00:00+00:00",
+      "source": "Kompas.com",
+      "description": "Kekerasan Seksual Online Terus Meningkat, Negara Diminta Perkuat Perlindungan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Modul Akademi Penghapusan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlpiNm01SEJzemppMEdGRm9RcEtHREVVTEJKaC1CLUxNM2c2bTZLbHJESWFvYXlpUXhzUEdtcVRuM3hOa0ZuRlhRb1dCcjBtSVdldTJZRjZDZDZKRzhXNkZjNDNuOXZJWks3VzlCMVNCUmw4XzRqcmRSYUg3SGtwSnNhYUZGd1FOemIwYlJ5T2hhc3RRR0FSRDI5YkgwQWt6Z1ZMSnpHU3Z2TmphQTM0SQ?oc=5",
       "pubDate": "2026-04-17T02:58:28+00:00",
@@ -1036,15 +1045,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Tribrata News",
-      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -1052,6 +1052,15 @@
       "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Tribrata News",
+      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
@@ -1405,6 +1414,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "1 dari 10 Perempuan Selama Hidupnya Pernah Mengalami Kekerasan Fisik dan/atau Seksual Oleh Pasangannya",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSFk5bVhpejdDb2l5eUUwcTI5U3pVbGRMYTEwcFZxbUU0WGduLVJ3elMzajZDZUNrLWZzLTRzWllTcm15TjJVN1ExMFRtOV9hTDk3VlNucEswNHNJSmVVWmtxdnBmQjdnVHFVUXd5Zzd3ZWgxWFpBUXl6U3paY0h6cEp3VVVtcDlvQ0E2aFUwbDlnRjNfZVFXRmY5T1JqVGZxb3JKUndBWHBSdGdlMHZLMW5XaXU0N2x6VkRZX2RpUzdCSTVHTXdpS0VwMzdKMW9uSzNGZFNxMm8xVVBKenYybGtPYWhnN0NXRWc?oc=5",
+      "pubDate": "2025-12-05T08:00:00+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "1 dari 10 Perempuan Selama Hidupnya Pernah Mengalami Kekerasan Fisik dan/atau Seksual Oleh Pasangannya",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Komnas Perempuan Luncurkan Laporan Pengembangan Pengetahuan KBGO untuk Perkuat Ruang Aman Digital bagi Perempuan di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNT3ZtRlppeXk3YVJpRTBlb3BIZUJNWmFWc0k1cFF2UU91bHVaczVHdEpDS2oxYVg1WVBkaVd1eWI1TFFleUs0dVBaNElBVGl6bFloalNaYWVNdy00dE15eEVXNW9EcFN4VUZLNUpCYkktc0p4ZWZsNUFjMmJEM01zZVdiNHZlbkFab1E0TEZNVzF4TEt2T2tjckdpaWF3R3FPVDVGRkY0VTNySlBpYi1yX3dmX0kxZWc3TWRFOUJNeXBFZWtBdnJsM1EzNGFpUXF1dXBVR3FPYlZXeWdMVHhOejlnWjNlcFd3MG45MG1KbHU4c1JJNWk3UERpQ2thVGdIdEVTYVdoWnhvOTRreHRiLWxJaFg?oc=5",
       "pubDate": "2025-11-20T08:00:00+00:00",
@@ -1523,7 +1541,7 @@
     },
     {
       "title": "Menteri PPPA: Banyak Perempuan dan Anak Korban Kekerasan Tidak Berani Melapor",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZFZMQkQzb2hDc0NzY3p2aGliR3Rob1RQbFZwSnNzc1NUa29LYWpDNDlNMGhGV1pOSnRBT3hWVGRpN053dlRKM01Vb0t5a0dXWEhVTDEwR1dOM0VJWFQyNXpPUlQ5OHNSQVExUG1FNUdIQ2l3NVBvV3hMX25RMm4zUDJFc0pnYl9jMXluNVR1azVaSW1HbVdMa01XSVFwdW1yZlhabVBKeDdZX1UzUGM0aDdzMkhKblk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOODBzSmNzdUVvd2c0elBuWGlXamcwVVN4ZmhkTUFTRGNOakxzbG1kMzRtT1lMbVpuUGVybGFHWWh1WkI0S1RoWXo0Y0tmdTdLb0VnRVpEVWJDdnh4MWcybm0zV0h5cmJsUlJaTHBuM1NZZHgxRE15blBXbXhlOFZFa3NCQW1najdMeFROOTBJLURkMVo2ZDlmY0luTVdxQVBVRmdtbkYybFZYR2tma0lWYm01S3ZLWXpTdGotM0pFRQ?oc=5",
       "pubDate": "2025-08-06T07:00:00+00:00",
       "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
       "description": "Menteri PPPA: Banyak Perempuan dan Anak Korban Kekerasan Tidak Berani Melapor",
