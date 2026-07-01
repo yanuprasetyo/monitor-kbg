@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-30T19:48:54.466699+00:00",
-  "total": 159,
+  "updated_at": "2026-07-01T02:59:18.704830+00:00",
+  "total": 163,
   "stats": {
-    "tpks": 50,
-    "kekerasan_seksual": 39,
+    "tpks": 53,
+    "kekerasan_seksual": 41,
     "kbg": 34,
-    "kbgo": 36
+    "kbgo": 35
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,42 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ombudsman RI Ungkap Lima Persoalan Utama Implementasi UU TPKS, Dorong Penguatan Sinergi Lintas Sektor",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZzl4NWxKM3g3SjVKb21xbk1UTlR1NzdSdzBPTUREZ2JvM0oxR2xWdloyaHhoM3FETklMRXJCTm5NRk1IRTB5aTZsN0dPQ0JJV3R6SnRGaVhHNTF5NzNQdUdsOTh0R29ZUzZrRlBkUjJmQzRpU1dHMWNLSkNrbTdUNjQybGFyZEZxQVRWQ3FMSnR4SFB1OEVxc2hPT3hldXhXSjJpeWRmdEVwclZic1RJVS1xNnZoYUt2MTVFN1J2MnlOUlNUTDhXQ0FVcw?oc=5",
+      "pubDate": "2026-07-01T01:29:40+00:00",
+      "source": "Ombudsman RI",
+      "description": "Ombudsman RI Ungkap Lima Persoalan Utama Implementasi UU TPKS, Dorong Penguatan Sinergi Lintas Sektor",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kejagung Sebut Nilai Ganti Rugi Korban Kekerasan Seksual Minim",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEdkbml6TUtMc3RDeV9nVU54VVlZLVpBaWZDSlRBTmpEY29hVVlmRVN1VkFxdWFlVGUzWWRSajNPRExrNHZZZ19tcDRJZk13cmRCc2dWLVlNRTAxR3dzZTRZVGEyMlBURFlWMUthZG44Vll4VjhuVDNwdlVZc3FFZm5Ya1N0YThTdzZPaGZJMWoyMXoydlZuMnR1TS1fTjF2Nkw5WkFjcjZ3QTFuLTdpQzBQMDdxbDVT?oc=5",
+      "pubDate": "2026-06-30T22:06:09+00:00",
+      "source": "Validnews.id",
+      "description": "Kejagung Sebut Nilai Ganti Rugi Korban Kekerasan Seksual Minim",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kejagung: Restitusi Korban Kekerasan Seksual Belum Maksimal Pulihkan Trauma",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnB1ZXl1UVpaZnJuZVlZWWowNVpveld6ckhoZm1iYVlXcTl2cjI1OGR3MTNWdm9RRldqbWMwbXp6QmZOSjRUdGVITExhaDBEdzJyZU1lUXZnbm14bUt2Vy1DWlBMR2ZZVlpRMG1wNVhBcE1Md21qSGJHYWNIZURWaVVIdVdDaWVHNFdrcGVBQVFxWE1GQ3NmWUY3bEJTT1UxWXJ5SEx5UHZpRHhZUTlDMGpUMHR5eDFwajdYYlc1U0RuUQ?oc=5",
+      "pubDate": "2026-06-30T20:15:25+00:00",
+      "source": "republika.co.id",
+      "description": "Kejagung: Restitusi Korban Kekerasan Seksual Belum Maksimal Pulihkan Trauma",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kejagung sebut restitusi korban kekerasan seksual belum maksimal",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEFyMDNpajZ1TVg4SGM0dmg1MjNhWGgzUDhVYWZ3ZXBvVkJEMjNHNktmaWtzR2pvSlZUdkRoWTlldXVUU1h1eXFPVFN2Yk01dDN2dmdNWkRMZVJiXzNmUl9nU0RJMUlaQ3dpMHdmcVhHTGRpUjJ0aEhqNWxfR2lGLXJyVkYzOV9LamhvTDRiS09JUUZwbWJFaUprcHdwNzlNc0FCem1SOEE5d9IBrAFBVV95cUxPcFgtczdNby1JdzJkekVIUVBNQ3M4VW5yaXkyYnFOSzFIbW5YZFBoZ3V5VTZ1eGRjQWhTcklEa0ZqdE1VeXctZi1Jc09fcjVxNlV6dzFCT0FCOTRDZTJiLUF5YXBhbGVzNkN0VlRWR3ZsUE5MdEc0bTk4N3pDMFVPXzZ5Q1RpUm9DZG9HZHBDT0tRWGtfbUJaWVRBeHFXTUZKTF9waXZ3QXExM3Vt?oc=5",
+      "pubDate": "2026-06-30T20:12:49+00:00",
+      "source": "ANTARA News",
+      "description": "Kejagung sebut restitusi korban kekerasan seksual belum maksimal",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Jawa Tengah Darurat Kekerasan Seksual di Ponpes, 7 Kasus Dalam 2 Bulan",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVB1Qmt3NGN5bm5Ubm5iYVlwMGY1WFkya0ZOS0dOOEZMYVVfWGxmNktXUHBXSDNiRkxaU082dUtmU05OS01BTEVtcEpJTGV6SmlielU0V0V0QlZxbm9tRkxBZnByQzZyckgzSWI1MkhCaGl6UXdnaGUxcmdCWV90blVvVVd3cTA1WXVOV0QzT2ZUUFNIZ1NLUXkzN29zUVJnTm5remlNQWkzbXVKMlE0MkdUaw?oc=5",
@@ -892,6 +928,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -908,15 +953,6 @@
       "description": "Kartini dan Luka yang Tak Terlihat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
