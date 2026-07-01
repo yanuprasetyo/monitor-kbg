@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-01T09:38:31.721458+00:00",
-  "total": 167,
+  "updated_at": "2026-07-01T14:25:59.094227+00:00",
+  "total": 170,
   "stats": {
-    "tpks": 54,
+    "tpks": 55,
     "kekerasan_seksual": 44,
     "kbg": 34,
-    "kbgo": 35
+    "kbgo": 37
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "JAM Pidum Prihatin Restitusi Untuk Korban Kekerasan Seksual Masih Rendah",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUtWWUVOekgwdXZEWUVUZGQyU2NIenZrUUEzYk55blc5UnJEeG9CVnZtMl85S0dIVThENE8zUHNkWHRKc2h5cEZfQlVXdzVWaDVib3Y1RmR0UFNXOU93YnMwNmlUYmpSc2F2cjVPdlVibFNyOW1RWGtIZU1aYWJ2ZDZiZ3hoY2hqeU10TF93al9HNm9fZzNwWVVETVpMb0M1N1owTHZfWTR5MVJ0NVFJMERNWEFmTjg?oc=5",
+      "pubDate": "2026-07-01T10:21:44+00:00",
+      "source": "Adhyaksa Digital",
+      "description": "JAM Pidum Prihatin Restitusi Untuk Korban Kekerasan Seksual Masih Rendah",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Riset Dosen Unismuh Tawarkan Model Tata Kelola Digital Pencegahan Kekerasan Seksual di Perguruan Tinggi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRVdBWHpaVVNRQ0MzWGJsakhVMWhnVWVhV3dqdXExRVJtRnBYbkx1VEFPd2V2MEJNY3QtODNDTndoU1llay1OQ3RwWWVUSVlOekVQc0V4MUJCMkltZWtsSkNXblNJQ3dGc21fSktfM01wTE5uMkM3b0dqMnJ1ODJvdG44bUROUWVFbnJueThRSWhtc3c1RGVBdU9oOTVsODZ4ei1BWjFBWVcteE5ONzRtem5YZE0tYnp2QXlaQW9RZks?oc=5",
@@ -712,6 +721,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "KemenPPPA: Cegah Kekerasan Seksual di Lingkup Universitas",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVERKVTMzX0Q4eTVON09ScmxFQVBHQUg2LTMyQXl0WWgtbExybW5lOF96T3UyVVROYU5CS1QyeGdleWR0ZHF6TU95Qy1CanB0QUpXMzFKRG52MTVYcTdmVXRFMEtPeTlzcW5nNUVuMWNzOFRqSDVyNldDc2JaeHRDbXlNbzdSX01RUW1tS01YUEVsT0VNQXI0ektOS0x2LWlqWlNmNw?oc=5",
+      "pubDate": "2026-06-07T01:39:14+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "KemenPPPA: Cegah Kekerasan Seksual di Lingkup Universitas",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Jaringan PPHAM NTB Rumuskan Strategi Advokasi Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTQzNG5sTEtpcm8wOUliYkRpQ2ZNT0dvRi10MEdDVFV6V25lUm1KeVQxV0wwRk1GUVRhX1lkb3ZrNVgtVkhCUUdWOXpJazFLT252c01xOUo4RUdiYlhkY3hJUTRpYnF2RDhHRjRvRmMyZWRteTRsZThoNUd2UnAtUHJoY3ZWdndBbkJwUm0yc1VNZGJjQ0J6QzBCQjdaUQ?oc=5",
       "pubDate": "2026-06-06T07:00:00+00:00",
@@ -771,8 +789,8 @@
       "pubDate": "2026-06-02T07:00:00+00:00",
       "source": "Kompas.id",
       "description": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
@@ -843,6 +861,15 @@
       "pubDate": "2026-05-19T07:00:00+00:00",
       "source": "Universitas Gadjah Mada",
       "description": "Marak Kekerasan Seksual di Lingkungan Pesantren, Sosiolog UGM Dorong Penguatan Sistem Pelaporan dan Pengawasan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Jalan Sehat Bersama Menteri PPPA, Kampanyekan “Stop Kekerasan Terhadap Perempuan dan Anak”",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkNMc2o5M0xnblJJLU9ZdldwZlFhcEVNRXg5WXRuTWhQZG5IaUhwaFJzTHZLNGg5ZkFRT1VCNVM4SmVXUGM1bWpkcm5UWEd3UmJiUml1dVRFQm5CRUtQd2xDdFZxSTVYYVJzemZjd2JFQnhla2ZSYk0zLTQyQlZzRkNEY2c1ZlNGSzhkNG5CdUhmZGYzSFprSEIyR01id0J2Y2tXNTBhbWFZRWlJVE9jX3hFcVNDRThFcS1tdzBta0dxVUhjVGhDVEVabm9wZw?oc=5",
+      "pubDate": "2026-05-17T19:28:46+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "Jalan Sehat Bersama Menteri PPPA, Kampanyekan “Stop Kekerasan Terhadap Perempuan dan Anak”",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -978,8 +1005,8 @@
       "pubDate": "2026-04-21T07:00:00+00:00",
       "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Kartini dan Luka yang Tak Terlihat",
@@ -1009,15 +1036,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -1025,6 +1043,15 @@
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangani Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
@@ -1063,6 +1090,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Harap Pendampingan Korban KBGO Semakin Sinergis, Komnas Perempuan Dorong Kemendagri Perkuat UPTD PPA",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekdmbGRPRUdCUXQwX1RCOWlqMTVvREdKMERTYS1xU0hPM05QMWozbUNtdkszTnpzZXVCUlNzVHM3X0ZNMkphNFN6TnZCZmVheWx2RDhOTDQtTGxSaHpJOTc0WlZmVXBtV0tpSnNCenIxX2JKcmNZSFhUUHQyVnFpcWc3SXRJS3dPaGgtQmJiOHU2cS1CN3IxeVdWQkwtRzFuOHk4ZmlvdXJYNnF0SHFSaHZVOTl0R1plMFdPT3R6YzVYZGxxYy1IeEJRQUFIbG83WGZJRWlnbUlnSFQtVW9PLTNTVVA4bXM?oc=5",
+      "pubDate": "2026-04-15T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Harap Pendampingan Korban KBGO Semakin Sinergis, Komnas Perempuan Dorong Kemendagri Perkuat UPTD PPA",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Kasus Mahasiswa UI Cerminan Nyata Kekerasan Berbasis Gender Online di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbURHUkN4ZUptWkYzZWxUQ255M3BybnBkOFJXemJQZ1RDOHVvbEN3Tk5nY3pYUU1EcjJiQkEydGsyUThxM1BkeTZHVlI3VjhaZWZWZGpxNnRWWHExOXpsSVl0ZjRCVDhOOTVWX0dYNklZZTl3cmlEZm5jNGdIM0RJWDQ3UV92TVZoWHJVM3BUR1k1TVJOM2pHUExRYzZYU1pOVVJXbUgtbFpfbHJUQXUyeV8wWkVZRmpYRFFLUG9HOGhYU1Q4TGfSAcsBQVVfeXFMT2QwMzdCQW9uYkJKNktTUG4tdUpycXhjaHdkYy1wR2JvUVh5OTlxLXNQMzFSLXhzUDduQUhOc2lxbUtid2N3bzBneVR4emU4aGJydEg0ZEF3bDNVdVluTFVyYlE1UW9YdWFuVGt5ZDBDQUxVQ3NDNlVqU3hGRmhxUXcwVlNQQjFSekpHTzdBbFVyYUFjRjdRU0habEpFVGZvajRiV1NrWjdxa0J5c0lLLU5NekZjTUluT0RHR0ZfOUQxS0dBOWFJLU5zY2c?oc=5",
       "pubDate": "2026-04-15T07:00:00+00:00",
@@ -1077,15 +1113,6 @@
       "pubDate": "2026-04-15T07:00:00+00:00",
       "source": "Validnews.id",
       "description": "Komnas Perempuan Tegaskan Ruang Digital Tidak Bebas Hukum",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Harap Pendampingan Korban KBGO Semakin Sinergis, Komnas Perempuan Dorong Kemendagri Perkuat UPTD PPA",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekdmbGRPRUdCUXQwX1RCOWlqMTVvREdKMERTYS1xU0hPM05QMWozbUNtdkszTnpzZXVCUlNzVHM3X0ZNMkphNFN6TnZCZmVheWx2RDhOTDQtTGxSaHpJOTc0WlZmVXBtV0tpSnNCenIxX2JKcmNZSFhUUHQyVnFpcWc3SXRJS3dPaGgtQmJiOHU2cS1CN3IxeVdWQkwtRzFuOHk4ZmlvdXJYNnF0SHFSaHZVOTl0R1plMFdPT3R6YzVYZGxxYy1IeEJRQUFIbG83WGZJRWlnbUlnSFQtVW9PLTNTVVA4bXM?oc=5",
-      "pubDate": "2026-04-15T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Harap Pendampingan Korban KBGO Semakin Sinergis, Komnas Perempuan Dorong Kemendagri Perkuat UPTD PPA",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -1129,7 +1156,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "UNICEF",
+      "source": "Unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
