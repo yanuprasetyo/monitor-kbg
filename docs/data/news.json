@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-01T19:47:29.718722+00:00",
-  "total": 172,
+  "updated_at": "2026-07-02T02:49:31.531114+00:00",
+  "total": 175,
   "stats": {
-    "tpks": 55,
-    "kekerasan_seksual": 45,
+    "tpks": 58,
+    "kekerasan_seksual": 46,
     "kbg": 34,
-    "kbgo": 38
+    "kbgo": 37
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "YPRA Desak Kasus Pencabulan Santri di Ponpes Bogor Gunakan UU Tindak Pidana Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkFHZ0FGWHN2VmpDRk5GNXEyWWdoODREdFZFazNfR255M2FOZEtVUEZLYkVoQ0FFdHQzWTM4bHZDWnpjb2hSeElteW9nNHJKSWo1OFU5YkU5d0E5d2VIYUNIZTRFMDRJa1B5NVlqVDBIZG95MEp2NnBHWDF1dnZvVFdyb0xIY0FlQ0JnYThiWDlfOVB1LU1ZWG4zbFROMl9Ieng3VzN2S3FyQjJSSGtYalZONDRadERlOGc1TjVPOFM?oc=5",
+      "pubDate": "2026-07-02T02:11:56+00:00",
+      "source": "AFU.id",
+      "description": "YPRA Desak Kasus Pencabulan Santri di Ponpes Bogor Gunakan UU Tindak Pidana Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Putus Lingkaran Kekerasan, Wamen PPPA Tegaskan Pentingnya Kolaborasi untuk Rehabilitasi Berkelanjutan dan Integrasi Sistem Layanan Terpadu",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMnBYc1JWQ2hlVTdPTGpzRjJVRGVaWXZxMl9GZWphRDF1LTNZQmRCWnh6V3A0a1VsMWp4Y1ROMEsxUFNFTHNrTE9BRnRuQ2hSSGlvdGs2bzJTOUhqUXJVQ1JDbkRDeGRPTlpTcl85UFpWSE9lWlBpMHFNOVdPTDJLSnpEQXFzM3dVMWwzNFpKbnAxYnA3R014ZDBhNzdfQjdidWROak9mWUxERk1sM3lKMTVEUTA3NXR3V080R2cybS1jZmhyZ3hnODNjbU5SRkVPUm0ybFFhZi1yT2ZTVmtDM1VrMnpHRUlXTVBMZ3k4a3dBaEF0QkZtOXlZYzVZYnVKVUl3TG53VjM?oc=5",
+      "pubDate": "2026-07-02T01:29:10+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "Putus Lingkaran Kekerasan, Wamen PPPA Tegaskan Pentingnya Kolaborasi untuk Rehabilitasi Berkelanjutan dan Integrasi Sistem Layanan Terpadu",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "JAM Pidum Prihatin Restitusi Untuk Korban Kekerasan Seksual Masih Rendah",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUtWWUVOekgwdXZEWUVUZGQyU2NIenZrUUEzYk55blc5UnJEeG9CVnZtMl85S0dIVThENE8zUHNkWHRKc2h5cEZfQlVXdzVWaDVib3Y1RmR0UFNXOU93YnMwNmlUYmpSc2F2cjVPdlVibFNyOW1RWGtIZU1aYWJ2ZDZiZ3hoY2hqeU10TF93al9HNm9fZzNwWVVETVpMb0M1N1owTHZfWTR5MVJ0NVFJMERNWEFmTjg?oc=5",
@@ -78,6 +96,15 @@
       "pubDate": "2026-07-01T01:29:40+00:00",
       "source": "Ombudsman RI",
       "description": "Ombudsman RI Ungkap Lima Persoalan Utama Implementasi UU TPKS, Dorong Penguatan Sinergi Lintas Sektor",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kejagung: Restitusi korban kekerasan seksual belum maksimal",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ2xYSXNPTmZzU2lmVllnMG9GSUo5aTdTWmJYMTdLNFg3Slp5d1VPbm5icjVGNjNOMDY0VVZRMjU4Tkl3QXlNaktkb19USUtNQ3JRUk93SmlPR0RrNG9WVDVMaFVXYm9sUkVZM0dJdlBaVldMTG9QcVF1U0d3MXpsWjRNOW5QcWhhcFFPeUF6T3BxNGN4bmQ1WlV2Q19vSWdGOXJQSy1kSkXSAagBQVVfeXFMT0NsWElzT05mc1NpZlZZZzBvRklKOWk3U1piWDE3SzRYN0paeXdVT25uYnI1RjYzTjA2NFVWUTI1OE5Jd0F5TWpLZG9fVElLTUNyUVJPd0ppT0dEazRvVlQ1TGhVV2JvbFJFWTNHSXZQWlZXTExvUHFRdVNHdzF6bFo0TTluUHFoYXBRT3lBek9wcTRjeG5kNVpVdkNfb0lnRjlyUEstZEpF?oc=5",
+      "pubDate": "2026-06-30T23:00:31+00:00",
+      "source": "ANTARA News",
+      "description": "Kejagung: Restitusi korban kekerasan seksual belum maksimal",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -985,8 +1012,17 @@
       "title": "Bermula dari Candaan, Ujung-ujungnya Terancam Pidana Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUVkTlQ2RjBnanB6ZmNMX3dMcWNYeXc2WER6U3NOV1RPT3p1MWVvd3dHdzFjRlFUeDhLVVNvYnVpeWtCQUo0WjU5ZUR1b2FhM0l6THMxM1BTYlVwYnB3UUxNYnpOU1FBRlRCTi1IcjE5OVlFNlZTak54bVRGM1ZVUTcwdDlqLS1fVjMzWVZPYjNpZExIZjRVQTVDejhLRVRsOUs0TkJFclBTNGNKeE9UeFRRaTc?oc=5",
       "pubDate": "2026-04-24T02:26:01+00:00",
-      "source": "Pusiknas Bareskrim Polri",
+      "source": "Pusiknas POLRI",
       "description": "Bermula dari Candaan, Ujung-ujungnya Terancam Pidana Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -996,15 +1032,6 @@
       "pubDate": "2026-04-21T07:00:00+00:00",
       "source": "Prohealth.id",
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -1165,7 +1192,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
