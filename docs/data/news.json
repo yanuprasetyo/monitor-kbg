@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-02T08:49:35.039866+00:00",
-  "total": 178,
+  "updated_at": "2026-07-02T13:49:17.646957+00:00",
+  "total": 182,
   "stats": {
-    "tpks": 59,
-    "kekerasan_seksual": 48,
+    "tpks": 62,
+    "kekerasan_seksual": 49,
     "kbg": 34,
     "kbgo": 37
   },
@@ -28,6 +28,42 @@
   ],
   "articles": [
     {
+      "title": "Lagu Bupati Purwakarta 'Lalaki Langit' Berpotensi Langgar UU TPKS, Ancaman Hukuman 9 Bulan Penjara",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdWJWVWxERE5tYkRpSVEtejZZMHVWZk5OZEFOcU5zQTdlZDBfYm8tdG53eWpicHpSOEphTXJSRUdjNEQ5OTZzalhQUE9XeUN3VFZTUGdvWGhtWGpWZVNESFVLQTRsUTNLb3BkQnFmVUQxUkxaVzRPRFhWdVJ6a2l5WXZ0eUFCU1NVWEF3U0tSUWdQaTJxdjdNRGUxdUR5WnpZbHY1RllidHdVMFFVNzdJdzBmaF9ybFdxdVpHVDI2YnhZOWhmd3dURldQc3Z4T0JVUWVGSHNsZ9IB1wFBVV95cUxQSmlESDBxMnFSc0k4ZFMyam04bW1LV21YQ2o2bUJzS0pUd3hTWXZGR21EZjN4V3lYSnVfeEhBX2RKRTdyQy12RHBsb0xUcmdrT0RBOWIyZ1ZFMkR6NkZ5amFvUW9BMmtxRENUN0hUZEMtYTdrVUJOOFdTN2s5WkMxQzA2bHEyS3lSSGlFemJERDRvN3h1U0c0cmU1dzQ5WTNicTJia3B6alh3bW5nc1R5WmRZYVVWbzFOaUllR0JEb1RIOE4zanJyYUY2RWpkWTJZTkVmbU5rcw?oc=5",
+      "pubDate": "2026-07-02T12:29:53+00:00",
+      "source": "Suara.com",
+      "description": "Lagu Bupati Purwakarta 'Lalaki Langit' Berpotensi Langgar UU TPKS, Ancaman Hukuman 9 Bulan Penjara",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Anggota Komisi VIII DPR: Lagu Bupati Purwakarta Berpotensi Langgar UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVRTZ3IzUVkxZjhjOUpIZlVSLXRIa1NRWlM3T3pxWEJjZ1VGSFpPMEluMmNHQWR2eUNNeWlsdkRtQ1hwMS1RdnhsM2otQXYyeEJjN3BOTDJJMjJ5ZXFteGlUUXZZZGdtbk95Vl9qSlhReDV1NXU2LXVQZTJrclAtdWNXLUNkYl9oOWMtTHk4eV8zd3RiQ1ZxQUhRZ3EzcUt1anJYclVLNzdTbmNFMXdBYk04dHplaWp4SkNTS2JoV29KUGlY?oc=5",
+      "pubDate": "2026-07-02T12:06:00+00:00",
+      "source": "Kompas.com",
+      "description": "Anggota Komisi VIII DPR: Lagu Bupati Purwakarta Berpotensi Langgar UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Bupati Purwakarta Bisa Langgar UU TPKS Buntut Lagu Lalaki Langit Lalanang Bejat",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObUxsM2Z0cVBLTmY0V2VKSHo2a2cyamxGWDlrOXM4aEdiNEl4YW1FODNnc1h4QkV6Z19XTXEzbzVDZTBIbEZYRmxVRk54OEZBUmZRVDNUTGZuVld2aFRkUjhLbk5JLUp2Y3lNQ2RlM01VWjdXWE5Mb3JHMmdqWmpkN2ZfeEZiRTZHN2Rveld2WUdmai1LcVBTdXl6VmpyMklZWTZMSV9mdFBSR1p0Q2l1eTBoRUZlM0JhbUFaWXBLQUszaEVqbndIQUNB?oc=5",
+      "pubDate": "2026-07-02T11:36:00+00:00",
+      "source": "RCTI+",
+      "description": "Bupati Purwakarta Bisa Langgar UU TPKS Buntut Lagu Lalaki Langit Lalanang Bejat",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Polda Metro Jaya Tangkap dan Tahan Pelaku Dugaan Kekerasan Seksual terhadap Anak di Jakarta Selatan",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLTV5ck9iMHR3ZUlkemRla05ScFdIZWx0UF9fN0dhQzNzc19oYTNHOWhFRDROS0NpS0hOTkp4TWhTZUh0cklhS1d4SWxkSGk4NDNjYkRvcW5Nd29hUTU4NEFuWFpBdGR4MVV1MUxPcUF5cHJiTzBWbld0eVlod1lWNG0wczRwemF3VzFiNDZDd1FMQ1publd1NmZGRWpPZ1JrTm83ekd0UXcyRDdlejJzc2NwT0R3Q3pNdElNa294aERNaHk3VnJPZGNXTHpPUUZDRHNzVFlCSGU5cUc4TVpSQ1ktNmc4U0Ut?oc=5",
+      "pubDate": "2026-07-02T06:35:00+00:00",
+      "source": "Media Budaya Indonesia",
+      "description": "Polda Metro Jaya Tangkap dan Tahan Pelaku Dugaan Kekerasan Seksual terhadap Anak di Jakarta Selatan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Polda Metro Jaya Tangkap Pelatih Sepatu Roda dalam Kasus Dugaan Kekerasan Seksual terhadap Anak, Berkas Telah Dilimpahkan ke JPU",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYTU3a3plR2dGaVN1UHdQcWRUY0VLcEVBanZwVUxxYWJaVDZ2eUtSeDZJSHF6NExqOFp3OGE4OEdqcHZMUVlySlFQbVgwRFdTTEF5eE5ubloxQ3FTV2pEaGJUV09ueDFQWTBPYWFZQ0p4bzJhRFZXd0labk9JaFBkZGdCRnUxSHM1c3NhX1lvaER6UXBUaXhsTWlVMk1JNVpCSFRSSUxiYm84NTJwVlBIenJNODBmUXB2M00zYWdaV3hYLXZrcUpsZ3hzbUtvRktHdk1hN1pjdWtURmdoclFIQU13UmNGWndGRGF2LUxrNVBrMXdxc2dpbU5xdmpINFpSd2Nzd25SOFhhdFE3THc?oc=5",
       "pubDate": "2026-07-02T06:21:00+00:00",
@@ -38,7 +74,7 @@
     },
     {
       "title": "UU TPKS Amanatkan Pemulihan Korban Kekerasan Tanggung Jawab Negara",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0xWdktoSEhoR0pZU0E0MFB0M040YTZMTnEwX2lNTFhidTRwQ2hkQkNNVWFKZU9CV0VZZzhpYzh4RDBPWmJFLThUUFFMZGhPVk43QUhUOXVfQ3lZek1MSlpFNkVSOXdUZUJ2Sk1qMi0yVE1id19kWjJ2ZXluMmFFSGFGbXNKTE1EbmdZN1JoSjFhQ0ttQ3VVVjVnOWZKbkx3OXNBMjFLNFVURDhCaUxleVNfYmxEU1l6cjlDeG1n?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV3ZHS1h0U0M0cE9FM21XNEx0cmI5dDBJaEhBX2J2NlNSblY3SG9mc09XYW9naFU1R25RTUhFSnV4YTUwMk1TZlZWSUJPYmR1bXc1TGEtbVc3OUlEWENpY0xONzFZUzQ3aFd4SWJXSXlrZXZFNjkwMFdqcnhDSVdLNER5WkozWW5saXBGWTJOcFV5bGZTeFU5bDNhb1Q5ZzkxeWtsdnNNMnVSa3dFZ2g4?oc=5",
       "pubDate": "2026-07-02T04:32:22+00:00",
       "source": "Validnews.id",
       "description": "UU TPKS Amanatkan Pemulihan Korban Kekerasan Tanggung Jawab Negara",
@@ -200,7 +236,7 @@
     },
     {
       "title": "Sikap Komnas Perempuan Blunder, Rieke Pitaloka: Stop Salah Alas Hukum dan Jangan Beri Celah bagi Pelaku KBG Ekstrim",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmg4NGZ5QmtMTzdWM0Q1TlFZMGt2MEVFaDdrN2NxVGYycWpJWHplMWpDMmlYWjlIWm5ESnhUS2ltLVJoaWlrbUtubEViSG1BS2pOa0Z4UVJJc0QyZjlsR1pac1o4czRsZmJWVnd1Q0hfZEJwVkk1WldXYWRDZlNMYTUtZXczWEtmdU9WTnhVTTYtVDItMmZYZFczNVBUejc5eWU1UWtwb1lweWNFTk5vZmwtUXlnRmM4cjRKQmw5cnhxQ0xiTldZTXdUZjFTczBTZGxHeG5ySFBobU9zNVdEdjZ4cFI1QlJOb2ROZU0tZ9IB7wFBVV95cUxOMmg4NGZ5QmtMTzdWM0Q1TlFZMGt2MEVFaDdrN2NxVGYycWpJWHplMWpDMmlYWjlIWm5ESnhUS2ltLVJoaWlrbUtubEViSG1BS2pOa0Z4UVJJc0QyZjlsR1pac1o4czRsZmJWVnd1Q0hfZEJwVkk1WldXYWRDZlNMYTUtZXczWEtmdU9WTnhVTTYtVDItMmZYZFczNVBUejc5eWU1UWtwb1lweWNFTk5vZmwtUXlnRmM4cjRKQmw5cnhxQ0xiTldZTXdUZjFTczBTZGxHeG5ySFBobU9zNVdEdjZ4cFI1QlJOb2ROZU0tZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeHdYTG1sVTJQMldDcXNhUFlYWldnVmpzVFhvajdOZ3ZwMG1leXUzbU1vN184S00tUXdCNEdZc2JFRXhWbmlyVVJsMVAtSGdDY0VLS0ZZYjZqZmNYdzlzU0ZnR2RyYTdhcWpROTFlZ1RJdk1qRUFXTERGOHRCcjN6THd2eERTOThWSTlXYk1jSFNkT0pGb3dxcmRJd2ZRdFd6MUVZSDJXa1J1ZVpmZnhjYU5QMXZSa1hXNmQzWHdkSmFtaGNRV3g3b3c3Z1d1ZUgwTVJqcEh3VGxIVVZudXg2bE02UkpDQ2_SAecBQVVfeXFMTnh3WExtbFUyUDJXQ3FzYVBZWFpXZ1Zqc1RYb2o3Tmd2cDBtZXl1M21NbzdfOEtNLVF3QjRHWXNiRUV4Vm5pclVSbDFQLUhnQ2NFS0tGWWI2amZjWHc5c1NGZ0dkcmE3YXFqUTkxZWdUSXZNakVBV0xERjh0QnIzekx3dnhEUzk4Vkk5V2JNY0hTZE9KRm93cXJkSXdmUXRXejFFWUgyV2tSdWVaZmZ4Y2FOUDF2UmtYVzZkM1h3ZEphbWhjUVd4N293N2dXdWVIME1SanBId1RsSFVWbnV4NmxNNlJKQ0Nv?oc=5",
       "pubDate": "2026-06-29T08:53:35+00:00",
       "source": "Jakartanews.id",
       "description": "Sikap Komnas Perempuan Blunder, Rieke Pitaloka: Stop Salah Alas Hukum dan Jangan Beri Celah bagi Pelaku KBG Ekstrim",
@@ -218,7 +254,7 @@
     },
     {
       "title": "Komnas Perempuan Temukan Dugaan Kekerasan Seksual kepada YTR",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGVxckhtRy1JY0dSVmVjbGp2MTRPZjRGQW5DRkZSVmxYSFhvbWZFNHFZTHdkaTdGZ2p3c2VidUVCNUNhTlhaSkFSckFnRnp1ZXItZ1FETGpRYl9IZElfWVpQSE5mTkFhZ2FETk9yTEhNOVQwSEtWdzBVTUFDeW5OVXZlZ1FyaFpKZ1ZpcFZVY3ZjQ09lQXZhTXg0Nm5Wbnh5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUnByRXpIaGplS0VxM2kzYmVYalI1cElad1B2WmJ3eXh4WjNZWWY3Zk94WF9Bckw5SDU3N2ROTWl1WUgwSUNYT0RYdDh6Z0hzYjBCejlpNTJPckNKMUhRTlFwWlJJV2MzZlRQaXJyank4MEpKNl8tR2FqazYwUjlMWi0zdjFYX0FMb3lOWTg0NG9uM29JeFV3a3NVNDRqQQ?oc=5",
       "pubDate": "2026-06-29T00:15:00+00:00",
       "source": "Tempo.co",
       "description": "Komnas Perempuan Temukan Dugaan Kekerasan Seksual kepada YTR",
@@ -829,20 +865,20 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0VZZUx6SW1EMXBlcDhTeWJLYjVaLTlLbnJ3LUM5RUZGWWo5QmhsS1dfY0x5RW9GUjlkQ3QyZnJTOUJlVWdaZVBVd0cxaVVpVkFlbW11RlZHS0RWNGJGR3hJSTNpY0ZTUmN3N2RjeEJJbG12eXF4ejFlYVJoT2l2TWRNQXA4NHFmaDVyXzF4VXd6V21jcVNSd3NHZHZSTEhubnJN?oc=5",
-      "pubDate": "2026-06-02T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Kejahatan: Pati hingga Pekalongan, lima dugaan kekerasan seksual di ponpes",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41bTZMNG1WYzVpYW9PeGFZZ0xhNHF0U0ozYXBJcFpKcDVOc21KZlh6dnRMWjdxVk9yaU16bDVvQmVDbkdveWtrLW1xb2dLWGZKU1l3a2x3RWNhVkZLODFSadIBZkFVX3lxTE15akc5MlZIU0lZUEM2NVRRM0NwaW1sZW9pSVBhWFRHai1KYjZ0YTdmNlJvclZDVktlZ2kwVG1vSXJldmNvSGp4Ny1LOFVFSjkxb3pFOElwZU5kMTF1TnF4S0VaTjdZdw?oc=5",
       "pubDate": "2026-06-02T07:00:00+00:00",
       "source": "BBC",
       "description": "Kejahatan: Pati hingga Pekalongan, lima dugaan kekerasan seksual di ponpes",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0VZZUx6SW1EMXBlcDhTeWJLYjVaLTlLbnJ3LUM5RUZGWWo5QmhsS1dfY0x5RW9GUjlkQ3QyZnJTOUJlVWdaZVBVd0cxaVVpVkFlbW11RlZHS0RWNGJGR3hJSTNpY0ZTUmN3N2RjeEJJbG12eXF4ejFlYVJoT2l2TWRNQXA4NHFmaDVyXzF4VXd6V21jcVNSd3NHZHZSTEhubnJN?oc=5",
+      "pubDate": "2026-06-02T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -1045,15 +1081,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1061,6 +1088,15 @@
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
