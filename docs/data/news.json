@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-03T02:32:12.168779+00:00",
-  "total": 182,
+  "updated_at": "2026-07-03T08:56:06.458176+00:00",
+  "total": 184,
   "stats": {
-    "tpks": 62,
-    "kekerasan_seksual": 49,
+    "tpks": 63,
+    "kekerasan_seksual": 50,
     "kbg": 34,
     "kbgo": 37
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Masuk Pelecehan Seksual Nonfisik, 'Lalaki Langit' Berpotensi Langgar UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSW80U0lSWFFKdGhoOXRwTjBCX2phdzEtdGZWelQ1aDMxeXg1RWlRTjJMRTV4WXdhVHlJa2tvdUVqNllEeDQ3MmJ2N0RnUmVaS2N0emRVVTF6ZDl1TDg3MVRrLTc5OGFZYUV5TlFqZTd2Y1huZmlRb0JVNE1nMkNEbWFLMjdScHpIeS1aRmk1YUtERHlqRFpVcHAwNUs0QUppUDNseFZQOVhQaHphTXB2Q2hqcWUwVm5TWEZONXlSOTFuZFJlZm1FVjFPZ0lXOGlzdlV3Wg?oc=5",
+      "pubDate": "2026-07-03T02:29:16+00:00",
+      "source": "Publicanews",
+      "description": "Masuk Pelecehan Seksual Nonfisik, 'Lalaki Langit' Berpotensi Langgar UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Lagu Bupati Purwakarta 'Lalaki Langit' Berpotensi Langgar UU TPKS, Ancaman Hukuman 9 Bulan Penjara",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdWJWVWxERE5tYkRpSVEtejZZMHVWZk5OZEFOcU5zQTdlZDBfYm8tdG53eWpicHpSOEphTXJSRUdjNEQ5OTZzalhQUE9XeUN3VFZTUGdvWGhtWGpWZVNESFVLQTRsUTNLb3BkQnFmVUQxUkxaVzRPRFhWdVJ6a2l5WXZ0eUFCU1NVWEF3U0tSUWdQaTJxdjdNRGUxdUR5WnpZbHY1RllidHdVMFFVNzdJdzBmaF9ybFdxdVpHVDI2YnhZOWhmd3dURldQc3Z4T0JVUWVGSHNsZ9IB1wFBVV95cUxQSmlESDBxMnFSc0k4ZFMyam04bW1LV21YQ2o2bUJzS0pUd3hTWXZGR21EZjN4V3lYSnVfeEhBX2RKRTdyQy12RHBsb0xUcmdrT0RBOWIyZ1ZFMkR6NkZ5amFvUW9BMmtxRENUN0hUZEMtYTdrVUJOOFdTN2s5WkMxQzA2bHEyS3lSSGlFemJERDRvN3h1U0c0cmU1dzQ5WTNicTJia3B6alh3bW5nc1R5WmRZYVVWbzFOaUllR0JEb1RIOE4zanJyYUY2RWpkWTJZTkVmbU5rcw?oc=5",
@@ -1396,6 +1405,24 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
+      "title": "BPJS Kesehatan: Nasib korban kekerasan seksual saat BPJS tak menanggung layanan kesehatan",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaNnllX0g0WVNwMDE1dVpQQXJ2Z2t2bUtJOFdqT0h1NUlpVWx0WHNEcUxIa0lWVWJmalIyM2dfd2taUVFZRVFkOTNuVHhrZm9FRENDSENieDVrRTViNERsZ9IBZkFVX3lxTE0xM2VsRC1iRGNHYl8wdnRqVFA5TGdsUWlpc2hfYURPY0VEUEtIcEpQN3IxZ1MzQ0I1STd2SkpLc2RncmVqMjJONFVLUFAyS1Azd1YxT00wQlFkeUFjQzNrYlNKbmdEZw?oc=5",
+      "pubDate": "2026-02-10T08:00:00+00:00",
+      "source": "BBC",
+      "description": "BPJS Kesehatan: Nasib korban kekerasan seksual saat BPJS tak menanggung layanan kesehatan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGIzalRIcFBZQmZmWHF1WDlTNmtqY2hyOEtwQWFZS2J2OW5TMGFaSWFBVkNaV05rQ093MW10WkdyU2JibmxuOTRQbDZxTGhzTlEtNXRrby1POVF5dTFQdUxjNmpDTnJJbDZPVXBoVUE0RXBUblJCMmRMLXJBdFdmWk8wWjVxMFlsc0ZFLS1Hdzd2RDlLTlk4QlhTZGF0WUZlbjY2cWliaWRIVTBpemh5emhPZHo0S2hTYlJzOHZ3V0cxckxhZVBuZnlVN3JUX0pUTXZxQjd2U0xFNHg5bE9SOFh2ZlkxQUdwTFpONQ?oc=5",
+      "pubDate": "2026-02-09T03:42:56+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjhnd1VKUmRjakhaYVBSMWpONjAxY0FWREExblludXAxNWV4S2tBVW9BbWJqM2xwdzhjckJ2VHBTbC00TWJqekhIUkROc2djd05EMXotSHQ5cjlRUElza1JWOV94RjNFWUxXUmZlV3hOVkhUOXFrQjZ2azBNSXRfM0hheDVRdUxKMU5YUDh5c3U3YS1Md3A1M3Z4ZV9vc0hOblZMMk9MSDhxSno0Z3BOZTZnUE5FcmFPSXRnNWM2VGkwcFpqWm95bGYwc2pIc2xLVVo4?oc=5",
       "pubDate": "2026-02-06T08:00:00+00:00",
@@ -1412,15 +1439,6 @@
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGIzalRIcFBZQmZmWHF1WDlTNmtqY2hyOEtwQWFZS2J2OW5TMGFaSWFBVkNaV05rQ093MW10WkdyU2JibmxuOTRQbDZxTGhzTlEtNXRrby1POVF5dTFQdUxjNmpDTnJJbDZPVXBoVUE0RXBUblJCMmRMLXJBdFdmWk8wWjVxMFlsc0ZFLS1Hdzd2RDlLTlk4QlhTZGF0WUZlbjY2cWliaWRIVTBpemh5emhPZHo0S2hTYlJzOHZ3V0cxckxhZVBuZnlVN3JUX0pUTXZxQjd2U0xFNHg5bE9SOFh2ZlkxQUdwTFpONQ?oc=5",
-      "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
@@ -1631,7 +1649,7 @@
     },
     {
       "title": "Menteri PPPA: Banyak Perempuan dan Anak Korban Kekerasan Tidak Berani Melapor",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOODBzSmNzdUVvd2c0elBuWGlXamcwVVN4ZmhkTUFTRGNOakxzbG1kMzRtT1lMbVpuUGVybGFHWWh1WkI0S1RoWXo0Y0tmdTdLb0VnRVpEVWJDdnh4MWcybm0zV0h5cmJsUlJaTHBuM1NZZHgxRE15blBXbXhlOFZFa3NCQW1najdMeFROOTBJLURkMVo2ZDlmY0luTVdxQVBVRmdtbkYybFZYR2tma0lWYm01S3ZLWXpTdGotM0pFRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZFZMQkQzb2hDc0NzY3p2aGliR3Rob1RQbFZwSnNzc1NUa29LYWpDNDlNMGhGV1pOSnRBT3hWVGRpN053dlRKM01Vb0t5a0dXWEhVTDEwR1dOM0VJWFQyNXpPUlQ5OHNSQVExUG1FNUdIQ2l3NVBvV3hMX25RMm4zUDJFc0pnYl9jMXluNVR1azVaSW1HbVdMa01XSVFwdW1yZlhabVBKeDdZX1UzUGM0aDdzMkhKblk?oc=5",
       "pubDate": "2025-08-06T07:00:00+00:00",
       "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
       "description": "Menteri PPPA: Banyak Perempuan dan Anak Korban Kekerasan Tidak Berani Melapor",
