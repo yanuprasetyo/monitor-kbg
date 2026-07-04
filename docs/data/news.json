@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-04T02:29:58.363223+00:00",
-  "total": 187,
+  "updated_at": "2026-07-04T08:30:57.183617+00:00",
+  "total": 190,
   "stats": {
     "tpks": 65,
-    "kekerasan_seksual": 52,
+    "kekerasan_seksual": 53,
     "kbg": 34,
-    "kbgo": 36
+    "kbgo": 38
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Jumlah Kasus KBGO terhadap Perempuan 2017-2025",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZTllaW0tU0FrRHBWYjM4RWQ1QXNVdUNuMFB6Wjhfc1JScFR1QVl4SG5JWndnU2hNVWlKVVFBY1dVMG5IQS10SzRiT09nZXJCQnlLV2Z5eXFnZjFGeEZvUFpGZ2ZYWTNSYktrYm5lUWFCVTRKTzloLVJPQXZmXzhMYjZGTkxYVEFYbXdCNERmUUxNdw?oc=5",
+      "pubDate": "2026-07-04T02:30:10+00:00",
+      "source": "GoodStats",
+      "description": "Jumlah Kasus KBGO terhadap Perempuan 2017-2025",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "RMI-NU DKI: Setop Normalisasi Kekerasan Seksual di Pesantren",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdzBvS3JIYk55Mk9FRlBXNHdpVHVNNXk1Yk45YTcxM05yTEVsandoSDhjY3o4bEhPdnMzTzBhUFVZc1BBajBmSm1lT3hTR0dJZTJJVXZHTl9ZVUx1NHVvamVHc2IySW9rdFJ6bnNQRmt0R0w0Q3QyWVlnMW42aGJjVXhhQXU5UnN5MW5rejZFaEdZRFMyMW9xUUx1em44d2taUVFPNkRpZGFtWWVv?oc=5",
+      "pubDate": "2026-07-04T01:46:34+00:00",
+      "source": "republika.co.id",
+      "description": "RMI-NU DKI: Setop Normalisasi Kekerasan Seksual di Pesantren",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Legislator PDIP Kecam Lagu ‘Lalaki Langit Lalanang Bejat’, Ini Sebabnya",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNFZfcy12V0tldGoxejVaV2ZoQ3BCRHlsTEF3and6YXFnVjFiaFdBSnp3M1kxa21tQnR2REVNUVM2RTJFeXRLRktDQktzWnVDSkt3dnE4Ymt3VEIwQmhMVFZqcmtQUTc5SmRnN1lnYTd3UmszZ1R1cnZMX0VjMnB1YkszdnJZTFppbkdaUHlrTDNOT3lzaGN0UGtpOGNtaUMzU0JUMkh0NGtHZ3hQUnk0ZnNLRTNKOGtXRGtWM0hYSTZJRHFw?oc=5",
@@ -1451,7 +1469,7 @@
     },
     {
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjg1eWs2WU9rU19wUnRsUVBGVUVpSDdPemRuTnlhUFpLdkxUSVIwTmpNZjNVQTZkNlRHdVFwcVlaZy1Kckl4eElMN2llb2Z6NVpzT3M1OHlfQjh2bjJEaFpUME9fZm9sN2VpLVlWTm51SWpkQXdydmJBQmM0dEtuQ2FHSGdtTVNORnlscWpyUTR5ZWdnc080aQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
       "source": "Mahkamah Konstitusi RI",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
@@ -1655,6 +1673,15 @@
       "description": "Pengantar Memahami UU Tindak Pidana Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Perempuan Harus Tegas Lawan Kekerasan Berbasis Gender Online",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDdIUGNNY0VNRUVQbzEyWkZfTEtfLXZXUFMzblVNY1ZwcnR1Q0FJcUtOX0dnYWlScXpORHRRWjJRZmU2ZmRuNjJ0M1pRS3d6RFpUaF9GZjM5Ml93clFQYlFhTmtRaFczSHFyaVVNbUs2blc4elBNOEV4aFNBc0c3VTZDYUU5dW02bWw3dUVVaGk0QWdscGtEZGpJYjNteXc2Yk5aRjFjcGo4NmRSbUJN?oc=5",
+      "pubDate": "2025-09-05T00:49:33+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "Perempuan Harus Tegas Lawan Kekerasan Berbasis Gender Online",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "UU TPKS Wujud Kehadiran Negara Lindungi Korban Kekerasan Seksual",
