@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-04T13:14:35.848000+00:00",
-  "total": 190,
+  "updated_at": "2026-07-04T19:03:59.096742+00:00",
+  "total": 191,
   "stats": {
     "tpks": 65,
-    "kekerasan_seksual": 53,
+    "kekerasan_seksual": 54,
     "kbg": 34,
     "kbgo": 38
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Topik korban kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaa0pscVdCLUdwcEhVRk9xMnphY2VzWEgwSHF6eG1jZ0tfS2NOS0QwTVVabVVmNlVQemg3WnNycVV4Ym9NU05KMXBjZzRVc1JoQ0tKTFd0alA4X3ZyLXFvUmNiZVVKUQ?oc=5",
+      "pubDate": "2026-07-04T06:43:06+00:00",
+      "source": "Suar Indonesia",
+      "description": "Topik korban kekerasan seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Jumlah Kasus KBGO terhadap Perempuan 2017-2025",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZTllaW0tU0FrRHBWYjM4RWQ1QXNVdUNuMFB6Wjhfc1JScFR1QVl4SG5JWndnU2hNVWlKVVFBY1dVMG5IQS10SzRiT09nZXJCQnlLV2Z5eXFnZjFGeEZvUFpGZ2ZYWTNSYktrYm5lUWFCVTRKTzloLVJPQXZmXzhMYjZGTkxYVEFYbXdCNERmUUxNdw?oc=5",
@@ -58,7 +67,7 @@
       "title": "Lagu Binzein Langgar Undang-Undang TPKS",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnVBdVJnNVJSemxneW9uaWNGQWk4YkxHR2U3R2pZV0pTWjdjQXluWHBVTnc3a3ZHV3dEVkJFdF91VGN2TnZ4dWZ6RHFPZ3pnejJwNEJzUnRyTXVTUEt5MzhYWkFobzZWMVZoeDUyeXJ0M1l3VzFhNVpjdVBwOVlqRjRoNm40ZnlqSHlwN0VnTkQ0cW5LYzlV?oc=5",
       "pubDate": "2026-07-03T22:00:00+00:00",
-      "source": "Pikiran Rakyat",
+      "source": "Pikiran Rakyat Koran",
       "description": "Lagu Binzein Langgar Undang-Undang TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
