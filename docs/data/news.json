@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-03T19:13:07.764212+00:00",
-  "total": 184,
+  "updated_at": "2026-07-04T02:29:58.363223+00:00",
+  "total": 187,
   "stats": {
-    "tpks": 63,
-    "kekerasan_seksual": 51,
+    "tpks": 65,
+    "kekerasan_seksual": 52,
     "kbg": 34,
     "kbgo": 36
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Legislator PDIP Kecam Lagu ‘Lalaki Langit Lalanang Bejat’, Ini Sebabnya",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNFZfcy12V0tldGoxejVaV2ZoQ3BCRHlsTEF3and6YXFnVjFiaFdBSnp3M1kxa21tQnR2REVNUVM2RTJFeXRLRktDQktzWnVDSkt3dnE4Ymt3VEIwQmhMVFZqcmtQUTc5SmRnN1lnYTd3UmszZ1R1cnZMX0VjMnB1YkszdnJZTFppbkdaUHlrTDNOT3lzaGN0UGtpOGNtaUMzU0JUMkh0NGtHZ3hQUnk0ZnNLRTNKOGtXRGtWM0hYSTZJRHFw?oc=5",
+      "pubDate": "2026-07-03T22:54:00+00:00",
+      "source": "Rmol.id",
+      "description": "Legislator PDIP Kecam Lagu ‘Lalaki Langit Lalanang Bejat’, Ini Sebabnya",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Lagu Binzein Langgar Undang-Undang TPKS",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnVBdVJnNVJSemxneW9uaWNGQWk4YkxHR2U3R2pZV0pTWjdjQXluWHBVTnc3a3ZHV3dEVkJFdF91VGN2TnZ4dWZ6RHFPZ3pnejJwNEJzUnRyTXVTUEt5MzhYWkFobzZWMVZoeDUyeXJ0M1l3VzFhNVpjdVBwOVlqRjRoNm40ZnlqSHlwN0VnTkQ0cW5LYzlV?oc=5",
+      "pubDate": "2026-07-03T22:00:00+00:00",
+      "source": "Pikiran Rakyat Koran",
+      "description": "Lagu Binzein Langgar Undang-Undang TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Masuk Pelecehan Seksual Nonfisik, 'Lalaki Langit' Berpotensi Langgar UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSW80U0lSWFFKdGhoOXRwTjBCX2phdzEtdGZWelQ1aDMxeXg1RWlRTjJMRTV4WXdhVHlJa2tvdUVqNllEeDQ3MmJ2N0RnUmVaS2N0emRVVTF6ZDl1TDg3MVRrLTc5OGFZYUV5TlFqZTd2Y1huZmlRb0JVNE1nMkNEbWFLMjdScHpIeS1aRmk1YUtERHlqRFpVcHAwNUs0QUppUDNseFZQOVhQaHphTXB2Q2hqcWUwVm5TWEZONXlSOTFuZFJlZm1FVjFPZ0lXOGlzdlV3Wg?oc=5",
@@ -1610,6 +1628,15 @@
       "description": "Soroti Isu Gender dalam Advokasi Hukum, BEM FH Hadirkan Praktisi dalam Webinar EDGE School",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Angka Kekerasan terhadap Perempuan di Indonesia Menurun",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmo5TkNSODlTdVR6d0dQWWxyc1NSQTc0Qm1BVEdYcnhHNW93QUUtMFJQNUs0OEJHZVJOT2lleVlfS0pnSnFsTXRiVjFsMlppMDZPMG9tSnNlb3FPOWpZWTVXQXBLeEZRWlh2dEtBRkducFZYSFFOUVU0WkctZDVBX2VmMko0SVlWTDVMWnRiVENYRnJHX1FtV2tBWQ?oc=5",
+      "pubDate": "2025-10-10T07:00:00+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "Angka Kekerasan terhadap Perempuan di Indonesia Menurun",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Kena UU TPKS, Pelaku Asusila Penyandang Difabel di NTT Dibui 5 Tahun 4 Bulan",
