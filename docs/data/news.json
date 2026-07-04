@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T08:30:57.183617+00:00",
+  "updated_at": "2026-07-04T13:14:35.848000+00:00",
   "total": 190,
   "stats": {
     "tpks": 65,
@@ -58,7 +58,7 @@
       "title": "Lagu Binzein Langgar Undang-Undang TPKS",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnVBdVJnNVJSemxneW9uaWNGQWk4YkxHR2U3R2pZV0pTWjdjQXluWHBVTnc3a3ZHV3dEVkJFdF91VGN2TnZ4dWZ6RHFPZ3pnejJwNEJzUnRyTXVTUEt5MzhYWkFobzZWMVZoeDUyeXJ0M1l3VzFhNVpjdVBwOVlqRjRoNm40ZnlqSHlwN0VnTkQ0cW5LYzlV?oc=5",
       "pubDate": "2026-07-03T22:00:00+00:00",
-      "source": "Pikiran Rakyat Koran",
+      "source": "Pikiran Rakyat",
       "description": "Lagu Binzein Langgar Undang-Undang TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -1126,15 +1126,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Kartini dan Luka yang Tak Terlihat",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1151,6 +1142,15 @@
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
