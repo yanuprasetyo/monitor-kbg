@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-05T13:21:47.100511+00:00",
-  "total": 192,
+  "updated_at": "2026-07-05T19:10:12.842018+00:00",
+  "total": 193,
   "stats": {
-    "tpks": 66,
-    "kekerasan_seksual": 54,
+    "tpks": 67,
+    "kekerasan_seksual": 52,
     "kbg": 34,
-    "kbgo": 38
+    "kbgo": 40
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -392,6 +392,15 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYXNwbGgtM1pLc0RXM19aYkxZWnk5UXhrZ0dTcEIyYUpFMVFtbGdxZDZSTXRxcURUZmx2VUVsMDFDQlgzcDljeHptM1dxRUp4SDExdHZoWXF4NFVEejQzbmJualZLdzZGRHRzWXl2cDBVLVBuLVZMb1JhWFlRWWd1NjhrWmxhS21wcHp6X1Nwb3FzWUR5b1NmY3FmS2h6dTBzcjFubGVnbmw3Qno2TWxseEVpVXFTaHVDMXlxZE9LaWE2Wk9LenpDQW5LYmNJVFYtRlFpbGtMM0ZvOVpTRXdDUHZR0gHiAUFVX3lxTE5hc3BsaC0zWktzRFczX1piTFlaeTlReGtnR1NwQjJhSkUxUW1sZ3FkNlJNdHFxRFRmbHZVRWwwMUNCWDNwOWN4em0zV3FFSnhIMTF0dmhZcXg0VUR6NDNuYm5qVkt3NkZEdHNZeXZwMFUtUG4tVkxvUmFYWVFZZ3U2OGtabGFLbXBwenpfU3BvcXNZRHlvU2ZjcWZLaHp1MHNyMW5sZWdubDdCejZNbGx4RWlVcVNodUMxeXFkT0tpYTZaT0t6ekNBbktiY0lUVi1GUWlsa0wzRm85WlNFd0NQdlE?oc=5",
       "pubDate": "2026-06-26T10:34:48+00:00",
       "source": "Tahu Ekspres Sumedang",
+      "description": "Kekerasan terhadap Perempuan dan Anak Masih Terjadi di Hampir Seluruh Kecamatan Sumedang, Begini Cara Aman Untuk Melapor",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kekerasan terhadap Perempuan dan Anak Masih Terjadi di Hampir Seluruh Kecamatan Sumedang, Begini Cara Aman Untuk Melapor",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHpNaVlmVDl6SnR0WFVRMXpmZE9yMFFEZW9BSmVNQmhnVlBCYjNQbFpkVS1Kb0syU0VEWDgtODRyVmJ6alhnbUw3VHJIUHh4QkZIekJ2MTFFdUs4NnB5Qmt0TklHOFdwOUg1by16b0lmZlhGa1QxR25GdGFtcW9rVFdSLU5ES25KcGtrSXpPUnlsallBSFdiNUExVkVRblhFandMSDJUZDJyUE40RlhmZW1JSmhTU3FPSDFibG9mWjRsLUt3MTM3RkNTa3hqd2pLZ2x1WlV5N3RWdjFq0gHiAUFVX3lxTE5hc3BsaC0zWktzRFczX1piTFlaeTlReGtnR1NwQjJhSkUxUW1sZ3FkNlJNdHFxRFRmbHZVRWwwMUNCWDNwOWN4em0zV3FFSnhIMTF0dmhZcXg0VUR6NDNuYm5qVkt3NkZEdHNZeXZwMFUtUG4tVkxvUmFYWVFZZ3U2OGtabGFLbXBwenpfU3BvcXNZRHlvU2ZjcWZLaHp1MHNyMW5sZWdubDdCejZNbGx4RWlVcVNodUMxeXFkT0tpYTZaT0t6ekNBbktiY0lUVi1GUWlsa0wzRm85WlNFd0NQdlE?oc=5",
+      "pubDate": "2026-06-26T07:00:00+00:00",
+      "source": "tahuekspres.com",
       "description": "Kekerasan terhadap Perempuan dan Anak Masih Terjadi di Hampir Seluruh Kecamatan Sumedang, Begini Cara Aman Untuk Melapor",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -1153,6 +1162,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1160,15 +1178,6 @@
       "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
@@ -1194,8 +1203,8 @@
       "pubDate": "2026-04-17T02:58:28+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
@@ -1232,6 +1241,15 @@
       "description": "Menteri PPPA Dorong Penanganan Tegas dan Pencegahan Sistemik Kasus Kekerasan Seksual di Kampus",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Satgas PPKS UNPAR Bekerja Sama dengan KSR Beri Sosialisasi Kelola Media Sosial Aman dari KBGO",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWpaeVBKTWJHUVhfTTNBR0RTSXhzbXVXUVVoeGszcjBuOUEtS0MtMkxGTk1xLWdXMG1keS1GcnZUZnp4Z0Q4NzVtUjRBLS1CYkN0TERua24xbG1aV0RIUFM5c0x2N2xBOURXb1paTkRiQ0E1UlFSRG56bDl3LWJyQVQ5TWlqQkZ0bnBJR0tqdW1QYW1RUk1TTG5NRE9IWG9SaVFwTzdqTmZOa2ZKWUNVZ2UxS1U?oc=5",
+      "pubDate": "2026-04-16T06:25:20+00:00",
+      "source": "Universitas Katolik Parahyangan",
+      "description": "Satgas PPKS UNPAR Bekerja Sama dengan KSR Beri Sosialisasi Kelola Media Sosial Aman dari KBGO",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Kekerasan Berbasis Gender Tak Bisa Diselesaikan dengan Mediasi",
@@ -1295,15 +1313,6 @@
       "description": "Seleksi Ketat, 35 Peserta Terpilih Ikuti Pelatihan Gender Transformatif di Jakarta",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "Satgas PPKS UNPAR Bekerja Sama dengan KSR Beri Sosialisasi Kelola Media Sosial Aman dari KBGO",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWpaeVBKTWJHUVhfTTNBR0RTSXhzbXVXUVVoeGszcjBuOUEtS0MtMkxGTk1xLWdXMG1keS1GcnZUZnp4Z0Q4NzVtUjRBLS1CYkN0TERua24xbG1aV0RIUFM5c0x2N2xBOURXb1paTkRiQ0E1UlFSRG56bDl3LWJyQVQ5TWlqQkZ0bnBJR0tqdW1QYW1RUk1TTG5NRE9IWG9SaVFwTzdqTmZOa2ZKWUNVZ2UxS1U?oc=5",
-      "pubDate": "2026-04-08T07:00:00+00:00",
-      "source": "Universitas Katolik Parahyangan",
-      "description": "Satgas PPKS UNPAR Bekerja Sama dengan KSR Beri Sosialisasi Kelola Media Sosial Aman dari KBGO",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Modus 'Nikah Ghoib', WCC Jombang Ungkap Kekerasan Seksual di Lingkungan Pendidikan Masih Terjadi",
@@ -1468,15 +1477,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGIzalRIcFBZQmZmWHF1WDlTNmtqY2hyOEtwQWFZS2J2OW5TMGFaSWFBVkNaV05rQ093MW10WkdyU2JibmxuOTRQbDZxTGhzTlEtNXRrby1POVF5dTFQdUxjNmpDTnJJbDZPVXBoVUE0RXBUblJCMmRMLXJBdFdmWk8wWjVxMFlsc0ZFLS1Hdzd2RDlLTlk4QlhTZGF0WUZlbjY2cWliaWRIVTBpemh5emhPZHo0S2hTYlJzOHZ3V0cxckxhZVBuZnlVN3JUX0pUTXZxQjd2U0xFNHg5bE9SOFh2ZlkxQUdwTFpONQ?oc=5",
-      "pubDate": "2026-02-09T03:42:56+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjhnd1VKUmRjakhaYVBSMWpONjAxY0FWREExblludXAxNWV4S2tBVW9BbWJqM2xwdzhjckJ2VHBTbC00TWJqekhIUkROc2djd05EMXotSHQ5cjlRUElza1JWOV94RjNFWUxXUmZlV3hOVkhUOXFrQjZ2azBNSXRfM0hheDVRdUxKMU5YUDh5c3U3YS1Md3A1M3Z4ZV9vc0hOblZMMk9MSDhxSno0Z3BOZTZnUE5FcmFPSXRnNWM2VGkwcFpqWm95bGYwc2pIc2xLVVo4?oc=5",
       "pubDate": "2026-02-06T08:00:00+00:00",
@@ -1493,6 +1493,15 @@
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGIzalRIcFBZQmZmWHF1WDlTNmtqY2hyOEtwQWFZS2J2OW5TMGFaSWFBVkNaV05rQ093MW10WkdyU2JibmxuOTRQbDZxTGhzTlEtNXRrby1POVF5dTFQdUxjNmpDTnJJbDZPVXBoVUE0RXBUblJCMmRMLXJBdFdmWk8wWjVxMFlsc0ZFLS1Hdzd2RDlLTlk4QlhTZGF0WUZlbjY2cWliaWRIVTBpemh5emhPZHo0S2hTYlJzOHZ3V0cxckxhZVBuZnlVN3JUX0pUTXZxQjd2U0xFNHg5bE9SOFh2ZlkxQUdwTFpONQ?oc=5",
+      "pubDate": "2026-02-02T08:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
