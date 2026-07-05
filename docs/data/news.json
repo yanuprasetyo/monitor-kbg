@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-05T02:39:32.788937+00:00",
-  "total": 191,
+  "updated_at": "2026-07-05T08:47:08.208543+00:00",
+  "total": 192,
   "stats": {
-    "tpks": 65,
+    "tpks": 66,
     "kekerasan_seksual": 54,
     "kbg": 34,
     "kbgo": 38
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Keadilan dan Literasi di Rimba Digital",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOclo2OVd6elNHTWRQYzU3SkdsclZRZTVjejlkWHBXMmdtWDd6OGFDaE4taFRvNDJ1RFJfZTdyTXFoZE5nRDVfQ3JneG9uNE5nNjRtTlVUOWFwdkMwd3lReEVZVVRQQVBFOG1PaVVWRHVZNk5aVldfdEMwRXdIVFJZUy11S193bWtUcTJRUHI0M29PWFJuTGlOekdBQWYtOGo5Y0p30gGcAUFVX3lxTE1jeW5rc0Z4RkJtUDBQNFFvZG53ZFdfb0d0ZnpJTExHQW10U2J6bnpDc1V2RWc1Q0hKNHlRbDJIMDZKcjk3QXlGU1NyM3hXZEJrNmdjMHBKbFBZT1JsNnA2MFhOaU1rOHNIZEFwY0d4ZHhDZnBoU3pGc3lZSmFybFJYeWdzX0IwanN2cnRhRHZYWkg2aUF1bFNEWHhxRQ?oc=5",
+      "pubDate": "2026-07-05T03:09:44+00:00",
+      "source": "Radar Banjarmasin",
+      "description": "Keadilan dan Literasi di Rimba Digital",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Topik korban kekerasan seksual",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaa0pscVdCLUdwcEhVRk9xMnphY2VzWEgwSHF6eG1jZ0tfS2NOS0QwTVVabVVmNlVQemg3WnNycVV4Ym9NU05KMXBjZzRVc1JoQ0tKTFd0alA4X3ZyLXFvUmNiZVVKUQ?oc=5",
@@ -1126,15 +1135,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Kartini dan Luka yang Tak Terlihat",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1151,6 +1151,15 @@
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
