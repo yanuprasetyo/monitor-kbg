@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-06T19:50:08.121877+00:00",
-  "total": 198,
+  "updated_at": "2026-07-07T02:40:03.830405+00:00",
+  "total": 201,
   "stats": {
-    "tpks": 68,
-    "kekerasan_seksual": 55,
+    "tpks": 70,
+    "kekerasan_seksual": 56,
     "kbg": 36,
     "kbgo": 39
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kasus Penyekapan Perempuan di Jabar, Tersangka Dijerat UU TPKS dan Terancam 36 Tahun Penjara",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkhTM21CMkJNTEgtN0xBSDJvZkNaTnFoc1dCeXhlamcyUkFydzdGM05tc3N0Vjd4TnlfM0h2VFZQS1YtVjJ5ZXU5aUNFalBVM2lxY1hrVDF2ZmZzbFZoUFlHT3YxLXRSV3BNU0ZxUmpBUFJ2QmVTZE1QVXFLcmxjd2JfMWVrUzJlcEhQWWp3YlVrSkJXUXl5LTBJVjBkQjBGd2JvTFNOLURzUjdHZjkyS09DZmpIVzFyYUFfTE4zT2JxWi1nam9jTklUclZWMGp2TWpKMUdnd2tGdTQz?oc=5",
+      "pubDate": "2026-07-06T22:00:00+00:00",
+      "source": "Pikiran Rakyat Koran",
+      "description": "Kasus Penyekapan Perempuan di Jabar, Tersangka Dijerat UU TPKS dan Terancam 36 Tahun Penjara",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Polisi Tambah Jerat TPKS untuk Taufik Hidayat, Ancaman Penjara Kini Capai 36 Tahun",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc0QyY3A4U0tmVzZZRDd0OW1PZ0NrU0F6ZzM3TmtEbjMydzByZXI1bi0ySURnNlFOQXljZ0RkbVd6c0czZmI4cXFycGZWa1FHbVBidVhxbVJGV0lYY3BjX1JxQ0JJQjZNaThoem1wNmVPUlE0c2NORXpHRnM0V1FPblByU1A0SWpEN0hLakhpbUtNVHZ0Qzh2Q3JkZWFldzZIUkV0NXZMT0hubzl3SkkyajN3Q0xEVDNVNmVv?oc=5",
@@ -1144,6 +1153,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Memulihkan Trauma Anak Korban Pelecehan dan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUVdSSm5XNVFxUWl6MG1SeFVjVWVwRHU4RFpjYzFmNTZ0NmlJYW1iUjA2SlJaNXBpbzRsNzlfaG44ZU1zU0U1dGRTalREU195V3JWZFdUclk0UHZ1NlFfYkU0ckVnOVJYQzNVVDdSaVVrbFQzUzlqbWRHLXNjUXhHUmJ5V1hwSVpfRS1mU1hudXEwZzhU?oc=5",
+      "pubDate": "2026-05-06T07:00:00+00:00",
+      "source": "Universitas Gadjah Mada",
+      "description": "Memulihkan Trauma Anak Korban Pelecehan dan Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYXFnUUJxZm9ROFA1bkgtTTh5Qzl4RDVQWEljM2IyRU4xaU01ZEl0SnRxVFMxLUc5a2xjNTNkVEF0R2FlbXhvQ1otblduUjJGT18tdGZUYlhTVmZqaVVwRld4bnlkUDVuVXVmdHRkbG0tWXF5ZHFIOHo4dFY2S01Wb1AxVG9fQ1NFenVET1hFcERSX0dud1Eta3NQWnBrcUw0LXpabXBlSlI1V2VfZFFtZGt2bTRzOXZnZWlUUEI0UXptN3hoVF9YbFE5UU1XVXJmSmtaWWVrc3ptaloySllJYmNNbW5ZSDNRODFsUk9RcUx5bnA4aHRB?oc=5",
       "pubDate": "2026-05-06T07:00:00+00:00",
@@ -1171,6 +1189,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Hukum: Kesaksian penyintas kekerasan seksual di kampus",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Y3MydGRaalpjUlFSX3lzMWcyZ1hFUjBnbXJqa0lfdk81RW9nZVJCOWhGZ2RrMmtBYnBWNTRmZlZaS1c0NHBYSXRjT3lVVVo2WmZMbHp0NndxQXZtUjl4dtIBZkFVX3lxTE1PZmxLazU0ZURKeC1NSEpGcE9ZRzVIaVJ3Zmg2NkxuMnZoaXNqRDRkbUZjOURsb2huX1lVQ3E3M2sycU1vODNNbUZnV1h1aHV0YTB1T1N1WkxtckFxeUE4ZnZMeXZxUQ?oc=5",
+      "pubDate": "2026-04-24T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Hukum: Kesaksian penyintas kekerasan seksual di kampus",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "SEKILAS TENTANG UU TINDAK PIDANA KEKERASAN SEKSUAL",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbkF6TWNDSXF4TTlMdm1fLTdUdHVjTE51eEhsTGUxV3BNOUM1S09xVUZCT3Ztd25BT3I2cnA3TnBxRjJSS2wzck5WdUZqa0RtZ3J1eGx4aS1HaUhUVWh5cG9zSS1wbnU3TUk0RlNFZFktWDZpVjBLTGs2X2FSRWp3S1g1NmV3NGktOTNFVXpsYTc0b2g5WjI5S2tNSnJWZw?oc=5",
       "pubDate": "2026-04-24T07:00:00+00:00",
@@ -1183,7 +1210,7 @@
       "title": "Bermula dari Candaan, Ujung-ujungnya Terancam Pidana Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUVkTlQ2RjBnanB6ZmNMX3dMcWNYeXc2WER6U3NOV1RPT3p1MWVvd3dHdzFjRlFUeDhLVVNvYnVpeWtCQUo0WjU5ZUR1b2FhM0l6THMxM1BTYlVwYnB3UUxNYnpOU1FBRlRCTi1IcjE5OVlFNlZTak54bVRGM1ZVUTcwdDlqLS1fVjMzWVZPYjNpZExIZjRVQTVDejhLRVRsOUs0TkJFclBTNGNKeE9UeFRRaTc?oc=5",
       "pubDate": "2026-04-24T02:26:01+00:00",
-      "source": "Pusiknas POLRI",
+      "source": "Pusiknas Bareskrim Polri",
       "description": "Bermula dari Candaan, Ujung-ujungnya Terancam Pidana Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -1248,8 +1275,8 @@
       "pubDate": "2026-04-17T02:58:28+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
