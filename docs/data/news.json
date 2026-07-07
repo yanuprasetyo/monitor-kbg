@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-07T09:33:56.520710+00:00",
-  "total": 204,
+  "updated_at": "2026-07-07T14:21:52.546132+00:00",
+  "total": 207,
   "stats": {
-    "tpks": 70,
-    "kekerasan_seksual": 58,
+    "tpks": 72,
+    "kekerasan_seksual": 59,
     "kbg": 36,
     "kbgo": 40
   },
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Pelaku Pelecehan di Pantai Padang Dijerat UU TPKS, Terancam 4 Tahun Penjara",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2RTRllLU0VBUFdSZEYtUy04eFJzSXZfaHVpbWFsaUszM0o1d1JKWVhhZE5Lbm5vVTJTbnRRWk5STC13WDliUVJmMHZQV21kVnFjMFhlMVcwWFp3dTItNHVFUDN2LVc4dk9HQ1pXVmVlX0RxN2kyN3Z2bUYyZVhnd1FmWkpIb0tyWUR6YVN1OFVzWVczblgtZVJ3?oc=5",
+      "pubDate": "2026-07-07T14:09:11+00:00",
+      "source": "Langgam.id",
+      "description": "Pelaku Pelecehan di Pantai Padang Dijerat UU TPKS, Terancam 4 Tahun Penjara",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Waspada! 50 Persen Anak RI Terpapar Konten Seksual di Medsos",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWNhQ3BvRFBPU3BQQy1pcnlBQTlfUllSNnBXcjNkR1JzLTcwWmlEajE3Sm9ENmlwVFVqckFSc0owLUN3bkJmaEo3MFYzV1hjMWRaZEx5STF0TXVsNUxobUhEcTNhek1BaHRVSXp4WFVuVVZJYUhlSEpxUGpudTFPTUdvNWlfMU5BZF9MMWJ3MjNFOEJsUnVmbjc2X0NEWWtESk1uU28za9IBrAFBVV95cUxORTdIVVZsaGlDSUowNkRhMWFLRERsTnhFOHVWaWJDbDFydFFzTC1oekgtbTV1c3Jqb0N2ZGk4U2F0RldkYUdmbWRWQm0wa3V4TmtiSkJnRW8tdjNDUnBWWGJoQ3A0OGlpNEotLWtxcHBzaVhlY1dnOERoZzdUdTduMXljQ0V6UHQxb0ZlNU1mOXRkRXFnZ01HSk5DdDFTTDlLQlJ4ZERvdy1KM3dL?oc=5",
+      "pubDate": "2026-07-07T11:45:41+00:00",
+      "source": "detikcom",
+      "description": "Waspada! 50 Persen Anak RI Terpapar Konten Seksual di Medsos",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pelaku Kekerasan Seksual Anak di Kediri Ditangkap Polisi Dari Tangan Warga",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDhCOFJXejZZMzRmdnQzQ0xyalNMaGJlMGRsZEVpWmFPM0hfZFRtTFpTS3IzTDlrd2x0M05HRjc2X2w5eWM1Q0FfVm13WTdBdVVvZHV1ZjJKMjI5UGZIUnB2RFN5NWlnTFFkRkhkeUV4MmNCeWkxN0stR2FJNF9taTlDMEVjYzBnZWQ3MFFJa05PUjF1MG8wakJuY0JNWHZtUmQzamMwYjBZa2c?oc=5",
+      "pubDate": "2026-07-07T09:29:12+00:00",
+      "source": "Jurnal Jatim",
+      "description": "Pelaku Kekerasan Seksual Anak di Kediri Ditangkap Polisi Dari Tangan Warga",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "MAHASISWA BERSUARA: Mendorong Kesiapan Infrastruktur Pelayanan...",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOV0llTUZLUTN1MVVkckVlZ2NVSGhkOUN5ZlNMV3gtaEdOeW9rdGFWX0FhMWtfR2pCcUVNamw1aXloTExiajdlZW1uYnJ1UVpJYXR6NlNYT1RjM1QtY2lST2lqTDBsRUIxZnFQRzhraEJXY0lHV3k5dnYtang5T2h4akV0Q1g3ZmpxOXRaNWxUMl9tZjNIQ3ZOYmpuc1NLQ05rLXRGdThnTGwxUENMQ05zNXNPSE1BUnQ2bWo1VkEyNlMtMXo3WnhmblZaVDlVUUtVT1RXZl9fOV84QnBnQlRnZUFoUFJwSnhMSEJNNlFBdUF5OW1Zd1BJVw?oc=5",
@@ -1234,15 +1261,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1250,6 +1268,15 @@
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Kartini dan Luka yang Tak Terlihat",
