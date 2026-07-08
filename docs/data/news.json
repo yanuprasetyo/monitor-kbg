@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T02:13:24.175924+00:00",
+  "updated_at": "2026-07-08T08:20:09.580937+00:00",
   "total": 208,
   "stats": {
     "tpks": 72,
@@ -35,15 +35,6 @@
       "description": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEd0SHBhWENnUDYtNmIyWXBYb3RQbGZXMUFFM0JlTzNQellMRk5Bamp2dzlOWlpWTUM0S1BXdDJ6cmhmWUVNUG1HdDR4TlNYdzlZRTJaTk9na3UyTG56YTNpVkp3d0ExSEprVjlhNW1IRG1zOGpFazRQTE9rUlViZ0lvY3pKemVIMC1qYUgtX2Q2U3RLYU84WVhDU3NVWTJSdkcwRTVsMC1hNlhDdFoyQ1ZLaVN5Q2ZKWEVMbGRDTEF5ZC1MendDS2tsMU92Y2ZnN05ZQmxRN2JjcEJ4Mm00?oc=5",
-      "pubDate": "2026-07-07T15:08:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "Pelaku Pelecehan di Pantai Padang Dijerat UU TPKS, Terancam 4 Tahun Penjara",
@@ -105,6 +96,15 @@
       "pubDate": "2026-07-06T11:24:00+00:00",
       "source": "Deliknews.com",
       "description": "Polisi Tambah Jerat TPKS untuk Taufik Hidayat, Ancaman Penjara Kini Capai 36 Tahun",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEd0SHBhWENnUDYtNmIyWXBYb3RQbGZXMUFFM0JlTzNQellMRk5Bamp2dzlOWlpWTUM0S1BXdDJ6cmhmWUVNUG1HdDR4TlNYdzlZRTJaTk9na3UyTG56YTNpVkp3d0ExSEprVjlhNW1IRG1zOGpFazRQTE9rUlViZ0lvY3pKemVIMC1qYUgtX2Q2U3RLYU84WVhDU3NVWTJSdkcwRTVsMC1hNlhDdFoyQ1ZLaVN5Q2ZKWEVMbGRDTEF5ZC1MendDS2tsMU92Y2ZnN05ZQmxRN2JjcEJ4Mm00?oc=5",
+      "pubDate": "2026-07-06T07:26:33+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -426,7 +426,7 @@
     {
       "title": "Rieke Diah Pitaloka Minta Penanganan Kasus Kekerasan Ekstrem terhadap Perempuan Gunakan Dasar Hukum yang Tepat, Desak Dakwaan Berlapis bagi Pelaku",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNTIwTXljdmZCdGNQZElYbERVSy1hMkRCNkJlcjR6cXFHSDQ4MFlkOUZhT2xMZnJIMERxb01wYnN4ZXRqNHBlX3NwVnRQZmYtV05MN1A0dmN4V2FURFEyaHY0LXl2ZTJvM0lXYmxCY1d6Xy1fTDI5WXZEQ1RKc1Q3MEgzUDRFTDJ6X0dveDVUTG1adnRoOWtsMmRmeXFsSmhuaWdfWGZwc2c3OW9EV0c2dmlsTHlIbDJOWTNkbU5aLVh0OHkycjFuOWNycUVveDdLYnlqSVN1Z3Z6ZWV6aFVKQUxMbmJycDRqT2V1Tmo3RmRUWWNOdTBvalJtMFlKdw?oc=5",
-      "pubDate": "2026-06-28T13:29:41+00:00",
+      "pubDate": "2026-06-28T07:00:00+00:00",
       "source": "otoritas.co.id",
       "description": "Rieke Diah Pitaloka Minta Penanganan Kasus Kekerasan Ekstrem terhadap Perempuan Gunakan Dasar Hukum yang Tepat, Desak Dakwaan Berlapis bagi Pelaku",
       "keyword_id": "kbg",
@@ -1324,6 +1324,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -1340,15 +1349,6 @@
       "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "Menteri PPPA Dorong Penanganan Tegas dan Pencegahan Sistemik Kasus Kekerasan Seksual di Kampus",
@@ -1486,6 +1486,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Implementasi UU TPKS Belum Merata Terhimpit Problem Struktural",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVd4RTlIWVFXTlRJdXpnWXBEVE5hNl9WcHYxTnAwbjhpWTVrZEx4b3UwZ2VwU0pmbFJwUXM5NS1LUEs3Z0ZVLU05QzVsOW1nc0lTemZndkdGeW5yckZuR2FadmpIekVQUEFpaC1RMEV6ZjFjTWR3ai0tVzZpaDdSTENycWlmLXljaHRhZ1FTVC1aUzdIYVJpbXQ4TGZFcnpYRlNBYzZjRGxUQ1liZzFUd3hWVDNUQzg?oc=5",
+      "pubDate": "2026-03-02T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Implementasi UU TPKS Belum Merata Terhimpit Problem Struktural",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Polri Luncurkan Modul Pelatihan TPKS, Menteri PPPA: Polisi Garda Terdepan Perlindungan Korban",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUY1ZnJtVlhROEh5YWdEc0lNUG1jSnMzbjBhQ1I2RHpuTDF1YkE5bmZJeVBDWENVSEM5d3RMQXRUazNTanBoMFhLZV9yWGZPeE9HZ1pLM242azNmTmRiTkFVbVFQazZURFFwck5DRklnX3A4VmQtdUdQbGo1Vk9td1k4WThOUjZRc1NVb3ZkQ1VoUlNXVEptNGZNNldsUzVlbnZaclVrVTYydlA1UUFlUEJMcjJ1bGFBNE0wVVZtQlZBcFlOaThNX2NHcEJxampGbEtZ?oc=5",
       "pubDate": "2026-03-02T08:00:00+00:00",
@@ -1500,15 +1509,6 @@
       "pubDate": "2026-03-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Implementasi UU TPKS Belum Merata Terhimpit Problem Struktural",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVd4RTlIWVFXTlRJdXpnWXBEVE5hNl9WcHYxTnAwbjhpWTVrZEx4b3UwZ2VwU0pmbFJwUXM5NS1LUEs3Z0ZVLU05QzVsOW1nc0lTemZndkdGeW5yckZuR2FadmpIekVQUEFpaC1RMEV6ZjFjTWR3ai0tVzZpaDdSTENycWlmLXljaHRhZ1FTVC1aUzdIYVJpbXQ4TGZFcnpYRlNBYzZjRGxUQ1liZzFUd3hWVDNUQzg?oc=5",
-      "pubDate": "2026-03-02T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Implementasi UU TPKS Belum Merata Terhimpit Problem Struktural",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
