@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-08T13:52:18.451760+00:00",
-  "total": 208,
+  "updated_at": "2026-07-08T19:18:18.418509+00:00",
+  "total": 209,
   "stats": {
-    "tpks": 72,
-    "kekerasan_seksual": 60,
+    "tpks": 73,
+    "kekerasan_seksual": 58,
     "kbg": 36,
-    "kbgo": 40
+    "kbgo": 42
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ketika Layar Jadi Ladang Kekerasan: Bagaimana Media Nasional dan Global Membingkai Kekerasan Berbasis Gender Online - Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSC1nMXNIRGdxR3BuU3ZxX3h3UXJqUFVPRWZPNUFHR2FhX0djVGUwNHlzRnYzQjVzNjY0VnhGUUN3eU5tTlg0WFM0azkwalJ3N2hmN19XSGRMT0pZZm83VlhPcDBZTkQwTnk0UFRxOVhFWEgxaDhWZ3otSTRSUk15NHhuX3JyVGZFU0FXU213TmRNQmJQbjlWNWpsMjZTdGFDU3ExbUxZNjMwS1dxSkQzcFdPOEhvMDZsclJNQzVDdVpBTXJKcVdOYnpvUnAxVkkxcG1qdi1CbDNTUnU2X3lvc3lWSHJxSktyZDJOMGRUdzNtdkdSUDJKc3ZpLVUyUndUUnU1Q19uVGxlMVhkYXRsUNIBlgJBVV95cUxONnRFWEktb2tONXQxYjhldldpZXp3UXMtT2s0M1dydGwxSmJqV3JyZVdwTkN2eDRFX0JvVEg1YVZuNHZmRkYtT2JBRnlYUTlPU2tCVUU5cFVxSDhaTlJPWFA3ZDVEb1FiMklkY2JMMkJocEhJX0NzSEhuM3VGSHFwb2xwVHExUThKWjFVakVWai1oNlllakprMXA4QnhIN2ZjRjZCdXNFZ1dRaHMwckhvN0U2ZWFIYVlGUXp1ckhka2swRnpoYm02SHdzaWhjeDUxQWlxMFY0d0cyN3JQd29tX09vbE1wZ2VTQ3NkZXg5SVJ3ZnZQWjhDQmM0QmtDN0JPYUtNYnUzZG41QTJKc2lPaDJiWU1uUQ?oc=5",
+      "pubDate": "2026-07-08T08:00:00+00:00",
+      "source": "Kompasiana.com",
+      "description": "Ketika Layar Jadi Ladang Kekerasan: Bagaimana Media Nasional dan Global Membingkai Kekerasan Berbasis Gender Online - Kompasiana.com",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
     {
       "title": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUUZTUFRqMXZkUzZVWjZNR2Z3aWdDNEdrbXFrcHc4WVlxTGJDeEpRdTB4d1BCQWt3V0xfc0o3N0tnVG5KWnJzMi11UEc5WkpyMUJ4Um1yc2drWGJMXzZlN0l2LUd1YUJWY1NqZjNQNmlDMlRXVWVIcV95UWt3YkpacVVFanZITjF3TDhOS0htNDFCTmVadEZRVTVmWHZXQjBGQ0F6VjJ0eE43VHpvT3EyS1NwZmFreVU2c1pKVnQ1cHBlTnpNeWJUTVk4Zk5oTXBDb1RqTUhxdXlHWHp6eGNzZmpXT0ZTTWlOdGtXVWFvZUdEdElHRzJTMkpyYkRHdGNRaHNRa3Vyb29JREVWS19GclI5Nm14bEpWU3k3MHVn?oc=5",
@@ -496,20 +505,20 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Kekerasan terhadap Perempuan dan Anak Masih Terjadi di Hampir Seluruh Kecamatan Sumedang, Begini Cara Aman Untuk Melapor",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHpNaVlmVDl6SnR0WFVRMXpmZE9yMFFEZW9BSmVNQmhnVlBCYjNQbFpkVS1Kb0syU0VEWDgtODRyVmJ6alhnbUw3VHJIUHh4QkZIekJ2MTFFdUs4NnB5Qmt0TklHOFdwOUg1by16b0lmZlhGa1QxR25GdGFtcW9rVFdSLU5ES25KcGtrSXpPUnlsallBSFdiNUExVkVRblhFandMSDJUZDJyUE40RlhmZW1JSmhTU3FPSDFibG9mWjRsLUt3MTM3RkNTa3hqd2pLZ2x1WlV5N3RWdjFq0gHiAUFVX3lxTE5hc3BsaC0zWktzRFczX1piTFlaeTlReGtnR1NwQjJhSkUxUW1sZ3FkNlJNdHFxRFRmbHZVRWwwMUNCWDNwOWN4em0zV3FFSnhIMTF0dmhZcXg0VUR6NDNuYm5qVkt3NkZEdHNZeXZwMFUtUG4tVkxvUmFYWVFZZ3U2OGtabGFLbXBwenpfU3BvcXNZRHlvU2ZjcWZLaHp1MHNyMW5sZWdubDdCejZNbGx4RWlVcVNodUMxeXFkT0tpYTZaT0t6ekNBbktiY0lUVi1GUWlsa0wzRm85WlNFd0NQdlE?oc=5",
-      "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "tahuekspres.com",
-      "description": "Kekerasan terhadap Perempuan dan Anak Masih Terjadi di Hampir Seluruh Kecamatan Sumedang, Begini Cara Aman Untuk Melapor",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Angka Kekerasan terhadap Perempuan dan Anak di Sumedang Tembus 90 Kasus Sampai Bulan Juni 2026, Problem Parenting Saja?",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV1NleExKWnQzUkk2dE9Cd2ZWNlJkVWVzTklJdnJJYms1bi1CT1pkaHQwMm1rcHo5eEVCNXl6N3lCZlItbE1YM1pKZ1hJMS1QRjNjdzFidTZTX0RTTVVtTUtVOTlaUWxyMUFYMzVYWGhHV200NlZTa3N5eFBMN1czemQyMXlNWTRXek5QcDhjWXROVlhXV1FQUUx5Rnk2NkdMSWdjVzA3Wmxmd0NBQ0ltYlJvUDRvWjFqR25ZcENUOTdzTFhvZ0N1U3J1ZGhZZ3VSZTc2R2lkb0o1Z9IB3wFBVV95cUxQRF9DUkRXdXNTMlB6MWxzQk4yX0oxV3FfbVZOUDI2SGpuVTZGa3paMVVLV3E4MzdkUjgzdVRDQkNmeEpmU21JVlhLX09XTHIteHNKZnpNbmRCVkZsaTg1Wkw1M2ZJQ1dwZ21fV0gwZUxKWHdpZzZ2dmFJVXRhWVRkSlRtbWU3bzFnWG0zdGlzWHV4OHhtSFRXME1oUll6Ukd1OEtuMkw3empxMy1sMjM1cGk4TENnRVFQR0c5Vm5WVXhITFNuRXRwSHJ0NXhZbkE0a0t3dmJMRjJ2a2pmR2M4?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
       "source": "Tahu Ekspres Sumedang",
       "description": "Angka Kekerasan terhadap Perempuan dan Anak di Sumedang Tembus 90 Kasus Sampai Bulan Juni 2026, Problem Parenting Saja?",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kekerasan terhadap Perempuan dan Anak Masih Terjadi di Hampir Seluruh Kecamatan Sumedang, Begini Cara Aman Untuk Melapor",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHpNaVlmVDl6SnR0WFVRMXpmZE9yMFFEZW9BSmVNQmhnVlBCYjNQbFpkVS1Kb0syU0VEWDgtODRyVmJ6alhnbUw3VHJIUHh4QkZIekJ2MTFFdUs4NnB5Qmt0TklHOFdwOUg1by16b0lmZlhGa1QxR25GdGFtcW9rVFdSLU5ES25KcGtrSXpPUnlsallBSFdiNUExVkVRblhFandMSDJUZDJyUE40RlhmZW1JSmhTU3FPSDFibG9mWjRsLUt3MTM3RkNTa3hqd2pLZ2x1WlV5N3RWdjFq0gHiAUFVX3lxTE5hc3BsaC0zWktzRFczX1piTFlaeTlReGtnR1NwQjJhSkUxUW1sZ3FkNlJNdHFxRFRmbHZVRWwwMUNCWDNwOWN4em0zV3FFSnhIMTF0dmhZcXg0VUR6NDNuYm5qVkt3NkZEdHNZeXZwMFUtUG4tVkxvUmFYWVFZZ3U2OGtabGFLbXBwenpfU3BvcXNZRHlvU2ZjcWZLaHp1MHNyMW5sZWdubDdCejZNbGx4RWlVcVNodUMxeXFkT0tpYTZaT0t6ekNBbktiY0lUVi1GUWlsa0wzRm85WlNFd0NQdlE?oc=5",
+      "pubDate": "2026-06-26T07:00:00+00:00",
+      "source": "tahuekspres.com",
+      "description": "Kekerasan terhadap Perempuan dan Anak Masih Terjadi di Hampir Seluruh Kecamatan Sumedang, Begini Cara Aman Untuk Melapor",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -811,15 +820,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Menteri PPPA Dorong Sinergi Lintas Pihak Tuntaskan Isu Perempuan dan Anak",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTE0wa2xfNzctWXBqVHJtWWRqUUFSYkZvZERkbVJGRWYtQUp1Y2xtRlM4MU9INUJ3RVBfdFJueXk3b2NOc2VJcDZmVFpKLXlzN2g4QnpaVjNsdEM5X3N4eHQwd3hOdFNBV0g0cVVkbEp3b0VBa2pfSjVVYnBNeTRUZlZpNnNhaFBabHNFdzZhRDR6YTBNOVY4MWNIUVMwRGlzMmp5Wm85NGFkdlBzRnlSc3h1aw?oc=5",
-      "pubDate": "2026-06-20T08:56:10+00:00",
-      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
-      "description": "Menteri PPPA Dorong Sinergi Lintas Pihak Tuntaskan Isu Perempuan dan Anak",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Jerat UU TPKS, Polrestabes Semarang Tetapkan Mahasiswa Unnes MFA Tersangka Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2VCSlJyUjhKS1Z1N0xldTd5c3BpV0FEMWtWZlZLQ3Zodko4MkVwS2wtcjZyS1V2UVlVYkFZOERlNElnanlnbW5GTEFGWTE5QlJuVXk2RWc4TnYzM0NSUnZLbjJpY3h5U250U0duWW9FaE5qUEdzVTd2ZEZRQzZGaC1TNmMyWkM5VE10d25RQ0JyMjBtWEx6aXBBckNZODNSVFpWUTRCLWF0b1pfcGNFUEs5SFdZYkM2UUZITU9JSUQzZnpKaEFuVjUwOV9odw?oc=5",
       "pubDate": "2026-06-20T06:17:53+00:00",
@@ -854,6 +854,15 @@
       "description": "Kasus Kekerasan Seksual di Kota Tasikmalaya Terus Meningkat, Menteri PPPA Minta Penguatan Ketahanan Keluarga",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Menteri PPPA Dorong Sinergi Lintas Pihak Tuntaskan Isu Perempuan dan Anak",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVEJsTk9ycUZaVzFPZmp0anRhczNaTERWdW00N2ZMWTlJSjRXYWQ1Ynp4aWNZdHdRWnMtTWk4QXhlMDc5NUFPeHVDTTk0czJyVzlKVHNpaWxIVndvSy1pZWk5LTM4SXFKaDZVaGE5QUlIeE1uNjAxS3p5N2RRc202VHNuS0RSZzdqV2RZS195ZUtybGZPaFVGM0lvVWtRN1c5VHRPUVBTMTh0cjhNOEJzUk83blBzeTl1U21F?oc=5",
+      "pubDate": "2026-06-19T07:00:00+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "Menteri PPPA Dorong Sinergi Lintas Pihak Tuntaskan Isu Perempuan dan Anak",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Mahasiswa Unnes Diduga Lecehkan Driver Anjem Jadi Tersangka",
@@ -1275,8 +1284,8 @@
       "pubDate": "2026-04-21T07:00:00+00:00",
       "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Kartini dan Luka yang Tak Terlihat",
@@ -1320,8 +1329,8 @@
       "pubDate": "2026-04-17T02:58:28+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
