@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-07T19:49:02.355022+00:00",
-  "total": 207,
+  "updated_at": "2026-07-08T02:13:24.175924+00:00",
+  "total": 208,
   "stats": {
     "tpks": 72,
-    "kekerasan_seksual": 59,
+    "kekerasan_seksual": 60,
     "kbg": 36,
     "kbgo": 40
   },
@@ -35,6 +35,15 @@
       "description": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEd0SHBhWENnUDYtNmIyWXBYb3RQbGZXMUFFM0JlTzNQellMRk5Bamp2dzlOWlpWTUM0S1BXdDJ6cmhmWUVNUG1HdDR4TlNYdzlZRTJaTk9na3UyTG56YTNpVkp3d0ExSEprVjlhNW1IRG1zOGpFazRQTE9rUlViZ0lvY3pKemVIMC1qYUgtX2Q2U3RLYU84WVhDU3NVWTJSdkcwRTVsMC1hNlhDdFoyQ1ZLaVN5Q2ZKWEVMbGRDTEF5ZC1MendDS2tsMU92Y2ZnN05ZQmxRN2JjcEJ4Mm00?oc=5",
+      "pubDate": "2026-07-07T15:08:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Pelaku Pelecehan di Pantai Padang Dijerat UU TPKS, Terancam 4 Tahun Penjara",
@@ -96,15 +105,6 @@
       "pubDate": "2026-07-06T11:24:00+00:00",
       "source": "Deliknews.com",
       "description": "Polisi Tambah Jerat TPKS untuk Taufik Hidayat, Ancaman Penjara Kini Capai 36 Tahun",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEd0SHBhWENnUDYtNmIyWXBYb3RQbGZXMUFFM0JlTzNQellMRk5Bamp2dzlOWlpWTUM0S1BXdDJ6cmhmWUVNUG1HdDR4TlNYdzlZRTJaTk9na3UyTG56YTNpVkp3d0ExSEprVjlhNW1IRG1zOGpFazRQTE9rUlViZ0lvY3pKemVIMC1qYUgtX2Q2U3RLYU84WVhDU3NVWTJSdkcwRTVsMC1hNlhDdFoyQ1ZLaVN5Q2ZKWEVMbGRDTEF5ZC1MendDS2tsMU92Y2ZnN05ZQmxRN2JjcEJ4Mm00?oc=5",
-      "pubDate": "2026-07-06T07:26:33+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -1234,15 +1234,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Hukum: Kesaksian penyintas kekerasan seksual di kampus",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Y3MydGRaalpjUlFSX3lzMWcyZ1hFUjBnbXJqa0lfdk81RW9nZVJCOWhGZ2RrMmtBYnBWNTRmZlZaS1c0NHBYSXRjT3lVVVo2WmZMbHp0NndxQXZtUjl4dtIBZkFVX3lxTE1PZmxLazU0ZURKeC1NSEpGcE9ZRzVIaVJ3Zmg2NkxuMnZoaXNqRDRkbUZjOURsb2huX1lVQ3E3M2sycU1vODNNbUZnV1h1aHV0YTB1T1N1WkxtckFxeUE4ZnZMeXZxUQ?oc=5",
-      "pubDate": "2026-04-24T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Hukum: Kesaksian penyintas kekerasan seksual di kampus",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "SEKILAS TENTANG UU TINDAK PIDANA KEKERASAN SEKSUAL",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbkF6TWNDSXF4TTlMdm1fLTdUdHVjTE51eEhsTGUxV3BNOUM1S09xVUZCT3Ztd25BT3I2cnA3TnBxRjJSS2wzck5WdUZqa0RtZ3J1eGx4aS1HaUhUVWh5cG9zSS1wbnU3TUk0RlNFZFktWDZpVjBLTGs2X2FSRWp3S1g1NmV3NGktOTNFVXpsYTc0b2g5WjI5S2tNSnJWZw?oc=5",
       "pubDate": "2026-04-24T07:00:00+00:00",
@@ -1250,6 +1241,15 @@
       "description": "SEKILAS TENTANG UU TINDAK PIDANA KEKERASAN SEKSUAL",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Hukum: Kesaksian penyintas kekerasan seksual di kampus",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Y3MydGRaalpjUlFSX3lzMWcyZ1hFUjBnbXJqa0lfdk81RW9nZVJCOWhGZ2RrMmtBYnBWNTRmZlZaS1c0NHBYSXRjT3lVVVo2WmZMbHp0NndxQXZtUjl4dtIBZkFVX3lxTE1PZmxLazU0ZURKeC1NSEpGcE9ZRzVIaVJ3Zmg2NkxuMnZoaXNqRDRkbUZjOURsb2huX1lVQ3E3M2sycU1vODNNbUZnV1h1aHV0YTB1T1N1WkxtckFxeUE4ZnZMeXZxUQ?oc=5",
+      "pubDate": "2026-04-24T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Hukum: Kesaksian penyintas kekerasan seksual di kampus",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Bermula dari Candaan, Ujung-ujungnya Terancam Pidana Kekerasan Seksual",
@@ -1320,17 +1320,8 @@
       "pubDate": "2026-04-17T02:58:28+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
@@ -1349,6 +1340,15 @@
       "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Menteri PPPA Dorong Penanganan Tegas dan Pencegahan Sistemik Kasus Kekerasan Seksual di Kampus",
@@ -1513,6 +1513,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Implementasi UU TPKS Proritaskan Pendekatan Berbasis Korban",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV1gtNUgwVFNsME9tZnlOekxYUzdzSFlOYzJxZkx2bkxYMF9QWmR6Skw0QlBIejNwZ0lQWU1Wb01mRGJkNzA2MEthV3BzVWZxV0Q1b0VkN050dGpMT08wdnJabE4tRmV1d2NHX2VpNjVta1FoWXlhUzd5MEMyOWxPMnVvWHRaekFYbV9xVzRyZHBzTGd0WGhpcWhEWnRqRC0tZElDY04wbnh3eU9uUWNuNFVBaw?oc=5",
+      "pubDate": "2026-03-01T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Implementasi UU TPKS Proritaskan Pendekatan Berbasis Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Menteri PPPA Tegaskan Penguatan Sistemik Cegah Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSU9Obm12RWRuVU9EYmNHQ0pwZEhJdkRodnpfQjhmRl9DckE5ZVY0ZUlXUnJwVEFVczE4ZkV5V181eGdyNFVjOVlrN3FaLWlveWk2eWh6Z09aWDNDZnZ3d1dVcXUxTTRENmU0Q05OV1N2ckhGOWRFTEVnZjJkUzg5ekhQRzNZN19ZM0hOYlg0eGhKTzl3STRDRUx0R0pVSmhGdXpBWmtXRHFRZFkzUXBZcXVoQ1FmMDEtRTRZ?oc=5",
       "pubDate": "2026-02-28T08:00:00+00:00",
@@ -1639,20 +1648,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
-      "pubDate": "2026-01-02T08:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
       "pubDate": "2026-01-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
+      "pubDate": "2026-01-02T08:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
