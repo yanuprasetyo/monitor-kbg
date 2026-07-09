@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-09T02:32:08.116735+00:00",
-  "total": 209,
+  "updated_at": "2026-07-09T14:47:42.843406+00:00",
+  "total": 211,
   "stats": {
-    "tpks": 73,
-    "kekerasan_seksual": 58,
+    "tpks": 74,
+    "kekerasan_seksual": 60,
     "kbg": 36,
-    "kbgo": 42
+    "kbgo": 41
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ombudsman kawal UU TPKS agar korban kekerasan seksual peroleh keadilan",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnQ2VzVhUGQ1ckNyN0FEM1oyQ1Z5eklBZ21KTVNidEhybTFPZVhoemo2NEtSbV82Q0c1QkdKeEQ0aHNhVlBTRjdRdTBiWm9Xd1MyNHdjZkJiVm9Uc1FGR3BXZzF3Y1dWX0NJR2pUZ09STkJDYUg5dGxQNGxmU05ZS2JDb3Nhc2JHSjFPUzAxQmdCN3BVVm5sLWNnbFYxY19lbG9qRFBIV3pjbk5qOFZURlhB?oc=5",
+      "pubDate": "2026-07-09T07:38:02+00:00",
+      "source": "ANTARA News",
+      "description": "Ombudsman kawal UU TPKS agar korban kekerasan seksual peroleh keadilan",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Ketika Layar Jadi Ladang Kekerasan: Bagaimana Media Nasional dan Global Membingkai Kekerasan Berbasis Gender Online - Kompasiana.com",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSC1nMXNIRGdxR3BuU3ZxX3h3UXJqUFVPRWZPNUFHR2FhX0djVGUwNHlzRnYzQjVzNjY0VnhGUUN3eU5tTlg0WFM0azkwalJ3N2hmN19XSGRMT0pZZm83VlhPcDBZTkQwTnk0UFRxOVhFWEgxaDhWZ3otSTRSUk15NHhuX3JyVGZFU0FXU213TmRNQmJQbjlWNWpsMjZTdGFDU3ExbUxZNjMwS1dxSkQzcFdPOEhvMDZsclJNQzVDdVpBTXJKcVdOYnpvUnAxVkkxcG1qdi1CbDNTUnU2X3lvc3lWSHJxSktyZDJOMGRUdzNtdkdSUDJKc3ZpLVUyUndUUnU1Q19uVGxlMVhkYXRsUNIBlgJBVV95cUxONnRFWEktb2tONXQxYjhldldpZXp3UXMtT2s0M1dydGwxSmJqV3JyZVdwTkN2eDRFX0JvVEg1YVZuNHZmRkYtT2JBRnlYUTlPU2tCVUU5cFVxSDhaTlJPWFA3ZDVEb1FiMklkY2JMMkJocEhJX0NzSEhuM3VGSHFwb2xwVHExUThKWjFVakVWai1oNlllakprMXA4QnhIN2ZjRjZCdXNFZ1dRaHMwckhvN0U2ZWFIYVlGUXp1ckhka2swRnpoYm02SHdzaWhjeDUxQWlxMFY0d0cyN3JQd29tX09vbE1wZ2VTQ3NkZXg5SVJ3ZnZQWjhDQmM0QmtDN0JPYUtNYnUzZG41QTJKc2lPaDJiWU1uUQ?oc=5",
@@ -1207,20 +1216,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Memulihkan Trauma Anak Korban Pelecehan dan Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUVdSSm5XNVFxUWl6MG1SeFVjVWVwRHU4RFpjYzFmNTZ0NmlJYW1iUjA2SlJaNXBpbzRsNzlfaG44ZU1zU0U1dGRTalREU195V3JWZFdUclk0UHZ1NlFfYkU0ckVnOVJYQzNVVDdSaVVrbFQzUzlqbWRHLXNjUXhHUmJ5V1hwSVpfRS1mU1hudXEwZzhU?oc=5",
-      "pubDate": "2026-05-06T07:00:00+00:00",
-      "source": "Universitas Gadjah Mada",
-      "description": "Memulihkan Trauma Anak Korban Pelecehan dan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYXFnUUJxZm9ROFA1bkgtTTh5Qzl4RDVQWEljM2IyRU4xaU01ZEl0SnRxVFMxLUc5a2xjNTNkVEF0R2FlbXhvQ1otblduUjJGT18tdGZUYlhTVmZqaVVwRld4bnlkUDVuVXVmdHRkbG0tWXF5ZHFIOHo4dFY2S01Wb1AxVG9fQ1NFenVET1hFcERSX0dud1Eta3NQWnBrcUw0LXpabXBlSlI1V2VfZFFtZGt2bTRzOXZnZWlUUEI0UXptN3hoVF9YbFE5UU1XVXJmSmtaWWVrc3ptaloySllJYmNNbW5ZSDNRODFsUk9RcUx5bnA4aHRB?oc=5",
       "pubDate": "2026-05-06T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Memulihkan Trauma Anak Korban Pelecehan dan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUVdSSm5XNVFxUWl6MG1SeFVjVWVwRHU4RFpjYzFmNTZ0NmlJYW1iUjA2SlJaNXBpbzRsNzlfaG44ZU1zU0U1dGRTalREU195V3JWZFdUclk0UHZ1NlFfYkU0ckVnOVJYQzNVVDdSaVVrbFQzUzlqbWRHLXNjUXhHUmJ5V1hwSVpfRS1mU1hudXEwZzhU?oc=5",
+      "pubDate": "2026-05-06T07:00:00+00:00",
+      "source": "Universitas Gadjah Mada",
+      "description": "Memulihkan Trauma Anak Korban Pelecehan dan Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -1279,20 +1288,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Prohealth.id",
-      "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
       "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Prohealth.id",
+      "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -1392,6 +1401,15 @@
       "pubDate": "2026-04-15T07:00:00+00:00",
       "source": "BBC",
       "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "UI Skorsing Mahasiswa Terduga Pelaku Pelecehan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTURERmJUMC16TzlrNTRmQ1RfdTFkclIzZE1ZQnFLd3hwQ1hPRXNPTWxmTGxWcUFaUkxMZVpqUDdkVHgyZ004QURvN2JCcjNoRkhocmk0WGJvR2FGaXRUSldsRjYtOVFzR3lEcy12enNsUGtSLU1xcHlRYjJCZEVUNnQzQi1lYjR2TnFjcUtGTXJmX3l0Q0pLdUVZVWpmdXc3YXZJeGxpcmczdEdx?oc=5",
+      "pubDate": "2026-04-15T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "UI Skorsing Mahasiswa Terduga Pelaku Pelecehan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
