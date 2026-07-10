@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-10T02:34:08.617322+00:00",
-  "total": 217,
+  "updated_at": "2026-07-10T09:27:09.927677+00:00",
+  "total": 220,
   "stats": {
-    "tpks": 75,
-    "kekerasan_seksual": 63,
+    "tpks": 76,
+    "kekerasan_seksual": 64,
     "kbg": 36,
-    "kbgo": 43
+    "kbgo": 44
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ramai di X, Mawapres FH UB Diduga Melakukan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTN5a0gxd0hLSGJNUWgzMk1mbWJENDhIam96N0ZQNFRLRDlDQnJKcGw4S2lwY2dQalBoZFdFT1FaY1ZmWjlqUFktWkNrOHJ0WmhPTVFYV0pUQ2MwZW91RGZzUWdfLUg1Z0xEZjN1QTlVRmsyU2VoRkRhMERzdTMtcEJaUkFTZS1UWWJTMmhESmtYSGdleVpXYURtUGw4YjZkbUpadnZtYmp0bWdQbWxpVDlmbw?oc=5",
+      "pubDate": "2026-07-10T05:49:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "Ramai di X, Mawapres FH UB Diduga Melakukan Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Cegah KDRT dan KBGO, Bhabinkamtibmas Keparakan Hadiri Edukasi Pencegahan Kekerasan Berbasis Keluarga",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdTNCaEJDY0NuSXRLLVdYZk9nRlBPSXd1RDYxNnlockROM0tuVDNfVmRpVl96V2U3STB6cEEzNkt3eDdYVmZGbG9XUG1fZkl1Nlk1MS12TzNfOVpmQ1c4YVlwY25NcE5FV1l6N0N2ZFh4eVJTY0RLY2U0bFZzNUlCOTByQm8wRHRmWnp1SHZTRUxhRFVMTHo0akNERmRlR0pzcnZnWFhDM0YyUmNDZk5uSXBUZV9xd3NwX2s3Vnl2Zi1UZnM0UFNvMGV2MWEtZjR3aEEtUnNjazkxREJaMXpXVDBzR2xITlNGbkxuSl93Y0JWVEVNQklVMmh1VEgtb3M?oc=5",
+      "pubDate": "2026-07-10T05:47:05+00:00",
+      "source": "Polda DIY",
+      "description": "Cegah KDRT dan KBGO, Bhabinkamtibmas Keparakan Hadiri Edukasi Pencegahan Kekerasan Berbasis Keluarga",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
     {
       "title": "Catcalling Bisa Dipidana, Siulan hingga Tatapan Bernuansa Seksual Bukan Lagi Sekadar Candaan",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3dtVk1SaHV0dDY2dzhyT1ZrZlBDWW5UWHBZcURLOUUxZnNZSlkwNWtnQnpuVkF2bHVtYi1wV2x0ZXdiQVUwWGVpZzdoREFiNExYcFlpaWxzcGhVR1Fod0dvMjA4RHhEdUR5YVl0ZDdfaFlpY29qb2xuU3RKaUdoXzgzbTQycTBEZmRsY2ZXZXc2UjJXZEpDdW14Qmd1UmM4cE1EdVhuV3QyX2toOUJzSUluVkpnOTNzUmFSVnc4Z0U4OVJreG9sMDd3?oc=5",
@@ -51,6 +69,15 @@
       "pubDate": "2026-07-09T07:38:02+00:00",
       "source": "ANTARA News",
       "description": "Ombudsman kawal UU TPKS agar korban kekerasan seksual peroleh keadilan",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Laporan Pelecehan Seksual Verbal yang Minim: Keberhasilan UU TPKS atau Fenomena Gunung Es?",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZEZ3Tk42WWZheWFpVjZzak43TmRKTnluMU1SZU41MnlDQzNpbDZ0MmZCTFNrczNBblcwbzE1M1p6WG1paGpEUGdMMDdpdEdMdGszdDluaGtaQXdZbjh5SExiRWJLSEdJUDI2M2h5dlZ2VzFBM1g0UUIyN2dyUVBDYW1acmNtVTZMRzVNbDZGLU9KLTBfYjFxSC15MVZ0YzlmLURKdUxpYkhnSE5NcUxSTVVmeVFQYTN4MXAzSjVQZ0U?oc=5",
+      "pubDate": "2026-07-09T06:39:01+00:00",
+      "source": "JurnalPost",
+      "description": "Laporan Pelecehan Seksual Verbal yang Minim: Keberhasilan UU TPKS atau Fenomena Gunung Es?",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -1315,15 +1342,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1331,6 +1349,15 @@
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Mengurai Kekerasan Seksual Melalui Arsitektur Keadilan Digital",
@@ -1729,20 +1756,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
-      "pubDate": "2026-01-02T08:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
       "pubDate": "2026-01-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
+      "pubDate": "2026-01-02T08:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
