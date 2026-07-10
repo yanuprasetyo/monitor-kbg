@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-09T19:37:54.619501+00:00",
-  "total": 215,
+  "updated_at": "2026-07-10T02:34:08.617322+00:00",
+  "total": 217,
   "stats": {
-    "tpks": 74,
-    "kekerasan_seksual": 62,
+    "tpks": 75,
+    "kekerasan_seksual": 63,
     "kbg": 36,
     "kbgo": 43
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Catcalling Bisa Dipidana, Siulan hingga Tatapan Bernuansa Seksual Bukan Lagi Sekadar Candaan",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3dtVk1SaHV0dDY2dzhyT1ZrZlBDWW5UWHBZcURLOUUxZnNZSlkwNWtnQnpuVkF2bHVtYi1wV2x0ZXdiQVUwWGVpZzdoREFiNExYcFlpaWxzcGhVR1Fod0dvMjA4RHhEdUR5YVl0ZDdfaFlpY29qb2xuU3RKaUdoXzgzbTQycTBEZmRsY2ZXZXc2UjJXZEpDdW14Qmd1UmM4cE1EdVhuV3QyX2toOUJzSUluVkpnOTNzUmFSVnc4Z0U4OVJreG9sMDd3?oc=5",
+      "pubDate": "2026-07-10T00:07:18+00:00",
+      "source": "Bioz TV",
+      "description": "Catcalling Bisa Dipidana, Siulan hingga Tatapan Bernuansa Seksual Bukan Lagi Sekadar Candaan",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Ketika Layar Jadi Ladang Kekerasan: Bagaimana Media Nasional dan Global Membin - Kompasiana.com",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdGFxbUktdlo3NUI5Z1haWlZSRDRsOEVYTUpONDhETnp0dkpEcUFMb0ZuWGtYWExaWVhnXzBSXzZWYTlnV2ptc0o5TmJidzdCanNDT0YwZ0pWY1dvcnhNZzFzanhId0dzcm9pVVNXRlZEcm9sRWRxZmNpWVM3a3h0eW1laXhSLUFmSHc3QWdfdGRCS0VROVJHTzBWOHJzbDQ2amxWTVQ5Y1ZzUzJzeklZRTY4VzIzQkU0dmJkcUI1VXItY05tbDdpeEMyUmdBSS1nQ2RLaHB6Z2p2azBuRVpHejY1cnrSAeQBQVVfeXFMT3RhcW1JLXZaNzVCOWdYWlpWUkQ0bDhFWE1KTjQ4RE56dHZKRHFBTG9GblhrWFhMWllYZ18wUl82VmE5Z1dqbXNKOU5iYnc3QmpzQ09GMGdKVmNXb3J4TWcxc2p4SHdHc3JvaVVTV0ZWRHJvbEVkcWZjaVlTN2t4dHltZWl4Ui1BZkh3N0FnX3RkQktFUTlSR08wVjhyc2w0NmpsVk1UOWNWc1Myc3pJWUU2OFcyM0JFNHZiZHFCNVVyLWNObWw3aXhDMlJnQUktZ0NkS2hwemdqdmswbkVaR3o2NXJ6?oc=5",
@@ -1234,6 +1243,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Banyak Hoaks Menyerang, Menag: Tak Ada Toleransi untuk Tindak Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1luUDNDdkNVaU5Xc0EtLVRpS1Y3c3M5YXoyb0tfb1VJbE9FN2RwY000ejJRa0NFT2pXU3AwMTY0WHdtbTQyeVhIZGdnX1dYWHQyOGtYVnotSF95bGFyN3dZMVkzNjlyWVctc3NSaVFnM05RWUZlMC0wOTBTMWRRU2NSdzYxeFVkbno4NVFFdWNFOFN3VEJTdUNLMVc4aTlzYlVreER6RnB0a3ZNNTFFMW4xaTM1WFE?oc=5",
+      "pubDate": "2026-05-06T07:00:00+00:00",
+      "source": "Kementerian Agama",
+      "description": "Banyak Hoaks Menyerang, Menag: Tak Ada Toleransi untuk Tindak Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Komnas Perempuan dan Kementerian Agama Perkuat Sinergi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYXFnUUJxZm9ROFA1bkgtTTh5Qzl4RDVQWEljM2IyRU4xaU01ZEl0SnRxVFMxLUc5a2xjNTNkVEF0R2FlbXhvQ1otblduUjJGT18tdGZUYlhTVmZqaVVwRld4bnlkUDVuVXVmdHRkbG0tWXF5ZHFIOHo4dFY2S01Wb1AxVG9fQ1NFenVET1hFcERSX0dud1Eta3NQWnBrcUw0LXpabXBlSlI1V2VfZFFtZGt2bTRzOXZnZWlUUEI0UXptN3hoVF9YbFE5UU1XVXJmSmtaWWVrc3ptaloySllJYmNNbW5ZSDNRODFsUk9RcUx5bnA4aHRB?oc=5",
       "pubDate": "2026-05-06T07:00:00+00:00",
@@ -1306,15 +1324,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Mengurai Kekerasan Seksual Melalui Arsitektur Keadilan Digital",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDRjNWlURG5PY0J2TUNOUXF4d1BXUjU3ajZfbFdfcUU1NFBKWE1LNTZiQ244UVo4QW5MR1I2eS1hY041Z2JmM0tkUnRTMDR0d0lUUnEtamJzdHpfOExwdEI4TmRiUHRfX3llSDRRNlFtT1dLcjc2aXdkRE1UeDJuNV81UUlmYk5oeThpMmNyTkNwMEF3X3g5VElYaXk0QlJkRXZPdk1WcWV1WkpfLXlzRUdlb3cwUDA?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengurai Kekerasan Seksual Melalui Arsitektur Keadilan Digital",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1322,6 +1331,15 @@
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengurai Kekerasan Seksual Melalui Arsitektur Keadilan Digital",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDRjNWlURG5PY0J2TUNOUXF4d1BXUjU3ajZfbFdfcUU1NFBKWE1LNTZiQ244UVo4QW5MR1I2eS1hY041Z2JmM0tkUnRTMDR0d0lUUnEtamJzdHpfOExwdEI4TmRiUHRfX3llSDRRNlFtT1dLcjc2aXdkRE1UeDJuNV81UUlmYk5oeThpMmNyTkNwMEF3X3g5VElYaXk0QlJkRXZPdk1WcWV1WkpfLXlzRUdlb3cwUDA?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengurai Kekerasan Seksual Melalui Arsitektur Keadilan Digital",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
