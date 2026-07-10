@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-10T09:27:09.927677+00:00",
-  "total": 220,
+  "updated_at": "2026-07-10T14:11:50.196906+00:00",
+  "total": 221,
   "stats": {
-    "tpks": 76,
+    "tpks": 77,
     "kekerasan_seksual": 64,
     "kbg": 36,
     "kbgo": 44
@@ -65,7 +65,7 @@
     },
     {
       "title": "Ombudsman kawal UU TPKS agar korban kekerasan seksual peroleh keadilan",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnQ2VzVhUGQ1ckNyN0FEM1oyQ1Z5eklBZ21KTVNidEhybTFPZVhoemo2NEtSbV82Q0c1QkdKeEQ0aHNhVlBTRjdRdTBiWm9Xd1MyNHdjZkJiVm9Uc1FGR3BXZzF3Y1dWX0NJR2pUZ09STkJDYUg5dGxQNGxmU05ZS2JDb3Nhc2JHSjFPUzAxQmdCN3BVVm5sLWNnbFYxY19lbG9qRFBIV3pjbk5qOFZURlhB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnQ2VzVhUGQ1ckNyN0FEM1oyQ1Z5eklBZ21KTVNidEhybTFPZVhoemo2NEtSbV82Q0c1QkdKeEQ0aHNhVlBTRjdRdTBiWm9Xd1MyNHdjZkJiVm9Uc1FGR3BXZzF3Y1dWX0NJR2pUZ09STkJDYUg5dGxQNGxmU05ZS2JDb3Nhc2JHSjFPUzAxQmdCN3BVVm5sLWNnbFYxY19lbG9qRFBIV3pjbk5qOFZURlhB0gG0AUFVX3lxTFBLa3RPbERMVEt0ZHlwaFRfVXZUVFRyeWdEanp5aEdLSFhGX0RoMTRHUjctNHJtdHJpRjlXQTdaZXZkUEVYV2w5TXR3RTgwRjcxX2pJdUh4N1duUmRkbjA4YTEzMFZSOWQ2cjBsTVdpdnNvbzlUU2J0RzFvdDJ6aE1SNjh5d21WVTZGdEt6NFA1NEFibWNIQjMtaFhYYkpRTVZtcDVfd29RNmVZVTlpRERySVQ0SA?oc=5",
       "pubDate": "2026-07-09T07:38:02+00:00",
       "source": "ANTARA News",
       "description": "Ombudsman kawal UU TPKS agar korban kekerasan seksual peroleh keadilan",
@@ -829,6 +829,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlZCRnlFdUZVU0RnUE90ZTF4SHMyNm1GelBuczFuV0M3WWFyYk04Wm5ObXV5QkxYazBQVEtFQ1BBd3BPcjRydG14ckVPbTI2R3pZZEFidjZOVmJ2dU1FdUV6aFhvZ3hRLTZHYWhoVE9qNWNFVkVVQmxIYTZQZGNkR0doRGRKbHMtVlViOUdMMkdLeUh2bWpkUF95Rk9FQ2Y2UUFxdXltN3RfelAzOF9xVWdUVE1aeFV4dWtkMFM2aw?oc=5",
+      "pubDate": "2026-06-22T07:00:00+00:00",
+      "source": "Dandapala Digital",
+      "description": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Korban Kekerasan Seksual FH UI Ajukan Keberatan ke Itjen",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHUzTTRLeDAyQ0NZRGxBcWx3ZkVKWHAzbUhmYzJQLWxrdnlGLU0xbFZRM1BqcnVkU3JjUjZkN1Y5R0lRRnpEajlHVWIyYUtkZjVTWWZGSV9vRXJ6RkM5S2IyV3RILW5Ya29LYzRqMTN6TnpIMEkxazZRdDRDOHVlcXBkbFFWZjJMLWVXQmgzQU5hdVNvWXFIYw?oc=5",
       "pubDate": "2026-06-22T01:08:00+00:00",
@@ -1387,15 +1396,6 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "Kekerasan Seksual Online Terus Meningkat, Negara Diminta Perkuat Perlindungan",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFU2elVSeVJMVzduYnhDM2V2M1RVV0hsMlBzdmdObnJXNkNydS1qaXIyOGhpTVRQVWpBejRPbWN5VGdKazBCVUFwZ1o3N3V3NS10MFQtM3BEdHJQc2NDZXBMd0huUUF3X0dBV1Y2amM5TGRZbm9HQkIxY1ZjRDBJS1FoN3ZwbmxUZjJNSjRUQmpubVhUQVB3d21LQUQ0QXFVQjZkYy1vUFpzVEVZbW51cFMyTHB5VjNlS21BbFo4bXZGM081RmN3dw?oc=5",
-      "pubDate": "2026-04-20T07:00:00+00:00",
-      "source": "Kompas.com",
-      "description": "Kekerasan Seksual Online Terus Meningkat, Negara Diminta Perkuat Perlindungan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQXy15X3Y2TWYwUVdjUEJOOG0zeENXdXJ1eGRWaEFpdzhISFc3Rkx3RnpUSjdFQVVvbUYzVFpZNV96eWoweGI3alppVGlLd3ZScGR5U2VHTjBOLVFVamwyQTZEZ0VSMndfU1Y0Z19BTFV4WkNJS29lNkd3bTN5RVlhUFB2bUJXVHVzLV9pQjByTVlOY1dIckdpRUxqOVlEVmFpbUxIQUdWeDVOM0l5UThVV2ctSUVnTFNBaW5xVmFGVTVxbkQ1dDJ6Tnk2U09rc28?oc=5",
       "pubDate": "2026-04-20T07:00:00+00:00",
@@ -1403,6 +1403,15 @@
       "description": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Kekerasan Seksual Online Terus Meningkat, Negara Diminta Perkuat Perlindungan",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFU2elVSeVJMVzduYnhDM2V2M1RVV0hsMlBzdmdObnJXNkNydS1qaXIyOGhpTVRQVWpBejRPbWN5VGdKazBCVUFwZ1o3N3V3NS10MFQtM3BEdHJQc2NDZXBMd0huUUF3X0dBV1Y2amM5TGRZbm9HQkIxY1ZjRDBJS1FoN3ZwbmxUZjJNSjRUQmpubVhUQVB3d21LQUQ0QXFVQjZkYy1vUFpzVEVZbW51cFMyTHB5VjNlS21BbFo4bXZGM081RmN3dw?oc=5",
+      "pubDate": "2026-04-20T07:00:00+00:00",
+      "source": "Kompas.com",
+      "description": "Kekerasan Seksual Online Terus Meningkat, Negara Diminta Perkuat Perlindungan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Modul Akademi Penghapusan Kekerasan Seksual",
@@ -1756,20 +1765,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
-      "pubDate": "2026-01-02T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
       "pubDate": "2026-01-02T08:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
+      "pubDate": "2026-01-02T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
