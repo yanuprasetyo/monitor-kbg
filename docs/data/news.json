@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-10T19:21:20.667232+00:00",
-  "total": 221,
+  "updated_at": "2026-07-11T02:10:24.842939+00:00",
+  "total": 222,
   "stats": {
     "tpks": 77,
     "kekerasan_seksual": 64,
     "kbg": 36,
-    "kbgo": 44
+    "kbgo": 45
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kawal Korban KBGO, KOPRI Kota Tasikmalaya Sambangi UPTD PPA untuk Advokasi",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1FadjBUWHBmLThzNnAxQUM3YzZQakFBdzNLdnl5bGs3NDktYkl4S0hUMkY0dVJVMk92QkFMeENvU1hYd1FXYXhFUzl4MkFoR3lZMWVkSGxPV2syc2hYNmdTMWQ3ZWtFTzJyX2x5eTY3WElGYVJIS2gzWW5VVV9keDVMclpjeTFzaEppSTJhWm9SQW5DTWdmWXNXTFVHZzdfYl9naWQzWk1TczBoR0lZaDVB?oc=5",
+      "pubDate": "2026-07-10T14:47:31+00:00",
+      "source": "Harapan Rakyat",
+      "description": "Kawal Korban KBGO, KOPRI Kota Tasikmalaya Sambangi UPTD PPA untuk Advokasi",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
     {
       "title": "Ramai di X, Mawapres FH UB Diduga Melakukan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTN5a0gxd0hLSGJNUWgzMk1mbWJENDhIam96N0ZQNFRLRDlDQnJKcGw4S2lwY2dQalBoZFdFT1FaY1ZmWjlqUFktWkNrOHJ0WmhPTVFYV0pUQ2MwZW91RGZzUWdfLUg1Z0xEZjN1QTlVRmsyU2VoRkRhMERzdTMtcEJaUkFTZS1UWWJTMmhESmtYSGdleVpXYURtUGw4YjZkbUpadnZtYmp0bWdQbWxpVDlmbw?oc=5",
@@ -1351,6 +1360,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1385,15 +1403,6 @@
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
