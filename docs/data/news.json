@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-11T07:47:44.293969+00:00",
-  "total": 223,
+  "updated_at": "2026-07-11T13:08:28.538718+00:00",
+  "total": 224,
   "stats": {
-    "tpks": 77,
+    "tpks": 78,
     "kekerasan_seksual": 65,
     "kbg": 36,
     "kbgo": 45
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTd1TXNvSnFzUlc0V0tlZmJqcEhwa3Z1R1VMYXhacGhJVW8xSjlMcndkN1NxdTFOaVFKaW5za3ZLd19fWkpESUxMdF9tNVIzMEw3bThiZW9TUWhQNnZqOTJoa2ctQlJSSE43TnpUZWg2NWMwT0dQa0lKWUFCX3B4OUt3X0ZIaUdLMEtMT0RsMFZpME5rbmdKT3p4Zi00UjM1dDQ5QjdBWGJwd0Na?oc=5",
+      "pubDate": "2026-07-11T08:45:59+00:00",
+      "source": "Portal Hukum",
+      "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Mahasiswa FEB USU Diduga Lecehkan Puluhan Korban",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdnVkaGkzQnRsbDhvQlFUdnA2SFI5eW5iZktjNTBFN3Uyck4xckYwTkRUOFZZeGpKMmU0RFhvNGVYM3VORXB0Yy1GWExHaF81TE5PdEFidnlHYjd6Q0xPMXNsc0hUSXZ2ZkgtU2RvSlIyLWVpbmhHOUx3WWVfYVRTekNFOElLdmhNcFp1Y0xEdjhIei1JaHJtU2M1dGlFTUduYmFLa2lpb0E4MmxDWS1ERktR0gG3AUFVX3lxTE1wRWJNdTRVeWd1bmE2aEMxN0FuRmFmcFN3RkUxN1ZUX2xxUEFNX1ZFbW5oWTBocHJocDJuZ1pvdVAyemZrcE90Yk05dnUzeUpmU09qdWdteVBVdHR1ZGlaTTNabnp6dzlTZTRaRmpIX0JmVTRsOG9RLXUwY0NFd1lKdC1JMHplNFZVeEZGN3hQWmFKUENkSkVMTHR4VzZEWUZrWnUwTGlQOGp0Zjd5c3pLMkFxc3hpaw?oc=5",
