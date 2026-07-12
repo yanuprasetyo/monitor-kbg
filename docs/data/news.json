@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-11T18:55:10.344181+00:00",
-  "total": 226,
+  "updated_at": "2026-07-12T02:15:03.659675+00:00",
+  "total": 227,
   "stats": {
-    "tpks": 78,
-    "kekerasan_seksual": 66,
+    "tpks": 77,
+    "kekerasan_seksual": 67,
     "kbg": 37,
-    "kbgo": 45
+    "kbgo": 46
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -51,8 +51,8 @@
       "pubDate": "2026-07-11T08:45:59+00:00",
       "source": "Portal Hukum",
       "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Mahasiswa FEB USU Diduga Lecehkan Puluhan Korban",
@@ -1396,6 +1396,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1412,15 +1421,6 @@
       "description": "Kartini dan Luka yang Tak Terlihat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "Mengurai Kekerasan Seksual Melalui Arsitektur Keadilan Digital",
@@ -1621,11 +1621,11 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kemenko Polkam Dorong Sinergi Hadapi Lonjakan Kejahatan dan Kekerasan Perempuan-Anak",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNem9qcUdyWkFMbjBOMlpjaXZfX3lwQVMwUzVCazhNQmdMc3VuQlRMM2xod3dkUTAyaThFcDc5bFB1VVdOaVBaRVBQQ2kwbnNBTFN3TUx6ckJfVjREbWtVQW8yeVRTbFNJUDdjMWJ1MS1jcUxnblJqUTBKV292VjVsVFBKakJ4Ti14eUYyaG90SkhrQW5ndmZGa201Qk1Zcm5VUzVJa2JGOWV5dw?oc=5",
-      "pubDate": "2026-03-03T08:00:00+00:00",
-      "source": "Kemenko Polkam R.I.",
-      "description": "Kemenko Polkam Dorong Sinergi Hadapi Lonjakan Kejahatan dan Kekerasan Perempuan-Anak",
+      "title": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWE1rM3dZVldNOVFSakhSZmZ1R3NmX2xodHVwUzdIWEw1NUx6MG41VjZ6UmdKZUl6WnFLTkZjMmVpdGZjT25XSzlCUnVucWZramlTUkZLSUU2VWZTdm9wbGZaVGc2TUlPd3NPbnFOZjAtX2s5WXI1UW9jNm5YdTBLNHdrMjlySXYtdy1VQzdVeERXbjNtRmpicTVJMENkS3NKM29TNVY4V2VJRURWSUNWY2VHRERxaTNBZXBtM0QwNG1QSWs?oc=5",
+      "pubDate": "2026-03-10T07:00:00+00:00",
+      "source": "The Conversation",
+      "description": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -1635,6 +1635,15 @@
       "pubDate": "2026-03-03T08:00:00+00:00",
       "source": "Kementerian Pemuda dan Olahraga",
       "description": "Dukung Ketegasan Menpora Erick, Ketua Umum NOC Indonesia Kawal In",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kemenko Polkam Dorong Sinergi Hadapi Lonjakan Kejahatan dan Kekerasan Perempuan-Anak",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNem9qcUdyWkFMbjBOMlpjaXZfX3lwQVMwUzVCazhNQmdMc3VuQlRMM2xod3dkUTAyaThFcDc5bFB1VVdOaVBaRVBQQ2kwbnNBTFN3TUx6ckJfVjREbWtVQW8yeVRTbFNJUDdjMWJ1MS1jcUxnblJqUTBKV292VjVsVFBKakJ4Ti14eUYyaG90SkhrQW5ndmZGa201Qk1Zcm5VUzVJa2JGOWV5dw?oc=5",
+      "pubDate": "2026-03-03T08:00:00+00:00",
+      "source": "Kemenko Polkam R.I.",
+      "description": "Kemenko Polkam Dorong Sinergi Hadapi Lonjakan Kejahatan dan Kekerasan Perempuan-Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
