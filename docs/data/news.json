@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-13T02:22:18.485638+00:00",
-  "total": 229,
+  "updated_at": "2026-07-13T09:17:08.786775+00:00",
+  "total": 231,
   "stats": {
     "tpks": 77,
-    "kekerasan_seksual": 69,
-    "kbg": 37,
+    "kekerasan_seksual": 70,
+    "kbg": 38,
     "kbgo": 46
   },
   "new_this_fetch": 60,
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Peran Media Sosial dan Ketegasan UU TPKS dalam Menghalau Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZmw5V1dnS2MzMmZVZDRBOHdyaUJ5ZXE0LXBzcGJhS3VUWk1jbkJVYjEyLUpHNk14M3E0ei1KSTVrbHl3MnhWS29TNHFZYnd1YjdRXy15N0xkOUowd2FoMlRnUW1Ya0tsRjNHMmttY2R5SUg0blRwRjlXeFlOb2w0eTFtME80MW5yZm0xV3lVQkZVR2VXOFQyR0hxQ2tfUHM?oc=5",
+      "pubDate": "2026-07-13T06:28:57+00:00",
+      "source": "News UAD",
+      "description": "Peran Media Sosial dan Ketegasan UU TPKS dalam Menghalau Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Ini Tanggapan Komnas Perempuan soal Kasus Kekerasan Seksual di Sampang",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGpFTHFfVnBSd0x1dDNBRDZlZkhSRGh0T2hza1g5azNydkpGdzQ3bm9jM2p6WWhEcWxzZkV1YlRiOHg0QTF6Z1VsakRxeUV2UWpaTE10Qjh2YUVfRGcyRDlrSzd3dDdYQVRCQVBTX1dNbHJwS0tZQ1pubTc5Um9KMFRMVzFsSWU4bndIQUNPUFVGakhONEpRdkdxbDJTQ1h4R2dIREN0VV9qMG90MXhqaTBBWUc?oc=5",
@@ -1482,8 +1491,8 @@
       "pubDate": "2026-04-17T02:58:28+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
@@ -1608,6 +1617,15 @@
       "pubDate": "2026-04-10T07:00:00+00:00",
       "source": "Singgalang Riau",
       "description": "Seleksi Ketat, 35 Peserta Terpilih Ikuti Pelatihan Gender Transformatif di Jakarta",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Perempuan di Garis Depan Krisis Iklim: Sebuah Panduan Pemetaan Kepemimpinan dan Hak Reproduksi dalam Konteks Krisis Iklim",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQzI4bXB4bU1GMXNfSnRRc1RJdDFZVENNekZZZXVGV2Frcjk2Y3JPNS12eUMzYUFyNTFKXzlkdXc4ZWx4bkQtcEgteHk3dVQxVk05alFmOEVRczNqby1JOUhVWkluOTVjb0VWbm5iZVFlNHlxWGFLNGVuNzFjNUlTcnhfR0d2ZEh0Z3dyd19xYkdsX0dfdlJkXzZRNjZxcERLUVB5ZVJKQ2lBT0J4Q3NybUU2R0lvVUU1cmtxNklSd3FfUUctVXpWbGV6S2xYcHZWZldHWkdNRlVZZGtKTkZPS2Jlc3dvNDZyaHFxUGdkd1RqVllYS2E0Y2l2MHRQTGFRTXNZaWdqUFhXbTJhaW4w?oc=5",
+      "pubDate": "2026-04-09T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Perempuan di Garis Depan Krisis Iklim: Sebuah Panduan Pemetaan Kepemimpinan dan Hak Reproduksi dalam Konteks Krisis Iklim",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
