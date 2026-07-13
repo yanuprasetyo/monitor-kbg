@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Monitor Berita — UU TPKS & Kekerasan Berbasis Gender</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
@@ -48,13 +48,83 @@
   .nav-tab:hover { color: var(--text); }
   .nav-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
 
-  /* ── Header ── */
-  header { border-bottom: 1px solid var(--border); padding: 24px 32px 20px; display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
-  .header-left h1 { font-size: 1.1rem; font-weight: 600; letter-spacing: 0.01em; }
-  .header-left .tagline { font-size: 0.8rem; color: var(--text-dim); margin-top: 3px; font-family: 'IBM Plex Mono', monospace; }
-  .status-badge { display: flex; align-items: center; gap: 7px; font-size: 0.76rem; font-family: 'IBM Plex Mono', monospace; color: var(--text-dim); margin-top: 4px; }
-  .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); animation: pulse 2.5s ease-in-out infinite; }
+  /* ── Hero header ── */
+  header.hero {
+    position: relative;
+    border-bottom: 1px solid var(--border);
+    padding: 40px 32px 28px;
+    overflow: hidden;
+    background:
+      radial-gradient(ellipse 900px 300px at 15% -20%, rgba(224,123,90,0.12), transparent 60%),
+      radial-gradient(ellipse 900px 300px at 85% -20%, rgba(123,94,167,0.14), transparent 60%);
+  }
+  .hero-eyebrow {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 0.74rem; font-family: 'IBM Plex Mono', monospace; color: var(--text-dim);
+    letter-spacing: .06em; text-transform: uppercase; margin-bottom: 14px;
+  }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); animation: pulse 2.5s ease-in-out infinite; flex-shrink:0; }
   @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+
+  .hero-title {
+    font-size: clamp(1.8rem, 4vw, 3.1rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.08;
+    background: linear-gradient(100deg, var(--tpks) 0%, var(--ks) 45%, var(--kbg) 80%, var(--kbgo) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    max-width: 820px;
+  }
+  .hero-tagline { font-size: 0.92rem; color: var(--text-dim); margin-top: 10px; max-width: 640px; }
+
+  .hero-insights {
+    display: flex; flex-wrap: wrap; gap: 10px;
+    margin-top: 22px;
+  }
+  .insight-pill {
+    display: flex; align-items: baseline; gap: 6px;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 20px;
+    padding: 7px 14px;
+    font-size: 0.78rem; color: var(--text-dim);
+  }
+  .insight-pill b { color: var(--text); font-family: 'IBM Plex Mono', monospace; font-size: 0.85rem; }
+
+  /* ── Ticker ── */
+  .ticker-wrap {
+    margin-top: 20px;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    background: var(--surface2);
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  .ticker-label {
+    flex-shrink: 0;
+    background: var(--accent);
+    color: #1a0e14;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: .04em;
+    padding: 7px 12px;
+    z-index: 2;
+  }
+  .ticker-track-outer { overflow: hidden; flex: 1; }
+  .ticker-track {
+    display: inline-flex;
+    white-space: nowrap;
+    animation: ticker-scroll 40s linear infinite;
+    padding: 7px 0;
+  }
+  .ticker-wrap:hover .ticker-track { animation-play-state: paused; }
+  .ticker-item { font-size: 0.8rem; color: var(--text-dim); padding: 0 32px; position: relative; }
+  .ticker-item::after { content:'•'; position:absolute; right:12px; color: var(--muted); }
+  .ticker-item b { color: var(--text); font-weight: 500; }
+  @keyframes ticker-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 
   /* ── Stats bar ── */
   .stats-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1px; background: var(--border); border-bottom: 1px solid var(--border); }
@@ -72,7 +142,8 @@
   .stat-cell[data-filter="kbg"] .stat-count              { color: var(--kbg); }
   .stat-cell[data-filter="kbgo"] .stat-count             { color: var(--kbgo); }
   .stat-cell[data-filter="all"] .stat-count              { color: var(--accent); }
-  .stat-label { font-size: 0.73rem; color: var(--text-dim); line-height: 1.3; }
+  .stat-label { font-size: 0.73rem; color: var(--text-dim); line-height: 1.3; margin-bottom: 6px; }
+  .stat-spark { height: 22px; width: 100%; display: block; }
 
   /* ── Toolbar ── */
   .toolbar { padding: 12px 32px; display: flex; align-items: center; gap: 10px; border-bottom: 1px solid var(--border); flex-wrap: wrap; }
@@ -187,10 +258,30 @@
   .charts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
   .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 20px 22px; }
   .chart-card.wide { grid-column: 1 / -1; }
-  .chart-title { font-size: 0.8rem; font-family: 'IBM Plex Mono', monospace; color: var(--text-dim); margin-bottom: 16px; letter-spacing: .02em; }
+  .chart-title { font-size: 0.8rem; font-family: 'IBM Plex Mono', monospace; color: var(--text-dim); margin-bottom: 16px; letter-spacing: .02em; display:flex; align-items:center; justify-content:space-between; gap:8px; }
   .chart-wrap { position: relative; }
 
   .chart-note { font-size: 0.74rem; color: var(--muted); font-family: 'IBM Plex Mono', monospace; margin-top: 10px; }
+
+  /* ── Word cloud ── */
+  .tagcloud {
+    display: flex; flex-wrap: wrap; align-items: baseline; justify-content: center;
+    gap: 6px 16px; padding: 18px 6px 8px; min-height: 140px;
+  }
+  .tag-word {
+    cursor: pointer;
+    line-height: 1;
+    font-weight: 600;
+    transition: transform .15s ease, opacity .15s ease;
+    white-space: nowrap;
+  }
+  .tag-word:hover { transform: scale(1.1); opacity: 0.85; }
+  .tagcloud-hint { text-align:center; font-size:0.72rem; color:var(--muted); font-family:'IBM Plex Mono',monospace; margin-top:6px; }
+
+  /* ── Heatmap calendar ── */
+  .heatmap-scroll { overflow-x: auto; padding-bottom: 6px; }
+  .heatmap-legend { display:flex; align-items:center; gap:6px; font-size:0.7rem; color:var(--muted); font-family:'IBM Plex Mono',monospace; }
+  .heatmap-legend .sq { width:10px; height:10px; border-radius:2px; display:inline-block; }
 
   /* ── State messages ── */
   .state-msg { padding: 60px 32px; text-align:center; color:var(--muted); font-size:0.9rem; }
@@ -200,7 +291,7 @@
   footer { padding: 20px 32px; border-top: 1px solid var(--border); font-size: 0.74rem; color: var(--muted); font-family: 'IBM Plex Mono', monospace; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
 
   @media (max-width: 640px) {
-    header, main, .toolbar, .date-filter-row, .charts-panel, footer { padding-left:16px; padding-right:16px; }
+    header.hero, main, .toolbar, .date-filter-row, .charts-panel, footer { padding-left:16px; padding-right:16px; }
     .stats-bar { grid-template-columns: 1fr 1fr; }
     .news-date { display:none; }
     .date-divider { display:none; }
@@ -208,17 +299,25 @@
     .chart-card.wide { grid-column: 1; }
     .nav-tabs { padding: 0 16px; }
   }
+
+  @media (prefers-reduced-motion: reduce) {
+    .ticker-track { animation: none; }
+    .dot { animation: none; }
+  }
 </style>
 </head>
 <body>
 
-<header>
-  <div class="header-left">
-    <h1>Monitor Berita — UU TPKS &amp; Kekerasan Berbasis Gender</h1>
-    <div class="tagline">Pemantauan media otomatis · Indonesia</div>
-    <div class="status-badge">
-      <span class="dot"></span>
-      <span id="last-updated">Memuat data...</span>
+<header class="hero">
+  <div class="hero-eyebrow"><span class="dot"></span><span id="last-updated">Memuat data...</span></div>
+  <h1 class="hero-title">Pemantauan Media: UU TPKS &amp; Kekerasan Berbasis Gender</h1>
+  <div class="hero-tagline">Pelacakan otomatis liputan media Indonesia atas UU TPKS, kekerasan seksual, dan kekerasan berbasis gender (termasuk KBG daring).</div>
+  <div class="hero-insights" id="hero-insights"><!-- diisi JS --></div>
+
+  <div class="ticker-wrap">
+    <span class="ticker-label">▸ TERBARU</span>
+    <div class="ticker-track-outer">
+      <div class="ticker-track" id="ticker-track"></div>
     </div>
   </div>
 </header>
@@ -226,24 +325,28 @@
 <!-- Keyword stats -->
 <div class="stats-bar">
   <div class="stat-cell active" data-filter="all" onclick="setFilter('all')">
-    <div class="stat-count" id="count-all">—</div>
+    <div class="stat-count" id="count-all" data-target="0">—</div>
     <div class="stat-label">Semua Berita</div>
   </div>
   <div class="stat-cell" data-filter="tpks" onclick="setFilter('tpks')">
-    <div class="stat-count" id="count-tpks">—</div>
+    <div class="stat-count" id="count-tpks" data-target="0">—</div>
     <div class="stat-label">UU TPKS</div>
+    <svg class="stat-spark" id="spark-tpks"></svg>
   </div>
   <div class="stat-cell" data-filter="kekerasan_seksual" onclick="setFilter('kekerasan_seksual')">
-    <div class="stat-count" id="count-kekerasan_seksual">—</div>
+    <div class="stat-count" id="count-kekerasan_seksual" data-target="0">—</div>
     <div class="stat-label">Kekerasan Seksual</div>
+    <svg class="stat-spark" id="spark-kekerasan_seksual"></svg>
   </div>
   <div class="stat-cell" data-filter="kbg" onclick="setFilter('kbg')">
-    <div class="stat-count" id="count-kbg">—</div>
+    <div class="stat-count" id="count-kbg" data-target="0">—</div>
     <div class="stat-label">Kekerasan Berbasis Gender</div>
+    <svg class="stat-spark" id="spark-kbg"></svg>
   </div>
   <div class="stat-cell" data-filter="kbgo" onclick="setFilter('kbgo')">
-    <div class="stat-count" id="count-kbgo">—</div>
+    <div class="stat-count" id="count-kbgo" data-target="0">—</div>
     <div class="stat-label">KBGO (Online)</div>
+    <svg class="stat-spark" id="spark-kbgo"></svg>
   </div>
 </div>
 
@@ -326,6 +429,18 @@
     <h2>Grafik &amp; Analisis Tematik</h2>
     <div class="charts-grid">
 
+      <!-- Word cloud kata kunci judul -->
+      <div class="chart-card wide">
+        <div class="chart-title">
+          <span>Kata Paling Sering Muncul di Judul Berita</span>
+          <span style="font-size:0.68rem;color:var(--muted);text-transform:none;letter-spacing:0">klik kata untuk memfilter</span>
+        </div>
+        <div class="tagcloud" id="tagcloud">
+          <div class="state-msg" style="padding:20px"><div>Memuat...</div></div>
+        </div>
+        <div class="tagcloud-hint">Ukuran &amp; warna kata mencerminkan frekuensi dan topik yang paling terkait dengannya.</div>
+      </div>
+
       <!-- 1. Donut: distribusi per topik -->
       <div class="chart-card">
         <div class="chart-title">Distribusi Berita per Topik</div>
@@ -359,6 +474,18 @@
         </div>
       </div>
 
+      <!-- 5. Heatmap kalender -->
+      <div class="chart-card wide">
+        <div class="chart-title">
+          <span>Kalender Intensitas Pemberitaan</span>
+          <span class="heatmap-legend">sedikit <span class="sq" style="background:#1e2130"></span><span class="sq" style="background:#3a2b45"></span><span class="sq" style="background:#7b3f66"></span><span class="sq" style="background:#c45c8a"></span><span class="sq" style="background:#ff8fc0"></span> banyak</span>
+        </div>
+        <div class="heatmap-scroll">
+          <svg id="chart-heatmap"></svg>
+        </div>
+        <div class="chart-note">* Tiap kotak = satu hari. Semakin terang, semakin banyak berita pada hari itu.</div>
+      </div>
+
     </div>
   </div>
 </div>
@@ -382,6 +509,16 @@ let currentPage = 1;
 const MONTHS_ID = ['Januari','Februari','Maret','April','Mei','Juni','Juli','Agustus','September','Oktober','November','Desember'];
 const TOPIC_COLORS = { tpks:'#e07b5a', kekerasan_seksual:'#c45c8a', kbg:'#7b5ea7', kbgo:'#4e8fa8' };
 const TOPIC_LABELS = { tpks:'UU TPKS', kekerasan_seksual:'Kekerasan Seksual', kbg:'KBG', kbgo:'KBGO' };
+
+const STOPWORDS_ID = new Set([
+  'yang','dan','di','ke','dari','untuk','dengan','pada','ini','itu','akan','tidak','ada','atau',
+  'juga','oleh','para','dalam','tersebut','sebagai','adalah','telah','secara','terkait','dua','satu',
+  'tahun','hari','lebih','saat','jadi','bisa','harus','sudah','belum','masih','mereka','kami','kita',
+  'saya','anda','dia','nya','per','vs','versus','usai','soal','usut','ungkap','buat','bikin','bakal',
+  'karena','sebab','antara','bagi','saja','begini','begitu','ada','agar','apa','apakah','bagaimana',
+  'jika','kalau','maka','namun','tetapi','tapi','serta','hingga','sampai','sejak','ketika','saat','via',
+  'the','dan','ini','itu','kasus','diduga','terduga','dugaan'
+]);
 
 /* ════════════════════════════════════════
    TAB SWITCHING
@@ -509,7 +646,6 @@ function onPerPageChange() {
 function goToPage(p) {
   currentPage = p;
   renderNews();
-  // Scroll ke atas daftar berita
   document.getElementById('news-list').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
@@ -528,7 +664,6 @@ function renderPagination(total, perPage) {
   const end   = Math.min(currentPage * perPage, total);
   info.textContent = `Menampilkan ${start}–${end} dari ${total} berita`;
 
-  // Build page buttons: prev, [1]...[current-1][current][current+1]...[last], next
   let btns = '';
   btns += `<button class="pg-btn" onclick="goToPage(${currentPage-1})" ${currentPage===1?'disabled':''}>‹</button>`;
 
@@ -576,7 +711,6 @@ function renderNews() {
     return;
   }
 
-  // Paginate
   const maxPage = perPage > 0 ? Math.ceil(total / perPage) : 1;
   if (currentPage > maxPage) currentPage = maxPage;
   const pageItems = perPage > 0
@@ -619,7 +753,6 @@ function exportExcel() {
 
   const ws = XLSX.utils.json_to_sheet(rows);
 
-  // Auto column width
   const colWidths = [
     { wch: 5 }, { wch: 22 }, { wch: 70 }, { wch: 25 },
     { wch: 22 }, { wch: 60 }, { wch: 80 }
@@ -629,7 +762,6 @@ function exportExcel() {
   const wb = XLSX.utils.book_new();
   XLSX.utils.book_append_sheet(wb, ws, 'Berita KBG');
 
-  // Metadata sheet
   const meta = [
     ['Diekspor pada', new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' })],
     ['Filter topik', currentFilter === 'all' ? 'Semua topik' : TOPIC_LABELS[currentFilter] || currentFilter],
@@ -646,6 +778,213 @@ function exportExcel() {
 }
 
 /* ════════════════════════════════════════
+   HERO: insight pills + ticker + animated counters
+════════════════════════════════════════ */
+function buildHeroInsights(data) {
+  const wrap = document.getElementById('hero-insights');
+  const sources = new Set(allArticles.map(a=>a.source).filter(Boolean));
+  const dates = allArticles.map(a=>new Date(a.pubDate)).filter(d=>!isNaN(d));
+  let spanDays = 0;
+  if (dates.length) {
+    const min = new Date(Math.min(...dates)), max = new Date(Math.max(...dates));
+    spanDays = Math.max(1, Math.round((max-min)/86400000));
+  }
+  const topicCounts = {};
+  allArticles.forEach(a => { topicCounts[a.keyword_id] = (topicCounts[a.keyword_id]||0)+1; });
+  const dominant = Object.entries(topicCounts).sort((a,b)=>b[1]-a[1])[0];
+
+  wrap.innerHTML = `
+    <div class="insight-pill">📡 <b>${sources.size}</b> media dipantau</div>
+    <div class="insight-pill">🗓️ <b>${spanDays}</b> hari cakupan data</div>
+    <div class="insight-pill">🔥 topik dominan: <b>${dominant ? (TOPIC_LABELS[dominant[0]]||dominant[0]) : '—'}</b></div>
+    <div class="insight-pill">🔄 diperbarui tiap <b>6 jam</b></div>
+  `;
+}
+
+function buildTicker() {
+  const track = document.getElementById('ticker-track');
+  const latest = [...allArticles].sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,8);
+  if (!latest.length) { track.innerHTML = '<span class="ticker-item">Belum ada data.</span>'; return; }
+  const itemsHtml = latest.map(a => `<span class="ticker-item"><b>${escHtml(a.source)}</b> — ${escHtml(a.title)}</span>`).join('');
+  // duplikat agar loop scroll mulus
+  track.innerHTML = itemsHtml + itemsHtml;
+}
+
+function animateCounter(el, target, duration=900) {
+  const start = 0;
+  const startTime = performance.now();
+  function tick(now) {
+    const p = Math.min(1, (now-startTime)/duration);
+    const eased = 1 - Math.pow(1-p, 3);
+    el.textContent = Math.round(start + (target-start)*eased).toLocaleString('id-ID');
+    if (p < 1) requestAnimationFrame(tick);
+    else el.textContent = target.toLocaleString('id-ID');
+  }
+  requestAnimationFrame(tick);
+}
+
+/* ════════════════════════════════════════
+   SPARKLINES per stat cell (14 hari terakhir)
+════════════════════════════════════════ */
+function buildSparklines() {
+  const now = new Date();
+  const days = 14;
+  const dayKeys = [];
+  for (let i=days-1; i>=0; i--) {
+    const d = new Date(now); d.setDate(d.getDate()-i); d.setHours(0,0,0,0);
+    dayKeys.push(d.toISOString().slice(0,10));
+  }
+  ['tpks','kekerasan_seksual','kbg','kbgo'].forEach(topic => {
+    const counts = dayKeys.map(k => allArticles.filter(a => {
+      const d = new Date(a.pubDate);
+      return !isNaN(d) && d.toISOString().slice(0,10)===k && a.keyword_id===topic;
+    }).length);
+    renderSparkSVG('spark-'+topic, counts, TOPIC_COLORS[topic]);
+  });
+}
+
+function renderSparkSVG(id, counts, color) {
+  const svg = document.getElementById(id);
+  if (!svg) return;
+  const w = 140, h = 22, pad = 2;
+  const max = Math.max(1, ...counts);
+  const step = (w-pad*2) / (counts.length-1 || 1);
+  const pts = counts.map((c,i) => {
+    const x = pad + i*step;
+    const y = h - pad - (c/max)*(h-pad*2);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  svg.setAttribute('viewBox', `0 0 ${w} ${h}`);
+  svg.innerHTML = `
+    <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+    <circle cx="${pad + (counts.length-1)*step}" cy="${(h - pad - (counts[counts.length-1]/max)*(h-pad*2)).toFixed(1)}" r="2" fill="${color}"/>
+  `;
+}
+
+/* ════════════════════════════════════════
+   WORD CLOUD dari judul berita
+════════════════════════════════════════ */
+function extractWordFreq(articles) {
+  const freq = {};       // word -> count
+  const topicHits = {};  // word -> { topic: count }
+  articles.forEach(a => {
+    const words = (a.title||'').toLowerCase()
+      .replace(/[^a-z0-9à-ú\s]/gi, ' ')
+      .split(/\s+/)
+      .filter(w => w.length >= 4 && !STOPWORDS_ID.has(w) && isNaN(w));
+    const seen = new Set();
+    words.forEach(w => {
+      freq[w] = (freq[w]||0) + 1;
+      if (!topicHits[w]) topicHits[w] = {};
+      if (!seen.has(w)) { topicHits[w][a.keyword_id] = (topicHits[w][a.keyword_id]||0)+1; seen.add(w); }
+    });
+  });
+  return { freq, topicHits };
+}
+
+function renderWordCloud() {
+  const container = document.getElementById('tagcloud');
+  const { freq, topicHits } = extractWordFreq(allArticles);
+  const entries = Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,45);
+  if (!entries.length) { container.innerHTML = '<div class="state-msg" style="padding:20px">Tidak cukup data untuk word cloud.</div>'; return; }
+
+  const maxCount = entries[0][1];
+  const minCount = entries[entries.length-1][1];
+  const minSize = 0.8, maxSize = 2.6;
+
+  // acak urutan tampilan supaya lebih "cloud-like", tapi ukuran tetap dari frekuensi
+  const shuffled = [...entries].sort(()=>Math.random()-0.5);
+
+  container.innerHTML = shuffled.map(([word,count]) => {
+    const t = maxCount===minCount ? 1 : (count-minCount)/(maxCount-minCount);
+    const size = (minSize + t*(maxSize-minSize)).toFixed(2);
+    const dominantTopic = Object.entries(topicHits[word]||{}).sort((a,b)=>b[1]-a[1])[0];
+    const color = dominantTopic ? (TOPIC_COLORS[dominantTopic[0]]||'#9094a8') : '#9094a8';
+    const weight = t > 0.6 ? 700 : t > 0.3 ? 600 : 500;
+    return `<span class="tag-word" style="font-size:${size}rem;color:${color};font-weight:${weight}" title="${count}x muncul" onclick="filterByWord('${word.replace(/'/g,"\\'")}')">${escHtml(word)}</span>`;
+  }).join('');
+}
+
+function filterByWord(word) {
+  document.getElementById('search-input').value = word;
+  currentPage = 1;
+  switchTab('berita');
+  renderNews();
+  document.getElementById('news-list').scrollIntoView({ behavior:'smooth', block:'start' });
+}
+
+/* ════════════════════════════════════════
+   HEATMAP KALENDER (gaya GitHub)
+════════════════════════════════════════ */
+function buildHeatmap() {
+  const svg = document.getElementById('chart-heatmap');
+  const dates = allArticles.map(a=>new Date(a.pubDate)).filter(d=>!isNaN(d));
+  if (!dates.length) { svg.innerHTML=''; return; }
+
+  const today = endOfDay(new Date());
+  let start = startOfDay(new Date(Math.min(...dates)));
+  // batasi maksimal ~371 hari agar tetap ringan & rapi
+  const maxSpan = 371;
+  const earliestAllowed = new Date(today); earliestAllowed.setDate(earliestAllowed.getDate()-maxSpan);
+  if (start < earliestAllowed) start = earliestAllowed;
+  // mundurkan ke hari Minggu terdekat agar grid rapi per kolom minggu
+  start = new Date(start); start.setDate(start.getDate() - start.getDay());
+
+  const dayMs = 86400000;
+  const totalDays = Math.round((today-start)/dayMs)+1;
+  const weeks = Math.ceil(totalDays/7);
+
+  const countMap = {};
+  allArticles.forEach(a => {
+    const d = new Date(a.pubDate); if (isNaN(d)) return;
+    const key = startOfDay(d).getTime();
+    countMap[key] = (countMap[key]||0)+1;
+  });
+  const maxCount = Math.max(1, ...Object.values(countMap));
+
+  function colorFor(c) {
+    if (!c) return '#1e2130';
+    const t = Math.min(1, c/maxCount);
+    if (t < 0.25) return '#3a2b45';
+    if (t < 0.5)  return '#7b3f66';
+    if (t < 0.75) return '#c45c8a';
+    return '#ff8fc0';
+  }
+
+  const cell = 11, gap = 3, leftPad = 28, topPad = 16;
+  const svgW = leftPad + weeks*(cell+gap);
+  const svgH = topPad + 7*(cell+gap);
+  svg.setAttribute('width', svgW);
+  svg.setAttribute('height', svgH);
+  svg.setAttribute('viewBox', `0 0 ${svgW} ${svgH}`);
+
+  let html = '';
+  const dayLabels = ['','Sen','','Rab','','Jum',''];
+  dayLabels.forEach((lbl,i) => {
+    if (!lbl) return;
+    html += `<text x="0" y="${topPad + i*(cell+gap) + cell - 1}" font-size="8" fill="#6a6d80" font-family="IBM Plex Mono, monospace">${lbl}</text>`;
+  });
+
+  let lastMonth = -1;
+  for (let w=0; w<weeks; w++) {
+    for (let d=0; d<7; d++) {
+      const dayDate = new Date(start.getTime() + (w*7+d)*dayMs);
+      if (dayDate > today) continue;
+      const key = startOfDay(dayDate).getTime();
+      const c = countMap[key]||0;
+      const x = leftPad + w*(cell+gap);
+      const y = topPad + d*(cell+gap);
+      if (d===0 && dayDate.getMonth() !== lastMonth) {
+        lastMonth = dayDate.getMonth();
+        html += `<text x="${x}" y="${topPad-5}" font-size="8" fill="#6a6d80" font-family="IBM Plex Mono, monospace">${MONTHS_ID[lastMonth].slice(0,3)}</text>`;
+      }
+      html += `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${colorFor(c)}"><title>${dayDate.toLocaleDateString('id-ID',{day:'2-digit',month:'short',year:'numeric'})}: ${c} berita</title></rect>`;
+    }
+  }
+  svg.innerHTML = html;
+}
+
+/* ════════════════════════════════════════
    BUILD CHARTS
 ════════════════════════════════════════ */
 const chartInstances = {};
@@ -658,12 +997,11 @@ function buildCharts() {
   chartsBuilt = true;
   const articles = allArticles;
 
-  const chartDefaults = {
-    color: '#9094a8',
-    plugins: { legend: { labels: { color: '#9094a8', font: { family: "'IBM Plex Mono'" } } } },
-  };
   Chart.defaults.color = '#9094a8';
   Chart.defaults.borderColor = '#2a2d3a';
+
+  renderWordCloud();
+  buildHeatmap();
 
   /* 1. Donut: distribusi per topik */
   const topicCounts = {};
@@ -705,11 +1043,10 @@ function buildCharts() {
   });
 
   /* 3 & 4. Line tren + Stacked — group by date */
-  // Get last 30 days of data
   const now = new Date();
   const cutoff = new Date(now); cutoff.setDate(cutoff.getDate()-29); cutoff.setHours(0,0,0,0);
 
-  const dateMap = {};  // { 'YYYY-MM-DD': { tpks:0, ks:0, kbg:0, kbgo:0, total:0 } }
+  const dateMap = {};
   articles.forEach(a => {
     const d = new Date(a.pubDate);
     if (isNaN(d)||d<cutoff) return;
@@ -725,7 +1062,6 @@ function buildCharts() {
     return d.toLocaleDateString('id-ID', { day:'2-digit', month:'short' });
   });
 
-  /* 3. Line tren total */
   destroyChart('tren');
   chartInstances['tren'] = new Chart(document.getElementById('chart-tren'), {
     type: 'line',
@@ -748,7 +1084,6 @@ function buildCharts() {
     }
   });
 
-  /* 4. Stacked bar per topik */
   destroyChart('stacked');
   chartInstances['stacked'] = new Chart(document.getElementById('chart-stacked'), {
     type: 'bar',
@@ -758,7 +1093,7 @@ function buildCharts() {
         { label:'UU TPKS',           data: dateKeys.map(k=>dateMap[k].tpks||0),              backgroundColor:'#e07b5a', borderRadius:2 },
         { label:'Kekerasan Seksual', data: dateKeys.map(k=>dateMap[k].kekerasan_seksual||0), backgroundColor:'#c45c8a', borderRadius:2 },
         { label:'KBG',               data: dateKeys.map(k=>dateMap[k].kbg||0),               backgroundColor:'#7b5ea7', borderRadius:2 },
-        { label:'KBGO',              data: dateKeys.map(k=>dateMap[k].kbgo||0),              backgroundColor:'#4e8fa8', borderRadius:2 },
+        { label:'KBGO',              data: dateKeys.map(k=>dateMap[k].kbgo||0),               backgroundColor:'#4e8fa8', borderRadius:2 },
       ]
     },
     options: {
@@ -782,16 +1117,22 @@ async function loadData() {
     const data = await res.json();
     allArticles = data.articles || [];
 
-    document.getElementById('count-all').textContent = data.total||allArticles.length;
+    const totalEl = document.getElementById('count-all');
+    animateCounter(totalEl, data.total||allArticles.length);
+
     const stats = data.stats||{};
     ['tpks','kekerasan_seksual','kbg','kbgo'].forEach(id=>{
       const el=document.getElementById('count-'+id);
-      if(el) el.textContent=stats[id]??allArticles.filter(a=>a.keyword_id===id).length;
+      const val = stats[id]??allArticles.filter(a=>a.keyword_id===id).length;
+      if(el) animateCounter(el, val);
     });
     document.getElementById('last-updated').textContent='Diperbarui: '+(data.updated_at?formatDate(data.updated_at):'Tidak diketahui');
     document.getElementById('footer-total').textContent=`Total ${data.total} artikel dipantau`;
 
     populateDateDropdowns();
+    buildHeroInsights(data);
+    buildTicker();
+    buildSparklines();
     renderNews();
   } catch(e) {
     console.error(e);
