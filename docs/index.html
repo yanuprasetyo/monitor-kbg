@@ -10,19 +10,19 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
   :root {
-    --bg:       #0f1117;
-    --surface:  #1a1d27;
-    --surface2: #13151f;
-    --border:   #2a2d3a;
-    --muted:    #4a4d60;
-    --text:     #e8eaf2;
-    --text-dim: #9094a8;
-    --accent:   #c45c8a;
-    --tpks:     #e07b5a;
-    --ks:       #c45c8a;
-    --kbg:      #7b5ea7;
-    --kbgo:     #4e8fa8;
-    --green:    #5aad8a;
+    --bg:       #f6f7fb;
+    --surface:  #ffffff;
+    --surface2: #eef0f6;
+    --border:   #dde1ea;
+    --muted:    #8b8fa3;
+    --text:     #1c1e27;
+    --text-dim: #5b5f74;
+    --accent:   #b23c72;
+    --tpks:     #cf5a34;
+    --ks:       #b23c72;
+    --kbg:      #6a4b92;
+    --kbgo:     #2f7690;
+    --green:    #2f9468;
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: var(--bg); color: var(--text); font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 15px; line-height: 1.6; min-height: 100vh; }
@@ -48,6 +48,53 @@
   .nav-tab:hover { color: var(--text); }
   .nav-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
 
+  /* ── Layout: main column + sidebar ── */
+  .layout { display: flex; align-items: flex-start; gap: 28px; }
+  .main-col { flex: 1; min-width: 0; }
+  .sidebar { display: none; width: 300px; flex-shrink: 0; }
+
+  @media (min-width: 901px) {
+    .nav-tabs { display: none; }
+    .sidebar { display: flex; flex-direction: column; gap: 16px; position: sticky; top: 20px; padding: 24px 32px 32px 0; }
+  }
+  @media (max-width: 900px) {
+    .layout { display: block; }
+  }
+
+  /* Big sidebar nav buttons */
+  .side-nav { display: flex; flex-direction: column; gap: 10px; }
+  .side-nav-btn {
+    display: flex; align-items: center; gap: 14px;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 18px 20px; cursor: pointer; transition: all .15s;
+    box-shadow: 0 1px 3px rgba(30,32,50,0.05);
+  }
+  .side-nav-btn:hover { border-color: var(--muted); transform: translateX(-2px); }
+  .side-nav-btn.active { border-color: var(--accent); background: #fbe6ef; }
+  .side-nav-icon { font-size: 1.7rem; flex-shrink: 0; line-height: 1; }
+  .side-nav-text { display: flex; flex-direction: column; gap: 2px; }
+  .side-nav-text b { font-size: 1rem; color: var(--text); }
+  .side-nav-btn.active .side-nav-text b { color: var(--accent); }
+  .side-nav-text small { font-size: 0.74rem; color: var(--text-dim); font-family: 'IBM Plex Mono', monospace; }
+
+  /* Sidebar widget cards */
+  .widget-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; box-shadow: 0 1px 3px rgba(30,32,50,0.05); }
+  .widget-title { font-size: 0.74rem; font-family: 'IBM Plex Mono', monospace; color: var(--text-dim); text-transform: uppercase; letter-spacing: .04em; margin-bottom: 12px; }
+  .widget-list { display: flex; flex-direction: column; gap: 7px; }
+  .widget-loading { font-size: 0.78rem; color: var(--muted); }
+  .widget-kw-item { display: flex; align-items: center; justify-content: space-between; gap: 8px; cursor: pointer; padding: 5px 7px; border-radius: 6px; transition: background .15s; }
+  .widget-kw-item:hover { background: var(--surface2); }
+  .widget-kw-word { font-size: 0.85rem; color: var(--text); font-weight: 500; }
+  .widget-kw-count { font-size: 0.7rem; font-family: 'IBM Plex Mono', monospace; color: var(--muted); }
+  .widget-media-item { display: flex; flex-direction: column; gap: 4px; }
+  .widget-media-row { display: flex; justify-content: space-between; font-size: 0.8rem; }
+  .widget-media-name { color: var(--text); }
+  .widget-media-count { color: var(--muted); font-family: 'IBM Plex Mono', monospace; font-size: 0.7rem; }
+  .widget-media-bar-bg { height: 5px; background: var(--surface2); border-radius: 3px; overflow: hidden; }
+  .widget-media-bar-fill { height: 100%; border-radius: 3px; background: var(--accent); }
+  .widget-today-count { font-size: 2.1rem; font-family: 'IBM Plex Mono', monospace; font-weight: 700; color: var(--accent); line-height: 1; }
+  .widget-today-label { font-size: 0.78rem; color: var(--text-dim); margin-top: 4px; }
+
   /* ── Hero header ── */
   header.hero {
     position: relative;
@@ -55,8 +102,8 @@
     padding: 40px 32px 28px;
     overflow: hidden;
     background:
-      radial-gradient(ellipse 900px 300px at 15% -20%, rgba(224,123,90,0.12), transparent 60%),
-      radial-gradient(ellipse 900px 300px at 85% -20%, rgba(123,94,167,0.14), transparent 60%);
+      radial-gradient(ellipse 900px 300px at 15% -20%, rgba(207,90,52,0.08), transparent 60%),
+      radial-gradient(ellipse 900px 300px at 85% -20%, rgba(106,75,146,0.10), transparent 60%);
   }
   .hero-eyebrow {
     display: flex; align-items: center; gap: 8px;
@@ -105,7 +152,7 @@
   .ticker-label {
     flex-shrink: 0;
     background: var(--accent);
-    color: #1a0e14;
+    color: #ffffff;
     font-family: 'IBM Plex Mono', monospace;
     font-size: 0.7rem;
     font-weight: 600;
@@ -129,7 +176,7 @@
   /* ── Stats bar ── */
   .stats-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1px; background: var(--border); border-bottom: 1px solid var(--border); }
   .stat-cell { background: var(--surface); padding: 16px 20px; cursor: pointer; transition: background .15s; position: relative; }
-  .stat-cell:hover { background: #1f2235; }
+  .stat-cell:hover { background: #f1f2f8; }
   .stat-cell.active::after { content:''; position:absolute; bottom:0; left:0; right:0; height:2px; }
   .stat-cell[data-filter="tpks"].active::after            { background: var(--tpks); }
   .stat-cell[data-filter="kekerasan_seksual"].active::after { background: var(--ks); }
@@ -170,7 +217,7 @@
     transition: all .15s;
     white-space: nowrap;
   }
-  .btn-export:hover { background: #142a20; }
+  .btn-export:hover { background: #e6f5ef; }
 
 
   .result-count { font-size: 0.77rem; font-family: 'IBM Plex Mono', monospace; color: var(--muted); white-space: nowrap; }
@@ -202,7 +249,7 @@
     display: flex; align-items: center; justify-content: center;
   }
   .pg-btn:hover:not(:disabled) { border-color: var(--muted); color: var(--text); }
-  .pg-btn.active { border-color: var(--accent); color: var(--accent); background: #2a1520; }
+  .pg-btn.active { border-color: var(--accent); color: var(--accent); background: #fbe6ef; }
   .pg-btn:disabled { opacity: 0.3; cursor: not-allowed; }
   .pg-ellipsis { color: var(--muted); font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem; padding: 0 4px; }
 
@@ -212,7 +259,7 @@
   .date-chips { display:flex; gap:6px; flex-wrap:wrap; }
   .chip { font-size:0.74rem; font-family:'IBM Plex Mono',monospace; padding:4px 10px; border-radius:20px; border:1px solid var(--border); background:var(--surface); color:var(--text-dim); cursor:pointer; transition:all .15s; white-space:nowrap; }
   .chip:hover { border-color:var(--muted); color:var(--text); }
-  .chip.active { border-color:var(--accent); color:var(--accent); background:#2a1520; }
+  .chip.active { border-color:var(--accent); color:var(--accent); background:#fbe6ef; }
   .date-divider { width:1px; height:20px; background:var(--border); margin:0 2px; }
   .date-selects { display:flex; align-items:center; gap:6px; flex-wrap:wrap; }
   .date-sel-group { display:flex; align-items:center; gap:6px; }
@@ -221,7 +268,7 @@
   .date-arrow { color:var(--muted); font-size:0.8rem; padding:0 2px; }
   .btn-reset-date { font-size:0.72rem; font-family:'IBM Plex Mono',monospace; padding:4px 10px; border-radius:6px; border:1px solid var(--border); background:transparent; color:var(--muted); cursor:pointer; transition:all .15s; white-space:nowrap; }
   .btn-reset-date:hover { color:var(--text); border-color:var(--muted); }
-  .date-active-badge { display:none; font-size:0.7rem; font-family:'IBM Plex Mono',monospace; background:#2a1520; border:1px solid var(--accent); color:var(--accent); padding:3px 8px; border-radius:4px; }
+  .date-active-badge { display:none; font-size:0.7rem; font-family:'IBM Plex Mono',monospace; background:#fbe6ef; border:1px solid var(--accent); color:var(--accent); padding:3px 8px; border-radius:4px; }
   .date-active-badge.visible { display:inline-block; }
 
   /* ── Page panels ── */
@@ -231,8 +278,8 @@
   /* ── News list ── */
   main { padding: 24px 32px; max-width: 960px; }
   .news-list { display:flex; flex-direction:column; gap:2px; }
-  .news-item { background:var(--surface); border:1px solid var(--border); border-radius:8px; padding:16px 18px; display:grid; grid-template-columns:3px 1fr; gap:14px; transition:border-color .15s, transform .1s; margin-bottom:8px; }
-  .news-item:hover { border-color:var(--muted); transform:translateX(2px); }
+  .news-item { background:var(--surface); border:1px solid var(--border); border-radius:8px; padding:16px 18px; display:grid; grid-template-columns:3px 1fr; gap:14px; transition:border-color .15s, transform .1s, box-shadow .15s; margin-bottom:8px; box-shadow: 0 1px 2px rgba(30,32,50,0.04); }
+  .news-item:hover { border-color:var(--muted); transform:translateX(2px); box-shadow: 0 3px 10px rgba(30,32,50,0.08); }
   .news-stripe { border-radius:2px; }
   .news-item[data-kw="tpks"] .news-stripe              { background:var(--tpks); }
   .news-item[data-kw="kekerasan_seksual"] .news-stripe  { background:var(--ks); }
@@ -240,10 +287,10 @@
   .news-item[data-kw="kbgo"] .news-stripe               { background:var(--kbgo); }
   .news-meta { display:flex; align-items:center; gap:9px; margin-bottom:7px; flex-wrap:wrap; }
   .kw-tag { font-size:0.67rem; font-family:'IBM Plex Mono',monospace; padding:2px 7px; border-radius:3px; font-weight:500; letter-spacing:.02em; }
-  .kw-tag.tpks              { background:#3a1e10; color:var(--tpks); }
-  .kw-tag.kekerasan_seksual  { background:#3a1020; color:var(--ks); }
-  .kw-tag.kbg                { background:#251830; color:var(--kbg); }
-  .kw-tag.kbgo               { background:#102030; color:var(--kbgo); }
+  .kw-tag.tpks              { background:#fbe7dd; color:var(--tpks); }
+  .kw-tag.kekerasan_seksual  { background:#fbe3ee; color:var(--ks); }
+  .kw-tag.kbg                { background:#ede6f5; color:var(--kbg); }
+  .kw-tag.kbgo               { background:#e2eef3; color:var(--kbgo); }
   .news-source { font-size:0.77rem; color:var(--text-dim); font-weight:500; }
   .news-date { font-size:0.74rem; font-family:'IBM Plex Mono',monospace; color:var(--muted); margin-left:auto; }
   .news-title { font-size:0.95rem; font-weight:500; line-height:1.45; margin-bottom:5px; }
@@ -256,7 +303,7 @@
   .charts-panel h2 { font-size: 0.95rem; font-weight: 600; color: var(--text-dim); margin-bottom: 20px; font-family: 'IBM Plex Mono', monospace; letter-spacing: .04em; text-transform: uppercase; }
 
   .charts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
-  .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 20px 22px; }
+  .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 20px 22px; box-shadow: 0 1px 3px rgba(30,32,50,0.05); }
   .chart-card.wide { grid-column: 1 / -1; }
   .chart-title { font-size: 0.8rem; font-family: 'IBM Plex Mono', monospace; color: var(--text-dim); margin-bottom: 16px; letter-spacing: .02em; display:flex; align-items:center; justify-content:space-between; gap:8px; }
   .chart-wrap { position: relative; }
@@ -350,11 +397,14 @@
   </div>
 </div>
 
-<!-- Nav tabs -->
+<!-- Nav tabs (tampil di layar sempit) -->
 <div class="nav-tabs">
   <div class="nav-tab active" onclick="switchTab('berita')">📰 Daftar Berita</div>
   <div class="nav-tab" onclick="switchTab('grafik')">📊 Grafik &amp; Analisis</div>
 </div>
+
+<div class="layout">
+<div class="main-col">
 
 <!-- ════ PANEL BERITA ════ -->
 <div class="panel active" id="panel-berita">
@@ -478,7 +528,7 @@
       <div class="chart-card wide">
         <div class="chart-title">
           <span>Kalender Intensitas Pemberitaan</span>
-          <span class="heatmap-legend">sedikit <span class="sq" style="background:#1e2130"></span><span class="sq" style="background:#3a2b45"></span><span class="sq" style="background:#7b3f66"></span><span class="sq" style="background:#c45c8a"></span><span class="sq" style="background:#ff8fc0"></span> banyak</span>
+          <span class="heatmap-legend">sedikit <span class="sq" style="background:#e9eaf0"></span><span class="sq" style="background:#f6d7e4"></span><span class="sq" style="background:#ecb0cf"></span><span class="sq" style="background:#d97eae"></span><span class="sq" style="background:#b23c72"></span> banyak</span>
         </div>
         <div class="heatmap-scroll">
           <svg id="chart-heatmap"></svg>
@@ -489,6 +539,38 @@
     </div>
   </div>
 </div>
+
+</div><!-- /main-col -->
+
+<aside class="sidebar">
+  <div class="side-nav">
+    <div class="side-nav-btn active" data-tab="berita" onclick="switchTab('berita')">
+      <span class="side-nav-icon">📰</span>
+      <span class="side-nav-text"><b>Daftar Berita</b><small>Semua artikel terpantau</small></span>
+    </div>
+    <div class="side-nav-btn" data-tab="grafik" onclick="switchTab('grafik')">
+      <span class="side-nav-icon">📊</span>
+      <span class="side-nav-text"><b>Grafik &amp; Analisis</b><small>Tren, word cloud, heatmap</small></span>
+    </div>
+  </div>
+
+  <div class="widget-card">
+    <div class="widget-title">🔑 Kata Kunci Teratas</div>
+    <div class="widget-list" id="widget-keywords"><div class="widget-loading">Memuat...</div></div>
+  </div>
+
+  <div class="widget-card">
+    <div class="widget-title">📡 Media Paling Aktif</div>
+    <div class="widget-list" id="widget-media"><div class="widget-loading">Memuat...</div></div>
+  </div>
+
+  <div class="widget-card">
+    <div class="widget-title">📅 Hari Ini</div>
+    <div id="widget-today"><div class="widget-loading">Memuat...</div></div>
+  </div>
+</aside>
+
+</div><!-- /layout -->
 
 <footer>
   <span>Sumber: Google News RSS · Diperbarui otomatis tiap 6 jam via GitHub Actions</span>
@@ -507,7 +589,7 @@ let chartsBuilt = false;
 let currentPage = 1;
 
 const MONTHS_ID = ['Januari','Februari','Maret','April','Mei','Juni','Juli','Agustus','September','Oktober','November','Desember'];
-const TOPIC_COLORS = { tpks:'#e07b5a', kekerasan_seksual:'#c45c8a', kbg:'#7b5ea7', kbgo:'#4e8fa8' };
+const TOPIC_COLORS = { tpks:'#cf5a34', kekerasan_seksual:'#b23c72', kbg:'#6a4b92', kbgo:'#2f7690' };
 const TOPIC_LABELS = { tpks:'UU TPKS', kekerasan_seksual:'Kekerasan Seksual', kbg:'KBG', kbgo:'KBGO' };
 
 const STOPWORDS_ID = new Set([
@@ -525,6 +607,7 @@ const STOPWORDS_ID = new Set([
 ════════════════════════════════════════ */
 function switchTab(tab) {
   document.querySelectorAll('.nav-tab').forEach((el, i) => el.classList.toggle('active', ['berita','grafik'][i] === tab));
+  document.querySelectorAll('.side-nav-btn').forEach(el => el.classList.toggle('active', el.dataset.tab === tab));
   document.getElementById('panel-berita').classList.toggle('active', tab === 'berita');
   document.getElementById('panel-grafik').classList.toggle('active', tab === 'grafik');
   if (tab === 'grafik' && !chartsBuilt && allArticles.length) buildCharts();
@@ -899,10 +982,47 @@ function renderWordCloud() {
     const t = maxCount===minCount ? 1 : (count-minCount)/(maxCount-minCount);
     const size = (minSize + t*(maxSize-minSize)).toFixed(2);
     const dominantTopic = Object.entries(topicHits[word]||{}).sort((a,b)=>b[1]-a[1])[0];
-    const color = dominantTopic ? (TOPIC_COLORS[dominantTopic[0]]||'#9094a8') : '#9094a8';
+    const color = dominantTopic ? (TOPIC_COLORS[dominantTopic[0]]||'#5b5f74') : '#5b5f74';
     const weight = t > 0.6 ? 700 : t > 0.3 ? 600 : 500;
     return `<span class="tag-word" style="font-size:${size}rem;color:${color};font-weight:${weight}" title="${count}x muncul" onclick="filterByWord('${word.replace(/'/g,"\\'")}')">${escHtml(word)}</span>`;
   }).join('');
+}
+
+/* ════════════════════════════════════════
+   SIDEBAR WIDGETS
+════════════════════════════════════════ */
+function buildSidebarWidgets() {
+  // Kata kunci teratas
+  const { freq } = extractWordFreq(allArticles);
+  const topWords = Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,8);
+  const kwContainer = document.getElementById('widget-keywords');
+  kwContainer.innerHTML = topWords.length ? topWords.map(([w,c]) => `
+    <div class="widget-kw-item" onclick="filterByWord('${w.replace(/'/g,"\\'")}')">
+      <span class="widget-kw-word">${escHtml(w)}</span>
+      <span class="widget-kw-count">${c}x</span>
+    </div>`).join('') : '<div class="widget-loading">Belum cukup data.</div>';
+
+  // Media paling aktif
+  const mediaCounts = {};
+  allArticles.forEach(a => { if(a.source) mediaCounts[a.source] = (mediaCounts[a.source]||0)+1; });
+  const topMedia = Object.entries(mediaCounts).sort((a,b)=>b[1]-a[1]).slice(0,5);
+  const maxMedia = topMedia.length ? topMedia[0][1] : 1;
+  const mediaContainer = document.getElementById('widget-media');
+  mediaContainer.innerHTML = topMedia.length ? topMedia.map(([name,c]) => `
+    <div class="widget-media-item">
+      <div class="widget-media-row"><span class="widget-media-name">${escHtml(name)}</span><span class="widget-media-count">${c}</span></div>
+      <div class="widget-media-bar-bg"><div class="widget-media-bar-fill" style="width:${(c/maxMedia*100).toFixed(0)}%"></div></div>
+    </div>`).join('') : '<div class="widget-loading">Belum cukup data.</div>';
+
+  // Statistik hari ini
+  const todayKey = new Date().toISOString().slice(0,10);
+  const todayCount = allArticles.filter(a => {
+    const d = new Date(a.pubDate);
+    return !isNaN(d) && d.toISOString().slice(0,10) === todayKey;
+  }).length;
+  document.getElementById('widget-today').innerHTML = `
+    <div class="widget-today-count">${todayCount}</div>
+    <div class="widget-today-label">berita masuk hari ini</div>`;
 }
 
 function filterByWord(word) {
@@ -943,12 +1063,12 @@ function buildHeatmap() {
   const maxCount = Math.max(1, ...Object.values(countMap));
 
   function colorFor(c) {
-    if (!c) return '#1e2130';
+    if (!c) return '#e9eaf0';
     const t = Math.min(1, c/maxCount);
-    if (t < 0.25) return '#3a2b45';
-    if (t < 0.5)  return '#7b3f66';
-    if (t < 0.75) return '#c45c8a';
-    return '#ff8fc0';
+    if (t < 0.25) return '#f6d7e4';
+    if (t < 0.5)  return '#ecb0cf';
+    if (t < 0.75) return '#d97eae';
+    return '#b23c72';
   }
 
   const cell = 11, gap = 3, leftPad = 28, topPad = 16;
@@ -962,7 +1082,7 @@ function buildHeatmap() {
   const dayLabels = ['','Sen','','Rab','','Jum',''];
   dayLabels.forEach((lbl,i) => {
     if (!lbl) return;
-    html += `<text x="0" y="${topPad + i*(cell+gap) + cell - 1}" font-size="8" fill="#6a6d80" font-family="IBM Plex Mono, monospace">${lbl}</text>`;
+    html += `<text x="0" y="${topPad + i*(cell+gap) + cell - 1}" font-size="8" fill="#8b8fa3" font-family="IBM Plex Mono, monospace">${lbl}</text>`;
   });
 
   let lastMonth = -1;
@@ -976,7 +1096,7 @@ function buildHeatmap() {
       const y = topPad + d*(cell+gap);
       if (d===0 && dayDate.getMonth() !== lastMonth) {
         lastMonth = dayDate.getMonth();
-        html += `<text x="${x}" y="${topPad-5}" font-size="8" fill="#6a6d80" font-family="IBM Plex Mono, monospace">${MONTHS_ID[lastMonth].slice(0,3)}</text>`;
+        html += `<text x="${x}" y="${topPad-5}" font-size="8" fill="#8b8fa3" font-family="IBM Plex Mono, monospace">${MONTHS_ID[lastMonth].slice(0,3)}</text>`;
       }
       html += `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${colorFor(c)}"><title>${dayDate.toLocaleDateString('id-ID',{day:'2-digit',month:'short',year:'numeric'})}: ${c} berita</title></rect>`;
     }
@@ -997,8 +1117,8 @@ function buildCharts() {
   chartsBuilt = true;
   const articles = allArticles;
 
-  Chart.defaults.color = '#9094a8';
-  Chart.defaults.borderColor = '#2a2d3a';
+  Chart.defaults.color = '#5b5f74';
+  Chart.defaults.borderColor = '#dde1ea';
 
   renderWordCloud();
   buildHeatmap();
@@ -1013,10 +1133,10 @@ function buildCharts() {
   destroyChart('donut');
   chartInstances['donut'] = new Chart(document.getElementById('chart-donut'), {
     type: 'doughnut',
-    data: { labels: donutLabels, datasets: [{ data: donutData, backgroundColor: donutColors, borderColor: '#1a1d27', borderWidth: 3 }] },
+    data: { labels: donutLabels, datasets: [{ data: donutData, backgroundColor: donutColors, borderColor: '#ffffff', borderWidth: 3 }] },
     options: {
       responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { position: 'right', labels: { color: '#9094a8', font: { family:"'IBM Plex Mono'", size: 11 }, padding: 12 } } }
+      plugins: { legend: { position: 'right', labels: { color: '#5b5f74', font: { family:"'IBM Plex Mono'", size: 11 }, padding: 12 } } }
     }
   });
 
@@ -1030,14 +1150,14 @@ function buildCharts() {
     type: 'bar',
     data: {
       labels: topMedia.map(m=>m[0]),
-      datasets: [{ label: 'Jumlah Berita', data: topMedia.map(m=>m[1]), backgroundColor: '#7b5ea7', borderRadius: 4 }]
+      datasets: [{ label: 'Jumlah Berita', data: topMedia.map(m=>m[1]), backgroundColor: '#6a4b92', borderRadius: 4 }]
     },
     options: {
       indexAxis: 'y', responsive: true, maintainAspectRatio: false,
       plugins: { legend: { display: false } },
       scales: {
-        x: { ticks: { color: '#9094a8', font:{family:"'IBM Plex Mono'",size:10} }, grid: { color: '#2a2d3a' } },
-        y: { ticks: { color: '#e8eaf2', font:{family:"'IBM Plex Sans'",size:11} }, grid: { display: false } }
+        x: { ticks: { color: '#5b5f74', font:{family:"'IBM Plex Mono'",size:10} }, grid: { color: '#dde1ea' } },
+        y: { ticks: { color: '#1c1e27', font:{family:"'IBM Plex Sans'",size:11} }, grid: { display: false } }
       }
     }
   });
@@ -1070,16 +1190,16 @@ function buildCharts() {
       datasets: [{
         label: 'Total Berita',
         data: dateKeys.map(k=>dateMap[k].total),
-        borderColor: '#c45c8a', backgroundColor: 'rgba(196,92,138,0.12)',
-        borderWidth: 2, pointRadius: 3, pointBackgroundColor: '#c45c8a', fill: true, tension: 0.3
+        borderColor: '#b23c72', backgroundColor: 'rgba(178,60,114,0.10)',
+        borderWidth: 2, pointRadius: 3, pointBackgroundColor: '#b23c72', fill: true, tension: 0.3
       }]
     },
     options: {
       responsive: true, maintainAspectRatio: false,
       plugins: { legend: { display: false } },
       scales: {
-        x: { ticks: { color:'#9094a8', font:{family:"'IBM Plex Mono'",size:10}, maxRotation:45 }, grid:{color:'#2a2d3a'} },
-        y: { ticks: { color:'#9094a8', font:{family:"'IBM Plex Mono'",size:10} }, grid:{color:'#2a2d3a'}, beginAtZero:true }
+        x: { ticks: { color:'#5b5f74', font:{family:"'IBM Plex Mono'",size:10}, maxRotation:45 }, grid:{color:'#dde1ea'} },
+        y: { ticks: { color:'#5b5f74', font:{family:"'IBM Plex Mono'",size:10} }, grid:{color:'#dde1ea'}, beginAtZero:true }
       }
     }
   });
@@ -1090,18 +1210,18 @@ function buildCharts() {
     data: {
       labels: dateLabels,
       datasets: [
-        { label:'UU TPKS',           data: dateKeys.map(k=>dateMap[k].tpks||0),              backgroundColor:'#e07b5a', borderRadius:2 },
-        { label:'Kekerasan Seksual', data: dateKeys.map(k=>dateMap[k].kekerasan_seksual||0), backgroundColor:'#c45c8a', borderRadius:2 },
-        { label:'KBG',               data: dateKeys.map(k=>dateMap[k].kbg||0),               backgroundColor:'#7b5ea7', borderRadius:2 },
-        { label:'KBGO',              data: dateKeys.map(k=>dateMap[k].kbgo||0),               backgroundColor:'#4e8fa8', borderRadius:2 },
+        { label:'UU TPKS',           data: dateKeys.map(k=>dateMap[k].tpks||0),              backgroundColor:'#cf5a34', borderRadius:2 },
+        { label:'Kekerasan Seksual', data: dateKeys.map(k=>dateMap[k].kekerasan_seksual||0), backgroundColor:'#b23c72', borderRadius:2 },
+        { label:'KBG',               data: dateKeys.map(k=>dateMap[k].kbg||0),               backgroundColor:'#6a4b92', borderRadius:2 },
+        { label:'KBGO',              data: dateKeys.map(k=>dateMap[k].kbgo||0),               backgroundColor:'#2f7690', borderRadius:2 },
       ]
     },
     options: {
       responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { labels: { color:'#9094a8', font:{family:"'IBM Plex Mono'",size:11}, boxWidth:12 } } },
+      plugins: { legend: { labels: { color:'#5b5f74', font:{family:"'IBM Plex Mono'",size:11}, boxWidth:12 } } },
       scales: {
-        x: { stacked:true, ticks:{color:'#9094a8',font:{family:"'IBM Plex Mono'",size:10},maxRotation:45}, grid:{color:'#2a2d3a'} },
-        y: { stacked:true, ticks:{color:'#9094a8',font:{family:"'IBM Plex Mono'",size:10}}, grid:{color:'#2a2d3a'}, beginAtZero:true }
+        x: { stacked:true, ticks:{color:'#5b5f74',font:{family:"'IBM Plex Mono'",size:10},maxRotation:45}, grid:{color:'#dde1ea'} },
+        y: { stacked:true, ticks:{color:'#5b5f74',font:{family:"'IBM Plex Mono'",size:10}}, grid:{color:'#dde1ea'}, beginAtZero:true }
       }
     }
   });
@@ -1133,6 +1253,7 @@ async function loadData() {
     buildHeroInsights(data);
     buildTicker();
     buildSparklines();
+    buildSidebarWidgets();
     renderNews();
   } catch(e) {
     console.error(e);
