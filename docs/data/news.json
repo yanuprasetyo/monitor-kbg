@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-14T07:54:48.249993+00:00",
-  "total": 238,
+  "updated_at": "2026-07-14T13:29:23.310626+00:00",
+  "total": 243,
   "stats": {
     "tpks": 80,
-    "kekerasan_seksual": 75,
+    "kekerasan_seksual": 78,
     "kbg": 38,
-    "kbgo": 45
+    "kbgo": 47
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,51 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sinergi Lintas Sektoral di Tasikmalaya Bergerak Cepat Tangani Kasus KBGO, Korban Dipastikan Dapat Perlindungan Total",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOenZhZDFjYWNvMERPMGZLTUhYb0E4Zy1OT0s1YnJnM2lJYU9Dc2lfMWVMWDNaSkIwNEFZR202bkZlRDVWTEtuaWVFUllhWmZNcEUyTjFrMVNESjNSb0tLMG9PTVpweDFSQ21pS1JBQlJZUHdkWWl5c0htRXdzeHhqOXVobUJTLWM5cXI0elpTNDJnTTZFZ1cwdzdnbDhJYngxTDV2TkNoUHZzdmRUV1hDZjYzOGdMOVBWT21lWjY2VWtQOE5vak1uTHdNLXctVUd3ZHZSVnpYSnNXR0JTb3BRNFNMSjVVQUdMbGc?oc=5",
+      "pubDate": "2026-07-14T11:49:16+00:00",
+      "source": "Harapan Rakyat",
+      "description": "Sinergi Lintas Sektoral di Tasikmalaya Bergerak Cepat Tangani Kasus KBGO, Korban Dipastikan Dapat Perlindungan Total",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kemenkum Banten edukasi pelajar cegah kekerasan seksual hingga narkoba",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFpFZ01SNlYzZGpqVGY0eDlOdGY0eTJHWi1kRlhmZURPUWV3eVlxRlhFbFRUNnV4dFU1Yk8yNFFaQmtBeFFHcV91Tk04ZjhKLWk2Y000WVptQUpNQ3IzNThMOUxTT3pEX2RZcU91WEZwYUVSd3d3ZVNBRldnNlFvdnZlR2MtQ0lOUDJ6eWpPYzkyN0V6aVBVRXVSM09nZlpwc1lZVFFNV1FVLV9KS3hPTUdjTznSAboBQVVfeXFMUHNLNDRjLW13X2JzU3BPUkpSVHFsY0ZUejBVaGktVDFQVUpEZFRMN244cGVtN0hVSUNCZG5PLWhURWVzWkZYUDJuNUhaeThja3lDUDhzTVdtZnlJeWlxVmFsTnV5M0kxc2FsNzFUUmFDTmI4MFVPM1oyb2pfQk5vRU0zVzlTT3AtVFB2NDVKanJaU25vMUlEYk1ZQ2h6dDh5LU82bWw4QzBVRk90dXdhRmZtU3M5cGxIMExB?oc=5",
+      "pubDate": "2026-07-14T11:13:02+00:00",
+      "source": "ANTARA News Banten",
+      "description": "Kemenkum Banten edukasi pelajar cegah kekerasan seksual hingga narkoba",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "FH UB Tindak Tegas Cabut Gelar Mawapres Terduga Pelaku Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQk51NFJCRUNkYXdSVmFaTDFOZ2I0bGlnY1o4UXBjdzIyNlliSUFuTGlWWGJJdDRoYUY1bmtOSUVkNDNvYlZvQlZFQUhWcWRSb2NsNXJDbE1lcUt2WmZibDFNNnJQbnJtaGtYaEFFbk82OUZaNjYyczJBbUVHeXNreld5eHlFUEU2Ymh0OEVROUxGR1VxMlhZZkpXQmRua2JRWUI3V1VmWHVkTW5WZldfWVh0bTJ6Z21JOWUw?oc=5",
+      "pubDate": "2026-07-14T10:16:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "FH UB Tindak Tegas Cabut Gelar Mawapres Terduga Pelaku Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Polisi dan Dinsos Beri Pendampingan Psikologis Korban Kekerasan Seksual di Sampang",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGdEUkE2MTRLWXkwRTVHZFVaN2ZES1VmRXBPb0J1MXBkZ1d0aGFaSzFWUEtiSEM0WTdLTWh0OXh2UzY0dWtyVlJza1F4QThpLXJEX2pnWVR3ZExGNFNEbGlpUGlISzN1OFNaNEdBVTdWbjRrSmVvR1VZU2NGXzhRX2FidXQxYTg1bDBiRXdZakF0SkhMOHA3b3hpUmdoZklpbnJIdGdIbnlQN0RhU1dQZmhHYkl3YmVmdXM5VWtB?oc=5",
+      "pubDate": "2026-07-14T10:09:00+00:00",
+      "source": "Bicara Indonesia",
+      "description": "Polisi dan Dinsos Beri Pendampingan Psikologis Korban Kekerasan Seksual di Sampang",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Anggota DPR RI Maruli Siahaan: Kekerasan Seksual terhadap Remaja di Sampang adalah Tragedi Kemanusiaan, Negara Wajib Hadir Melindungi Korban",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOcGpMTS1zU3l1M3hGaGFNYVFqWXFBd28tZmpBSFd4Rmt3TmltYUNlZDg4a0VreUpnS3Q0MUpCT3FabUw3WDlYWG9WQTJId1VfVUdtZHVqeTNKdDhYMG1WVjIyU1NJOTRuTzI0WDZIQ09ZOEw1NHFiVWZLNXVHamJLN0VPZHVwM3E5aFRrTTQyNW5zaXhXbjlkZXJhQjNjdGRnS1NQVnR3c19MbTE0cjA4Y1c0cHNGd0NmNHlJcTNvZlMxTWYzN0dON2M0N0dUa3A2MllibjFUOVhMY1hmTXJxOTFZakc4YlUzT28wbEZwVmx1QkR0bUZqUlh5eHdGTFRXTGdmVVMwZ0l2bWxyM0hkOUJoaw?oc=5",
+      "pubDate": "2026-07-14T09:34:00+00:00",
+      "source": "Medan Pos",
+      "description": "Anggota DPR RI Maruli Siahaan: Kekerasan Seksual terhadap Remaja di Sampang adalah Tragedi Kemanusiaan, Negara Wajib Hadir Melindungi Korban",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Kronologi Kekerasan Seksual di Sampang Libatkan 27 Tersangka, Pelaku Ajak Teman hingga Buat Grup",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUDVibEcyT01ic2xUYlRnaWpUY09BQTRub245eW9haE1SSDloUG9MM2tHUlVXSHZrc1BIekZlY3FwN0ZIMWFzRWRHY3o2RVZfbVpQMXVPUmMwNGdnQkw3M0RzSWwySkxfcVVrNG5OdTNaaVJQRlBZNWxuUTQxRWdlNzNMVjNuOTZ1b0R5OE9DQnNYaTB2LXpCLXBMN2RhUXByWW5MWWZaMk9saWFIcVlOMzZJZktiVGNRVmQ3UmtxZEQyNFlJUkRRLWFqSGdrZ9IB0wFBVV95cUxPV0kwWWp0YkRORmNjOGcySm05TzBUZDlTc2g0WjV4U0ZyT0dQZHdIOVRkbEYzakN4MWVXcTJKS0pRQnU1U1dnNWRkN29MbTh5UjBiREI5MlB3ZDFsRHpTY1pqLUtEcFRwaHk5bUhwNGNRUXV1dl9HMy1JdXY0MVRYY0N1dXdpUGdvbjdVMlY0LXBMb1l1dDREdTUzXzBjcHBSUzlKWXhRZm80MDJZcnhKWlBTdFZaOHZqd2w3OWtldzJDZnB3X2trYVFtMVltY3dkWkQ0?oc=5",
@@ -123,8 +168,8 @@
       "pubDate": "2026-07-11T08:45:59+00:00",
       "source": "Portal Hukum",
       "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Mahasiswa FEB USU Diduga Lecehkan Puluhan Korban",
@@ -1685,7 +1730,7 @@
     },
     {
       "title": "Modus 'Nikah Ghoib', WCC Jombang Ungkap Kekerasan Seksual di Lingkungan Pendidikan Masih Terjadi",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMlVJNkUwV05MbllJTXRIeG1PTEZUSHZ0SG9oa213S2M4aGh2YWRLQUNVQzlHQ1NNRWgtc1k3cnI4ZUNHT2l5aXNkTlpMN29lZURaUkswUGoyZWI2SEt0c1Y1el9jdTBZUDdnVk9FdzdFZkZzWTBITURRTWNtZnlscU5XQ3NCNUZsNS0zcnpNVDdYSG1UNWQ4aVB4SjdwcTlPblBOU2c5RDZsbDNvRG5mVkdmd3BlZmRPcGcwR1NJVmdXX0M0cjlZNGpiWHk0WndXb2dfcVk0YVpLLWlQMEhvQjhB0gHnAUFVX3lxTE5UN1J2cmNPWnBoY1JjX3NfZ1l1Zkl6aHpvV2MwOXk1TVFWNklEYnpZMW40OTVWSjNnLU52ektIeEx4SVpubXBkNFNzREdzTGR3V2NEb1FBUC01Q05nWkMzUDd2SkpTbzRKS1lPbERSZmV6YU1rS0hjVzFRTHVlbFJ0X2owZHo2cjVfWmZYOVhEM1lMaDEtcmdlTWdtOUhkOVFmdkdCclZfdVd6SHc5V2hYM0hxY1A4QmFCR3cwSmFmcElXZjdWeEVfOFVSbVlHNzZRMlh2STRKVmRjNElmQXBrbXlGb2JyNA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMlVJNkUwV05MbllJTXRIeG1PTEZUSHZ0SG9oa213S2M4aGh2YWRLQUNVQzlHQ1NNRWgtc1k3cnI4ZUNHT2l5aXNkTlpMN29lZURaUkswUGoyZWI2SEt0c1Y1el9jdTBZUDdnVk9FdzdFZkZzWTBITURRTWNtZnlscU5XQ3NCNUZsNS0zcnpNVDdYSG1UNWQ4aVB4SjdwcTlPblBOU2c5RDZsbDNvRG5mVkdmd3BlZmRPcGcwR1NJVmdXX0M0cjlZNGpiWHk0WndXb2dfcVk0YVpLLWlQMEhvQjhB?oc=5",
       "pubDate": "2026-03-31T07:00:00+00:00",
       "source": "Jombang Banget",
       "description": "Modus 'Nikah Ghoib', WCC Jombang Ungkap Kekerasan Seksual di Lingkungan Pendidikan Masih Terjadi",
@@ -1918,20 +1963,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
-      "pubDate": "2026-01-02T08:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
       "pubDate": "2026-01-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
+      "pubDate": "2026-01-02T08:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
