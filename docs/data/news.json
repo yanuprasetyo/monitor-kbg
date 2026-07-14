@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-13T19:18:25.898383+00:00",
-  "total": 235,
+  "updated_at": "2026-07-14T02:01:59.282106+00:00",
+  "total": 237,
   "stats": {
-    "tpks": 77,
+    "tpks": 80,
     "kekerasan_seksual": 74,
     "kbg": 38,
-    "kbgo": 46
+    "kbgo": 45
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -30,7 +30,7 @@
     {
       "title": "SINDIKAT PEDOFIL Jaring Korban Lewat Medsos",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02bWk2R2o0dGdCSjNmM2FoNWVKX2h5aEYzaDhLeVZKdU94UDZldV94LXJXOEdEVTJhci1pZW9rdkRQZWtFS252Y1FqQzRUWnBWMk1yT1hjWUxOY2x5Ni1uQ0IzTTJDQTRoY3FnOXlDTDRWd0xOeWFDU1pn?oc=5",
-      "pubDate": "2026-07-13T13:23:19+00:00",
+      "pubDate": "2026-07-13T14:19:00+00:00",
       "source": "Suar Indonesia",
       "description": "SINDIKAT PEDOFIL Jaring Korban Lewat Medsos",
       "keyword_id": "kekerasan_seksual",
@@ -114,8 +114,8 @@
       "pubDate": "2026-07-11T08:45:59+00:00",
       "source": "Portal Hukum",
       "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Mahasiswa FEB USU Diduga Lecehkan Puluhan Korban",
@@ -1360,6 +1360,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "KPAI Tegaskan Tidak Ada Toleransi bagi Pelaku Kekerasan Seksual di Lingkungan Pesantren",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZS1XWmJPMThxYUFjNHRSY1ozb2xQS0l5RTVUWkdzSGNyWjlwS0VwT016LVZfak9qWnl1am5LYURRbFJaLWJJUHdsUVlJSGVDRThmZjVKdERLTXIyMF8zVFNQSXRkQTgzbUtxMFBybWJrQWZhMG5vWXVaQXdsRlJGbElhVWt4Mmt4TlU0aDNIQXdHNDlYbUJjTXNMN0VJOUE3TVhpdGMyTFFfcDZ1OVowTFMzUGhjeE9QYnpCaNIBwgFBVV95cUxNWXRVWmswRklQZ25IR3Z5X1JUc2F2QVdxTWt2VWdpcW10NlZLWFFLSDliSVNzYVR5eTlmT2t4VWRfeWtkV3M5a3cyWlpCcUNGckhZMWJINk90SkR2UmExWVc3dllnRk1xc3ltdjMwU19BSm94aGtkcVJJRTZFZ3VOSVVPNjEweEQ1ZXIwZjcyOGRHRGlFb1llODRXSzVlZDNGR3lMNTJLS185M0VEVWtHRTlaZzdJRFRVeC1WLXdDQ21nQQ?oc=5",
+      "pubDate": "2026-05-08T07:00:00+00:00",
+      "source": "Komisi Perlindungan Anak Indonesia (KPAI)",
+      "description": "KPAI Tegaskan Tidak Ada Toleransi bagi Pelaku Kekerasan Seksual di Lingkungan Pesantren",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Usut tuntas kekerasan seksual atas para pelajar di Pesantren Pati dan Bogor",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRzBSUEhKUGhYLVI0dlcwaWo5QlRDZ2ZXdmJVQkVUNmtzUUc2Y3ZQUU84WVZjVFAwWloyV3RvSmE4Nm5IejRod05HYjVVN2daVzI4dlpBVnZ4MHMxTGFsenh1cGpLY3BVRllJbkgxZU1GenZFNGIyTl8tLWZuWTZ4d0piR1BIcDlmb3d0Q2lGUm5TVWgyS20yS3pEMUdYeV9ubDlCUEVxYVRNSDdhbDVqdnV6eUk3VEtfUW9tZTF1ZzZsaDcxM1NCOFJHbFpMZw?oc=5",
       "pubDate": "2026-05-08T07:00:00+00:00",
@@ -1459,15 +1468,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Prohealth.id",
-      "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1475,6 +1475,15 @@
       "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Prohealth.id",
+      "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
@@ -1678,10 +1687,10 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
@@ -1700,6 +1709,15 @@
       "description": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pertama di PN Pakam, Pelaku Kekerasan Seksual Diwajibkan Bayar Restitusi",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3ZvS1hRZzRBZVpBYW5DMlkyX3dDR3FhU1o0VzNiYWV4OXZMOWdkc0ktYmdVOFc1R3VPbWJCbXRGck1LWUJvTW1qWXFqR2RMUmdTZUNwSEVVZE5MZ0dGbkRvTExmcWloc21QR21hTEFNRThTYmNUTXpkR25ESXR0SWQ4dmZUdGE0VDVIV0RqZi1yeWtZWkdIOWVyb2N2UERRaFlqQTJETmhBbS1R?oc=5",
+      "pubDate": "2026-03-06T08:00:00+00:00",
+      "source": "Dandapala Digital",
+      "description": "Pertama di PN Pakam, Pelaku Kekerasan Seksual Diwajibkan Bayar Restitusi",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kemenko Polkam Dorong Sinergi Hadapi Lonjakan Kejahatan dan Kekerasan Perempuan-Anak",
