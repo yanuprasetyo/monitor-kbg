@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-14T19:12:11.023924+00:00",
-  "total": 244,
+  "updated_at": "2026-07-15T01:59:02.943700+00:00",
+  "total": 246,
   "stats": {
     "tpks": 79,
-    "kekerasan_seksual": 80,
+    "kekerasan_seksual": 82,
     "kbg": 38,
     "kbgo": 47
   },
@@ -33,6 +33,15 @@
       "pubDate": "2026-07-14T16:52:53+00:00",
       "source": "Media Indonesia",
       "description": "Tiga Kampus Hadapi Dugaan Kasus Pelecehan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Di Balik Klaim Tempat Paling Aman, Ada 17 Pesantren Bermasalah dan Kasus Kekerasan Seksual Terus Berulang",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjBGdG03R3dreUtGVS1YOEo1Wkp3ZjZvdUlUZFlKQ3lZT0lvNUhWV1RkMTN1ME1YeWprVFRxSTZwQVFneUxWMGhZRHJJY3dtcDhTejZFTkdWbWtzeUFCemFXbW5pZElDb3NrVVZHVTdNZWoyQ2dsNnYzRHJLUndIdjdhSXo1MS02TnRueU9qRDM4a0lTUDl5U2J6YlJuTE05SFBtQWlCTlJLTWdWdENOOVBhS3cxTW5TRXZwTUhRVDNXVDR2bjlV?oc=5",
+      "pubDate": "2026-07-14T14:56:08+00:00",
+      "source": "AFU.id",
+      "description": "Di Balik Klaim Tempat Paling Aman, Ada 17 Pesantren Bermasalah dan Kasus Kekerasan Seksual Terus Berulang",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -78,6 +87,15 @@
       "pubDate": "2026-07-14T09:34:00+00:00",
       "source": "Medan Pos",
       "description": "Anggota DPR RI Maruli Siahaan: Kekerasan Seksual terhadap Remaja di Sampang adalah Tragedi Kemanusiaan, Negara Wajib Hadir Melindungi Korban",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Maruli Siahaan: Dugaan Kekerasan Seksual di Lingkungan USU Harus Diusut dan Jalankan Proses Hukum",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTRoWkNjS3N2WGIweHFWVFVqMGdzNldVLXBHWWVWbTlvMnRIRTk3OV9US29sZlBCZDFKS2ItQXB4TEdrRG4tVV9kY1JEbm9BMUdOUEVuNjhkcmtBaVZMYnRQYkk2MTgwTklibEJ0ei1VN1dGQmxyR0s2V19idnRKM2VPUDM5ZnZT?oc=5",
+      "pubDate": "2026-07-14T09:31:00+00:00",
+      "source": "Lensa Medan",
+      "description": "Maruli Siahaan: Dugaan Kekerasan Seksual di Lingkungan USU Harus Diusut dan Jalankan Proses Hukum",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
