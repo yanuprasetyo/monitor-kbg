@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-15T01:59:02.943700+00:00",
-  "total": 246,
+  "updated_at": "2026-07-15T07:59:48.878093+00:00",
+  "total": 248,
   "stats": {
-    "tpks": 79,
-    "kekerasan_seksual": 82,
+    "tpks": 80,
+    "kekerasan_seksual": 83,
     "kbg": 38,
     "kbgo": 47
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "LBH Medan Soroti Kapolres Belawan, Tersangka Dugaan Kekerasan Seksual Belum Ditahan Meski Terancam 12 Tahun Penjara",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaV9lRGN1SGJHTlVKU291N3h5V2tPQjB0UVNJYVVUT1BhTm9hZ3V1MHRDZ2ZFcVk3OGx4aGFNa1hSdWJKcUV4NmVqQ0xpRG04NzNsclVqcmxUcEVPVlRZWERnNWFYR3NZQmlNV0VmOU5KcFhqSHlyRXNqNG1FWWEtai1Wb2Y4bHB4U3hBWHZONHlsMGVzejhLcWo5a2VSdlphQnZCSTJNY3ZiVThvZS15cGl3ZG9oVTV6dmpQVTlXMDNRbzRIeGFUVmlvZ2g5S2lKRE1rR2ZCYjRiYy0wOTM2dg?oc=5",
+      "pubDate": "2026-07-15T07:45:56+00:00",
+      "source": "Metro Rakyat News",
+      "description": "LBH Medan Soroti Kapolres Belawan, Tersangka Dugaan Kekerasan Seksual Belum Ditahan Meski Terancam 12 Tahun Penjara",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Hukum: Remaja 15 tahun di Sampang diduga diperkosa puluhan anak",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FNkpVU0wyUnlIOG55blZHbnp3UU5ucFg3X0pVeFJtdzBpanhmbk9GV0JnZEZHbWh1d2d0ckFKRGNGYUtMejEwT0RRNU5YaDRQU3dCa1cxNEt5M0V1WnBYYtIBZkFVX3lxTE0yc29TUmpkZjFkR2wyM3BUclczb2xJMzJNalR2a0w1d0UwLWx3Z0FoRU9od0VSZGpvTnVqZjM3MXB3Nmx5cVpvNXNtYk5SRlE5X3d2N3gtd3Q5d2dyN3lXWlNYM0Rrdw?oc=5",
+      "pubDate": "2026-07-15T03:29:17+00:00",
+      "source": "BBC",
+      "description": "Hukum: Remaja 15 tahun di Sampang diduga diperkosa puluhan anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Tiga Kampus Hadapi Dugaan Kasus Pelecehan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEJwYUU2NDhUaE5JbVRlMXpDTXBTZmxaWmlycVliamFJRFlPZ0Q3NnBubHh1UHdxLVFDZ3dPZmpfcTN3bUh2a2wyN1ZpaWJ3Nkl0czhKcnlGaldPRV9ZdTYzTnNiYVlJaUtucTh3QTdYMjZndk1ucGEwTXFYUEVac0wwMW43NHVjUjkzYnNYb2dhUQ?oc=5",
@@ -1432,15 +1450,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Menteri PPPA Minta Polisi Percepat Proses Penyidikan Tersangka Pelaku Kekerasan Seksual Pondok Pesantren di Pati",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcmtqaVdfV2dpSUw4cnBmc2dyMnVlS3h0akZadUZWOUNGU1NJeDZyQ0IyeW5BZHphYmJZUDd6aUVsQjdwd0JXbVVwZld4SHF2ck0xRFR2NThiV3lpck83bF9CNGF1bDltNzIzVE0xZW1mRFFGbm1FN2xSWjMtX3g0NnA4Qkk5VHhZZ2tZRGJpWGs3TWlnMVBrVmpUcjZXRXgwdFIwMzJ3SFNzaEdXTVJUaEhjTVZuMWFrX3lOamhxWUtrbkhudG42aHNIRV94amVLOFp0LXdkNHAtckNNTEZHeW5lNndxMkk?oc=5",
-      "pubDate": "2026-05-08T07:00:00+00:00",
-      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
-      "description": "Menteri PPPA Minta Polisi Percepat Proses Penyidikan Tersangka Pelaku Kekerasan Seksual Pondok Pesantren di Pati",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "KPAI Tegaskan Tidak Ada Toleransi bagi Pelaku Kekerasan Seksual di Lingkungan Pesantren",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZS1XWmJPMThxYUFjNHRSY1ozb2xQS0l5RTVUWkdzSGNyWjlwS0VwT016LVZfak9qWnl1am5LYURRbFJaLWJJUHdsUVlJSGVDRThmZjVKdERLTXIyMF8zVFNQSXRkQTgzbUtxMFBybWJrQWZhMG5vWXVaQXdsRlJGbElhVWt4Mmt4TlU0aDNIQXdHNDlYbUJjTXNMN0VJOUE3TVhpdGMyTFFfcDZ1OVowTFMzUGhjeE9QYnpCaNIBwgFBVV95cUxNWXRVWmswRklQZ25IR3Z5X1JUc2F2QVdxTWt2VWdpcW10NlZLWFFLSDliSVNzYVR5eTlmT2t4VWRfeWtkV3M5a3cyWlpCcUNGckhZMWJINk90SkR2UmExWVc3dllnRk1xc3ltdjMwU19BSm94aGtkcVJJRTZFZ3VOSVVPNjEweEQ1ZXIwZjcyOGRHRGlFb1llODRXSzVlZDNGR3lMNTJLS185M0VEVWtHRTlaZzdJRFRVeC1WLXdDQ21nQQ?oc=5",
       "pubDate": "2026-05-08T07:00:00+00:00",
@@ -1448,6 +1457,15 @@
       "description": "KPAI Tegaskan Tidak Ada Toleransi bagi Pelaku Kekerasan Seksual di Lingkungan Pesantren",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Menteri PPPA Minta Polisi Percepat Proses Penyidikan Tersangka Pelaku Kekerasan Seksual Pondok Pesantren di Pati",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcmtqaVdfV2dpSUw4cnBmc2dyMnVlS3h0akZadUZWOUNGU1NJeDZyQ0IyeW5BZHphYmJZUDd6aUVsQjdwd0JXbVVwZld4SHF2ck0xRFR2NThiV3lpck83bF9CNGF1bDltNzIzVE0xZW1mRFFGbm1FN2xSWjMtX3g0NnA4Qkk5VHhZZ2tZRGJpWGs3TWlnMVBrVmpUcjZXRXgwdFIwMzJ3SFNzaEdXTVJUaEhjTVZuMWFrX3lOamhxWUtrbkhudG42aHNIRV94amVLOFp0LXdkNHAtckNNTEZHeW5lNndxMkk?oc=5",
+      "pubDate": "2026-05-08T07:00:00+00:00",
+      "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
+      "description": "Menteri PPPA Minta Polisi Percepat Proses Penyidikan Tersangka Pelaku Kekerasan Seksual Pondok Pesantren di Pati",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Usut tuntas kekerasan seksual atas para pelajar di Pesantren Pati dan Bogor",
@@ -1768,7 +1786,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
