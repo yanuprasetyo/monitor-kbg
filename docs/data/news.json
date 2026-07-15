@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-15T07:59:48.878093+00:00",
-  "total": 248,
+  "updated_at": "2026-07-15T13:26:30.637637+00:00",
+  "total": 251,
   "stats": {
-    "tpks": 80,
-    "kekerasan_seksual": 83,
+    "tpks": 82,
+    "kekerasan_seksual": 84,
     "kbg": 38,
     "kbgo": 47
   },
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Diduga Lakukan Kekerasan Seksual, Ketua Serikat Pekerja Dipolisikan Karyawati",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTzQxNmRES1B5WVRMLUtoZ01IMWtqQVlZOTdTXzR1Slh2OW9CQzZZeng4VkRVSkJGVlN2cGhreWF5M2R1b3BTY25jQXktQ2dnMV9tLW9lbjZRUF9Ndl9MTW9vWDdwQjkyZTgwOUhpZXRwSlU5Smp1ZjljNEVhX3d5ckZYZnNQdy1RWXN0S05UYjZBVlRRRkNLRXpLcmdwam45czZLdzlpVERGMnB5djB0OXRYaGRydTRLOU5GVURKVDlwZmYyRHlCSTk4TzB5Y2NxQlHSAccBQVVfeXFMTlVpdVNxN1gzUWlQT0dqRVh1cmNzNktTbm9nd2hNdXRSZjJBUFgtbDN0OWhJZzVScG1HMW85dnhabUtVZHZVNVZMRllOaWJVcW9Td1c2YlY3eGxBc0NmTVRwTkdFWGlid2dPUnFaVFRtSzEyRjZDVDdyc2VONmR3djNVS1R5UEF5a1ludEZKSlFTSkdDd2VLanNnS1l0RU84ODlCME4tc0M5ZjhGLUxSejRtbFZmcDhhMzlMeDBoN3ptdXNNQTgtaw?oc=5",
+      "pubDate": "2026-07-15T10:05:26+00:00",
+      "source": "news.okezone.com",
+      "description": "Diduga Lakukan Kekerasan Seksual, Ketua Serikat Pekerja Dipolisikan Karyawati",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Jejak Kelam Pesantren Bantur: Dugaan Pelecehan Santriwati Sejak 1996",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTk81RjR4YWxGbFptRzVEZUdWeVotVUhIcVRSWUNkbV9pMFdYSW85NVZNMmo0RzhrbXZMX1NNTm0ydS1USTFTaTJEUXdCcC1ZNjhnR2steUk3a3gwRUxZRHRlcHpsSVdVVFRxU3lCN3lLUTVFOE5RRE1JalNFVno3ekYyS2xrZXVKUmF5cU1RNDduOXVtNlZRV1VNZlplNTDSAacBQVVfeXFMUEdBMUJTelJ2X3RWeGg2Q1p4UTFwem9yNVN5dE8yUllnMTJ5X3FLZmRJVDhyN1EzS0txcFFqYjk2SjlRYWNwQUx5ZGxYNFF4d1lTVnF2VHNHSzFLZFlHTjBvUnhBMFlST05mRzIyNlZYX0hiYkZ5YTJ6NDE1UGVmT2lTX1dzN0E4MFh0RXF2Zmw2MWJsOHg2OUwyUG5oUk4yMnQxdGQtbVU?oc=5",
+      "pubDate": "2026-07-15T09:18:27+00:00",
+      "source": "indonesiaonline.co.id",
+      "description": "Jejak Kelam Pesantren Bantur: Dugaan Pelecehan Santriwati Sejak 1996",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Sadar Hukum Sejak Dini, Edukasi Pelajar Teluknaga Kekerasan Seksual, Bullying, dan Bahaya Narkoba",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTnZuZ3lVSXBJREJSNG9XRlRiQmRRN2VWaXVKYW1OOUo2bWg4VkY0R0NxblZPQlEwczBZMk9CemVPQkYtdmx1ay1OMU1VNlVGR0RBWUFQODl6VWtnaGg3N0xFenZ3U1FWU3AteWRkVGdUNXRNNjRXd0RYdTV2amp4eHJTckt5WTJfbjdNbzVZdVlyTUNkSm81N3JsVEU2UHM3bTh1UHJhZ0NUQVU0bzVCSTd3Y0tIN3Y4SnlMZzdSRDNnUjlpQklCZg?oc=5",
+      "pubDate": "2026-07-15T09:11:59+00:00",
+      "source": "tangselpos.id",
+      "description": "Sadar Hukum Sejak Dini, Edukasi Pelajar Teluknaga Kekerasan Seksual, Bullying, dan Bahaya Narkoba",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "LBH Medan Soroti Kapolres Belawan, Tersangka Dugaan Kekerasan Seksual Belum Ditahan Meski Terancam 12 Tahun Penjara",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaV9lRGN1SGJHTlVKU291N3h5V2tPQjB0UVNJYVVUT1BhTm9hZ3V1MHRDZ2ZFcVk3OGx4aGFNa1hSdWJKcUV4NmVqQ0xpRG04NzNsclVqcmxUcEVPVlRZWERnNWFYR3NZQmlNV0VmOU5KcFhqSHlyRXNqNG1FWWEtai1Wb2Y4bHB4U3hBWHZONHlsMGVzejhLcWo5a2VSdlphQnZCSTJNY3ZiVThvZS15cGl3ZG9oVTV6dmpQVTlXMDNRbzRIeGFUVmlvZ2g5S2lKRE1rR2ZCYjRiYy0wOTM2dg?oc=5",
@@ -1612,15 +1639,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQXy15X3Y2TWYwUVdjUEJOOG0zeENXdXJ1eGRWaEFpdzhISFc3Rkx3RnpUSjdFQVVvbUYzVFpZNV96eWoweGI3alppVGlLd3ZScGR5U2VHTjBOLVFVamwyQTZEZ0VSMndfU1Y0Z19BTFV4WkNJS29lNkd3bTN5RVlhUFB2bUJXVHVzLV9pQjByTVlOY1dIckdpRUxqOVlEVmFpbUxIQUdWeDVOM0l5UThVV2ctSUVnTFNBaW5xVmFGVTVxbkQ1dDJ6Tnk2U09rc28?oc=5",
-      "pubDate": "2026-04-20T07:00:00+00:00",
-      "source": "New Indonesia",
-      "description": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Kekerasan Seksual Online Terus Meningkat, Negara Diminta Perkuat Perlindungan",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFU2elVSeVJMVzduYnhDM2V2M1RVV0hsMlBzdmdObnJXNkNydS1qaXIyOGhpTVRQVWpBejRPbWN5VGdKazBCVUFwZ1o3N3V3NS10MFQtM3BEdHJQc2NDZXBMd0huUUF3X0dBV1Y2amM5TGRZbm9HQkIxY1ZjRDBJS1FoN3ZwbmxUZjJNSjRUQmpubVhUQVB3d21LQUQ0QXFVQjZkYy1vUFpzVEVZbW51cFMyTHB5VjNlS21BbFo4bXZGM081RmN3dw?oc=5",
       "pubDate": "2026-04-20T07:00:00+00:00",
@@ -1628,6 +1646,15 @@
       "description": "Kekerasan Seksual Online Terus Meningkat, Negara Diminta Perkuat Perlindungan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQXy15X3Y2TWYwUVdjUEJOOG0zeENXdXJ1eGRWaEFpdzhISFc3Rkx3RnpUSjdFQVVvbUYzVFpZNV96eWoweGI3alppVGlLd3ZScGR5U2VHTjBOLVFVamwyQTZEZ0VSMndfU1Y0Z19BTFV4WkNJS29lNkd3bTN5RVlhUFB2bUJXVHVzLV9pQjByTVlOY1dIckdpRUxqOVlEVmFpbUxIQUdWeDVOM0l5UThVV2ctSUVnTFNBaW5xVmFGVTVxbkQ1dDJ6Tnk2U09rc28?oc=5",
+      "pubDate": "2026-04-20T07:00:00+00:00",
+      "source": "New Indonesia",
+      "description": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Modul Akademi Penghapusan Kekerasan Seksual",
