@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-16T08:04:42.831936+00:00",
-  "total": 252,
+  "updated_at": "2026-07-16T13:40:18.065507+00:00",
+  "total": 253,
   "stats": {
-    "tpks": 82,
+    "tpks": 83,
     "kekerasan_seksual": 84,
     "kbg": 39,
     "kbgo": 47
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Analisis HAM UU 12/2022 tentang TPKS - Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdjUjBGVVEzWUIxaTFYTWsxaGZnMzBmMTNyZXJLVG1kX2lHYXVfMTdlclFhY21rYWxmRVVWQjFEengwX1VSeTBRSkxRSklmOTNTVFFlZmtUenN3OEVkU3JPSVBWNEFRRHM0dG1QTzZRUTlfR1VpUGNET01OZWZxQ1NxZXk1VmVhOWM2S2c2Sy0tZGZ0c0FUN04weTg4YnliQm8zbXh30gGrAUFVX3lxTE9Ba2JmQ1V0cnEyWjJaTzh4S0NYSXVUbXRlMU1aTXhta1dsSWFUeXAzT05NVHhvU2pReGZ1LUZDN1pGN0s3T0RWakFoTVdQMzJ6ZjktN2dtOU9OQ2tsWmlsTk5sbVpFYUp3dzJJWjhUWExKWjZVZzFjLVpISmVQUUZTbURSRGNObDFDV3cyNEgyaWk4LW5EZ0s5a1NuakxiM2pFdUQ4ZEItc1B4UQ?oc=5",
+      "pubDate": "2026-07-16T06:23:13+00:00",
+      "source": "Kompasiana.com",
+      "description": "Analisis HAM UU 12/2022 tentang TPKS - Kompasiana.com",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Diduga Lakukan Kekerasan Seksual, Ketua Serikat Pekerja Dipolisikan Karyawati",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTzQxNmRES1B5WVRMLUtoZ01IMWtqQVlZOTdTXzR1Slh2OW9CQzZZeng4VkRVSkJGVlN2cGhreWF5M2R1b3BTY25jQXktQ2dnMV9tLW9lbjZRUF9Ndl9MTW9vWDdwQjkyZTgwOUhpZXRwSlU5Smp1ZjljNEVhX3d5ckZYZnNQdy1RWXN0S05UYjZBVlRRRkNLRXpLcmdwam45czZLdzlpVERGMnB5djB0OXRYaGRydTRLOU5GVURKVDlwZmYyRHlCSTk4TzB5Y2NxQlHSAccBQVVfeXFMTlVpdVNxN1gzUWlQT0dqRVh1cmNzNktTbm9nd2hNdXRSZjJBUFgtbDN0OWhJZzVScG1HMW85dnhabUtVZHZVNVZMRllOaWJVcW9Td1c2YlY3eGxBc0NmTVRwTkdFWGlid2dPUnFaVFRtSzEyRjZDVDdyc2VONmR3djNVS1R5UEF5a1ludEZKSlFTSkdDd2VLanNnS1l0RU84ODlCME4tc0M5ZjhGLUxSejRtbFZmcDhhMzlMeDBoN3ptdXNNQTgtaw?oc=5",
@@ -2044,20 +2053,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
-      "pubDate": "2026-01-02T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
       "pubDate": "2026-01-02T08:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
+      "pubDate": "2026-01-02T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
