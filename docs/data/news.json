@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-17T13:18:10.187301+00:00",
-  "total": 256,
+  "updated_at": "2026-07-17T19:00:18.764171+00:00",
+  "total": 257,
   "stats": {
     "tpks": 85,
-    "kekerasan_seksual": 85,
+    "kekerasan_seksual": 86,
     "kbg": 39,
     "kbgo": 47
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "LPSK : 65 Persen Pelaku Kekerasan Seksual tak Mampu Bayar Restitusi",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2xJcEpRWlNWTl92T0F6SlRlRUFHQjV2eTZlLXdrelQ5UFplMVk1Rk1RVHZLZEdrM3VOazF0aEk4Y3NwekItSERMdkpTRnBoUUs1NnFTaWxGQkNQR09WZ3c4dlAzdjhIc1lSSFFzZ1JzX2pTb2o2ZmlYZzhjSm9CbHQ1ck5wUk10ZjlRSlQ3Q0FEbENCUE5KMHdTNnE2N2laNXk2enRFeS1oSjVETFJYNWtwbl9uc3poN0E?oc=5",
+      "pubDate": "2026-07-17T13:54:21+00:00",
+      "source": "Media Indonesia",
+      "description": "LPSK : 65 Persen Pelaku Kekerasan Seksual tak Mampu Bayar Restitusi",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "TII: Kasus pemerkosaan di Sampang momen evaluasi implementas UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYW9wOGI2SC1yS0p3WHEzQ0pjS3JwX0puR0htUEhSLXJrZjI4bWJsZ05tV2Z1QnpBZEF5Q1RoVU1yZUNUQ1k1TDFuQVdxSG0wWjk0a0RFamp6OVRWUFY1a3RwdXVOSS15aXBiS2RHTzU0QS1VOWdiYnNqcUtHMUN2V2ZZemh0aVlTSjJBR3ZJTVBTTGtuWTdvRnhXdlJ0bW1vOGlTZlpmcHpaVVhuZ1HSAbABQVVfeXFMTmlrN3BVYXJtbGtWMWJmWDJnZllnWC04MUIzNGNCY0wzYjVwVVU3U0NJLUg4U190ekszMFE4eU5JVXlwYUhleW9IUDNXT090VG4wTXVvREJyeDUwbjI1UnByZG1lMWlBNm12eFJXa05ZNFJUUlFjUEpINThOMWxsUG5Pc0hmdjlOeG9vMks4MllDOEdDUUhDbVVaS3ZNaVM0WDNYemtPZWt3MkFyM0Noa1U?oc=5",
@@ -757,20 +766,20 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
+      "pubDate": "2026-06-28T07:00:00+00:00",
+      "source": "Aktual.com",
+      "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Rieke Diah Pitaloka Minta Penanganan Kasus Kekerasan Ekstrem terhadap Perempuan Gunakan Dasar Hukum yang Tepat, Desak Dakwaan Berlapis bagi Pelaku",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNTIwTXljdmZCdGNQZElYbERVSy1hMkRCNkJlcjR6cXFHSDQ4MFlkOUZhT2xMZnJIMERxb01wYnN4ZXRqNHBlX3NwVnRQZmYtV05MN1A0dmN4V2FURFEyaHY0LXl2ZTJvM0lXYmxCY1d6Xy1fTDI5WXZEQ1RKc1Q3MEgzUDRFTDJ6X0dveDVUTG1adnRoOWtsMmRmeXFsSmhuaWdfWGZwc2c3OW9EV0c2dmlsTHlIbDJOWTNkbU5aLVh0OHkycjFuOWNycUVveDdLYnlqSVN1Z3Z6ZWV6aFVKQUxMbmJycDRqT2V1Tmo3RmRUWWNOdTBvalJtMFlKdw?oc=5",
       "pubDate": "2026-06-28T07:00:00+00:00",
       "source": "otoritas.co.id",
       "description": "Rieke Diah Pitaloka Minta Penanganan Kasus Kekerasan Ekstrem terhadap Perempuan Gunakan Dasar Hukum yang Tepat, Desak Dakwaan Berlapis bagi Pelaku",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
-      "pubDate": "2026-06-28T05:00:29+00:00",
-      "source": "Aktual.com",
-      "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
