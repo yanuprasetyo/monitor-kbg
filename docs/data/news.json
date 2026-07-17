@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-17T02:11:49.645807+00:00",
-  "total": 254,
+  "updated_at": "2026-07-17T08:01:51.575777+00:00",
+  "total": 255,
   "stats": {
-    "tpks": 84,
-    "kekerasan_seksual": 84,
+    "tpks": 83,
+    "kekerasan_seksual": 85,
     "kbg": 39,
-    "kbgo": 47
+    "kbgo": 48
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,13 +28,22 @@
   ],
   "articles": [
     {
+      "title": "Minimnya Perspektif Korban di Kalangan APH Hambat Keadilan Kasus Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3pSeGhnOWwtQnJzRXByMHdGNGtWNm5nMmhKNmRIVVZoc2stWHZIS0t1YjdvYzRvR3hWcURocFJMLXU4SGpaVG5JZDFhZ1pyOHdJSUZJd21tbnV3c0QxN0kydGJQZ3VtSlBLcTdSX2x1WTI5c2sybXgyV0dtZ0ltVVY1TFdXc2VXS05kRWxMVThWTDJLWUtHYlpxb0laLU82Nzkyd1BjZF9tT0FycU9JWHNMR1dFYjJ1bGFkdGpscmRWeDR3?oc=5",
+      "pubDate": "2026-07-17T06:35:44+00:00",
+      "source": "Media Indonesia",
+      "description": "Minimnya Perspektif Korban di Kalangan APH Hambat Keadilan Kasus Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1B5ZExKMUxYUzktQ0kyYjkwRkJZbnNIY1NqTHR1SnlzSG9ZSzBGNE1kZHU3bFZfR0gxS1RhY3hRN3FjLW1ZSGZ5RElTSU50YmxlWXdnSHFxaGp2d2h2UjVHVWxMako5X081N1JYeEpiY1JfWTVkWVZwTWh3Z3VNbmNSbENVQnNDb0dmWFE3TFpwcnNHbW5tZ1dtZmduMkF5emZOVlhZZk5ZcWtqX1E?oc=5",
       "pubDate": "2026-07-16T14:12:11+00:00",
       "source": "Portal Hukum",
       "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Analisis HAM UU 12/2022 tentang TPKS - Kompasiana.com",
@@ -1693,15 +1702,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -1709,6 +1709,15 @@
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
@@ -2062,20 +2071,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
-      "pubDate": "2026-01-02T08:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
       "pubDate": "2026-01-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
+      "pubDate": "2026-01-02T08:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
