@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-16T19:03:37.837239+00:00",
-  "total": 253,
+  "updated_at": "2026-07-17T02:11:49.645807+00:00",
+  "total": 254,
   "stats": {
-    "tpks": 83,
+    "tpks": 84,
     "kekerasan_seksual": 84,
     "kbg": 39,
     "kbgo": 47
   },
-  "new_this_fetch": 0,
+  "new_this_fetch": 60,
   "keywords": [
     {
       "id": "tpks",
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1B5ZExKMUxYUzktQ0kyYjkwRkJZbnNIY1NqTHR1SnlzSG9ZSzBGNE1kZHU3bFZfR0gxS1RhY3hRN3FjLW1ZSGZ5RElTSU50YmxlWXdnSHFxaGp2d2h2UjVHVWxMako5X081N1JYeEpiY1JfWTVkWVZwTWh3Z3VNbmNSbENVQnNDb0dmWFE3TFpwcnNHbW5tZ1dtZmduMkF5emZOVlhZZk5ZcWtqX1E?oc=5",
+      "pubDate": "2026-07-16T14:12:11+00:00",
+      "source": "Portal Hukum",
+      "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Analisis HAM UU 12/2022 tentang TPKS - Kompasiana.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdjUjBGVVEzWUIxaTFYTWsxaGZnMzBmMTNyZXJLVG1kX2lHYXVfMTdlclFhY21rYWxmRVVWQjFEengwX1VSeTBRSkxRSklmOTNTVFFlZmtUenN3OEVkU3JPSVBWNEFRRHM0dG1QTzZRUTlfR1VpUGNET01OZWZxQ1NxZXk1VmVhOWM2S2c2Sy0tZGZ0c0FUN04weTg4YnliQm8zbXh30gGrAUFVX3lxTE9Ba2JmQ1V0cnEyWjJaTzh4S0NYSXVUbXRlMU1aTXhta1dsSWFUeXAzT05NVHhvU2pReGZ1LUZDN1pGN0s3T0RWakFoTVdQMzJ6ZjktN2dtOU9OQ2tsWmlsTk5sbVpFYUp3dzJJWjhUWExKWjZVZzFjLVpISmVQUUZTbURSRGNObDFDV3cyNEgyaWk4LW5EZ0s5a1NuakxiM2pFdUQ4ZEItc1B4UQ?oc=5",
@@ -244,15 +253,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTd1TXNvSnFzUlc0V0tlZmJqcEhwa3Z1R1VMYXhacGhJVW8xSjlMcndkN1NxdTFOaVFKaW5za3ZLd19fWkpESUxMdF9tNVIzMEw3bThiZW9TUWhQNnZqOTJoa2ctQlJSSE43TnpUZWg2NWMwT0dQa0lKWUFCX3B4OUt3X0ZIaUdLMEtMT0RsMFZpME5rbmdKT3p4Zi00UjM1dDQ5QjdBWGJwd0Na?oc=5",
-      "pubDate": "2026-07-11T08:45:59+00:00",
-      "source": "Portal Hukum",
-      "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Mahasiswa FEB USU Diduga Lecehkan Puluhan Korban",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdnVkaGkzQnRsbDhvQlFUdnA2SFI5eW5iZktjNTBFN3Uyck4xckYwTkRUOFZZeGpKMmU0RFhvNGVYM3VORXB0Yy1GWExHaF81TE5PdEFidnlHYjd6Q0xPMXNsc0hUSXZ2ZkgtU2RvSlIyLWVpbmhHOUx3WWVfYVRTekNFOElLdmhNcFp1Y0xEdjhIei1JaHJtU2M1dGlFTUduYmFLa2lpb0E4MmxDWS1ERktR0gG3AUFVX3lxTE1wRWJNdTRVeWd1bmE2aEMxN0FuRmFmcFN3RkUxN1ZUX2xxUEFNX1ZFbW5oWTBocHJocDJuZ1pvdVAyemZrcE90Yk05dnUzeUpmU09qdWdteVBVdHR1ZGlaTTNabnp6dzlTZTRaRmpIX0JmVTRsOG9RLXUwY0NFd1lKdC1JMHplNFZVeEZGN3hQWmFKUENkSkVMTHR4VzZEWUZrWnUwTGlQOGp0Zjd5c3pLMkFxc3hpaw?oc=5",
       "pubDate": "2026-07-10T15:12:49+00:00",
@@ -267,6 +267,15 @@
       "pubDate": "2026-07-10T14:47:31+00:00",
       "source": "Harapan Rakyat",
       "description": "Kawal Korban KBGO, KOPRI Kota Tasikmalaya Sambangi UPTD PPA untuk Advokasi",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Dugaan Kekerasan Seksual Mahasiswa UB Tengah Diproses Etik",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMm5Yby1jRmZ2aVN6NXdTYlhkZk9nakg4YjMwdVJNSm1oX0VDcEVMLTBLaUZEbFFWOF9tZXZ1RVp1OU1YRlZmWk5tbHVMTjc0dE5taXQ4alpRWVZhNkh4RVBQaWE5aEotNlBodDBIQ1F4N1hxMkVBQTFMT3B4N19ib0pNbUdBb2NKTUEtTDczYUpMU00?oc=5",
+      "pubDate": "2026-07-10T13:56:00+00:00",
+      "source": "Kompas.id",
+      "description": "Dugaan Kekerasan Seksual Mahasiswa UB Tengah Diproses Etik",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
