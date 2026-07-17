@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-17T08:01:51.575777+00:00",
-  "total": 255,
+  "updated_at": "2026-07-17T13:18:10.187301+00:00",
+  "total": 256,
   "stats": {
-    "tpks": 83,
+    "tpks": 85,
     "kekerasan_seksual": 85,
     "kbg": 39,
-    "kbgo": 48
+    "kbgo": 47
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,6 +28,15 @@
   ],
   "articles": [
     {
+      "title": "TII: Kasus pemerkosaan di Sampang momen evaluasi implementas UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYW9wOGI2SC1yS0p3WHEzQ0pjS3JwX0puR0htUEhSLXJrZjI4bWJsZ05tV2Z1QnpBZEF5Q1RoVU1yZUNUQ1k1TDFuQVdxSG0wWjk0a0RFamp6OVRWUFY1a3RwdXVOSS15aXBiS2RHTzU0QS1VOWdiYnNqcUtHMUN2V2ZZemh0aVlTSjJBR3ZJTVBTTGtuWTdvRnhXdlJ0bW1vOGlTZlpmcHpaVVhuZ1HSAbABQVVfeXFMTmlrN3BVYXJtbGtWMWJmWDJnZllnWC04MUIzNGNCY0wzYjVwVVU3U0NJLUg4U190ekszMFE4eU5JVXlwYUhleW9IUDNXT090VG4wTXVvREJyeDUwbjI1UnByZG1lMWlBNm12eFJXa05ZNFJUUlFjUEpINThOMWxsUG5Pc0hmdjlOeG9vMks4MllDOEdDUUhDbVVaS3ZNaVM0WDNYemtPZWt3MkFyM0Noa1U?oc=5",
+      "pubDate": "2026-07-17T11:11:07+00:00",
+      "source": "ANTARA News",
+      "description": "TII: Kasus pemerkosaan di Sampang momen evaluasi implementas UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Minimnya Perspektif Korban di Kalangan APH Hambat Keadilan Kasus Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3pSeGhnOWwtQnJzRXByMHdGNGtWNm5nMmhKNmRIVVZoc2stWHZIS0t1YjdvYzRvR3hWcURocFJMLXU4SGpaVG5JZDFhZ1pyOHdJSUZJd21tbnV3c0QxN0kydGJQZ3VtSlBLcTdSX2x1WTI5c2sybXgyV0dtZ0ltVVY1TFdXc2VXS05kRWxMVThWTDJLWUtHYlpxb0laLU82Nzkyd1BjZF9tT0FycU9JWHNMR1dFYjJ1bGFkdGpscmRWeDR3?oc=5",
       "pubDate": "2026-07-17T06:35:44+00:00",
@@ -42,8 +51,8 @@
       "pubDate": "2026-07-16T14:12:11+00:00",
       "source": "Portal Hukum",
       "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Analisis HAM UU 12/2022 tentang TPKS - Kompasiana.com",
@@ -1513,15 +1522,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "KPAI Tegaskan Tidak Ada Toleransi bagi Pelaku Kekerasan Seksual di Lingkungan Pesantren",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZS1XWmJPMThxYUFjNHRSY1ozb2xQS0l5RTVUWkdzSGNyWjlwS0VwT016LVZfak9qWnl1am5LYURRbFJaLWJJUHdsUVlJSGVDRThmZjVKdERLTXIyMF8zVFNQSXRkQTgzbUtxMFBybWJrQWZhMG5vWXVaQXdsRlJGbElhVWt4Mmt4TlU0aDNIQXdHNDlYbUJjTXNMN0VJOUE3TVhpdGMyTFFfcDZ1OVowTFMzUGhjeE9QYnpCaNIBwgFBVV95cUxNWXRVWmswRklQZ25IR3Z5X1JUc2F2QVdxTWt2VWdpcW10NlZLWFFLSDliSVNzYVR5eTlmT2t4VWRfeWtkV3M5a3cyWlpCcUNGckhZMWJINk90SkR2UmExWVc3dllnRk1xc3ltdjMwU19BSm94aGtkcVJJRTZFZ3VOSVVPNjEweEQ1ZXIwZjcyOGRHRGlFb1llODRXSzVlZDNGR3lMNTJLS185M0VEVWtHRTlaZzdJRFRVeC1WLXdDQ21nQQ?oc=5",
-      "pubDate": "2026-05-08T07:00:00+00:00",
-      "source": "Komisi Perlindungan Anak Indonesia (KPAI)",
-      "description": "KPAI Tegaskan Tidak Ada Toleransi bagi Pelaku Kekerasan Seksual di Lingkungan Pesantren",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Menteri PPPA Minta Polisi Percepat Proses Penyidikan Tersangka Pelaku Kekerasan Seksual Pondok Pesantren di Pati",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcmtqaVdfV2dpSUw4cnBmc2dyMnVlS3h0akZadUZWOUNGU1NJeDZyQ0IyeW5BZHphYmJZUDd6aUVsQjdwd0JXbVVwZld4SHF2ck0xRFR2NThiV3lpck83bF9CNGF1bDltNzIzVE0xZW1mRFFGbm1FN2xSWjMtX3g0NnA4Qkk5VHhZZ2tZRGJpWGs3TWlnMVBrVmpUcjZXRXgwdFIwMzJ3SFNzaEdXTVJUaEhjTVZuMWFrX3lOamhxWUtrbkhudG42aHNIRV94amVLOFp0LXdkNHAtckNNTEZHeW5lNndxMkk?oc=5",
       "pubDate": "2026-05-08T07:00:00+00:00",
@@ -1529,6 +1529,15 @@
       "description": "Menteri PPPA Minta Polisi Percepat Proses Penyidikan Tersangka Pelaku Kekerasan Seksual Pondok Pesantren di Pati",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "KPAI Tegaskan Tidak Ada Toleransi bagi Pelaku Kekerasan Seksual di Lingkungan Pesantren",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZS1XWmJPMThxYUFjNHRSY1ozb2xQS0l5RTVUWkdzSGNyWjlwS0VwT016LVZfak9qWnl1am5LYURRbFJaLWJJUHdsUVlJSGVDRThmZjVKdERLTXIyMF8zVFNQSXRkQTgzbUtxMFBybWJrQWZhMG5vWXVaQXdsRlJGbElhVWt4Mmt4TlU0aDNIQXdHNDlYbUJjTXNMN0VJOUE3TVhpdGMyTFFfcDZ1OVowTFMzUGhjeE9QYnpCaNIBwgFBVV95cUxNWXRVWmswRklQZ25IR3Z5X1JUc2F2QVdxTWt2VWdpcW10NlZLWFFLSDliSVNzYVR5eTlmT2t4VWRfeWtkV3M5a3cyWlpCcUNGckhZMWJINk90SkR2UmExWVc3dllnRk1xc3ltdjMwU19BSm94aGtkcVJJRTZFZ3VOSVVPNjEweEQ1ZXIwZjcyOGRHRGlFb1llODRXSzVlZDNGR3lMNTJLS185M0VEVWtHRTlaZzdJRFRVeC1WLXdDQ21nQQ?oc=5",
+      "pubDate": "2026-05-08T07:00:00+00:00",
+      "source": "Komisi Perlindungan Anak Indonesia (KPAI)",
+      "description": "KPAI Tegaskan Tidak Ada Toleransi bagi Pelaku Kekerasan Seksual di Lingkungan Pesantren",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Usut tuntas kekerasan seksual atas para pelajar di Pesantren Pati dan Bogor",
@@ -1702,15 +1711,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Tribrata News",
-      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -1725,6 +1725,15 @@
       "pubDate": "2026-04-16T07:00:00+00:00",
       "source": "Prohealth.id",
       "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Tribrata News",
+      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
