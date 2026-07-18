@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-18T13:04:14.097861+00:00",
-  "total": 262,
+  "updated_at": "2026-07-18T18:56:40.203017+00:00",
+  "total": 263,
   "stats": {
     "tpks": 86,
-    "kekerasan_seksual": 88,
+    "kekerasan_seksual": 89,
     "kbg": 39,
     "kbgo": 49
   },
@@ -116,6 +116,15 @@
       "description": "Analisis HAM UU 12/2022 tentang TPKS - Kompasiana.com",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Mengapa Kekerasan Seksual di Kampus Terus Terjadi",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84eEFjWklGbktfSHhVQUh3UUlndmJ2STVMQ2dQalk2TWlCR1o4Q29xQ19VbmwtVmNmdkJlanB1S3p2UVk3eGpnYUh5RmpGUkpUTUtrdjc4TlhqRUJvbktwbG1wU0k1anZOOEpqSEV3Sy1Ya2wtaURz?oc=5",
+      "pubDate": "2026-07-16T01:30:00+00:00",
+      "source": "Tempo.co",
+      "description": "Mengapa Kekerasan Seksual di Kampus Terus Terjadi",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Diduga Lakukan Kekerasan Seksual, Ketua Serikat Pekerja Dipolisikan Karyawati",
@@ -1912,7 +1921,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "UNICEF",
+      "source": "Unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
