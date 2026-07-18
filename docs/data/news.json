@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-18T02:01:35.409906+00:00",
-  "total": 258,
+  "updated_at": "2026-07-18T07:41:40.805471+00:00",
+  "total": 261,
   "stats": {
-    "tpks": 85,
+    "tpks": 87,
     "kekerasan_seksual": 87,
     "kbg": 39,
-    "kbgo": 47
+    "kbgo": 48
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Universitas Sahid Gelar Pelatihan Digital Communication Safety Starts With You untuk Tingkatkan Literasi dan Keamanan Digital Mahasiswa – Universitas Sahid",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUVBHUlk1WFh3RDc2bE1Uamt4b2pqNi1aZmxkR2lfcFEyYWF5a1ZPR2tMaDZyb0pUS241S25WUjJkdl9kYWxVaFZwZDRpNWlZNFY3S2c2d2xqYXE4LXB3cFJfSjRTUnN3WEF0MzJCZGk1R3RJdUxxNEFQWXJxUmlFYUJvazR5STRhdEZmWU1ydHdhWGJtZ1ZBZGJFUEhFM0V1bkhQR0hWaG05UjFkTm5LY0VJdGNrWUZPTk9ua1Q5bWphYzRaZWlLcnpGZGdxU3BDelpEMEtlZ3B5MGQ5TkNGdTMwVnpXRC1uNzlKUFR0eF8tRllmaThF?oc=5",
+      "pubDate": "2026-07-18T06:35:16+00:00",
+      "source": "Universitas Sahid",
+      "description": "Universitas Sahid Gelar Pelatihan Digital Communication Safety Starts With You untuk Tingkatkan Literasi dan Keamanan Digital Mahasiswa – Universitas Sahid",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Negara Wajid Hadir Pulihkan Korban Kekerasan Seksual, Dana Bantuan Jadi Harapan Saat Restitusi Pelaku Tidak Terpenuhi",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc0dNR0tZdjZFUGxLMXgzOEFhaERSVDhtVFI4SWxLclFrdEFyaEY4TXpvcGh2VGZyZmZfRWVESnFKMmRhekdsbGw0STlHQzB6eW94Vy1Uam9OSWE4XzFHMXRWY1o4SFpobHRmbk5ja0lCRTZCaUJxcms1bktYT2d3M3A3Z04yTnVPaWx1Y2Vvd2RkaWRxQUVBSTlIamNsanlzLVFXQnMxaURQY1NndndITUR5SjdlTnRBZ2NHOW1Od0U1ZFkxdmFFb1hmMVotRmlLZ3E5WQ?oc=5",
+      "pubDate": "2026-07-18T06:21:14+00:00",
+      "source": "Koran Satu",
+      "description": "Negara Wajid Hadir Pulihkan Korban Kekerasan Seksual, Dana Bantuan Jadi Harapan Saat Restitusi Pelaku Tidak Terpenuhi",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kekerasan Seksual di Sampang, Kejahatan Serius",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkVOWEs2bkhFY3Bfdzh1RHhOTlM4RXdDbG9LaGMxeXRKSlVKbFhDRzZycHVlWWtIUUNOTFVNWFl2bkh4MzI3MXc2QnVYeEVZc21FdHZYdERxNjBucmoyQmNLLVcwRURXLXc4WXdabXVYNWktSk9lTkVFd0FDT2tNU3pCUFdTZXFXcnpF?oc=5",
+      "pubDate": "2026-07-18T02:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Editorial MI: Jangan Abaikan Perlindungan Anak",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR192d2MySG53eU1JaDZPUGw5TTBDU3pncnk4S0hRQUdrdmlSMXFtZ3NaOXZtWENIaVNRWVROTXBpd2UzazJaV2RJYk9Oc0xpUnlCZTlnU0JaSngzcXNkbVlfYVZjcXlBTUFpVmJIM3lWQ2ZWTFNKdzlsNkpLUVhGUEVKcXlNYnVoVzh1LW84X3Y?oc=5",
@@ -775,20 +802,20 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
+      "pubDate": "2026-06-28T07:00:00+00:00",
+      "source": "Aktual.com",
+      "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Rieke Diah Pitaloka Minta Penanganan Kasus Kekerasan Ekstrem terhadap Perempuan Gunakan Dasar Hukum yang Tepat, Desak Dakwaan Berlapis bagi Pelaku",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNTIwTXljdmZCdGNQZElYbERVSy1hMkRCNkJlcjR6cXFHSDQ4MFlkOUZhT2xMZnJIMERxb01wYnN4ZXRqNHBlX3NwVnRQZmYtV05MN1A0dmN4V2FURFEyaHY0LXl2ZTJvM0lXYmxCY1d6Xy1fTDI5WXZEQ1RKc1Q3MEgzUDRFTDJ6X0dveDVUTG1adnRoOWtsMmRmeXFsSmhuaWdfWGZwc2c3OW9EV0c2dmlsTHlIbDJOWTNkbU5aLVh0OHkycjFuOWNycUVveDdLYnlqSVN1Z3Z6ZWV6aFVKQUxMbmJycDRqT2V1Tmo3RmRUWWNOdTBvalJtMFlKdw?oc=5",
       "pubDate": "2026-06-28T07:00:00+00:00",
       "source": "otoritas.co.id",
       "description": "Rieke Diah Pitaloka Minta Penanganan Kasus Kekerasan Ekstrem terhadap Perempuan Gunakan Dasar Hukum yang Tepat, Desak Dakwaan Berlapis bagi Pelaku",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
-      "pubDate": "2026-06-28T05:00:29+00:00",
-      "source": "Aktual.com",
-      "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
@@ -1729,15 +1756,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -1745,6 +1763,15 @@
       "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
