@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-18T07:41:40.805471+00:00",
-  "total": 261,
+  "updated_at": "2026-07-18T13:04:14.097861+00:00",
+  "total": 262,
   "stats": {
-    "tpks": 87,
-    "kekerasan_seksual": 87,
+    "tpks": 86,
+    "kekerasan_seksual": 88,
     "kbg": 39,
-    "kbgo": 48
+    "kbgo": 49
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,11 +28,20 @@
   ],
   "articles": [
     {
-      "title": "Universitas Sahid Gelar Pelatihan Digital Communication Safety Starts With You untuk Tingkatkan Literasi dan Keamanan Digital Mahasiswa – Universitas Sahid",
+      "title": "Kemen PPPA Pastikan Pemenuhan Hak Korban Kekerasan Seksual di Malang",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGMwYUJfaWtDNkJQNHNiQXNoSVh3ZmQ1U1YzRERJZTFtYXFQMmdkX0h4QXk0S2hqaXNtbEd5cldzM255MGt4VzZCT291aWNxRHdTVmlNajA0SFBrc3NyNGxHc0JWVFVyb1g0MTVuUzV2MmItU3dIRGlxVEpIYmMtc2didmhsaWdtYVZoOWk4QV9lVjExTEtPb2MzQnBtU3VDZWhpQmpPWDQ4NGtkYjg1Mldn?oc=5",
+      "pubDate": "2026-07-18T10:13:01+00:00",
+      "source": "Media Indonesia",
+      "description": "Kemen PPPA Pastikan Pemenuhan Hak Korban Kekerasan Seksual di Malang",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Universitas Sahid Gelar Pelatihan Digital Communication Safety Starts With You untuk Tingkatkan Literasi dan Keamanan Digital Mahasiswa",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUVBHUlk1WFh3RDc2bE1Uamt4b2pqNi1aZmxkR2lfcFEyYWF5a1ZPR2tMaDZyb0pUS241S25WUjJkdl9kYWxVaFZwZDRpNWlZNFY3S2c2d2xqYXE4LXB3cFJfSjRTUnN3WEF0MzJCZGk1R3RJdUxxNEFQWXJxUmlFYUJvazR5STRhdEZmWU1ydHdhWGJtZ1ZBZGJFUEhFM0V1bkhQR0hWaG05UjFkTm5LY0VJdGNrWUZPTk9ua1Q5bWphYzRaZWlLcnpGZGdxU3BDelpEMEtlZ3B5MGQ5TkNGdTMwVnpXRC1uNzlKUFR0eF8tRllmaThF?oc=5",
       "pubDate": "2026-07-18T06:35:16+00:00",
       "source": "Universitas Sahid",
-      "description": "Universitas Sahid Gelar Pelatihan Digital Communication Safety Starts With You untuk Tingkatkan Literasi dan Keamanan Digital Mahasiswa – Universitas Sahid",
+      "description": "Universitas Sahid Gelar Pelatihan Digital Communication Safety Starts With You untuk Tingkatkan Literasi dan Keamanan Digital Mahasiswa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -96,8 +105,8 @@
       "pubDate": "2026-07-16T14:12:11+00:00",
       "source": "Portal Hukum",
       "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Analisis HAM UU 12/2022 tentang TPKS - Kompasiana.com",
@@ -1756,15 +1765,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Prohealth.id",
-      "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -1772,6 +1772,15 @@
       "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Prohealth.id",
+      "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
@@ -2125,20 +2134,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
-      "pubDate": "2026-01-02T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
       "pubDate": "2026-01-02T08:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
+      "pubDate": "2026-01-02T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
