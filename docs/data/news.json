@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-19T08:08:50.458979+00:00",
-  "total": 263,
+  "updated_at": "2026-07-19T13:06:33.626348+00:00",
+  "total": 264,
   "stats": {
-    "tpks": 86,
+    "tpks": 87,
     "kekerasan_seksual": 89,
     "kbg": 39,
     "kbgo": 49
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Pimpinan MPR desak pernguatan sistem perlindungan kelompok rentan",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXBPejBLTHZrU3RHTGJxMjdHQnloUlFKVHlHcndhSjlsVmhlX0VDS1JvNXZvZEQzd0pJc0l6Y1Awcy1EUGtVQWZWUEQtdk9OLW9WWnVpZEVuanctNmR6cDBWdk1LNEVnUGpsWlFDV2dwOUh2SUNYWVpuTjYyci1fYlFhUlNoN2dUYnVaVGFvUXl2N2h6OEhpWmVwTWJDZ1IxclR1TFJvWnBmV09k?oc=5",
+      "pubDate": "2026-07-19T12:35:36+00:00",
+      "source": "ANTARA News Yogyakarta",
+      "description": "Pimpinan MPR desak pernguatan sistem perlindungan kelompok rentan",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Kemen PPPA Pastikan Pemenuhan Hak Korban Kekerasan Seksual di Malang",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGMwYUJfaWtDNkJQNHNiQXNoSVh3ZmQ1U1YzRERJZTFtYXFQMmdkX0h4QXk0S2hqaXNtbEd5cldzM255MGt4VzZCT291aWNxRHdTVmlNajA0SFBrc3NyNGxHc0JWVFVyb1g0MTVuUzV2MmItU3dIRGlxVEpIYmMtc2didmhsaWdtYVZoOWk4QV9lVjExTEtPb2MzQnBtU3VDZWhpQmpPWDQ4NGtkYjg1Mldn?oc=5",
@@ -1380,7 +1389,7 @@
     {
       "title": "Majelis Hakim PN Gowa Vonis Dosen UNM Pelaku Kekerasan Seksual 4 Tahun 6 Bulan Penjara",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1JJdThzMURyY2FrZjJVcXI3REJzNW4wLWdoQk5CX0FEVWtyeF9UaGxRem9ZLXFTTUxNdUxlc1c4cFlqSlZWU2NfYmRrbWFwc1BSd3lGaVlZVzFpUDZUQU8tMnFKaENrOVVJR0Z4LXZkTUhDc3EzTVlyYW8zdWxZbzdnNUFUWktSclVFNUtQeS1wQXdEMVktQUVQNjFlM1JiYVRUOHdHZGxpYUoyODZxckNlQjB6T3JVc3A4d3N6NlJ3WGM?oc=5",
-      "pubDate": "2026-06-10T07:00:00+00:00",
+      "pubDate": "2026-06-10T09:15:37+00:00",
       "source": "LBH Makassar",
       "description": "Majelis Hakim PN Gowa Vonis Dosen UNM Pelaku Kekerasan Seksual 4 Tahun 6 Bulan Penjara",
       "keyword_id": "tpks",
@@ -1702,6 +1711,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1727,15 +1745,6 @@
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Mengurai Kekerasan Seksual Melalui Arsitektur Keadilan Digital",
@@ -1927,20 +1936,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWE1rM3dZVldNOVFSakhSZmZ1R3NmX2xodHVwUzdIWEw1NUx6MG41VjZ6UmdKZUl6WnFLTkZjMmVpdGZjT25XSzlCUnVucWZramlTUkZLSUU2VWZTdm9wbGZaVGc2TUlPd3NPbnFOZjAtX2s5WXI1UW9jNm5YdTBLNHdrMjlySXYtdy1VQzdVeERXbjNtRmpicTVJMENkS3NKM29TNVY4V2VJRURWSUNWY2VHRERxaTNBZXBtM0QwNG1QSWs?oc=5",
-      "pubDate": "2026-03-10T07:00:00+00:00",
-      "source": "The Conversation",
-      "description": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdVJfRW5iSTI4Ynp2VHJILTdzeHNiVTI3VGRhWXZJcGxReDFsUzR5d0JLTU9OOV9EbWd4elVqRkVLQ2J0RExjMG14Rm5STm9ibjlwX1E3SmVTa1hMa2t3LXFnanQxbXJrY1laakpTZXh1TzVHUjl2emV0RjZHeFBMQ2x5alEwck1xZTdqaERyakxNNTJLNlNIRlp3RXpXNWdfdmp0Z0M3RHpjYkZUOEZPaWsteGRTYU5CNGMyYjRneWtsc1o4MnVwTlVCUUx1d3psTE5PaDJFOXhhcUFUMGlkOEVaeURYQlB3RVVYbkRsaDJMQ0NzcFFWQjZUdjRyTU9fMHlndkRqOU53akhvc2xfag?oc=5",
       "pubDate": "2026-03-10T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWE1rM3dZVldNOVFSakhSZmZ1R3NmX2xodHVwUzdIWEw1NUx6MG41VjZ6UmdKZUl6WnFLTkZjMmVpdGZjT25XSzlCUnVucWZramlTUkZLSUU2VWZTdm9wbGZaVGc2TUlPd3NPbnFOZjAtX2s5WXI1UW9jNm5YdTBLNHdrMjlySXYtdy1VQzdVeERXbjNtRmpicTVJMENkS3NKM29TNVY4V2VJRURWSUNWY2VHRERxaTNBZXBtM0QwNG1QSWs?oc=5",
+      "pubDate": "2026-03-10T07:00:00+00:00",
+      "source": "The Conversation",
+      "description": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
