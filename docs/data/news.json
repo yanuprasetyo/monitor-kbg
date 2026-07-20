@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-20T08:50:19.864549+00:00",
-  "total": 266,
+  "updated_at": "2026-07-20T13:56:15.438098+00:00",
+  "total": 268,
   "stats": {
     "tpks": 87,
-    "kekerasan_seksual": 91,
+    "kekerasan_seksual": 93,
     "kbg": 39,
     "kbgo": 49
   },
@@ -28,11 +28,29 @@
   ],
   "articles": [
     {
-      "title": "Perempuan disabilitas ganda di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
+      "title": "Kasus Kekerasan Seksual Lansia di Grobogan Lestari Moerdijat Desak Evaluasi Sistem Perlindungan",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1oxQ3doc2p2V0NCQTU3Zi0zWGlrc1VGYWxPVHpHbVRod21uWEQ2eEhobHRTS01WNDZSTWxibzRnYW92RFVvNm1ITXBjbmZKaDZoY19pR29TTWs3WHhfQjllMEMydnljTnpFZHctYWlTNGhYbGMzc3RYTWRZcmZrVmM1aDFUVENlMnpqR0F6MElTUzg3NGVsbDZNSFQ4RTdDTkxIMjVKMjNramhpbVIteGIwU2NtbGdDdDZxLUJGTGRNcmZKV3h1WWlLYi1GMkxiS0kwc0pR?oc=5",
+      "pubDate": "2026-07-20T09:02:53+00:00",
+      "source": "Media Indonesia",
+      "description": "Kasus Kekerasan Seksual Lansia di Grobogan Lestari Moerdijat Desak Evaluasi Sistem Perlindungan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Modus Pelecehan Seksual di Grup Chat Unesa, Ada Konten AI Tak Etis",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTzlZdGVKdnltbkdUbXN5OUVjS0h2T1YwYWRDMTd1QjNvb3JZT3JaVlVYd3JCVjk4OGV4UXZ3eVAyMGdHdGd4ZGVfWVRqeGkwVkN6bm9GNDZqMkNTUnBmYnhoc3huMGdEMzZWR1JrY2s2VkZtVHZtcERZbWQ1dkU4VVhUbnUxSlpIbE4wUjhkMEpoQzhPOEw3eVhWQWdOYzFxZ1BFVnYzcC1MY3FQMHJBZ3k0QUptSFVrQkdJTU1LVDM1WHc3Rk9Ca9IBzgFBVV95cUxPSnVqNk44RUZEaG5jOXkwdU50OWI2WnVZZnRJcjEyU2JDMHBXTU50bHh5OVZqSnVZVHV4U0hWS3Y0QlJrRm5ndEszWEluN2t0SkVYbmJUWVdSazVXd0RkbEFDSVd0S0pjSEJvTjUzd2k4QmJlNW50bHRCV2d6cTJUdUw1OGJWdFl5cHNGMng1N0FIZ3Bsa3VUQkJHOElWU0xVVUw5NEwzRWh6RldKX1Nwallhc09peXAxRkptamczQUxoR1BULUl1dXdZNnhOUQ?oc=5",
+      "pubDate": "2026-07-20T07:10:31+00:00",
+      "source": "CNN Indonesia",
+      "description": "Modus Pelecehan Seksual di Grup Chat Unesa, Ada Konten AI Tak Etis",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZma9IBZkFVX3lxTE1ZdGhlanl3eVhWWVExSVpYR2RYajNBRExKbGJ6UktfSV93b0hFRW1ldGc5c0hXM2gtNWNQM2c4dnhyUlU2eTY0TGM5eWRXVHlJR24tNG9aXzNaWmpQS3VTMEtCeWZkUQ?oc=5",
       "pubDate": "2026-07-20T04:20:37+00:00",
       "source": "BBC",
-      "description": "Perempuan disabilitas ganda di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
+      "description": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -1777,7 +1795,7 @@
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQXy15X3Y2TWYwUVdjUEJOOG0zeENXdXJ1eGRWaEFpdzhISFc3Rkx3RnpUSjdFQVVvbUYzVFpZNV96eWoweGI3alppVGlLd3ZScGR5U2VHTjBOLVFVamwyQTZEZ0VSMndfU1Y0Z19BTFV4WkNJS29lNkd3bTN5RVlhUFB2bUJXVHVzLV9pQjByTVlOY1dIckdpRUxqOVlEVmFpbUxIQUdWeDVOM0l5UThVV2ctSUVnTFNBaW5xVmFGVTVxbkQ1dDJ6Tnk2U09rc28?oc=5",
       "pubDate": "2026-04-20T07:00:00+00:00",
-      "source": "new-indonesia.org",
+      "source": "New Indonesia",
       "description": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
