@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-20T02:33:35.353443+00:00",
-  "total": 265,
+  "updated_at": "2026-07-20T08:50:19.864549+00:00",
+  "total": 266,
   "stats": {
     "tpks": 87,
-    "kekerasan_seksual": 90,
+    "kekerasan_seksual": 91,
     "kbg": 39,
     "kbgo": 49
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Perempuan disabilitas ganda di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZma9IBZkFVX3lxTE1ZdGhlanl3eVhWWVExSVpYR2RYajNBRExKbGJ6UktfSV93b0hFRW1ldGc5c0hXM2gtNWNQM2c4dnhyUlU2eTY0TGM5eWRXVHlJR24tNG9aXzNaWmpQS3VTMEtCeWZkUQ?oc=5",
+      "pubDate": "2026-07-20T04:20:37+00:00",
+      "source": "BBC",
+      "description": "Perempuan disabilitas ganda di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Pimpinan MPR desak pernguatan sistem perlindungan kelompok rentan",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXBPejBLTHZrU3RHTGJxMjdHQnloUlFKVHlHcndhSjlsVmhlX0VDS1JvNXZvZEQzd0pJc0l6Y1Awcy1EUGtVQWZWUEQtdk9OLW9WWnVpZEVuanctNmR6cDBWdk1LNEVnUGpsWlFDV2dwOUh2SUNYWVpuTjYyci1fYlFhUlNoN2dUYnVaVGFvUXl2N2h6OEhpWmVwTWJDZ1IxclR1TFJvWnBmV09k?oc=5",
@@ -1720,15 +1729,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Kartini dan Luka yang Tak Terlihat",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1736,6 +1736,15 @@
       "description": "Kartini dan Luka yang Tak Terlihat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
@@ -1768,7 +1777,7 @@
       "title": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQXy15X3Y2TWYwUVdjUEJOOG0zeENXdXJ1eGRWaEFpdzhISFc3Rkx3RnpUSjdFQVVvbUYzVFpZNV96eWoweGI3alppVGlLd3ZScGR5U2VHTjBOLVFVamwyQTZEZ0VSMndfU1Y0Z19BTFV4WkNJS29lNkd3bTN5RVlhUFB2bUJXVHVzLV9pQjByTVlOY1dIckdpRUxqOVlEVmFpbUxIQUdWeDVOM0l5UThVV2ctSUVnTFNBaW5xVmFGVTVxbkQ1dDJ6Tnk2U09rc28?oc=5",
       "pubDate": "2026-04-20T07:00:00+00:00",
-      "source": "New Indonesia",
+      "source": "new-indonesia.org",
       "description": "Lagu Pelecehan 'Erika' ITB Bukan hanya Candaan, Pucuk Gunung Es Maskulinitas Toksik di Kampus",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -1945,20 +1954,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWE1rM3dZVldNOVFSakhSZmZ1R3NmX2xodHVwUzdIWEw1NUx6MG41VjZ6UmdKZUl6WnFLTkZjMmVpdGZjT25XSzlCUnVucWZramlTUkZLSUU2VWZTdm9wbGZaVGc2TUlPd3NPbnFOZjAtX2s5WXI1UW9jNm5YdTBLNHdrMjlySXYtdy1VQzdVeERXbjNtRmpicTVJMENkS3NKM29TNVY4V2VJRURWSUNWY2VHRERxaTNBZXBtM0QwNG1QSWs?oc=5",
-      "pubDate": "2026-03-10T07:00:00+00:00",
-      "source": "The Conversation",
-      "description": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdVJfRW5iSTI4Ynp2VHJILTdzeHNiVTI3VGRhWXZJcGxReDFsUzR5d0JLTU9OOV9EbWd4elVqRkVLQ2J0RExjMG14Rm5STm9ibjlwX1E3SmVTa1hMa2t3LXFnanQxbXJrY1laakpTZXh1TzVHUjl2emV0RjZHeFBMQ2x5alEwck1xZTdqaERyakxNNTJLNlNIRlp3RXpXNWdfdmp0Z0M3RHpjYkZUOEZPaWsteGRTYU5CNGMyYjRneWtsc1o4MnVwTlVCUUx1d3psTE5PaDJFOXhhcUFUMGlkOEVaeURYQlB3RVVYbkRsaDJMQ0NzcFFWQjZUdjRyTU9fMHlndkRqOU53akhvc2xfag?oc=5",
       "pubDate": "2026-03-10T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWE1rM3dZVldNOVFSakhSZmZ1R3NmX2xodHVwUzdIWEw1NUx6MG41VjZ6UmdKZUl6WnFLTkZjMmVpdGZjT25XSzlCUnVucWZramlTUkZLSUU2VWZTdm9wbGZaVGc2TUlPd3NPbnFOZjAtX2s5WXI1UW9jNm5YdTBLNHdrMjlySXYtdy1VQzdVeERXbjNtRmpicTVJMENkS3NKM29TNVY4V2VJRURWSUNWY2VHRERxaTNBZXBtM0QwNG1QSWs?oc=5",
+      "pubDate": "2026-03-10T07:00:00+00:00",
+      "source": "The Conversation",
+      "description": "Menghargai keberanian, menjamin ruang aman: Berdiri bersama para penyintas kekerasan seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
