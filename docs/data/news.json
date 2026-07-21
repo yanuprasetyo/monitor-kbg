@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T19:38:44.704886+00:00",
+  "updated_at": "2026-07-21T02:11:34.784234+00:00",
   "total": 269,
   "stats": {
     "tpks": 87,
@@ -1756,15 +1756,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1772,6 +1763,15 @@
       "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
@@ -1975,7 +1975,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "UNICEF",
+      "source": "unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
