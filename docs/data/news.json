@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-21T13:28:48.918372+00:00",
-  "total": 270,
+  "updated_at": "2026-07-21T19:13:14.352277+00:00",
+  "total": 275,
   "stats": {
-    "tpks": 88,
-    "kekerasan_seksual": 93,
-    "kbg": 39,
+    "tpks": 89,
+    "kekerasan_seksual": 96,
+    "kbg": 40,
     "kbgo": 50
   },
-  "new_this_fetch": 0,
+  "new_this_fetch": 60,
   "keywords": [
     {
       "id": "tpks",
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "KPAI: Pentingnya langkah konkrit lintas sektor stop perkawinan anak",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONkM5QktiRi1VZWM1WnY2dzlYSm13NGZ1OVo0VTExb28yRDFMTzQ0ZzdieFFoOXF5WV9zQjhwWkxNZ2lCQkcwNUg3bHBpR1IzY2RHbjJxM3UxcERRaG9tT3ROLUVMVU1PYXlxelZQdGxpV0Q1R3dvb0xLemlVV0RjMmxLYlV3R05IQU1YZW9MRXZsTjNwUUxTcGFnOWw4LXNyODU0UGpoS2doVTZI0gGvAUFVX3lxTE9USldpTEVEcDE4OUltRzRxdmxQNmxHT0xWNnRTUWprY3V4UTctNkNhNlRSai1hUFZxN01KSzVMNC1yOGlWc1kxNFdkU1J6NXB0aXQyUDV0dEJ6VFVLQ2tXVWVSZm5fYURtdnRkTXlmbk1LOFJaMktFeVhfSDlFYlFPTnU5YlR3cW9HSXBoRnk0cHlOaURqU2dFS25oQVFSdEpBOUJTWWpyMHpFcGs0S3M?oc=5",
+      "pubDate": "2026-07-21T17:41:57+00:00",
+      "source": "ANTARA News",
+      "description": "KPAI: Pentingnya langkah konkrit lintas sektor stop perkawinan anak",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "PBNU Dorong Edukasi Kesehatan Reproduksi di Pesantren untuk Cegah Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkNlUmxqbVBQX240ODRNTWRGWmI0LWhWNkowbnNxWHh6c0treDlVV2FKNXl0U0lpcDdPd2lVVUtsdkJ3cUt6UUJGcnFxck9qLXZXMmNGb2VoOG5faUVRZjV1NXV4a3lfRG9UeHRwRm1pZjVJVThQcl8zUE96cjc4Yi1PYkM1MUxLbk1DeXFfZkw1djJvbFU5TE5CVXkwU0dBNFNTdGxOaWlGZG8zVk1QalVmOGZqbktBZTd4WS1rUzNVZEpSa3c?oc=5",
+      "pubDate": "2026-07-21T15:53:14+00:00",
+      "source": "Media Indonesia",
+      "description": "PBNU Dorong Edukasi Kesehatan Reproduksi di Pesantren untuk Cegah Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "PBNU Dorong Pendidikan Kesehatan Reproduksi untuk Lindungi Santri dari Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjI1U2JDcTl0YmJDZVlqYjJuXzF1QmJWWUo2VnRZempkUzRJT200azVNbnh4UnZyZzk2Mmdfb18zS1ZEdDhLdWpGR1A2WmhDV3pVXzQ4X09xS2R3cmdweHd1cDhqbDJOY1RKSTczSEZOQTNBS2xWRFk4bmptanR5SmhHQ3NNN2RNZGZoVU1LelBVMm5Td0pkeTVOZlpBQUtjUVlSWWlPX2hWMDhEX1hVZUpoVEJqOGliRDF6SFl5U2tCNDZhbjh6a1A1Y1dnbHA0akREag?oc=5",
+      "pubDate": "2026-07-21T10:44:57+00:00",
+      "source": "republika.co.id",
+      "description": "PBNU Dorong Pendidikan Kesehatan Reproduksi untuk Lindungi Santri dari Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "10 Provinsi Kasus Kekerasan Berbasis Gender Online Terbanyak di Indonesia 2026, Jabar Tertinggi",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlpNeXZnMlEtVFFUMEJxVFlhd2JZa0owenAydUJjQWYtbTF2djJLSkxCZWdYTC12RGhrUDZmbk00Qy1sWTZUMjk0Sl9oUzhvYWFEd0Q5dFFWRkpqaTE2SUl3bFRreFo3VnB0N1plRklta2x1QjZ6U1BHVmpKZUI1aE5CXzlsNmkyN2VGa192UFRRMFMwQm9CLWNqTjJ4V2NJaFF1ZFpmWUVSRU1taklubHdOQVdfLTRkcnkyN3BmbDBEWnNfeFN6aQ?oc=5",
@@ -134,6 +161,15 @@
       "description": "Editorial MI: Jangan Abaikan Perlindungan Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "TII: Kasus Pemerkosaan di Sampang Momen Evaluasi Implementas UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONllUVGdyMVI5U2stT2lRZlRDMjc0UUNSdWFMNU9ZcUlqV0xZZndZTTR1V0lUeklkUE9CRHhnWGhVYzJfRTZUQ25udWdmMzRGV0NaYjk3aHNuZkxJclVtSjQ1eW1oZkVxVGNOQjVLQ3RTMVcyTXVKZnNiM3BqVTRJa3poV3MtR3ZsV09uczh5bkdseVhMWjA2UGQ5LUxCWmswQXpsUkRkOFhmNDJrRXBCM05zUE9XdXM2TWl2ZlRtQ1VyREE?oc=5",
+      "pubDate": "2026-07-17T16:44:53+00:00",
+      "source": "Arah Kata",
+      "description": "TII: Kasus Pemerkosaan di Sampang Momen Evaluasi Implementas UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "LPSK : 65 Persen Pelaku Kekerasan Seksual tak Mampu Bayar Restitusi",
@@ -1765,15 +1801,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1781,6 +1808,15 @@
       "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
@@ -1846,20 +1882,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Tribrata News",
-      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
       "source": "Prohealth.id",
       "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Tribrata News",
+      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -1984,10 +2020,19 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3BSdVY3aVZ2WFdSendVbDgxUjR0a3dLb1BsMGVvaVR0UXA0Y25hOUpFZEI3OGM3aUhGMzJoRlkySUFJb0Nwa19NcDBFcUc4SGZtcTlYQkJxeGoxX054VzI0M1p5cXNQNi1NX2l3N18zc0hXVkRJNjJJcXdMWVBtOG1Wc0RJNHVZLUJ2STlFdHBLSE5CY0lIWVV1blQ3Q0lxOGxWT3RsYXloaWJDRTFKSzU0NDBPOHVRVUdvWm1jWC0?oc=5",
+      "pubDate": "2026-03-16T07:00:00+00:00",
+      "source": "News UMS",
+      "description": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
