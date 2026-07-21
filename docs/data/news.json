@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-21T02:11:34.784234+00:00",
-  "total": 269,
+  "updated_at": "2026-07-21T08:19:41.905136+00:00",
+  "total": 270,
   "stats": {
-    "tpks": 87,
-    "kekerasan_seksual": 94,
+    "tpks": 88,
+    "kekerasan_seksual": 93,
     "kbg": 39,
-    "kbgo": 49
+    "kbgo": 50
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "10 Provinsi Kasus Kekerasan Berbasis Gender Online Terbanyak di Indonesia 2026, Jabar Tertinggi",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlpNeXZnMlEtVFFUMEJxVFlhd2JZa0owenAydUJjQWYtbTF2djJLSkxCZWdYTC12RGhrUDZmbk00Qy1sWTZUMjk0Sl9oUzhvYWFEd0Q5dFFWRkpqaTE2SUl3bFRreFo3VnB0N1plRklta2x1QjZ6U1BHVmpKZUI1aE5CXzlsNmkyN2VGa192UFRRMFMwQm9CLWNqTjJ4V2NJaFF1ZFpmWUVSRU1taklubHdOQVdfLTRkcnkyN3BmbDBEWnNfeFN6aQ?oc=5",
+      "pubDate": "2026-07-21T02:30:00+00:00",
+      "source": "GoodStats",
+      "description": "10 Provinsi Kasus Kekerasan Berbasis Gender Online Terbanyak di Indonesia 2026, Jabar Tertinggi",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
     {
       "title": "Edukasi Perlindungan Diri Sejak Dini Kunci Cegah Kekerasan Seksual pada Anak",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXZNaG5MRExoWWExZFBtaHR5ZldaNkNtV1IwOUhJXy1RZXI0TUpYWTRYTkZWNjdLVDFOYVRBc2lZM1RwajctTlpjcE9CRlFqWjlRRGlsV1U2SVBTd2RvOVdTYU1ldW1IMnlPSjEwT3JkREREdUNEbWRYZjVmcUNJalV2bW1kVlRGcUZLT3YyVEpkMkR3QllfSk9JN3ZtcDFmQ3d4UzV5NXZhOUhZUGlrQlM1MkJ1VXU2bFV3OA?oc=5",
@@ -1756,15 +1765,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Kartini dan Luka yang Tak Terlihat",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1772,6 +1772,15 @@
       "description": "Kartini dan Luka yang Tak Terlihat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
@@ -1975,10 +1984,10 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "unicef",
+      "source": "Unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
