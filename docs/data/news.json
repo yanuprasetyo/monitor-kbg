@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-21T19:13:14.352277+00:00",
-  "total": 275,
+  "updated_at": "2026-07-22T02:09:54.660921+00:00",
+  "total": 276,
   "stats": {
-    "tpks": 89,
+    "tpks": 90,
     "kekerasan_seksual": 96,
     "kbg": 40,
     "kbgo": 50
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Pentingnya langkah konkrit lintas sektor stop perkawinan anak",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM05JSWVKcVVpQnYzTHkyRGhVSVQ4d0JBN3pwM3lOR0VFZ2pXUDl5ZDFoWnY0X0NmVGU0U0EzMTlxQUNMTHk5QkQxZW5NX1dZSl9ScDlwZnFPMXA2d0daVDQyblV6MmJTeHQ1OFVuRU1yU25fQnRhOWVORnJEb1RxaG84OXYyM3BHOHF1ZlQtZHpRdTVDYlpHenF6VktQcUJiUHRKRWVYSzZ5QQ?oc=5",
+      "pubDate": "2026-07-22T01:06:45+00:00",
+      "source": "ANTARA News Mataram",
+      "description": "Pentingnya langkah konkrit lintas sektor stop perkawinan anak",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "KPAI: Pentingnya langkah konkrit lintas sektor stop perkawinan anak",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONkM5QktiRi1VZWM1WnY2dzlYSm13NGZ1OVo0VTExb28yRDFMTzQ0ZzdieFFoOXF5WV9zQjhwWkxNZ2lCQkcwNUg3bHBpR1IzY2RHbjJxM3UxcERRaG9tT3ROLUVMVU1PYXlxelZQdGxpV0Q1R3dvb0xLemlVV0RjMmxLYlV3R05IQU1YZW9MRXZsTjNwUUxTcGFnOWw4LXNyODU0UGpoS2doVTZI0gGvAUFVX3lxTE9USldpTEVEcDE4OUltRzRxdmxQNmxHT0xWNnRTUWprY3V4UTctNkNhNlRSai1hUFZxN01KSzVMNC1yOGlWc1kxNFdkU1J6NXB0aXQyUDV0dEJ6VFVLQ2tXVWVSZm5fYURtdnRkTXlmbk1LOFJaMktFeVhfSDlFYlFPTnU5YlR3cW9HSXBoRnk0cHlOaURqU2dFS25oQVFSdEpBOUJTWWpyMHpFcGs0S3M?oc=5",
@@ -1801,15 +1810,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Kartini dan Luka yang Tak Terlihat",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1817,6 +1817,15 @@
       "description": "Kartini dan Luka yang Tak Terlihat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
@@ -2020,7 +2029,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "UNICEF",
+      "source": "Unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
