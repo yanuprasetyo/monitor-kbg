@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-22T08:20:58.713232+00:00",
-  "total": 276,
+  "updated_at": "2026-07-22T13:40:34.358435+00:00",
+  "total": 283,
   "stats": {
     "tpks": 90,
-    "kekerasan_seksual": 96,
+    "kekerasan_seksual": 103,
     "kbg": 40,
     "kbgo": 50
   },
-  "new_this_fetch": 0,
+  "new_this_fetch": 60,
   "keywords": [
     {
       "id": "tpks",
@@ -27,6 +27,69 @@
     }
   ],
   "articles": [
+    {
+      "title": "KOWANI Serukan Gerakan Nasional Lawan Kekerasan Seksual terhadap Anak",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHplLXJSOE93eE1zc3RjTVZnbW94QWlpT0RXUV91QjRoX21raGVZbkNMMFctQXFWczJicDRCWENSSlBtdlNyZGRwRkZGZklTNk9iaS1uY3dURWt0RWF3SUFBbU9Fdlc3QS1GQU5XV0FoLUl0U3pDcHJhMGdlWk81QjJrNWhyOE80aTBSRVNvaGRVR1d2VG5lTjFn?oc=5",
+      "pubDate": "2026-07-22T12:59:12+00:00",
+      "source": "Ipol.id",
+      "description": "KOWANI Serukan Gerakan Nasional Lawan Kekerasan Seksual terhadap Anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kekerasan Seksual Dinilai Jadi Krisis Moral, MPR Desak Langkah Tegas",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdU5UYXNIM1E3cFl1MGVlZ243djVmbjc2WHRSLTVyN21QamVkdkFsMHluaFJob3RydmxYdkFWRjMxUmpOUlFEbzR2Vld0eFlCUy1lY00tUlc0dDJobVdjLUkzTFVqcVV2V3RaMF9tLWlhd1oyeTZOeHdBVnJyNVNSOElpQkF3eHh4akZjb0syeHJaWEp5V0tTTF82c3llVXhGMTJOamhack9qTC01VllfMw?oc=5",
+      "pubDate": "2026-07-22T12:19:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "Kekerasan Seksual Dinilai Jadi Krisis Moral, MPR Desak Langkah Tegas",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Waka MPR RI Soroti Krisis Kekerasan Seksual dan Pentingnya Pencegahan",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVJBakt5a3I4OGJ6VmRsWWpTNkdtemVZRVpCSFBmTkIwaGdUMEpsMERQYXRIdDRBNlYzdlIwWWljWDUzbFBpOFl6S2tQZmpBbWRDUEJjMG5jNi05cmN2STQ4WEdUU1hSMVBuRzRiVWpuUGc5T05wbVVwVkx6YnFXSklnSy13TTdiVHkteEwtT3Q0UkVJaHAxbUhyYkNKTmJKZ1FGa3p5eHFuSENlYUHSAbMBQVVfeXFMTTlkRl9obzZBWG9ER0liTzlNTy1KRDVPTFgydzFCN19HN2pYT25GRWNUd0UzbnpXZmhQT21mbmhOQ3hVODEwRkNYVWl2RTBtYVpSdnZDUVNnSmVZT09rWXpzS2h1Vnk2Z2lobW1qaURBTXdDNlR3M2tZTmFuZU9vZGJXdXhMLUV2NFVIdHNnNXpLb2Noa0VUcnRaSERrc3ZQcExGWE9LSmU5Q0psaVd6aVp3R28?oc=5",
+      "pubDate": "2026-07-22T12:14:12+00:00",
+      "source": "detikNews",
+      "description": "Waka MPR RI Soroti Krisis Kekerasan Seksual dan Pentingnya Pencegahan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kasus Kekerasan Seksual Harus Diatasi dengan Langkah Tegas",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUXhuemdGakZwYy02VVVfTnhnUS1nSFdQN1VkM25MR1BSTU81bS1rdXdBbXM4Ql9VdWhmVmdnRXIxb21IYjNXMU5jZ0RReXhCXzUxcjZiMWtZQldjYjJuQmhvMlY2YTBwOTNHdlU3ZFhYeF9GMV85bUVGc3ZZRmlHVnJVMUx5MmRoVHJQRWhJZ21YbFVnUjJvMnRaV2F3OVY2TTk3RA?oc=5",
+      "pubDate": "2026-07-22T11:27:29+00:00",
+      "source": "Media Indonesia",
+      "description": "Kasus Kekerasan Seksual Harus Diatasi dengan Langkah Tegas",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Polres Metro Jakut Unit PPA Respon Cepat Tindak Lanjuti Laporan Dugaan Kekerasan Seksual Anak Dibawah Umur",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTExqcUJSQlVLbG50MmF2VEFLdDhCNDBmREtWMVphV0ZXazVtalNoMjBDaXJmQ2Zrb3NlVHFzZ3VMU2l1bEI2Q0NmMV90VEo5N1pqZm1ZdUZqUEdhSFBydG9xbXJ0LXlVRGh4eGZtNUNpQ3JoXzVZR1VSNFhMV0hjRE0xZXd5T0pTVDFUOTExd0N5VmFwTl9tWEExY21fWUNEVjRFNjBjVkpGbUstc2YzZ05hUzJBRUdGS2ZFZnRQV0dJN01QZ2lXU3pCZkFpdzBsWHJ3aGZkNmVkc1loc0ZfUTdWS0xOWnZUYnZjaXJLZWxRZw?oc=5",
+      "pubDate": "2026-07-22T11:18:00+00:00",
+      "source": "Media Budaya Indonesia",
+      "description": "Polres Metro Jakut Unit PPA Respon Cepat Tindak Lanjuti Laporan Dugaan Kekerasan Seksual Anak Dibawah Umur",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Korban Kekerasan Seksual Terbanyak di Indonesia Berusia 5-12 Tahun",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWw2WDFKencwWVdpN2ltMHVDckxybEVLYk1Rb3hURHlYeE5OU2t4SkdGX0NxSHpqajVrcHl0YlJ2VEIxZlZzVGhGWEhOUG1aWHhVd21LUkl6OUlNZkVYRU82ZUFMM1VxZjhzWXFIS0w2a2hqR091WWNhdzNJajdFY05WTFhqN3FmeWRMUVo5LTBIdGtCUHh5bnhscXhJTDlsbGtIUUJIRjdXRmpKNFdB?oc=5",
+      "pubDate": "2026-07-22T10:14:00+00:00",
+      "source": "Media Indonesia",
+      "description": "Korban Kekerasan Seksual Terbanyak di Indonesia Berusia 5-12 Tahun",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Yenni Wahid: Jangan Biarkan Korban Kekerasan Seksual Berjuang Sendiri",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFBtMlZJS0pvbWk1Wmd6WnVDRkJmbnlZM2tJQTYzOC1fUUJNeEM0YXI5UHlnV3RDT3RWZ09TUi16Mk1MWTUtNy02S0NqSkVScGIxZktMM0dtN2toTnoxVUEwRWtRbktiMVhZVV9xOHhxWUx0MEphMW9HbnZqT3o0TEFfaERsTGd6b3p4aWN0elZoZndVYXc?oc=5",
+      "pubDate": "2026-07-22T09:33:00+00:00",
+      "source": "Inilah.com",
+      "description": "Yenni Wahid: Jangan Biarkan Korban Kekerasan Seksual Berjuang Sendiri",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Pentingnya langkah konkrit lintas sektor stop perkawinan anak",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM05JSWVKcVVpQnYzTHkyRGhVSVQ4d0JBN3pwM3lOR0VFZ2pXUDl5ZDFoWnY0X0NmVGU0U0EzMTlxQUNMTHk5QkQxZW5NX1dZSl9ScDlwZnFPMXA2d0daVDQyblV6MmJTeHQ1OFVuRU1yU25fQnRhOWVORnJEb1RxaG84OXYyM3BHOHF1ZlQtZHpRdTVDYlpHenF6VktQcUJiUHRKRWVYSzZ5QQ?oc=5",
@@ -2260,20 +2323,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
-      "pubDate": "2026-01-02T08:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
       "pubDate": "2026-01-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgtTGdFQ2JlX1IyRlRVMGtvbHQ1OGx6dTJqcGpNaHBkdTZZSHJqTk90aF9FdFVwemIyWUMyNE4zTDczRnhHclBnQlFRaGJjanhNajFCanJGd1N2SXBHU2NPbWVCdEJJM1dFVXpTalJIWk9oZUlmVXZCTmExc1pvMWo5dG1oNlJiVmw4UXZ4ZmhmbzZzRldoekVtRExabTdYUi1weTNFeDdoZjJWUnZ0bXZ3RlNhWmt2ZHJJaDJn?oc=5",
+      "pubDate": "2026-01-02T08:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
