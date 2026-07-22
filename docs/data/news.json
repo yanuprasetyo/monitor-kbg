@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-22T13:40:34.358435+00:00",
-  "total": 283,
+  "updated_at": "2026-07-22T19:07:19.134703+00:00",
+  "total": 285,
   "stats": {
     "tpks": 90,
-    "kekerasan_seksual": 103,
+    "kekerasan_seksual": 105,
     "kbg": 40,
     "kbgo": 50
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kalbar Peringkat Empat Nasional Perkawinan Anak Terbanyak di Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPamJFLVVPMDhjTE95VEhNaHA4Y3JxTU5ZeHE2VU5NM0k4YjM1VDJ1dF9jaF9YRGp4YUd3Xzd0c1RLVXlVVWF3OVhyQ3VoSUk1T0JtSEEtdlU3NkVJZzZpajRseHFjaHlmaHlYUG9fc2JTNUJmT285dXhqdWJZWi1GcEZqZ1Rnd2VPSDZ3MjdmOTM5cFI4ZlR3SnBFbWlScU9DZ0NuTGswMEFZWmZlQWNsS2FISDJpRUFKTC1POW10Y3JSeU1x0gHKAUFVX3lxTE4zcFVLYnBWUlJ1bHhMWGNkSHNvQUx3UE9QTUtqUktfc0h5cWNsM243bDVLVHFaeFBsVFM0dzNPTlJxejY3STZ2RXdjUnN6UVk2d3BEeTdqamwwMF8wd0pKcmMzc0RfUTgzZEZ4YVNWWHM3VXVUbGNWUFJEcGtNeUN3aGc0MzdKVEZqLTlMMzgwbUs2SEZ4cWVzb0VrS3NGY184UW1EY1NJOFVzT2xMOUc3RGV3M1kzVUZJeDcyVFdnMUk4X2d4YWxTU3c?oc=5",
+      "pubDate": "2026-07-22T15:45:32+00:00",
+      "source": "PontianakPost",
+      "description": "Kalbar Peringkat Empat Nasional Perkawinan Anak Terbanyak di Indonesia",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "KPAI Soroti Budaya Melindungi Pelaku Kekerasan Seksual terhadap Anak",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDRjeHZFZjF2Z285Ui15QllQMjZ6a0Exa2xyTnJpLTVzbnZoNktmQWtLbTMzX3dOaGtYWGNGVzlqMEFyY2NOeHc4aThfcFZKMGFPZjg0cU00b0hrcDhKdWY1V3JPa0tLZjltWS1EYlNoVzVqSzdHVE9aSVJQSHB3UmlaZlFhTDdLb1Q0dkxjOEw5RjF4eXRsMUVCMHIydHdyVEhxWlNnUlc3ZU92azNrVnd3?oc=5",
+      "pubDate": "2026-07-22T15:32:47+00:00",
+      "source": "Media Indonesia",
+      "description": "KPAI Soroti Budaya Melindungi Pelaku Kekerasan Seksual terhadap Anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "KOWANI Serukan Gerakan Nasional Lawan Kekerasan Seksual terhadap Anak",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHplLXJSOE93eE1zc3RjTVZnbW94QWlpT0RXUV91QjRoX21raGVZbkNMMFctQXFWczJicDRCWENSSlBtdlNyZGRwRkZGZklTNk9iaS1uY3dURWt0RWF3SUFBbU9Fdlc3QS1GQU5XV0FoLUl0U3pDcHJhMGdlWk81QjJrNWhyOE80aTBSRVNvaGRVR1d2VG5lTjFn?oc=5",
@@ -1146,7 +1164,7 @@
     {
       "title": "Pemko Sibolga Dukung Penguatan Kapasitas Perlindungan Perempuan dan Anak dalam Situasi Bencana",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnZVbFg3aGdqWGlLcmdqTE1TY2RTY3NSMGxfT2xnM3d4amZZbVBHM2Q2eHdFOFBWQjdMUkpmLVBXN3I4dTQxaTBnTGcyMXh0NUVBOTk5UGx4N0hya0swNWlVMXoxNHp0ZGEtVktGelZwSmRBSHBaN0l2SG5rYWo3M19UMVEzSnR6aXpsV20wOTBtZFpabGo2ZlBRM1ZqdUtQZG8ySE5TWVZuYWtWMUdqZkdxdnhqUXo4MGpBVlJB?oc=5",
-      "pubDate": "2026-06-25T07:03:37+00:00",
+      "pubDate": "2026-06-25T07:00:00+00:00",
       "source": "sibolgakota.go.id",
       "description": "Pemko Sibolga Dukung Penguatan Kapasitas Perlindungan Perempuan dan Anak dalam Situasi Bencana",
       "keyword_id": "kbg",
