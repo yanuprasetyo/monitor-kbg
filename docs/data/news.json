@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-23T02:21:36.392532+00:00",
-  "total": 288,
+  "updated_at": "2026-07-23T08:22:51.137044+00:00",
+  "total": 293,
   "stats": {
     "tpks": 90,
-    "kekerasan_seksual": 108,
-    "kbg": 40,
+    "kekerasan_seksual": 112,
+    "kbg": 41,
     "kbgo": 50
   },
   "new_this_fetch": 60,
@@ -27,6 +27,51 @@
     }
   ],
   "articles": [
+    {
+      "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
+      "pubDate": "2026-07-23T07:48:39+00:00",
+      "source": "Tempo.co",
+      "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "KPAI Soroti Ancaman Baru bagi Anak: Kesehatan Mental, Rokok, Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczhDdVJYWkJxRWREMFNyX3NMSWloV3ZMc2JhTGtoNHEyc3EwdUdtRWlhbTN6blphb2tJU0tPMzhYajlIc1cyOXZPOWlhMkZGcGpLLVRyekd6clUzdDZ0UkE4T3ZMc1JLMV9iYTZ5ZmdCbll2QTFtWjZROEpFamxPY0hUZGxQUDZjRFJ6NTVXQkNlckNwd0loTi1wazBUWG96M3V1b2VvYWVBa1nSAbABQVVfeXFMTjNwdmdHblYtbkV5ZVdvZTRTalhaVTg2cndMOXphZkVCbWYxV0V1dzYyX2hjZUtZd01tMlZSamZEQ2tqU3lMcGNHSWRkSWIwOHZUR1dzeTFNQ1pJa3hhanRVWU5YdTc5YkZHRUI5WEdERmF5YlRpZzFjMWU1ejZlRjVlcTAtTmE2RW85UWFfWDNXMThENTZ0R0NUU1A1Qm02UlFGSDZpOVhKMzczaUNYb0Y?oc=5",
+      "pubDate": "2026-07-23T05:15:00+00:00",
+      "source": "NU Online",
+      "description": "KPAI Soroti Ancaman Baru bagi Anak: Kesehatan Mental, Rokok, Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Polres Majalengka Bongkar Kasus Kekerasan Seksual Anak, Satu Tersangka Ditahan",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaGtLdEdLR0dUd0xxMFdwazdrT0lrdmR2eWRQbnluMFZJQi1hZ2pCanlpcDNPQVRua2t5X2lnTlZZMFF5UUphYkJkY0tWX0oybl80WUo4VWYxanR4VWsyeUMya3pEZ2tISDZ2WXVMYWZCTExXVWczaXJYTnhwS09Jb0ZnN2kxQjVOUmtBbWFMQjVEUDg2TTVqYnczNTNDSnBCVS15S1pJMzJ4cFBoczliR3dBUmphOThuY2VqVEdiX0JFeHdK?oc=5",
+      "pubDate": "2026-07-23T05:05:00+00:00",
+      "source": "TIMES Jabar",
+      "description": "Polres Majalengka Bongkar Kasus Kekerasan Seksual Anak, Satu Tersangka Ditahan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUhUZVRnUVlHWFZBVHhnbHZ1bTFhZWlnRk1kZ19PekFiUk0wVVpEYUFXdHg2c295RE1wS1kwcnhNRmxTTm11RVpud25sV1FBeGNNMkJ0UkpabHdSeDFFSm5yaXRjbTVEZEYyRmEyR2tGZDBNckZ6TXJTQ25OQVItbWJBc0lHd2NGYnpKWG1pbWhpVGxsZk9CZmxuaw?oc=5",
+      "pubDate": "2026-07-23T04:39:42+00:00",
+      "source": "Prohealth.id",
+      "description": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kunjungi Korban Kekerasan Seksual, Yenny Wahid Dorong Penguatan Layanan Forensik di Tiap Polda",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEJfRUhHenA3a2N3dDR3WTI5NTloM2ZETklYZjN1ZzdFNUxoMjRRWkF2WXJsdnFBR19CRkNfSGZKTHhMS0pOZkZuVFQzMlkyYXpnQm5OUWFFRUJIMExvaENVTnZFeEdacEF6aEY0UFEwZkMxLVI5bXFmQURUQ25IakhfOUI5amIwX1A2bnJCRUxkalZlN25kZ2xoRjMxQW1BenAxdGhIY2ZSc1E2bUZmWExWLVNmd0M0ZE9Ed3M3a1ZQaGwxV1dvU042UmFIaXNi?oc=5",
+      "pubDate": "2026-07-23T04:36:18+00:00",
+      "source": "MetroTVNews.com",
+      "description": "Kunjungi Korban Kekerasan Seksual, Yenny Wahid Dorong Penguatan Layanan Forensik di Tiap Polda",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Cegah Kekerasan Seksual, PBNU Dorong Pendidikan Kesehatan Reproduksi di Pesantren",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUW1mYzhxTUlfOXZMQ0tHTzFSZUFTd2ZhQ3hmYkRkTzh0eHFKSjgzbnY5Z3MzVkxoNVhJMnFjb1JjYnlMWGdpUllRYzJkSFVsWHRLMHpfN3FqbkJtb0VPcXY3V3Q5YTRqeGdLdE5ZbmJoN1RrQ2hKZ2tvUjd6OE5xNEVhWDg5aFJrX3FkUFhEcGlTS1YxR1FzSmdfVV80NjU2MGs1NWUxSndTS3hqZzZaYWxhNTJ4ZVd2SlVLYTQyak01YTFhaUUxZi1B?oc=5",
@@ -2269,6 +2314,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
+      "pubDate": "2026-02-23T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
@@ -2276,15 +2330,6 @@
       "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
-      "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?&nbsp;&nbsp;Hukumonline",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "7 Dugaan Kekerasan Berbasis Gender Ditemukan di Lokasi Pengungsian Aceh",
