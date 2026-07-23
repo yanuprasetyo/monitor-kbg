@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-23T08:22:51.137044+00:00",
-  "total": 293,
+  "updated_at": "2026-07-23T13:46:28.367725+00:00",
+  "total": 297,
   "stats": {
-    "tpks": 90,
-    "kekerasan_seksual": 112,
+    "tpks": 91,
+    "kekerasan_seksual": 115,
     "kbg": 41,
     "kbgo": 50
   },
@@ -27,6 +27,42 @@
     }
   ],
   "articles": [
+    {
+      "title": "Korban Kekerasan Seksual dan TPPO Bakal Dapat Penanganan Lebih Cepat",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQXdrWW9INTUtT0VRTGxpMGxjc3JnM0VFNkFCTGlqVXlDdlRRbkhhRlVtM3NzVDdHdXYya29rVHhDQlpucldlTWZwUTNlNzNfUXZyVnlHMjVld0dJQkhXaTkyTkIxZjVMalFUcGxyd1RrY2wtT3JsQU03TnFHTnJ5ZVh4ZFRNQTMwYjNDci1FRnJGdHVMMVZEaFpPRlRNWk56NERpUmhTaGE4eUpCT0QtR2dVYlVYbEkxanZGcFRIZ00?oc=5",
+      "pubDate": "2026-07-23T12:05:24+00:00",
+      "source": "RCTI+",
+      "description": "Korban Kekerasan Seksual dan TPPO Bakal Dapat Penanganan Lebih Cepat",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Analisis HAM PP 30/2025 tentang Pencegahan Tindak Pidana Kekerasan Seksual - Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTldWZ0ZWeFJfNzAtNGdYb0VwQVNnS3FmdmYxQnNNRGdud3VsM1p6N0EyVXFkcWw2NzFEdGZnRndLb0ZkdXB3czM4akphZHkxeC0tOEpkN0l5cWNlc1cyaWpsWlUtdHJUdUVfYWx2dUw3LWRKRGJVdEM0cWVFNW9pUm9ZRl9QRWtJUEl3Um9oWlcyWkpRVGRmRmNXbVFicEVzX01hMVoxTUxwbXlfVm5QM3k1dnZtN2NuaFNRenkzaHJ4U0hQdGVhTEJRVWVmVl9sczd4QTdZVl9YMWJCYWfSAd4BQVVfeXFMTU5XVmdGVnhSXzcwLTRnWG9FcEFTZ0txZnZmMUJzTURnbnd1bDNaejdBMlVxZHFsNjcxRHRmZ0Z3S29GZHVwd3MzOGpKYWR5MXgtLThKZDdJeXFjZXNXMmlqbFpVLXRyVHVFX2FsdnVMNy1kSkRiVXRDNHFlRTVvaVJvWUZfUEVrSVBJd1JvaFpXMlpKUVRkZkZjV21RYnBFc19NYTFaMU1McG15X1ZuUDN5NXZ2bTdjbmhTUXp5M2hyeFNIUHRlYUxCUVVlZlZfbHM3eEE3WVZfWDFiQmFn?oc=5",
+      "pubDate": "2026-07-23T11:03:08+00:00",
+      "source": "Kompasiana.com",
+      "description": "Analisis HAM PP 30/2025 tentang Pencegahan Tindak Pidana Kekerasan Seksual - Kompasiana.com",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kekerasan Seksual Masih Jadi Ancaman Anak Indonesia, Komisi VIII DPR Minta Pemerintah Permudah Sistem Pelaporan",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeUhJWjgzOXJpZGpBTkRYVGlWeWFoa01jWjRoN2lDLUpzekdGUHh1cGNpV1B1WlZrdHVkUmcyWjhycnpZbElMU29iX1NmcWw5Y2dsa2ZuSmoxTjdXMG4wUHZyaFlGellJUks2TTFqV1BqWnllYW1wQnJfdHNUcmM3YVI0THVIU09RdWw4eTRpVDMzdDdKdC1TNHhHSDU0NVMzaG1iQWlOWUhQa3FnLXd5Y0poOFFVNjNtTjVlY0NSSjdjcnBqTGVLV3dHSDhBN3ZvV1RTX0Vka3g?oc=5",
+      "pubDate": "2026-07-23T10:22:10+00:00",
+      "source": "Suara Investor",
+      "description": "Kekerasan Seksual Masih Jadi Ancaman Anak Indonesia, Komisi VIII DPR Minta Pemerintah Permudah Sistem Pelaporan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kemenkum Perkuat Kolaborasi untuk Lindungi PMI dan Korban Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTJMZUJQcU9ZdDgtdHBZbUV1aU1hbHdDM3pnaXZhRktYOWVybWhDZ2hCWFpWZ1c5SzJhNndOUGVSUmNSNWdLZjJ6eXZGSXhOTlktaHlpZDN0bnBLR0JKTUhxQkQ1MDBRZ2lZS0dobk4wcWFZZk9TLU4zdUhoSEs4MDlzMmRscDJxeDVkQm9DRjE5RUxRX25XOXdPR0VjT0ljeThtOWRzM0M4Y1Y1LXU4alhB0gG3AUFVX3lxTFBYX2xzZE5zczZGWDhFR0pzU1c4MW9EeEVDZVdkRm1rTWczVF91WWRyNnNkYnh6NGxUNkNRMERfQmxZZmVhVTEwekRoVGItWWZwcEdoSEl5RTR3QlBkVVkyMjNMVjllLUpKSVZMdndyUzlWSk93dXNCS3l1Y25ZYVVnYjhjV3ZlYUtfcjR4TktBZFFkeVk1bVdjeWo1MFNEbWt3TDUtZG1mSWUtMGpwa1dCOEZPV0Zpcw?oc=5",
+      "pubDate": "2026-07-23T09:57:00+00:00",
+      "source": "Koran Jakarta ®",
+      "description": "Kemenkum Perkuat Kolaborasi untuk Lindungi PMI dan Korban Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
@@ -2314,15 +2350,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
-      "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
@@ -2330,6 +2357,15 @@
       "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
+      "pubDate": "2026-02-23T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "7 Dugaan Kekerasan Berbasis Gender Ditemukan di Lokasi Pengungsian Aceh",
