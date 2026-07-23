@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-22T19:07:19.134703+00:00",
-  "total": 285,
+  "updated_at": "2026-07-23T02:21:36.392532+00:00",
+  "total": 288,
   "stats": {
     "tpks": 90,
-    "kekerasan_seksual": 105,
+    "kekerasan_seksual": 108,
     "kbg": 40,
     "kbgo": 50
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Cegah Kekerasan Seksual, PBNU Dorong Pendidikan Kesehatan Reproduksi di Pesantren",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUW1mYzhxTUlfOXZMQ0tHTzFSZUFTd2ZhQ3hmYkRkTzh0eHFKSjgzbnY5Z3MzVkxoNVhJMnFjb1JjYnlMWGdpUllRYzJkSFVsWHRLMHpfN3FqbkJtb0VPcXY3V3Q5YTRqeGdLdE5ZbmJoN1RrQ2hKZ2tvUjd6OE5xNEVhWDg5aFJrX3FkUFhEcGlTS1YxR1FzSmdfVV80NjU2MGs1NWUxSndTS3hqZzZaYWxhNTJ4ZVd2SlVLYTQyak01YTFhaUUxZi1B?oc=5",
+      "pubDate": "2026-07-23T02:04:17+00:00",
+      "source": "republika.co.id",
+      "description": "Cegah Kekerasan Seksual, PBNU Dorong Pendidikan Kesehatan Reproduksi di Pesantren",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Hari Anak Nasional 2026: Saadiah Uluputty Ajak Perkuat Perlindungan Anak dari Kekerasan Seksual dan LGBT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRERLS3JrVy03aXM3LXJhUXVIc3k2MVluN0ppYmFoZlF1a2tSUkFDR0Q3NFdZQ2tVcWdNMWlxaWpvNTZlaEtWcklSTGZ4bllNdHNsZXVNWGYyUFRHS1FnT25jUUQxOHN6eGVmSWM5OGllWEFCbm9CLU01Zm03T1hhemtIeW1nZ0YzdWNJNkt3cUVSX3QzaVpjS1V2VGx0V0hxNGI2SUYtc1p1eXpzNERNd0FLR2V0Wl83akhaX0E1ZGcwcWpWb3lWYkJBOVdmUmhYenJF?oc=5",
+      "pubDate": "2026-07-23T00:13:33+00:00",
+      "source": "Fraksi PKS",
+      "description": "Hari Anak Nasional 2026: Saadiah Uluputty Ajak Perkuat Perlindungan Anak dari Kekerasan Seksual dan LGBT",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Kalbar Peringkat Empat Nasional Perkawinan Anak Terbanyak di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPamJFLVVPMDhjTE95VEhNaHA4Y3JxTU5ZeHE2VU5NM0k4YjM1VDJ1dF9jaF9YRGp4YUd3Xzd0c1RLVXlVVWF3OVhyQ3VoSUk1T0JtSEEtdlU3NkVJZzZpajRseHFjaHlmaHlYUG9fc2JTNUJmT285dXhqdWJZWi1GcEZqZ1Rnd2VPSDZ3MjdmOTM5cFI4ZlR3SnBFbWlScU9DZ0NuTGswMEFZWmZlQWNsS2FISDJpRUFKTC1POW10Y3JSeU1x0gHKAUFVX3lxTE4zcFVLYnBWUlJ1bHhMWGNkSHNvQUx3UE9QTUtqUktfc0h5cWNsM243bDVLVHFaeFBsVFM0dzNPTlJxejY3STZ2RXdjUnN6UVk2d3BEeTdqamwwMF8wd0pKcmMzc0RfUTgzZEZ4YVNWWHM3VXVUbGNWUFJEcGtNeUN3aGc0MzdKVEZqLTlMMzgwbUs2SEZ4cWVzb0VrS3NGY184UW1EY1NJOFVzT2xMOUc3RGV3M1kzVUZJeDcyVFdnMUk4X2d4YWxTU3c?oc=5",
@@ -69,6 +87,15 @@
       "pubDate": "2026-07-22T12:14:12+00:00",
       "source": "detikNews",
       "description": "Waka MPR RI Soroti Krisis Kekerasan Seksual dan Pentingnya Pencegahan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Lestari Moerdijat: Kasus Kekerasan Seksual Harus Diatasi dengan Langkah Tegas",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDFRYXF0QmNSN3o3ejc5NnFrR0lLY2hPcWtIY1UxX1VKREdDdFJHLVJtU2p3X1Y1S1A0dFJpQnVlWE1zbXlTVWNnN0tTVTNZV29fWE9JVmhXYWpLQkdPMVk3RVVwc05HaktfRWtLS2FjZnliVklQNmhqQV8zd3BqZlhqbnJDeTNSS01Icw?oc=5",
+      "pubDate": "2026-07-22T12:01:00+00:00",
+      "source": "mpr.go.id",
+      "description": "Lestari Moerdijat: Kasus Kekerasan Seksual Harus Diatasi dengan Langkah Tegas",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -1891,15 +1918,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -1907,6 +1925,15 @@
       "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
