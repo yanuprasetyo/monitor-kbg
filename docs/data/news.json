@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-24T02:12:38.300310+00:00",
-  "total": 302,
+  "updated_at": "2026-07-24T08:18:29.552032+00:00",
+  "total": 304,
   "stats": {
     "tpks": 91,
-    "kekerasan_seksual": 120,
+    "kekerasan_seksual": 122,
     "kbg": 41,
     "kbgo": 50
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kekerasan Seksual masih Jadi Ancaman Anak Indonesia, DPR Minta Pemerintah Permudah Sistem Pelaporan",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdlcwNWRpUFo4a3RBZ2RwRnIwYVpQOUtOVTRlbHZCUkZSWVV2TU5SX3Nob3c0SGNiVzFZZnpxOW9uUU1tZGlrb3haY2NuNVc2ZXdLcmo3NU5FMnlIQjRMUDlNYUdRQm9udkY2cXBaYTZiRXB3aVJUcmdXVUtIMDdRNGxUaHVOZ2p0c1ZNWXNTdWJjTy05dzR6a25vSHVhaU5IYUFrbWo3VXVoaFRpdk1ZOXBudnZUUlhTdWVOUGdJSnlROG41dDJpUU84Q2h4ajg00gHPAUFVX3lxTFBrTDNfQ1J4eEx0QnpDckxnZUJoUE9oWVVYX0c3WlNybklhbkFSRTFiT1NoRHpzLUNkMkh5dVVnMk9kV1NNTC1HNkpJb0hrZ3hVMjhaVFJuMzFBUGV0VU9TQzlMd08zNHphQVduak1tUlZBTDlsYnJQQjhrMDlsU01iakw3dU10dXVvTHBzZUY3VnpPYTFiVXR2WEt2dUpwbUlIektOZUh2MnlabGZuMEFQdDdNWUtVd1h2b3k3Sjc1ZmZNMWJTV0loU1AtTVNJOA?oc=5",
+      "pubDate": "2026-07-24T05:47:16+00:00",
+      "source": "merahputih.com",
+      "description": "Kekerasan Seksual masih Jadi Ancaman Anak Indonesia, DPR Minta Pemerintah Permudah Sistem Pelaporan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "\"Hari Anak Nasional \" 21 Ribu Lebih Anak Indonesia Jadi Korban Kekerasan",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc0UxdWx1ZWZyMS1hdWtxcW13MDVTVThJRlh4YWFYS1NFNTBlMGFoNlozSl8xSXkybk00dTNFTDNtc2hWdGVTVkhkaVc3RHVUNjdCRGtPSTA2d2lVSTFoQ3V1c19JSVJiaVpmNFJ6dHJqaWN6RmJwaXRjMEpvNVh2bHNwbTQzRy1jUkNzRkFQWlJWUDNFUUE?oc=5",
+      "pubDate": "2026-07-24T00:11:47+00:00",
+      "source": "Mata Hukum",
+      "description": "\"Hari Anak Nasional \" 21 Ribu Lebih Anak Indonesia Jadi Korban Kekerasan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Dugaan Oknum Guru ASN Terlibat Kasus Kekerasan Seksual Murid SD, Praktisi Hukum Sebut Indonesia Darurat Moral",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOUdmR1NFRWtBNkRnZ3RpOVJ2Q1VrQU8tdVBRQS02LXo2MGhIOE4xZ0RSN2NFNDRmQm1kMlJkMmdHc1djRE43RFFuUFRQV1VkRjNGa0x0RlFHRDlYbU9YQ1d2YkdfT1hyV2dyQ2c1aW5EQ3k3TnY2LXFvdTl0c3VFcDhlOEZ6aERpTTdwNThXOGdaTkpSWjkxd2VUbjhXNWFPYUJSU0Vvd3E1Nm1yNmVKTFJ5LTdIUG1SVmNrcmlWa0V5SFJoSEpvTEhXbUZ3OFhZTXFnMTc2TG1HaXhJUGg5Qm1n?oc=5",
@@ -658,15 +676,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVRDME9XQW9RekxRZU83QTdyVEZmWVZsbjkyUWhtT1NiU0xQa1ZmZ2Y1WWl3dHUwbFl6MnFRQlVNRnNsa0FsTzZKX0YyUV9YSlpZQ0EtaU1TdU9RNnotRms1a25GZ3VJbXJyUG4tcHZUdDRvU0dYalVjVWJvUU53T1kydGtqSk5hYWh6NmhBMUw5bmZtbmJSYXZELWpyWjBNajBRejhzd3ZjYWE4Nk9J0gGuAUFVX3lxTE1BY2lveThOaFRpWEtZZGdFT3k5VE1BRTFIbUNKcXJMbC1MY0xSRThkWS00aUJ0RUpUR21uR2lmSGsyUEJMOEIwc3hzdXJYUWFnZzdmajRmUl9ONF9jR3lTbmFGME1GR0YzME5aZUZZLW5kajJ0SzB1X0RQSFRVTEY4RlpHaXhKTGNRVGJfUEZ2Wl9zUi1jNXdwYkJ4aE1EeVQ3SDBuV1hJVzd0SFNldw?oc=5",
-      "pubDate": "2026-07-11T14:57:00+00:00",
-      "source": "HARIAN DISWAY",
-      "description": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "KPAI Soroti Kasus 27 Pelaku di Sampang, Tekankan Pentingnya Pendampingan Digital",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHp5UjRpaUFjMy1LUHFUV3pyOEJ2eVBaTGVrWV9ta2JNT0JoM3FsSF8tT1phZzlLYi1icEdHZXY3cE1fWEhPWGladmQxczNrWjMwVXdsVEIza1VhMGNaTFc0S2s0elJyQm55cDJwYUZvcWdMcmYxem9fMDZhMUNvc3FxSzJKdlhmUVljQmRVRHlQMzFWMm1QWGRia0RXZVVmb1AzZWdOME9YdEVrVDVKWk1qcnhkSW5qOVppeU5GZm8?oc=5",
       "pubDate": "2026-07-11T09:40:23+00:00",
@@ -674,6 +683,15 @@
       "description": "KPAI Soroti Kasus 27 Pelaku di Sampang, Tekankan Pentingnya Pendampingan Digital",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVRDME9XQW9RekxRZU83QTdyVEZmWVZsbjkyUWhtT1NiU0xQa1ZmZ2Y1WWl3dHUwbFl6MnFRQlVNRnNsa0FsTzZKX0YyUV9YSlpZQ0EtaU1TdU9RNnotRms1a25GZ3VJbXJyUG4tcHZUdDRvU0dYalVjVWJvUU53T1kydGtqSk5hYWh6NmhBMUw5bmZtbmJSYXZELWpyWjBNajBRejhzd3ZjYWE4Nk9J0gGuAUFVX3lxTE1BY2lveThOaFRpWEtZZGdFT3k5VE1BRTFIbUNKcXJMbC1MY0xSRThkWS00aUJ0RUpUR21uR2lmSGsyUEJMOEIwc3hzdXJYUWFnZzdmajRmUl9ONF9jR3lTbmFGME1GR0YzME5aZUZZLW5kajJ0SzB1X0RQSFRVTEY4RlpHaXhKTGNRVGJfUEZ2Wl9zUi1jNXdwYkJ4aE1EeVQ3SDBuV1hJVzd0SFNldw?oc=5",
+      "pubDate": "2026-07-11T07:00:00+00:00",
+      "source": "HARIAN DISWAY",
+      "description": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Mahasiswa FEB USU Diduga Lecehkan Puluhan Korban",
@@ -2053,6 +2071,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Kartini dan Luka yang Tak Terlihat",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -2067,15 +2094,6 @@
       "pubDate": "2026-04-21T07:00:00+00:00",
       "source": "Prohealth.id",
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -2188,6 +2206,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Komnas Perempuan Tegaskan Ruang Digital Tidak Bebas Hukum",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVU2M0E3OHdFYl9EM0dvOE9BSEtxb3k2YXhoVFdCTFdnZGl1eE1jLWlNUVRvSThkb2M2YThNQUE4Zi1nYXAyYk15dXozcHhnc3lpWEdsV2w3T0pVV3dxU29ZWjFzSktNbEtxN3dnYUlTYUdCd0FEbEF6MFJCaFJTWEJBSDJGTTFaeDJ2cFFJMVY?oc=5",
+      "pubDate": "2026-04-15T07:00:00+00:00",
+      "source": "Validnews",
+      "description": "Komnas Perempuan Tegaskan Ruang Digital Tidak Bebas Hukum",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "JPPI Catat 233 Kasus Kekerasan di Lingkungan Pendidikan",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkxHd0RzS3BEaEpVbUtETm5aNW5nTFRFTnFVNGdhajl0OGFuTFpDbDFUdm1GZElud2JNSGN6QzRseWZrUW1XdmlQN0pySHdSM3Z5UTVvSTNhTnBDdnZoQ2VXdGtfdzRnTE5zNV9Ma3MzNXdpUnA3cHpDWlRkWEhMdFBYb2VuNU1vb2pvNVNLTTNncnVfa1k0dzdZZ3NVWmpC?oc=5",
       "pubDate": "2026-04-15T07:00:00+00:00",
@@ -2204,15 +2231,6 @@
       "description": "UI Skorsing Mahasiswa Terduga Pelaku Pelecehan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Komnas Perempuan Tegaskan Ruang Digital Tidak Bebas Hukum",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVU2M0E3OHdFYl9EM0dvOE9BSEtxb3k2YXhoVFdCTFdnZGl1eE1jLWlNUVRvSThkb2M2YThNQUE4Zi1nYXAyYk15dXozcHhnc3lpWEdsV2w3T0pVV3dxU29ZWjFzSktNbEtxN3dnYUlTYUdCd0FEbEF6MFJCaFJTWEJBSDJGTTFaeDJ2cFFJMVY?oc=5",
-      "pubDate": "2026-04-15T07:00:00+00:00",
-      "source": "Validnews.id",
-      "description": "Komnas Perempuan Tegaskan Ruang Digital Tidak Bebas Hukum",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Harap Pendampingan Korban KBGO Semakin Sinergis, Komnas Perempuan Dorong Kemendagri Perkuat UPTD PPA",
@@ -2629,11 +2647,11 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "Pelaku Kekerasan Seksual Anak yang Berusia Anak Tetap Dapat Dikenakan UU Tindak Pidana Kekerasan Seksual",
+      "title": "Menteri PPPA : Pelaku Kekerasan Seksual Anak yang Berusia Anak Tetap Dapat Dikenakan UU Tindak Pidana Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUHlTTHZHeTFVaUtOVGhLM29JODhxY3VkZ1FGNnNxeVlqQnVVWk5OcjBVSFpfV3pXVUVEZlV5UmdIcEpiM2lLelhWWUxBNDdhRnlSY2NzaHpSMGhfNzc3ZE1VZnpZRllZWHJkRUlTMk03SUJTWmw1dHBPSVpxYzYzaHpzNzdZSjNlZVMwX0lSYkhpYm9EU1M3Z1BNeFlNaGpVZWZITkUzaHZqTk9TblhtOXF4M3NsbnJERVBpb2oyVFVYRldST2pMeE5tbUdTREI0Qm5FbDZHYmdmZTQ3SnNfa1F3d1Z0cFNOSVNQRVV3?oc=5",
       "pubDate": "2025-10-24T07:00:00+00:00",
       "source": "Kemenpppa",
-      "description": "Pelaku Kekerasan Seksual Anak yang Berusia Anak Tetap Dapat Dikenakan UU Tindak Pidana Kekerasan Seksual",
+      "description": "Menteri PPPA : Pelaku Kekerasan Seksual Anak yang Berusia Anak Tetap Dapat Dikenakan UU Tindak Pidana Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
