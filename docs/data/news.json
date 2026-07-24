@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-24T13:26:43.155339+00:00",
-  "total": 308,
+  "updated_at": "2026-07-24T19:18:12.476710+00:00",
+  "total": 309,
   "stats": {
-    "tpks": 93,
+    "tpks": 94,
     "kekerasan_seksual": 123,
     "kbg": 41,
     "kbgo": 51
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHVSLWhGQ1liS0lfcWNMZzRtVFBwZUFUUjhobXNFVUdOaUJaTmplbW9sOHFTcGxyLXNpeDNEbTNQSEQtRHJtOTNPSF9ZMjRtUjBrRGhiTHdNOGQwLV9GVEdjeVA5S0JMRDFSNE5MOWhnUHRaV081M2lGa0pEUUJOZEhRamN1SVQxQmZRMVpOcmV0Q0E3c0VtemhJQUVrNUFRcUR4RjhvZTl6UWZj0gGvAUFVX3lxTFBvMkl4OEZqbGI3eGNUT0hRdUF6cTVFZTJTY0JNLTNWNWc3NmdKYVFiN1ZGR2daSGpzbmZoaTdVX3RuNlhpLVI2Rk94bjBDSGlXRzY3VWg2LVp2ODRLSnloNXIyNGc2Nl9EV2xNdXdBWjBZTGM4V1NrUTZQbWxuRXdSVEs3MDUxSXZBOGJSWXBwSWdJTHRucmFpa0Z1LXVrYTNPSXZKNk45YVY5TmdYTGc?oc=5",
+      "pubDate": "2026-07-24T13:36:05+00:00",
+      "source": "ANTARA News",
+      "description": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "MPR Dorong Penguatan Sistem Perlindungan Anak hingga Tingkat Daerah",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOU1aNzlSNFRJclhJZXlibE9WczdyRW5nQlFKOGlXTmdHYmZ0OFBlYXI3ZklpbDN0YzRCbGZsSTBJZnlHSi1XTHhPcGV0UzlxTjI4WFgzOXdHR1hTaEZaUEF0bURKQXVXejB4UHBpQXcwLURzcWdhZEl1emN6WlRMM0Rtbk1WMHA4ckdRRDJTcVF5RmlUWkNjQkNLYVJhYjdtREdpTVlUdnJlTnFsaWdGdg?oc=5",
@@ -2098,15 +2107,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -2123,6 +2123,15 @@
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kartini dan Luka yang Tak Terlihat",
