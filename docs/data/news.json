@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-25T07:59:40.541137+00:00",
-  "total": 311,
+  "updated_at": "2026-07-25T13:14:26.456515+00:00",
+  "total": 314,
   "stats": {
-    "tpks": 96,
-    "kekerasan_seksual": 123,
+    "tpks": 98,
+    "kekerasan_seksual": 124,
     "kbg": 41,
     "kbgo": 51
   },
@@ -28,6 +28,24 @@
   ],
   "articles": [
     {
+      "title": "Kasus Kekerasan Seksual di Situbondo Tak Ada Kejelasan Dalam 3 Tahun, Pakar Hukum Pidana UB: Pelaku Layak Jadi Tersangka",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOckpxSlI4aGxTRG4xMlN2ZDN4Y2w3WktxVlUtT1ZxYkpNOU40QnpwMFRsV19BT0hZeklYYlYtMnV0bkpxMDhMWW1Ec1RRMGZFS0NHaXJFMUlzZkVYUnEzU3o1andZNExjVmxYX21CQ3JQZHFvS25fZDcxWlNxZklmQmVpMEQ0anYyS1J0SGw3akp1d1piVHN2My13XzMwTU1iQzZ3V1AzVDBUaXNRN1k5ckY1Z2JURDUtdk5FeU40dk82ckl6Sm5TOE9xV3FtVTF2UmVsOWFMRVlIWmxJTkhSQzRB0gHnAUFVX3lxTFB2dXZncHJjd0ZLM1JwcUMxaEI0bEFUMWdJRk5QVHpMNEZuWk95aUhCTks5S20wODBYRnNiSnFZaWx4VWlBcG5fVV9XMERONTlma3A5VVNHMTkyMzBvVWo4NFNwelhKcl9ES0pZNW1LRjh0c29sRkZjRnp3ZmxsUU9LSEdoR0tteUF5Y1pGUVFHODVLVUxVWG1JRlFvbjV5MzdYNE5GN3pYLXp3NnVfWUQyR294NDJIV0p2Rkk4bGxDTjdyNVRKYUZSR3pyc19nRUxZLXhZek9BTzZlMUVCTG9yNVhmcXpnOA?oc=5",
+      "pubDate": "2026-07-25T08:52:00+00:00",
+      "source": "realita.co",
+      "description": "Kasus Kekerasan Seksual di Situbondo Tak Ada Kejelasan Dalam 3 Tahun, Pakar Hukum Pidana UB: Pelaku Layak Jadi Tersangka",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "23 Ribu Anak Indonesia Jadi Korban Kekerasan, Psikolog: Rasa Takut Bikin Banyak yang Tak Berani Melapor dan Bercerita",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRFJydnk5VjNLT2R6YVpGUkIyb0poTlBadlhYQndGckhIOWdWYXZ4ODMwajEzMkdzc1NteHRpdXlRVTBVVWFCNVNmN05ybHREZERXQnN5YnJ2VHhQNnZDOWI2NmwzYmw1OGFtQ3FRenkzVkZkTjVPbENlYmVRb1dWbWl5TVl3dDlESm1XeEJwZGE4WmYzSzZwWTFvZWs2TGdwQ181ZUs0WXRVMW8zYmNLM1ZubWJmclUyWTBPZHRpWXhsUERlQXY4YmswWmxycXNKQ3JzVW1FSQ?oc=5",
+      "pubDate": "2026-07-25T07:50:46+00:00",
+      "source": "AFU.id",
+      "description": "23 Ribu Anak Indonesia Jadi Korban Kekerasan, Psikolog: Rasa Takut Bikin Banyak yang Tak Berani Melapor dan Bercerita",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Ahli Hukum Pidana Universitas Brawijaya Tegaskan Pelaku Kekerasan Seksual Situbondo Bisa Ditetapkan Tersangka dan Upaya Paksa",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONy1jSXM0OEg5Y3FnR1F3UlZ2RTdlZ3ZKclZGYlFEcXJmZG5fSjJBWkNmRldmblg2eHVBUklJT1daYW85YVBVZkozR1pKdDdwNGpLYnM5SXNsaXlpaVRwZktickNIOWE0SXF4cnJGV19nUklxNjFSWmdMZnB6SUxSdExvM0xCMGlTVWhQU01GQWJ2MWtCTko5akQxRlhGbjJBcEcwMzZyNEl3bnhhaWZaRHZqQzZnMVhBYWJCcFhvcFVRQnR0elpacUoyTlpYSUNnbkZ0OE9iQldzN0N0MHNmSDUyUkFldw?oc=5",
       "pubDate": "2026-07-25T07:39:06+00:00",
@@ -42,6 +60,15 @@
       "pubDate": "2026-07-25T07:22:53+00:00",
       "source": "Informasi-Realita.net",
       "description": "Diduga Mengaku Anggota Polri, Pria di Surabaya Diproses Hukum atas Kasus Dugaan Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Peringati HAN 2026, PERMAMPU Perkuat Pemahaman UU TPKS Lindungi Anak Korban Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM1J1cVN3TnR6RnB1bzRqUnlZWnlwVkJuekQ5anRRa0VhNUpQRDlYRmlYUWNQUElYVGE4LUxSdEQ1UHp1aDU5YzRNSm9PWFVRYU9KRjEzOUdtY1JlSFd0WG1aUFdwS1I5eDNLR2pDdS1XdnRLNXBSdFN3WXp0OXFhamRJb2ZHT19OZjU1RXo3RS16VFY1bzhDalgwYjFnRWlEeWg4WUg4VHhBT1VUcGpKTmZ3Und6SHFZRzZsa9IBxAFBVV95cUxObXJmWEFyVHZjX0ZCZ25BRHo2M0hpbERCelZpZVRKbEVXc19ZYnBoSVVvenF4UFpXdWdtZGxDNmRybDJlYnFQS3VaMlBmZXE3X1lyVGxlTV8waDdPaGlOQXd5bUNyY2R5MGdweW5BRk5hV2pDOWNsVW00N0UyZG9jOXdPV1dfNnBKeEN2dXY5S2hRUzNFcWl6R0tvVUJHcUhfTzFmVFgyQTJYbV9xTVJBTHlhYlFpTEh2TUNZWTN4UF9GX1ct?oc=5",
+      "pubDate": "2026-07-25T06:56:29+00:00",
+      "source": "Bencoolen Times",
+      "description": "Peringati HAN 2026, PERMAMPU Perkuat Pemahaman UU TPKS Lindungi Anak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -2125,6 +2152,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -2141,15 +2177,6 @@
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kartini dan Luka yang Tak Terlihat",
