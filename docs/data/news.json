@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-25T13:14:26.456515+00:00",
-  "total": 314,
+  "updated_at": "2026-07-25T19:02:17.710698+00:00",
+  "total": 316,
   "stats": {
-    "tpks": 98,
-    "kekerasan_seksual": 124,
+    "tpks": 99,
+    "kekerasan_seksual": 125,
     "kbg": 41,
     "kbgo": 51
   },
@@ -33,6 +33,15 @@
       "pubDate": "2026-07-25T08:52:00+00:00",
       "source": "realita.co",
       "description": "Kasus Kekerasan Seksual di Situbondo Tak Ada Kejelasan Dalam 3 Tahun, Pakar Hukum Pidana UB: Pelaku Layak Jadi Tersangka",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Berkedok Anggota Polri, Pria di Surabaya Diproses Hukum atas Dugaan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkJFZDY1RDI1eloycm9adm9vbUpGVFBaTm56N3J3N0RpakticWtZd2pSdjEyNmRwekt3OXBYa0xuaGNJY3BCdFVPV21YUDQyOHFjRGZ5ejFDaEJUUERaZ3E1WVRRLUctSllJbTBJYjgtZXRXbVppOXA1SkJySDM1aTE2anBHMEZUckdkUlIyajdtWUREOHB4bWVhU0pQbndPN3ZWYjlWZVNOV0tDaDB0cHRvZ3NxcE1CR1dtUEIxd0NraU13QVE?oc=5",
+      "pubDate": "2026-07-25T08:21:23+00:00",
+      "source": "Nusantara Abadi News",
+      "description": "Berkedok Anggota Polri, Pria di Surabaya Diproses Hukum atas Dugaan Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -2107,6 +2116,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "[Cek Fakta] Hoaks Menag Toleransi Tindak Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1lSZWc5WWJiTW9ZcE1wLW0tT2I0Qk9GcGhWaWRNal91ck1vMS1WUERRbC03NGlwU1ZTYXkzUmRCSElkT1k2TDFVR3RUZVkwaTllVVZZVkxnTmhrRWYzSXd4MmdpZGxYUG45djJrbHdmUjAxTmgtems2RDdzMEhqdlRheFFsRkV1bTNaSkQzQWo5Rm5kZVVxZFJB?oc=5",
+      "pubDate": "2026-05-05T07:00:00+00:00",
+      "source": "Kementerian Agama",
+      "description": "[Cek Fakta] Hoaks Menag Toleransi Tindak Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Tentang Kekerasan Seksual di Pesantren, Wamenag Minta Pelaku Dihukum Berat",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjR4NXRYS3JvM0tjZm9xRTdDM2x4Z09GeG4zaGtocmpWR192RUtFZU1FWnl4SEFOWWpneVNXZnpJdkNDWEJzT1VrcEliOWxFZlhiakRHcmJCMXE1UWh6eGctMUcxcmtxTXlqZ0FCRUEzVmRRNXNoN2NSRnZXV19DdnlHUW83SUdSRXRVYzBneTVzVVkzZVI1V29CZEV1b2N4d09vWXp4TVdVaDZyLTFJ?oc=5",
       "pubDate": "2026-05-04T07:00:00+00:00",
@@ -2278,15 +2296,6 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "Kasus Mahasiswa UI Cerminan Nyata Kekerasan Berbasis Gender Online di Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbURHUkN4ZUptWkYzZWxUQ255M3BybnBkOFJXemJQZ1RDOHVvbEN3Tk5nY3pYUU1EcjJiQkEydGsyUThxM1BkeTZHVlI3VjhaZWZWZGpxNnRWWHExOXpsSVl0ZjRCVDhOOTVWX0dYNklZZTl3cmlEZm5jNGdIM0RJWDQ3UV92TVZoWHJVM3BUR1k1TVJOM2pHUExRYzZYU1pOVVJXbUgtbFpfbHJUQXUyeV8wWkVZRmpYRFFLUG9HOGhYU1Q4TGfSAcsBQVVfeXFMT2QwMzdCQW9uYkJKNktTUG4tdUpycXhjaHdkYy1wR2JvUVh5OTlxLXNQMzFSLXhzUDduQUhOc2lxbUtid2N3bzBneVR4emU4aGJydEg0ZEF3bDNVdVluTFVyYlE1UW9YdWFuVGt5ZDBDQUxVQ3NDNlVqU3hGRmhxUXcwVlNQQjFSekpHTzdBbFVyYUFjRjdRU0habEpFVGZvajRiV1NrWjdxa0J5c0lLLU5NekZjTUluT0RHR0ZfOUQxS0dBOWFJLU5zY2c?oc=5",
-      "pubDate": "2026-04-15T07:00:00+00:00",
-      "source": "Suara Surabaya",
-      "description": "Kasus Mahasiswa UI Cerminan Nyata Kekerasan Berbasis Gender Online di Indonesia",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UWtQejdyeVBhamt6bThRek5NV2kwOXZfR2xjTE5BZHgxRk1qNUllSDN5U3hvLWVFTW5MYUZoUVNRcjZwampTdnRsb0Vwb2dUQ1hSQzh2dVQwZUFEQXJEZdIBZkFVX3lxTE54d2ZpbWNVOU1LX242LUExdnl3dndQZVdnUE5LZU8zeFVCSGR1WXhWTlZTdDFUakRVRnZBWnlJdmRjVWgydGxEc3p5ZDhMQUZaNURGZWxCTVowaWp3UlhSSXY2X1VoUQ?oc=5",
       "pubDate": "2026-04-15T07:00:00+00:00",
@@ -2294,6 +2303,15 @@
       "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kasus Mahasiswa UI Cerminan Nyata Kekerasan Berbasis Gender Online di Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbURHUkN4ZUptWkYzZWxUQ255M3BybnBkOFJXemJQZ1RDOHVvbEN3Tk5nY3pYUU1EcjJiQkEydGsyUThxM1BkeTZHVlI3VjhaZWZWZGpxNnRWWHExOXpsSVl0ZjRCVDhOOTVWX0dYNklZZTl3cmlEZm5jNGdIM0RJWDQ3UV92TVZoWHJVM3BUR1k1TVJOM2pHUExRYzZYU1pOVVJXbUgtbFpfbHJUQXUyeV8wWkVZRmpYRFFLUG9HOGhYU1Q4TGfSAcsBQVVfeXFMT2QwMzdCQW9uYkJKNktTUG4tdUpycXhjaHdkYy1wR2JvUVh5OTlxLXNQMzFSLXhzUDduQUhOc2lxbUtid2N3bzBneVR4emU4aGJydEg0ZEF3bDNVdVluTFVyYlE1UW9YdWFuVGt5ZDBDQUxVQ3NDNlVqU3hGRmhxUXcwVlNQQjFSekpHTzdBbFVyYUFjRjdRU0habEpFVGZvajRiV1NrWjdxa0J5c0lLLU5NekZjTUluT0RHR0ZfOUQxS0dBOWFJLU5zY2c?oc=5",
+      "pubDate": "2026-04-15T07:00:00+00:00",
+      "source": "Suara Surabaya",
+      "description": "Kasus Mahasiswa UI Cerminan Nyata Kekerasan Berbasis Gender Online di Indonesia",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Komnas Perempuan Tegaskan Ruang Digital Tidak Bebas Hukum",
@@ -2360,8 +2378,8 @@
     },
     {
       "title": "Modus 'Nikah Ghoib', WCC Jombang Ungkap Kekerasan Seksual di Lingkungan Pendidikan Masih Terjadi",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMlVJNkUwV05MbllJTXRIeG1PTEZUSHZ0SG9oa213S2M4aGh2YWRLQUNVQzlHQ1NNRWgtc1k3cnI4ZUNHT2l5aXNkTlpMN29lZURaUkswUGoyZWI2SEt0c1Y1el9jdTBZUDdnVk9FdzdFZkZzWTBITURRTWNtZnlscU5XQ3NCNUZsNS0zcnpNVDdYSG1UNWQ4aVB4SjdwcTlPblBOU2c5RDZsbDNvRG5mVkdmd3BlZmRPcGcwR1NJVmdXX0M0cjlZNGpiWHk0WndXb2dfcVk0YVpLLWlQMEhvQjhB?oc=5",
-      "pubDate": "2026-03-31T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMlVJNkUwV05MbllJTXRIeG1PTEZUSHZ0SG9oa213S2M4aGh2YWRLQUNVQzlHQ1NNRWgtc1k3cnI4ZUNHT2l5aXNkTlpMN29lZURaUkswUGoyZWI2SEt0c1Y1el9jdTBZUDdnVk9FdzdFZkZzWTBITURRTWNtZnlscU5XQ3NCNUZsNS0zcnpNVDdYSG1UNWQ4aVB4SjdwcTlPblBOU2c5RDZsbDNvRG5mVkdmd3BlZmRPcGcwR1NJVmdXX0M0cjlZNGpiWHk0WndXb2dfcVk0YVpLLWlQMEhvQjhB0gHnAUFVX3lxTE5UN1J2cmNPWnBoY1JjX3NfZ1l1Zkl6aHpvV2MwOXk1TVFWNklEYnpZMW40OTVWSjNnLU52ektIeEx4SVpubXBkNFNzREdzTGR3V2NEb1FBUC01Q05nWkMzUDd2SkpTbzRKS1lPbERSZmV6YU1rS0hjVzFRTHVlbFJ0X2owZHo2cjVfWmZYOVhEM1lMaDEtcmdlTWdtOUhkOVFmdkdCclZfdVd6SHc5V2hYM0hxY1A4QmFCR3cwSmFmcElXZjdWeEVfOFVSbVlHNzZRMlh2STRKVmRjNElmQXBrbXlGb2JyNA?oc=5",
+      "pubDate": "2026-03-31T06:39:57+00:00",
       "source": "Jombang Banget",
       "description": "Modus 'Nikah Ghoib', WCC Jombang Ungkap Kekerasan Seksual di Lingkungan Pendidikan Masih Terjadi",
       "keyword_id": "kbg",
