@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-26T08:19:47.645648+00:00",
-  "total": 320,
+  "updated_at": "2026-07-26T13:09:52.679056+00:00",
+  "total": 322,
   "stats": {
     "tpks": 100,
-    "kekerasan_seksual": 128,
+    "kekerasan_seksual": 130,
     "kbg": 41,
     "kbgo": 51
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Selama Januari-Juli 2026, Kemenag Jateng Catat Sebelas Kasus Kekerasan Seksual di Pesantren",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFJObE52YVVjUmpTN0F5c2dIQnk1TE1YbGZmYVA5UjFGaGtJVER4NHkxSUxtNWV5TDB2ZUhrc3plRG1MazEyZHpha09MeEdoV21TQlFLWU9reVRZQTItSTNXSllsR2VrLVZnZTd6dzN5SWR6aFAxbl9xYTEyNk5UWHZkaF85T2JfckJLdm8yX1puNzhtRVFJWWdkdndtaWQ0TmFRbkNfYzBFd0IybFQzNzBXUVI3N1hXaWktSnowanNtRnZOUUotM2J4MmVxWjRiRzRWOXN3?oc=5",
+      "pubDate": "2026-07-26T08:00:50+00:00",
+      "source": "republika.co.id",
+      "description": "Selama Januari-Juli 2026, Kemenag Jateng Catat Sebelas Kasus Kekerasan Seksual di Pesantren",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "KPAI Minta Kasus Kekerasan Seksual Anak di Tanjungbalai Diusut Tuntas",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmRqeHF3QjdaenA5dlpyY0ZYOG9sd09Ealh3NXU4aFU0MTByeGdPUTQ3SDM4dFdHakNWVm45LTV5R0FjRndnRkQ0NTlEQUNwekxxTDVlcTBqYmhpZWdQQlNYQkp3eUZaMThXWkhzdTRvOEx2bGE3WnV6WVBaU3NCQkZGRzlldTJwUldDTjZ0aDl3NG9OeUhNUExkSkNBcFlJSENranJTdW0xQ3E1cTluZkg3UQ?oc=5",
+      "pubDate": "2026-07-26T04:43:49+00:00",
+      "source": "Media Indonesia",
+      "description": "KPAI Minta Kasus Kekerasan Seksual Anak di Tanjungbalai Diusut Tuntas",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Waka MPR Dorong Gerak Bersama Bangun Sistem Perlindungan Anak dari Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTR4VDRLTDBVYVNfRlFFdW1UdDhNRGtOTkU3VG9hZ1RFZlJISnBaY2FnMmc5LUJDczVDVHBHaFBYS1hXWmRxbDhoeGpzYVVCcGhreVY4OXpOSEpTb1BMSnJrNzBSd3Y1NGUxUkZzdWVwcUU3YXBPaVEwUFZqTzkwUml2SG5uRU12MEh0TVhDX192azlQd1MwYmNlY2JYSzY2VFQteXY1YmNHZzhrUU5J0gGyAUFVX3lxTE5YTHdtXzhqZ2kzQS12NU5FNTFXOG00MnA4T3lFVUJRRzFJUWFCWFQwQ1pZX1RVc3p6MDdhd2xpX0dnWDd3bElCNDVraGNFZ1NfcW1WakNVTWtUZ1k0YXhSYTdJYW5IcU41QklqY0RfSnBzbF9GWTZpeFN1OFdna0Z2OXlieWhrY0tOWFNXcGYyUFdaZUdPR1lrQ1F6VEtzSFVUUnZnVTNpcVpYSDFOUTYxSkE?oc=5",
@@ -2557,15 +2575,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
-      "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "World Health Organization (WHO)",
-      "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
@@ -2573,6 +2582,15 @@
       "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
+      "pubDate": "2026-02-23T08:00:00+00:00",
+      "source": "World Health Organization (WHO)",
+      "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "7 Dugaan Kekerasan Berbasis Gender Ditemukan di Lokasi Pengungsian Aceh",
