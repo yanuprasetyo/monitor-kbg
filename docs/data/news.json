@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-25T19:02:17.710698+00:00",
-  "total": 316,
+  "updated_at": "2026-07-26T02:22:37.224141+00:00",
+  "total": 318,
   "stats": {
-    "tpks": 99,
-    "kekerasan_seksual": 125,
+    "tpks": 100,
+    "kekerasan_seksual": 126,
     "kbg": 41,
     "kbgo": 51
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Polres Karo Tahan Pria 46 Tahun Terkait Dugaan Kekerasan Seksual terhadap Anak",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaHR2bldYQWhIUTVvd3R0eWpQVV9TVG5ueEpIZHJ4QWcyRlVEam1iUG9WQW9xSnZyWjY3WTc0dWdhOF8yZnVyTGh5OHkwemkwSVFVZUVINlEtR3hDa3MyVDgzRDRpUVdYYkV2djlEb0ZjVXZ3MzJyQm1mU1ZwLWJIQUxR?oc=5",
+      "pubDate": "2026-07-25T17:42:21+00:00",
+      "source": "Mawartanews.com",
+      "description": "Polres Karo Tahan Pria 46 Tahun Terkait Dugaan Kekerasan Seksual terhadap Anak",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Kasus Kekerasan Seksual di Situbondo Tak Ada Kejelasan Dalam 3 Tahun, Pakar Hukum Pidana UB: Pelaku Layak Jadi Tersangka",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOckpxSlI4aGxTRG4xMlN2ZDN4Y2w3WktxVlUtT1ZxYkpNOU40QnpwMFRsV19BT0hZeklYYlYtMnV0bkpxMDhMWW1Ec1RRMGZFS0NHaXJFMUlzZkVYUnEzU3o1andZNExjVmxYX21CQ3JQZHFvS25fZDcxWlNxZklmQmVpMEQ0anYyS1J0SGw3akp1d1piVHN2My13XzMwTU1iQzZ3V1AzVDBUaXNRN1k5ckY1Z2JURDUtdk5FeU40dk82ckl6Sm5TOE9xV3FtVTF2UmVsOWFMRVlIWmxJTkhSQzRB0gHnAUFVX3lxTFB2dXZncHJjd0ZLM1JwcUMxaEI0bEFUMWdJRk5QVHpMNEZuWk95aUhCTks5S20wODBYRnNiSnFZaWx4VWlBcG5fVV9XMERONTlma3A5VVNHMTkyMzBvVWo4NFNwelhKcl9ES0pZNW1LRjh0c29sRkZjRnp3ZmxsUU9LSEdoR0tteUF5Y1pGUVFHODVLVUxVWG1JRlFvbjV5MzdYNE5GN3pYLXp3NnVfWUQyR294NDJIV0p2Rkk4bGxDTjdyNVRKYUZSR3pyc19nRUxZLXhZek9BTzZlMUVCTG9yNVhmcXpnOA?oc=5",
@@ -123,6 +132,15 @@
       "pubDate": "2026-07-24T05:47:16+00:00",
       "source": "merahputih.com",
       "description": "Kekerasan Seksual masih Jadi Ancaman Anak Indonesia, DPR Minta Pemerintah Permudah Sistem Pelaporan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Hak-hak Korban Kekerasan Seksual yang Dijamin Negara",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN201WUtjbllKcHpHMWRwbnRyWmdwWGYwTzhnTXB6SEVXLTlyWU1Uc3FDby1JempRVUg0Sk5pVEVwdG1sdXFMOFZJWkk4RUktQ2VndzNMbzZ4YXA0dm45bXp0UDVKZG5ONmI2bUdLNTJmbmxnSWZuR3N3Q0dVdzZvdGdpLVJ3Y2s2cTd4Mk95M1gyWVJhSDJRazIwMm1xSEE3c1Z3cnc3Z3pQTmktNEF1bl9wS0NhT2fSAbwBQVVfeXFMTUVYay1RT1VoWHVkUlpjZTNENnh6eXFIOGZael96ZElUSTZNTDlLR3MyMnpMcHVib0MzaTV5d251OTFraWtjUlY5cTJHNUptd3RxQ05jdm1EY0VreURjRTN6U1VheVF3bnA2clRHWmVpSVprbmJmMDFYN0pWV0U3X3FBRk9feHV3OHNyYUtEdF9fV195NVhJQjNuTVU4dGp4ZGxfRHAzWTlWdnZBdXNwODRUMHBtMERibzlFb0k?oc=5",
+      "pubDate": "2026-07-24T03:28:08+00:00",
+      "source": "CNN Indonesia",
+      "description": "Hak-hak Korban Kekerasan Seksual yang Dijamin Negara",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -2521,15 +2539,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
-      "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "World Health Organization (WHO)",
-      "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
@@ -2537,6 +2546,15 @@
       "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
+      "pubDate": "2026-02-23T08:00:00+00:00",
+      "source": "World Health Organization (WHO)",
+      "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "7 Dugaan Kekerasan Berbasis Gender Ditemukan di Lokasi Pengungsian Aceh",
