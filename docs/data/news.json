@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-26T13:09:52.679056+00:00",
-  "total": 322,
+  "updated_at": "2026-07-26T19:03:30.017827+00:00",
+  "total": 323,
   "stats": {
-    "tpks": 100,
+    "tpks": 101,
     "kekerasan_seksual": 130,
     "kbg": 41,
     "kbgo": 51
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kejari Gowa Gandeng Mahasiswa KKN Unhas Edukasi Pelajar Cara Cegah dan Laporkan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSHVjbkJTdWFQUFpxNkFwMTFsYVkzQnhIMFU2Vk1VRDk3RHdfRVp1QjVQTFZualNLN2F6Qy1pbWZaTTVIQ2ZDWjJBNFo1NEhoY1RvQloyLXpwOUk4QzNRdTRnYTlLWEdKdUl2RXF5dG11V09WVG1FQzFzQU56VWdXN1VLNEJySDJsd1dJanNDbkp1dnJOWHR5bkxZWXNuN2U5b3dWVnNFNlo5d3ppN2tSbjBxNDdzbGhYT2owRkpRcF9hRm1KR09oQXhkZzNfbHlhc0E?oc=5",
+      "pubDate": "2026-07-26T14:34:25+00:00",
+      "source": "Portal Berau",
+      "description": "Kejari Gowa Gandeng Mahasiswa KKN Unhas Edukasi Pelajar Cara Cegah dan Laporkan Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Selama Januari-Juli 2026, Kemenag Jateng Catat Sebelas Kasus Kekerasan Seksual di Pesantren",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFJObE52YVVjUmpTN0F5c2dIQnk1TE1YbGZmYVA5UjFGaGtJVER4NHkxSUxtNWV5TDB2ZUhrc3plRG1MazEyZHpha09MeEdoV21TQlFLWU9reVRZQTItSTNXSllsR2VrLVZnZTd6dzN5SWR6aFAxbl9xYTEyNk5UWHZkaF85T2JfckJLdm8yX1puNzhtRVFJWWdkdndtaWQ0TmFRbkNfYzBFd0IybFQzNzBXUVI3N1hXaWktSnowanNtRnZOUUotM2J4MmVxWjRiRzRWOXN3?oc=5",
@@ -496,20 +505,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZmaw?oc=5",
-      "pubDate": "2026-07-20T04:20:37+00:00",
-      "source": "BBC",
-      "description": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZma9IBZkFVX3lxTE1ZdGhlanl3eVhWWVExSVpYR2RYajNBRExKbGJ6UktfSV93b0hFRW1ldGc5c0hXM2gtNWNQM2c4dnhyUlU2eTY0TGM5eWRXVHlJR24tNG9aXzNaWmpQS3VTMEtCeWZkUQ?oc=5",
       "pubDate": "2026-07-20T04:20:37+00:00",
       "source": "BBC",
       "description": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZmaw?oc=5",
+      "pubDate": "2026-07-20T04:20:37+00:00",
+      "source": "BBC",
+      "description": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
