@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-26T02:22:37.224141+00:00",
-  "total": 318,
+  "updated_at": "2026-07-26T08:19:47.645648+00:00",
+  "total": 320,
   "stats": {
     "tpks": 100,
-    "kekerasan_seksual": 126,
+    "kekerasan_seksual": 128,
     "kbg": 41,
     "kbgo": 51
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Waka MPR Dorong Gerak Bersama Bangun Sistem Perlindungan Anak dari Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTR4VDRLTDBVYVNfRlFFdW1UdDhNRGtOTkU3VG9hZ1RFZlJISnBaY2FnMmc5LUJDczVDVHBHaFBYS1hXWmRxbDhoeGpzYVVCcGhreVY4OXpOSEpTb1BMSnJrNzBSd3Y1NGUxUkZzdWVwcUU3YXBPaVEwUFZqTzkwUml2SG5uRU12MEh0TVhDX192azlQd1MwYmNlY2JYSzY2VFQteXY1YmNHZzhrUU5J0gGyAUFVX3lxTE5YTHdtXzhqZ2kzQS12NU5FNTFXOG00MnA4T3lFVUJRRzFJUWFCWFQwQ1pZX1RVc3p6MDdhd2xpX0dnWDd3bElCNDVraGNFZ1NfcW1WakNVTWtUZ1k0YXhSYTdJYW5IcU41QklqY0RfSnBzbF9GWTZpeFN1OFdna0Z2OXlieWhrY0tOWFNXcGYyUFdaZUdPR1lrQ1F6VEtzSFVUUnZnVTNpcVpYSDFOUTYxSkE?oc=5",
+      "pubDate": "2026-07-26T03:10:29+00:00",
+      "source": "JPNN.com",
+      "description": "Waka MPR Dorong Gerak Bersama Bangun Sistem Perlindungan Anak dari Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Polres Karo Tahan Pria 46 Tahun Terkait Dugaan Kekerasan Seksual terhadap Anak",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaHR2bldYQWhIUTVvd3R0eWpQVV9TVG5ueEpIZHJ4QWcyRlVEam1iUG9WQW9xSnZyWjY3WTc0dWdhOF8yZnVyTGh5OHkwemkwSVFVZUVINlEtR3hDa3MyVDgzRDRpUVdYYkV2djlEb0ZjVXZ3MzJyQm1mU1ZwLWJIQUxR?oc=5",
@@ -465,6 +474,15 @@
       "pubDate": "2026-07-20T07:10:31+00:00",
       "source": "CNN Indonesia",
       "description": "Modus Pelecehan Seksual di Grup Chat Unesa, Ada Konten AI Tak Etis",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZmaw?oc=5",
+      "pubDate": "2026-07-20T04:20:37+00:00",
+      "source": "BBC",
+      "description": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -2476,6 +2494,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWxOZ1F6Z0x4UmQxbVJWVGxlQ0d4Z1hMS0tCNmNxTzJ3U18zUmFCVzNXX1B3cHZ6akRrc3NJM05FNkdNOEhZSm53bTJLTHV1a3Z4cWJwdU5ONVZBVmg0ZWRHM0FxNV9fa3NScDRPR2NVcXpnUDd0SGhpSzIyVlphTzVZaXlTSXptRWdKUm1ySGVRN2J2d2ZQYTBzZFZoMFJJcTFEUmYtYTFXZWVfLW90X0E0cy1hNUd3SC0teg?oc=5",
+      "pubDate": "2026-03-02T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Implementasi UU TPKS Belum Merata Terhimpit Problem Struktural",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVd4RTlIWVFXTlRJdXpnWXBEVE5hNl9WcHYxTnAwbjhpWTVrZEx4b3UwZ2VwU0pmbFJwUXM5NS1LUEs3Z0ZVLU05QzVsOW1nc0lTemZndkdGeW5yckZuR2FadmpIekVQUEFpaC1RMEV6ZjFjTWR3ai0tVzZpaDdSTENycWlmLXljaHRhZ1FTVC1aUzdIYVJpbXQ4TGZFcnpYRlNBYzZjRGxUQ1liZzFUd3hWVDNUQzg?oc=5",
       "pubDate": "2026-03-02T08:00:00+00:00",
@@ -2490,15 +2517,6 @@
       "pubDate": "2026-03-02T08:00:00+00:00",
       "source": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA)",
       "description": "Polri Luncurkan Modul Pelatihan TPKS, Menteri PPPA: Polisi Garda Terdepan Perlindungan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWxOZ1F6Z0x4UmQxbVJWVGxlQ0d4Z1hMS0tCNmNxTzJ3U18zUmFCVzNXX1B3cHZ6akRrc3NJM05FNkdNOEhZSm53bTJLTHV1a3Z4cWJwdU5ONVZBVmg0ZWRHM0FxNV9fa3NScDRPR2NVcXpnUDd0SGhpSzIyVlphTzVZaXlTSXptRWdKUm1ySGVRN2J2d2ZQYTBzZFZoMFJJcTFEUmYtYTFXZWVfLW90X0E0cy1hNUd3SC0teg?oc=5",
-      "pubDate": "2026-03-02T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -2539,15 +2557,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
-      "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
@@ -2555,6 +2564,15 @@
       "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
+      "pubDate": "2026-02-23T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "7 Dugaan Kekerasan Berbasis Gender Ditemukan di Lokasi Pengungsian Aceh",
