@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-27T02:30:19.253366+00:00",
-  "total": 323,
+  "updated_at": "2026-07-27T09:41:30.077956+00:00",
+  "total": 328,
   "stats": {
     "tpks": 101,
-    "kekerasan_seksual": 130,
+    "kekerasan_seksual": 132,
     "kbg": 41,
-    "kbgo": 51
+    "kbgo": 54
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,42 @@
     }
   ],
   "articles": [
+    {
+      "title": "5 Bulan, UPTD PPPA Jombang Catat 74 Kasus Kekerasan Perempuan dan Anak",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSk5JZGxtLTlrTjYwdUItTFNnd1ZDUHdENmpQMno4Ulpwb2FRTHJCNWlURFlxN0lHeHlBZHdfVEloRU9XZGE0Nk9wTXY4REtmWUVmVUFjdmlxVkF0dzhSblpBLTJvTXJiNkxDbDJiSnVQdHlhcXlCdXV4bEJlQVRHTGJyTk8yZVAyekhweVNHc3BqUFV1U3h2allJOHdncW5aQTlWaUxLUy1BRzAzN0N4bGtBQXdDS0pYLXdpQUJHSU9DZ9IBxwFBVV95cUxNMHpFS0I5a1FIV0Y5VGNESUo4TkY1Y1l4cXRWaTVmR0xvOXZ5V1BjZENfSTRvVTd2cXVFeVVqNzlqdU5aSDFGN2NUdHpHaFpuR3UyTkZMT3hOQXY1Mi1yNFhCTHB6RkNNVW1jLTNTcGVYWDlLcDc1b203M2pwSlZERUVtVDM3X2YwOUxlakIxOFoybGZBay0tekFBYkNRWk13cTNvMTBMbFI2WlFCUUlLS3VQcFk2XzNMaWhvTFBDSWljRUxoa0Vz?oc=5",
+      "pubDate": "2026-07-27T07:19:58+00:00",
+      "source": "Jombang Banget",
+      "description": "5 Bulan, UPTD PPPA Jombang Catat 74 Kasus Kekerasan Perempuan dan Anak",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "UPTD PPA Batam tegaskan komitmen dampingi pemulihan bagi korban kekerasan",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWRfRWFaU2JUTmM0SFU2NFNVQk03Q3dHb3QtOXBrenVyQWEzN3ZNaTh2VzFrRHdFcnJSOEs0VTNRcmdFdVdDMzRzb2R6UHZOZjYzWTZkcEU4MmltUEpaaFNUTFNZWjYzWkFscktZbFQyOVBmYTE3dlZGNmNKeHZuUkFNMzFja19jZFZiMU5yNW15ZEsxM0JBcGpxUE5ESkxsTl9kc0lqUkxWRE1MLTA5bDY4YVBkelU?oc=5",
+      "pubDate": "2026-07-27T04:31:01+00:00",
+      "source": "ANTARA News Kepri",
+      "description": "UPTD PPA Batam tegaskan komitmen dampingi pemulihan bagi korban kekerasan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Terbongkar di Majalengka, Lansia 75 Tahun Jadi Tersangka Kekerasan Seksual Anak",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaXZBVThJVVJHQlhxMXFVVld5a2FvY0hXWVFuemdLNHdicGtvOHZFSFlHbE9ad2o1a1ctTTJhU1VHSWMxbmhJbzR4c2FGMnM4SEhtVi1TTHF4MkFEai1YNmQ1S3E0SjJlZ1A5SENtaVcyQXBaLThpbW5sU0dnUllHTllMUzJwNU54ZzQ1dHF5Ml9fR0FtWUxlYVB1U0NzY3B3c0Q0N0NrSXdfbnVBYWUtdzZLVFJTNy1zQ3VnMk1EUVpCdw?oc=5",
+      "pubDate": "2026-07-27T03:45:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "Terbongkar di Majalengka, Lansia 75 Tahun Jadi Tersangka Kekerasan Seksual Anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Miris! UPTD PPPA Jombang Tangani 74 Kasus Kekerasan terhadap Perempuan dan Anak dalam 5 Bulan",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZUJTWFJyM3RUNFVqRkxEWTY0LWZ0NzhBc0gtd1VlWEZ1c0ZzQl9xZF9WMGxVQ2t1NmthUmhjZmE3TUpqcXVRVzZsUWxPbjJ3dllmOS1mM21KT1VZRHpDNlI1R0JfZloxNm9KOFdtQ3czdFZ1ZEttZ3RpZ3lzd0RBT2V5R1JETnM4c25ESThkUDBDemhFdUdHaUV2azFNaThudk96R3ZSajBSMTVWVUdodXJfd0FGZ0g3aEttT2t2Rk5TeUdncVFuWUdfWXpCaXJQb2xLV1A4QVBFTVBoYl9PM0sxYWNOUU93dVB2TWRB0gHzAUFVX3lxTFBTMk8ycmRjdmtWdThsZ0dMNFJ2b1dJOUtGVFZtNlBjTnF6T2VoNnNRUFNHZS14T0pqWWlCWmg3YVh4VjV0ZURXMlAzMjc0WGZzNVlzdGN5c1FCak43OG8zZmRReHN3eGtlZ0xkYTJuNWg3UXVxaklUR2xmZzB6bWdHUkk2N0hEUDhuUFZ0cGc4anRxU0wzSUx0UHNpTC0zcnpSTlpKVEJqZk5nRUMyVmVSdTBtWXZVcE1JNUk1eThLWEt6Nm1falZVQ1FQbnFYQnAwaTFETkQ5YVBYUUk5N0VHdmYxb3hjQ0ZzNjhQRWVtU2Rzcw?oc=5",
+      "pubDate": "2026-07-27T01:29:30+00:00",
+      "source": "Radar Jombang",
+      "description": "Miris! UPTD PPPA Jombang Tangani 74 Kasus Kekerasan terhadap Perempuan dan Anak dalam 5 Bulan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
     {
       "title": "Kejari Gowa Gandeng Mahasiswa KKN Unhas Edukasi Pelajar Cara Cegah dan Laporkan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSHVjbkJTdWFQUFpxNkFwMTFsYVkzQnhIMFU2Vk1VRDk3RHdfRVp1QjVQTFZualNLN2F6Qy1pbWZaTTVIQ2ZDWjJBNFo1NEhoY1RvQloyLXpwOUk4QzNRdTRnYTlLWEdKdUl2RXF5dG11V09WVG1FQzFzQU56VWdXN1VLNEJySDJsd1dJanNDbkp1dnJOWHR5bkxZWXNuN2U5b3dWVnNFNlo5d3ppN2tSbjBxNDdzbGhYT2owRkpRcF9hRm1KR09oQXhkZzNfbHlhc0E?oc=5",
@@ -125,6 +161,15 @@
       "description": "Peringati HAN 2026, PERMAMPU Perkuat Pemahaman UU TPKS Lindungi Anak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Lestari Moerdijat: Bangun Gerak Bersama untuk Wujudkan Sistem Perlindungan Anak yang Menyeluruh",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU3lVdTQ4SzVCaFI3d3ZYQlpFcnB1aHE5T2liY0F2TWRKZWxQeTRpemw3MHNvVDNDTWZJWnF3b3dQOTVfY1NlQTN3ME5jQ2ptMUNjb1JOZ19uWWhYU1Vra3hLd0VhbmUydkZNdDg1X2ZLbGZCRUVjdFlpaDNsQlh2WGpxQkxtbkY3aHc?oc=5",
+      "pubDate": "2026-07-24T14:03:00+00:00",
+      "source": "mpr.go.id",
+      "description": "Lestari Moerdijat: Bangun Gerak Bersama untuk Wujudkan Sistem Perlindungan Anak yang Menyeluruh",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
@@ -2452,7 +2497,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
