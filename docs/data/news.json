@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-28T02:04:56.274831+00:00",
-  "total": 331,
+  "updated_at": "2026-07-28T08:26:02.946651+00:00",
+  "total": 335,
   "stats": {
-    "tpks": 102,
-    "kekerasan_seksual": 134,
+    "tpks": 103,
+    "kekerasan_seksual": 137,
     "kbg": 41,
     "kbgo": 54
   },
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "LBH Padang Ajukan Keberatan, Minta Kapolda Sumbar Gelar Perkara Dugaan Kekerasan Seksual Libatkan Perwira",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVlEZXU0MGhNM19FRE9tYzVaclg4UlpaWHBTVjNZbE9BclJZY1hsNi1feURIRlZ3YnZ1ZDhLME9RWFZ1WDNMdmVBcFZvYjRuVXMxeUZDMTV0NUpOLTNWNmsxUkRZRUl2OXVUbHpPaGJmcmRIWjU0QVlpUE1GWUF6bDJHcmRhdFNpWlQ4V3hqTGRFUFliTzJibWtickdwQ0c5YnF3cTNnTjZ4X2tzb2t5WndTNnRzaS1hbnBFOVVFOVduaGlDREww0gHMAUFVX3lxTE9fNmhDWW5waVExbnpLWW56MHdMaGhXYzRkOHFsNzZpcFVTcFBQNkQ4Y0FUSmxCZjRFVGZ5LWVJTEpKZndfc0d2NG5zTUhCUWRmcXVmTW5IclFTTHRXakpuM2hab2h2enpqeTlPeGpqaHJ6WnpqbnZoVjZUaG5qOUE1NDdqMVNsb3VvMFl3LUg4aDNfRHJ5ZlNXWVlvV0dpQlRTWGs5SmUyMDBfdmNuY0liWVNUdlFLcktwTWYyNEo1amNFNVExLUxoaTVjcw?oc=5",
+      "pubDate": "2026-07-28T05:19:00+00:00",
+      "source": "Kata Sumbar",
+      "description": "LBH Padang Ajukan Keberatan, Minta Kapolda Sumbar Gelar Perkara Dugaan Kekerasan Seksual Libatkan Perwira",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Bupati Majalengka Serukan Perlindungan Anak dari Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3hWNTFmTERPZ3Y4cTVKWlFXS3lDVzlfX0tWMmQ0QmNaZEFZQ2hQand5d2IxcnprRkw3ZU5NRXNSZ1Y4WTRrNTZ3eWc4bHFiNnM0MXF6V3lxeEZVZlF6akZUb1dxaXdHTWhVSmVNMW5mcUtmVUN1T1RuSjlnaXlaNHhxXzl4bktwaW5rczJvTmt6dDB2c0drdUJVNnlYWVZYRENOT2JQbjlsNkRPMnFNaGRlU0RlVVZOVVhn?oc=5",
+      "pubDate": "2026-07-28T04:51:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "Bupati Majalengka Serukan Perlindungan Anak dari Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pelecehan Seksual terhadap Pria yang Diremehkan",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnNmUlZ4Wk5EZF9TQ1FkS0Rla21YaWNnSXBwMnhzbWFHRUVxcWxMLWN4alZkZTRUVzVxVmd5RmgxWjV6YWVjd21MQ0stQk45WnR1VVFEa3lvdHRUOGJ0eHNBOG1LWm1XUnV1LVRtRHlHMEpzb3B0QWtmVG5paVF5NXY0eXE1Vi1GSXBxZDdHZ3k1Q2VMUmlaQS1FMk5LelBFR3NTdTZFOFNGWDMxVVM0?oc=5",
+      "pubDate": "2026-07-28T00:29:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "Pelecehan Seksual terhadap Pria yang Diremehkan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Kunjungi UPTD PPA Lampung, Menteri PPPA Beri Pendampingan Langsung Kepada Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVk0NWJyUHVrdmtlTGZUSm13Y211b3lreVJRYkk5bUJnU1dscFF5cVZzM2RnMWVlYno1TVNGdUNKY2Jsa2xBV0RZUWZFVXJPWXpXUkZfY1RDR01jclRHMTRxYUVDQ002N09oQld4SER0em9ZY2Q4RGNIOWljSzZCWk5Ma20zUDRxQ2R1UXd0Nm91YklMVURfcXN4b2ZmaTk2ZlhWVTBhRl81cEFKbU5pVlVCeWlkM3E5Y2oyRG1rN2ZiVVoxcGVoemFDOC1mNW80cVVTYnl4V01xTHBNM3c?oc=5",
@@ -179,6 +206,15 @@
       "description": "Peringati HAN 2026, PERMAMPU Perkuat Pemahaman UU TPKS Lindungi Anak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Hari Anak Nasional 2026, Legislator PKS Ajak Perkuat Perlindungan Anak dari Kekerasan Seksual dan LGBT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTGw2Q2t5bndIel9McmxtOTFVR0hCSFJZNEh3d2M1TG5tWV9pOWJXd2Z0bUJpN2NQWnJYOFRuaDBfcV9RSjNjdFdCSnZCcnVJVnMzRkZWUlF4d3I3SXNYUkN6VEViaFVWRDZzU21Fck5ybTFfTUtsYWF5M0w4V1o1b1EyQUptSVJKS2Ytd0pYZHVldnBGRDdEcm9fbmJMRHAzUkZidVhOUTRFSXF6eFNBMXlmYVAtMGk2VmkybVdzNFJGZw?oc=5",
+      "pubDate": "2026-07-24T15:02:35+00:00",
+      "source": "Partai Keadilan Sejahtera (PKS)",
+      "description": "Hari Anak Nasional 2026, Legislator PKS Ajak Perkuat Perlindungan Anak dari Kekerasan Seksual dan LGBT",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Lestari Moerdijat: Bangun Gerak Bersama untuk Wujudkan Sistem Perlindungan Anak yang Menyeluruh",
@@ -2386,20 +2422,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Prohealth.id",
-      "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
       "source": "Tribrata News",
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Prohealth.id",
+      "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
