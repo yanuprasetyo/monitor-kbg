@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T19:20:05.030169+00:00",
+  "updated_at": "2026-07-28T02:04:56.274831+00:00",
   "total": 331,
   "stats": {
     "tpks": 102,
@@ -2368,6 +2368,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-17T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Modul Akademi Penghapusan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlpiNm01SEJzemppMEdGRm9RcEtHREVVTEJKaC1CLUxNM2c2bTZLbHJESWFvYXlpUXhzUEdtcVRuM3hOa0ZuRlhRb1dCcjBtSVdldTJZRjZDZDZKRzhXNkZjNDNuOXZJWks3VzlCMVNCUmw4XzRqcmRSYUg3SGtwSnNhYUZGd1FOemIwYlJ5T2hhc3RRR0FSRDI5YkgwQWt6Z1ZMSnpHU3Z2TmphQTM0SQ?oc=5",
       "pubDate": "2026-04-17T02:58:28+00:00",
@@ -2375,15 +2384,6 @@
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
