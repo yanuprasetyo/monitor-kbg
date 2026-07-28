@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-28T08:26:02.946651+00:00",
-  "total": 335,
+  "updated_at": "2026-07-28T13:53:57.880129+00:00",
+  "total": 338,
   "stats": {
-    "tpks": 103,
-    "kekerasan_seksual": 137,
+    "tpks": 104,
+    "kekerasan_seksual": 139,
     "kbg": 41,
     "kbgo": 54
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "KAI Commuter 'blacklist' 40 pelaku pelecehan seksual di KRL",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOG1ERVpTLUZkYjVWNExfX2dzUEtOVDhpelR0RkpHbE5ockk3TnNYWTNwa2pvdmt4UzRValFjWmxaOWNvNDVwZzktYnliU3JLZkJtU0kzSWwyWmF6MHRTeDJYRlQxckZTUUNrdW84aG5ERHE3MlBGWFRUMlg3ajczNA?oc=5",
+      "pubDate": "2026-07-28T09:28:05+00:00",
+      "source": "CNA.id",
+      "description": "KAI Commuter 'blacklist' 40 pelaku pelecehan seksual di KRL",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "LBH Padang Nilai Penghentian Kasus Dugaan Kekerasan Seksual Polwan Prematur, Minta Gelar Perkara",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzl2UFgtcEludmVFLWJhQ1BqM2FLWVhRdEFQdVVwM1NGMVA3YW9pOHNtUlk1UzdfbEM2TnFUZDdPZ3U3Nm5GWjI3bHZVVVZMMzlvUW4yYXJiSTl4bUNyWXktWW1RNjR6Q2NoVFp0UHVuYzBHYmJ6YWlKVHVSYXlSUGdkbFNhMVdyanhPSEpGU2p1STB4QTRMdm1jMWZ4bXFrRVJsTTM4dHBBTHB2NF8yUEJaUW93OW9tbi1qcA?oc=5",
+      "pubDate": "2026-07-28T05:28:03+00:00",
+      "source": "KlikPositif.com",
+      "description": "LBH Padang Nilai Penghentian Kasus Dugaan Kekerasan Seksual Polwan Prematur, Minta Gelar Perkara",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "LBH Padang Ajukan Keberatan, Minta Kapolda Sumbar Gelar Perkara Dugaan Kekerasan Seksual Libatkan Perwira",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVlEZXU0MGhNM19FRE9tYzVaclg4UlpaWHBTVjNZbE9BclJZY1hsNi1feURIRlZ3YnZ1ZDhLME9RWFZ1WDNMdmVBcFZvYjRuVXMxeUZDMTV0NUpOLTNWNmsxUkRZRUl2OXVUbHpPaGJmcmRIWjU0QVlpUE1GWUF6bDJHcmRhdFNpWlQ4V3hqTGRFUFliTzJibWtickdwQ0c5YnF3cTNnTjZ4X2tzb2t5WndTNnRzaS1hbnBFOVVFOVduaGlDREww0gHMAUFVX3lxTE9fNmhDWW5waVExbnpLWW56MHdMaGhXYzRkOHFsNzZpcFVTcFBQNkQ4Y0FUSmxCZjRFVGZ5LWVJTEpKZndfc0d2NG5zTUhCUWRmcXVmTW5IclFTTHRXakpuM2hab2h2enpqeTlPeGpqaHJ6WnpqbnZoVjZUaG5qOUE1NDdqMVNsb3VvMFl3LUg4aDNfRHJ5ZlNXWVlvV0dpQlRTWGs5SmUyMDBfdmNuY0liWVNUdlFLcktwTWYyNEo1amNFNVExLUxoaTVjcw?oc=5",
@@ -645,6 +663,15 @@
       "pubDate": "2026-07-18T10:13:01+00:00",
       "source": "Media Indonesia",
       "description": "Kemen PPPA Pastikan Pemenuhan Hak Korban Kekerasan Seksual di Malang",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDMwQzRYemNoZUhOS00wakZuS1VrYW5vclBnNjhnUmpQWXZEdFFTSXhnSzBqYldia3UyVFRhTlFmWlBNUG1VZjNnQzBRUkl0QVp0dmNwRTRnMDRpZ21kMnRRSUpHWWtkMUx1U1UzWHdIVG5MQXppZ2phNjhWXy1fRk9aazBhYXY3THQ1cnFOLS1WcUFLMUhGVGJHRDdlTG1ONXY0bFN0Y3Y3LUdQVERJdWEyREI0SzlBcFpoNG9xTEdXcFFXUVBXS3ljSzJxdDZkT2JFNlNR?oc=5",
+      "pubDate": "2026-07-18T07:00:00+00:00",
+      "source": "Ombudsman Republik Indonesia",
+      "description": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
