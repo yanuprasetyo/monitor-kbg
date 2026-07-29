@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-29T02:08:16.889203+00:00",
+  "updated_at": "2026-07-29T08:31:56.056032+00:00",
   "total": 339,
   "stats": {
-    "tpks": 104,
-    "kekerasan_seksual": 140,
+    "tpks": 105,
+    "kekerasan_seksual": 139,
     "kbg": 41,
     "kbgo": 54
   },
@@ -633,7 +633,7 @@
     {
       "title": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZma9IBZkFVX3lxTE1ZdGhlanl3eVhWWVExSVpYR2RYajNBRExKbGJ6UktfSV93b0hFRW1ldGc5c0hXM2gtNWNQM2c4dnhyUlU2eTY0TGM5eWRXVHlJR24tNG9aXzNaWmpQS3VTMEtCeWZkUQ?oc=5",
-      "pubDate": "2026-07-20T04:20:37+00:00",
+      "pubDate": "2026-07-20T07:00:00+00:00",
       "source": "BBC",
       "description": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "keyword_id": "kekerasan_seksual",
@@ -755,15 +755,6 @@
       "description": "Minimnya Perspektif Korban di Kalangan APH Hambat Keadilan Kasus Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1B5ZExKMUxYUzktQ0kyYjkwRkJZbnNIY1NqTHR1SnlzSG9ZSzBGNE1kZHU3bFZfR0gxS1RhY3hRN3FjLW1ZSGZ5RElTSU50YmxlWXdnSHFxaGp2d2h2UjVHVWxMako5X081N1JYeEpiY1JfWTVkWVZwTWh3Z3VNbmNSbENVQnNDb0dmWFE3TFpwcnNHbW5tZ1dtZmduMkF5emZOVlhZZk5ZcWtqX1E?oc=5",
-      "pubDate": "2026-07-16T14:12:11+00:00",
-      "source": "Portal Hukum",
-      "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Analisis HAM UU 12/2022 tentang TPKS - Kompasiana.com",
@@ -980,6 +971,15 @@
       "description": "KPAI Soroti Kasus 27 Pelaku di Sampang, Tekankan Pentingnya Pendampingan Digital",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTd1TXNvSnFzUlc0V0tlZmJqcEhwa3Z1R1VMYXhacGhJVW8xSjlMcndkN1NxdTFOaVFKaW5za3ZLd19fWkpESUxMdF9tNVIzMEw3bThiZW9TUWhQNnZqOTJoa2ctQlJSSE43TnpUZWg2NWMwT0dQa0lKWUFCX3B4OUt3X0ZIaUdLMEtMT0RsMFZpME5rbmdKT3p4Zi00UjM1dDQ5QjdBWGJwd0Na?oc=5",
+      "pubDate": "2026-07-11T08:45:59+00:00",
+      "source": "Portal Hukum",
+      "description": "Perlindungan Korban Kekerasan Berbasis Gender Online Menurut Hukum TPKS",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
@@ -2445,8 +2445,8 @@
       "pubDate": "2026-04-17T02:58:28+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
