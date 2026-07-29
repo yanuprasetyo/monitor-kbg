@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-29T08:31:56.056032+00:00",
-  "total": 339,
+  "updated_at": "2026-07-29T13:59:01.633233+00:00",
+  "total": 341,
   "stats": {
     "tpks": 105,
-    "kekerasan_seksual": 139,
+    "kekerasan_seksual": 141,
     "kbg": 41,
     "kbgo": 54
   },
@@ -28,11 +28,29 @@
   ],
   "articles": [
     {
+      "title": "MUI DKI Ingatkan Kekerasan Seksual Tak Bisa Diselesaikan Hanya dengan Hukum",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wNWh6NGdOMER5c3hKZUxiVkRuanc4NW96ZlRZcU9vNTlsLTBQQzVObkVjMlNCSGV5Vmw5cHFjN0llckItOXFYdk5hbUlZSzdsTTJ5NkRDMjUyZklSMGJqQ2pHTzFUbXNuanZpUHZtQVBKX19BSm9NSHFoNkVaXzQ?oc=5",
+      "pubDate": "2026-07-29T09:22:22+00:00",
+      "source": "Editor Indonesia",
+      "description": "MUI DKI Ingatkan Kekerasan Seksual Tak Bisa Diselesaikan Hanya dengan Hukum",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Seminar MUI DKI Perkuat Sinergi Cegah Kekerasan Seksual Menuju Generasi Emas 2045",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkE2amJBR1BBSXRQZTN4QWZ1Q2ZoRmw1NG5zNkFQYk8xTk1yTG1Hakh3cmhTb3FlOEVtY1Mtd21jQWRxYlpGejdJbUR2cU11SGgxSEtSSkgwdnIyemhzLXptWDRGQ21SYnFVRGdJN3IzUFY1VFFsZXBfUFdFRUhndXp5ZDF2Qk1tQnlCM3BKQmZISnhkMXZVTUJkeUhTVjlTWTE1dHFtYzYwZmRhVC1RY0Z1aTU0TWxEc3hhNFIwRlBrYmtYZ2JuU3pWaGo?oc=5",
       "pubDate": "2026-07-29T01:28:20+00:00",
       "source": "Panjimas",
       "description": "Seminar MUI DKI Perkuat Sinergi Cegah Kekerasan Seksual Menuju Generasi Emas 2045",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Seminar MUI DKI Jakarta Hasilkan Deklarasi Bersama Cegah Kekerasan Seksual dan Lindungi Perempuan-Anak",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb18yaGNYVC0wOW9yN1BWR2dnMzk2R2ZKQnBvTFZJZ0JpZFJQZ05Td0RlWDJFNWlyQTJwazh6NElmVGRZV0p5MFBzTlRyLTlDczlCZlNIR3JPQUl1dDBDRktYUjlnc3h3U2djTlJGYXRaMzVBTTlfMkhfMlhIdWtld29lLXNFUWZ6S0xucV9mN3dRM1NtMUVaNnhJQXotMlFiamJSLUZhempPRHdzNzdCWjVGOVMtYjI3N2FidDdCbkRRT04ySzg2QUdjemFEaXFEM21NcUJNYW9Xczh0UzhN?oc=5",
+      "pubDate": "2026-07-29T01:27:00+00:00",
+      "source": "Askara.co",
+      "description": "Seminar MUI DKI Jakarta Hasilkan Deklarasi Bersama Cegah Kekerasan Seksual dan Lindungi Perempuan-Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -2713,7 +2731,7 @@
       "title": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlJrTE5MaWJtNzJidUpybjZyZTRjNnVoTFctR0ZMdXVOb1dBTGxMTGlyNUxXYzY1WmFlTlBDOUVwYVhXaG0xZ3lFVmhpUkZtNWNsRUp2Z3JZaU0yNTVZN3h1WE42VDEtR0g4YWRLYVF1eVN5eWtNNEo1Mm1zTnpiMk1OQQ?oc=5",
       "pubDate": "2026-02-26T08:00:00+00:00",
-      "source": "magdalene.co",
+      "source": "Magdalene.co",
       "description": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
