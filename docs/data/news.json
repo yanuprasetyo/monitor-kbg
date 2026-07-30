@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-30T13:47:52.791275+00:00",
-  "total": 344,
+  "updated_at": "2026-07-30T19:18:25.046197+00:00",
+  "total": 346,
   "stats": {
     "tpks": 105,
-    "kekerasan_seksual": 144,
+    "kekerasan_seksual": 146,
     "kbg": 41,
     "kbgo": 54
   },
@@ -28,10 +28,28 @@
   ],
   "articles": [
     {
+      "title": "MUI DKI Jakarta Deklarasikan Komitmen Bersama Cegah Kekerasan Seksual, Perkuat Perlindungan Perempuan dan Anak",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbTNmaVJ3ajZBTWYtVXd4MEs3OVFOUHNNVmZjcVk0Z2ZHcHpHX0gyUTZJeEhub0xLYXZ5Wmh6bDdEY0Z4aHR1WjdaVWRYMEhQOGwwbDhkTVdIMmF4VFdzbmM5eExzX0xjTW1ldmpMQ1lHS3RVa2c0RlJwVUNXMEdoLUY0OURxQUd1UV9iVkJMNjBNNGhoNV85OW1MemdnbUs5VGVhd3dlS2gyRkl5N29tUFpnZ3BfM0lOZG5MX014eVFuSFRBUEhBRUc3TWRKZw?oc=5",
+      "pubDate": "2026-07-30T10:27:55+00:00",
+      "source": "Arrahmah.id",
+      "description": "MUI DKI Jakarta Deklarasikan Komitmen Bersama Cegah Kekerasan Seksual, Perkuat Perlindungan Perempuan dan Anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pengawas LPAI Batu Bara: Jangan Biarkan Korban Kekerasan Seksual Anak Berjuang Sendiri",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekZNMWdDYjAtVlNJMV8wLTZlYlE1Nk55M1dkcW5fSGo1cGdUbnRiYWJ5UmU0TW5RSmdmeVBuem9FLTVocmtGSmtsU3FSTktaVnEwSkZDNEh5b3FHOXVUS2JIR1BEQlQ1cVJxeFJTcHRJT1ZwY0R4VzEtQzZ2SER4TG1xcU9kSUZkdFBCSkVobE1ZbVJiWTUzTzJBOXpFT2M5YmRYc1J3QmkxdEZNRkdNWEZDRjlvQXVfVmFHWmdmb1dLVFJJaF9J?oc=5",
+      "pubDate": "2026-07-30T09:56:40+00:00",
+      "source": "Berita Indonesia News",
+      "description": "Pengawas LPAI Batu Bara: Jangan Biarkan Korban Kekerasan Seksual Anak Berjuang Sendiri",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Plan Indonesia Kecam Dugaan Pencabulan 4 Bocah di Banyuwangi, Soroti Pentingnya Edukasi Otonomi Tubuh",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWp4MnhPVTZrNXhVSFFqbUtZMDJqbWRoUlRhSXBiRm9WOFFpOVp6cFl5ZjZudmlZQjltVlJ4VGhyRERTVDNfX18xQkg1WVJkaVJqd0FhMXB5NE5KbnhUbmY0bUY0aHJxRU9zckptX1M0dnM4RFRNUHZUOXdId2M4dDZ1QWx0RTBIVi1CTHl4U3pGcFBwVjlXR0xyUDRJZm5WZGNtNE1xMmtoR2J3ZjBWNW5CcEJZU0xJdEstTmNqV1c?oc=5",
       "pubDate": "2026-07-30T04:48:25+00:00",
-      "source": "BWI24JAM",
+      "source": "bwi24jam.co.id",
       "description": "Plan Indonesia Kecam Dugaan Pencabulan 4 Bocah di Banyuwangi, Soroti Pentingnya Edukasi Otonomi Tubuh",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2065,7 +2083,7 @@
       "title": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0EtR1EtV01uV3BVeFp1Sm12QkZ1MF9FenRPa01td0ZjUVBGNlZpeV9UTldQQXF5ODBtQzFsYjV1WTVfTjc4TU9XOEpkcHYxa3lvanZEYnBMZEF3cUtQaVdHRHBTT0VVY04xUFdlTlR2d2J5QTZHVnkyWlFVUGJKMW1LLWk?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "bidikkasusnews.com",
+      "source": "BIDIKKASUSNEWS.COM",
       "description": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2452,7 +2470,7 @@
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "BBC",
+      "source": "bbc.com",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2551,7 +2569,7 @@
       "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UWtQejdyeVBhamt6bThRek5NV2kwOXZfR2xjTE5BZHgxRk1qNUllSDN5U3hvLWVFTW5MYUZoUVNRcjZwampTdnRsb0Vwb2dUQ1hSQzh2dVQwZUFEQXJEZdIBZkFVX3lxTE54d2ZpbWNVOU1LX242LUExdnl3dndQZVdnUE5LZU8zeFVCSGR1WXhWTlZTdDFUakRVRnZBWnlJdmRjVWgydGxEc3p5ZDhMQUZaNURGZWxCTVowaWp3UlhSSXY2X1VoUQ?oc=5",
       "pubDate": "2026-04-15T07:00:00+00:00",
-      "source": "BBC",
+      "source": "bbc.com",
       "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2641,7 +2659,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "UNICEF",
+      "source": "Unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2785,7 +2803,7 @@
       "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "World Health Organization (WHO)",
+      "source": "who.int",
       "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
