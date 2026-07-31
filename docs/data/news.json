@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-30T19:18:25.046197+00:00",
-  "total": 346,
+  "updated_at": "2026-07-31T02:23:03.337287+00:00",
+  "total": 347,
   "stats": {
-    "tpks": 105,
-    "kekerasan_seksual": 146,
+    "tpks": 104,
+    "kekerasan_seksual": 148,
     "kbg": 41,
     "kbgo": 54
   },
@@ -42,6 +42,15 @@
       "pubDate": "2026-07-30T09:56:40+00:00",
       "source": "Berita Indonesia News",
       "description": "Pengawas LPAI Batu Bara: Jangan Biarkan Korban Kekerasan Seksual Anak Berjuang Sendiri",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Plan Indonesia Kecam Dugaan Pencabulan 4 Bocah di Banyuwangi, Soroti Pentingnya Edukasi Otonomi Tubuh",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2ItbjY1akwyVHowRmoxeTNQNUZQZW9qLWlsRGhybldudmZoLVZyRk9udFFIbjRzZ0lOT1dwcm1PVFoxU1FKMXREX1Jra2JNOHV5WmRYa1pDRkNoLVUybmRoWXVPaUVTNEw2NV9HOVYtcldJMXB1UU9scUJ2YlotMmlIb29OYUlGQzZsdFRRWTVaZzF4MVBEcmo0Y0ZJb0ptbHRnR25yei1na21sZGVtRDNuTHFlTlRwNmYyV05Hbw?oc=5",
+      "pubDate": "2026-07-30T04:48:25+00:00",
+      "source": "BWI24JAM",
+      "description": "Plan Indonesia Kecam Dugaan Pencabulan 4 Bocah di Banyuwangi, Soroti Pentingnya Edukasi Otonomi Tubuh",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -148,7 +157,7 @@
       "title": "KAI Commuter 'Blacklist' 40 Pelaku Pelecehan Seksual di KRL",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVV9oSUZLZWlnRHNWREZvX29GWHJoclNXX01Dcnl3Vm9wOWpRUjRMc0dFNkVtMlgzamZVMEZDS256SDVUNTFHODQtbHFiSmpNcDJVT1N0bzhWUWZ0TkYzMWUyQ01YTXMtSGJfc2kxYnRTa3lYMmxlcWFpOHpYNVFtTTRUOEdMNTB4ekFaMTU5Z2RYTE9tOFVCT1VLV0tPYms?oc=5",
       "pubDate": "2026-07-27T10:18:00+00:00",
-      "source": "InvestorTrust",
+      "source": "investortrust.id",
       "description": "KAI Commuter 'Blacklist' 40 Pelaku Pelecehan Seksual di KRL",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -694,20 +703,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZmaw?oc=5",
+      "pubDate": "2026-07-20T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZma9IBZkFVX3lxTE1ZdGhlanl3eVhWWVExSVpYR2RYajNBRExKbGJ6UktfSV93b0hFRW1ldGc5c0hXM2gtNWNQM2c4dnhyUlU2eTY0TGM5eWRXVHlJR24tNG9aXzNaWmpQS3VTMEtCeWZkUQ?oc=5",
       "pubDate": "2026-07-20T07:00:00+00:00",
       "source": "BBC",
       "description": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZmaw?oc=5",
-      "pubDate": "2026-07-20T04:20:37+00:00",
-      "source": "BBC",
-      "description": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -1048,7 +1057,7 @@
       "title": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVRDME9XQW9RekxRZU83QTdyVEZmWVZsbjkyUWhtT1NiU0xQa1ZmZ2Y1WWl3dHUwbFl6MnFRQlVNRnNsa0FsTzZKX0YyUV9YSlpZQ0EtaU1TdU9RNnotRms1a25GZ3VJbXJyUG4tcHZUdDRvU0dYalVjVWJvUU53T1kydGtqSk5hYWh6NmhBMUw5bmZtbmJSYXZELWpyWjBNajBRejhzd3ZjYWE4Nk9J0gGuAUFVX3lxTE1BY2lveThOaFRpWEtZZGdFT3k5VE1BRTFIbUNKcXJMbC1MY0xSRThkWS00aUJ0RUpUR21uR2lmSGsyUEJMOEIwc3hzdXJYUWFnZzdmajRmUl9ONF9jR3lTbmFGME1GR0YzME5aZUZZLW5kajJ0SzB1X0RQSFRVTEY4RlpHaXhKTGNRVGJfUEZ2Wl9zUi1jNXdwYkJ4aE1EeVQ3SDBuV1hJVzd0SFNldw?oc=5",
       "pubDate": "2026-07-11T07:00:00+00:00",
-      "source": "HARIAN DISWAY",
+      "source": "harian.disway.id",
       "description": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2074,7 +2083,7 @@
       "title": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRwQWtzUVA4RFVTV3dQNUdVLW1JVVVNQ0YwbkVoU3dHaThZekNJRnVpMGF1ek5pQTlYUWZmZDFQSy1ZSUdmd2s4MVZnenFXdEhsd0JVWTBGS0YxU2RHZlMzQUNRNVl5QlI2alo3djVtUEpXODdORWJ2WGoxYWVCeVJUTFlyZGFQNk9OVTl6QkpsdzFDa3ZMZWpUbjh4cXRkUG9uUzdEcFEzMTFhR2Jn?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "Badan Pembinaan Hukum Nasional",
+      "source": "bphn.go.id",
       "description": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2470,7 +2479,7 @@
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2508,8 +2517,8 @@
       "pubDate": "2026-04-17T02:58:28+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
@@ -2566,15 +2575,6 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UWtQejdyeVBhamt6bThRek5NV2kwOXZfR2xjTE5BZHgxRk1qNUllSDN5U3hvLWVFTW5MYUZoUVNRcjZwampTdnRsb0Vwb2dUQ1hSQzh2dVQwZUFEQXJEZdIBZkFVX3lxTE54d2ZpbWNVOU1LX242LUExdnl3dndQZVdnUE5LZU8zeFVCSGR1WXhWTlZTdDFUakRVRnZBWnlJdmRjVWgydGxEc3p5ZDhMQUZaNURGZWxCTVowaWp3UlhSSXY2X1VoUQ?oc=5",
-      "pubDate": "2026-04-15T07:00:00+00:00",
-      "source": "bbc.com",
-      "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Kasus Mahasiswa UI Cerminan Nyata Kekerasan Berbasis Gender Online di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbURHUkN4ZUptWkYzZWxUQ255M3BybnBkOFJXemJQZ1RDOHVvbEN3Tk5nY3pYUU1EcjJiQkEydGsyUThxM1BkeTZHVlI3VjhaZWZWZGpxNnRWWHExOXpsSVl0ZjRCVDhOOTVWX0dYNklZZTl3cmlEZm5jNGdIM0RJWDQ3UV92TVZoWHJVM3BUR1k1TVJOM2pHUExRYzZYU1pOVVJXbUgtbFpfbHJUQXUyeV8wWkVZRmpYRFFLUG9HOGhYU1Q4TGfSAcsBQVVfeXFMT2QwMzdCQW9uYkJKNktTUG4tdUpycXhjaHdkYy1wR2JvUVh5OTlxLXNQMzFSLXhzUDduQUhOc2lxbUtid2N3bzBneVR4emU4aGJydEg0ZEF3bDNVdVluTFVyYlE1UW9YdWFuVGt5ZDBDQUxVQ3NDNlVqU3hGRmhxUXcwVlNQQjFSekpHTzdBbFVyYUFjRjdRU0habEpFVGZvajRiV1NrWjdxa0J5c0lLLU5NekZjTUluT0RHR0ZfOUQxS0dBOWFJLU5zY2c?oc=5",
       "pubDate": "2026-04-15T07:00:00+00:00",
@@ -2591,6 +2591,15 @@
       "description": "Komnas Perempuan Tegaskan Ruang Digital Tidak Bebas Hukum",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UWtQejdyeVBhamt6bThRek5NV2kwOXZfR2xjTE5BZHgxRk1qNUllSDN5U3hvLWVFTW5MYUZoUVNRcjZwampTdnRsb0Vwb2dUQ1hSQzh2dVQwZUFEQXJEZdIBZkFVX3lxTE54d2ZpbWNVOU1LX242LUExdnl3dndQZVdnUE5LZU8zeFVCSGR1WXhWTlZTdDFUakRVRnZBWnlJdmRjVWgydGxEc3p5ZDhMQUZaNURGZWxCTVowaWp3UlhSSXY2X1VoUQ?oc=5",
+      "pubDate": "2026-04-15T07:00:00+00:00",
+      "source": "bbc.com",
+      "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "JPPI Catat 233 Kasus Kekerasan di Lingkungan Pendidikan",
@@ -2882,7 +2891,7 @@
     },
     {
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXpmRUk2QmljZ0FCSzRhTmpFZFZZMVZDdmtJcDZzU01CYjhlVDIwQ0ZxeW03NVBWS3NyY2pvNzhCeVJyb1hvbWpQN0FrV1dMYUxrMEpURjdIbXV1QlBrT3ZJdWJfTXdiX09Ham92YXNYV2hwVGRJNHgzOGg1ZFdMd1hMbGdxdDBXZGpPaWpseF9Kb2prWXJWd1A5ZFpGVWFvR2pDSHp5Q01hbGhUcF9B?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWm85WVB2amk0bkpreEtjYlB1b01zLVN1RjdBdUZfb1UySmFGTW5OanUtTFNxSXY0NUk5aGtYTVhCWDhfYVZRN2syWW50ZEFvaXBMVlBPVGFoVFVRMmtTN0JEVzdVZ2J1RmF0R3BZZkQtVVpwZ0w0dEV3Qjd0c2FaX3FwZFZ0cXVqN3lLWDVzOWxBTVVaRG83MHNfNFJOTjFKTWs3VzgzVnFaZw?oc=5",
       "pubDate": "2026-01-08T08:00:00+00:00",
       "source": "Mahkamah Konstitusi RI",
       "description": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
