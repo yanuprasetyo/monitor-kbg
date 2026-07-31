@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T02:23:03.337287+00:00",
+  "updated_at": "2026-07-31T08:42:28.211012+00:00",
   "total": 347,
   "stats": {
     "tpks": 104,
@@ -703,20 +703,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZmaw?oc=5",
-      "pubDate": "2026-07-20T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZma9IBZkFVX3lxTE1ZdGhlanl3eVhWWVExSVpYR2RYajNBRExKbGJ6UktfSV93b0hFRW1ldGc5c0hXM2gtNWNQM2c4dnhyUlU2eTY0TGM5eWRXVHlJR24tNG9aXzNaWmpQS3VTMEtCeWZkUQ?oc=5",
       "pubDate": "2026-07-20T07:00:00+00:00",
       "source": "BBC",
       "description": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZmaw?oc=5",
+      "pubDate": "2026-07-20T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Perempuan disabilitas tuli di Jakarta diperkosa hingga hamil dan melahirkan anak – Bagaimana kronologi kasusnya?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -1057,7 +1057,7 @@
       "title": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVRDME9XQW9RekxRZU83QTdyVEZmWVZsbjkyUWhtT1NiU0xQa1ZmZ2Y1WWl3dHUwbFl6MnFRQlVNRnNsa0FsTzZKX0YyUV9YSlpZQ0EtaU1TdU9RNnotRms1a25GZ3VJbXJyUG4tcHZUdDRvU0dYalVjVWJvUU53T1kydGtqSk5hYWh6NmhBMUw5bmZtbmJSYXZELWpyWjBNajBRejhzd3ZjYWE4Nk9J0gGuAUFVX3lxTE1BY2lveThOaFRpWEtZZGdFT3k5VE1BRTFIbUNKcXJMbC1MY0xSRThkWS00aUJ0RUpUR21uR2lmSGsyUEJMOEIwc3hzdXJYUWFnZzdmajRmUl9ONF9jR3lTbmFGME1GR0YzME5aZUZZLW5kajJ0SzB1X0RQSFRVTEY4RlpHaXhKTGNRVGJfUEZ2Wl9zUi1jNXdwYkJ4aE1EeVQ3SDBuV1hJVzd0SFNldw?oc=5",
       "pubDate": "2026-07-11T07:00:00+00:00",
-      "source": "harian.disway.id",
+      "source": "HARIAN DISWAY",
       "description": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -1129,7 +1129,7 @@
       "title": "Ombudsman kawal UU TPKS agar korban kekerasan seksual peroleh keadilan",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWm85bVZhX05MS2hzQzN2STNrUmRUMUxqZXlqbzFweHBKVXg4VENXVk1GenJJNnczS19vUWxUNC0zSkhJbVN4VnJKY0pYU0t6VkZvR3dic25vNzFTeG5wNmFReU81aWhPNGZ6TndsaV9zbkNHZUt2c0g1WnpabDRfQ0JESGktekJ0RjUwalJtV1h5ZTRhVlJlTXpBWkQ0Y1RGLWFjZDVPNXEwSDV4RERSa2RzenJKZw?oc=5",
       "pubDate": "2026-07-09T08:08:32+00:00",
-      "source": "ANTARA News Sulteng",
+      "source": "sulteng.antaranews.com",
       "description": "Ombudsman kawal UU TPKS agar korban kekerasan seksual peroleh keadilan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -2083,7 +2083,7 @@
       "title": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRwQWtzUVA4RFVTV3dQNUdVLW1JVVVNQ0YwbkVoU3dHaThZekNJRnVpMGF1ek5pQTlYUWZmZDFQSy1ZSUdmd2s4MVZnenFXdEhsd0JVWTBGS0YxU2RHZlMzQUNRNVl5QlI2alo3djVtUEpXODdORWJ2WGoxYWVCeVJUTFlyZGFQNk9OVTl6QkpsdzFDa3ZMZWpUbjh4cXRkUG9uUzdEcFEzMTFhR2Jn?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "bphn.go.id",
+      "source": "Badan Pembinaan Hukum Nasional",
       "description": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2812,7 +2812,7 @@
       "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "who.int",
+      "source": "World Health Organization (WHO)",
       "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
