@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-01T08:12:46.617909+00:00",
-  "total": 351,
+  "updated_at": "2026-08-01T13:08:05.486741+00:00",
+  "total": 352,
   "stats": {
     "tpks": 105,
-    "kekerasan_seksual": 149,
+    "kekerasan_seksual": 150,
     "kbg": 41,
     "kbgo": 56
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kekerasan Seksual Anak: Menagih Ruang Aman bagi Perempuan",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzgxaVVsa2RjOXk3VkpzbmVSQmtqR0xLX21MMmRYa2xEbDJkNTN2dHR0VlB0VTRESVVvTnY1WFd6UFJKUW5uMEw4aGdCUExyV1g2bWVpNEJfWWVkQmxxa21Nenh5empnYW5fWUllMVRubmt3dWl1bGdPd3Jkdw?oc=5",
+      "pubDate": "2026-08-01T11:21:14+00:00",
+      "source": "PWMU.CO",
+      "description": "Kekerasan Seksual Anak: Menagih Ruang Aman bagi Perempuan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNWtYNmNfOXVlLXVCYzJlb2RLZk5sZ05aSlI3NmxiQUVZWUNvbklmS3FOS3Y4SENBR0NTTFBCQlN4TGF0RjNqa0ktU25FaUdQZEZEVXlHVFdJbERvWXkxQ3NpeDFxMm9OTlhXRWFVaVk4T0x5dzA5QWxNVUFTSzI2ZkNDTmFOODlhSGdNV3lpSHppdHUyUERRaWdtYmFFYktpc1NKLXlqXzZHR2h1OGRfWGVFWUhQdU1tRklqX2Z3Tnk4X2M?oc=5",
@@ -409,7 +418,7 @@
       "title": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42T1dsQ1A2bnFOMmNjdFN0Z3M4aV9uTDBXeDdYOEYyQkJYcjRGZS1ZSE1Tc2hPLW9uRjlSa3k4LXk0by1paGxxVFpnNGRBcE9vTmFxaGotczJQd0FLYTZweWEwVUpNeVBxWng2Q3RhbUVuWDJROExCdE4yTQ?oc=5",
       "pubDate": "2026-07-24T02:24:41+00:00",
-      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
+      "source": "safenet.or.id",
       "description": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -1930,7 +1939,7 @@
       "title": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlZCRnlFdUZVU0RnUE90ZTF4SHMyNm1GelBuczFuV0M3WWFyYk04Wm5ObXV5QkxYazBQVEtFQ1BBd3BPcjRydG14ckVPbTI2R3pZZEFidjZOVmJ2dU1FdUV6aFhvZ3hRLTZHYWhoVE9qNWNFVkVVQmxIYTZQZGNkR0doRGRKbHMtVlViOUdMMkdLeUh2bWpkUF95Rk9FQ2Y2UUFxdXltN3RfelAzOF9xVWdUVE1aeFV4dWtkMFM2aw?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "dandapala.com",
+      "source": "Dandapala Digital",
       "description": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -2227,7 +2236,7 @@
       "title": "Kekerasan Perempuan di Jombang Masih Tinggi, Mayoritas Korban Berstatus Pelajar",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3J4NVY3dnoxZUlOZEZ6Sm5NalQzY3RXeDQ3VmVKWFZiVW5JTlQ5SVpZNjQ3cC1OckV4T3JfT1BnTnRUVXdBdUJEaktoYzQ2d21xQTQxa0tULUdmTkNlOHNwZWJsRGwzUDZ1YU1tLS1xTy1LU1IxY0JVX2J0SnBKSWJoVF9QQ3NLekJjM2EzaUx6V0cxNnVTS2lxWEdGMUdNWUdVYmVtY1EzVWxrTlNFWWpWQS0xcV9KaE01a3dvYWJ0S050dFRR0gHMAUFVX3lxTE40TWdlaVM0NGxVa0gxdWRyOERqRkdFYTVMUzR1U0JNdW1Mb1RwRXo0S2MySjZ2YjN0ZHFwVmJQVDItQks4MVNDWHFMTDdpS2JkREZVdDZNM2U4cG90V0hEQUctbDVSVURnSmZFMFk2RURwS19xd0FyODNKYW1TdUdDdkdvcmFON3dxQ3JnendDRTZTYTNMNFVQeHhSV2FXR3c4Zm9nS1VLRndkOExRelJQMEJzcUx2ZXdoRVNmMGhSSTA3UC1PWG1GQmpJWg?oc=5",
       "pubDate": "2026-06-01T16:17:16+00:00",
-      "source": "Radar Jombang",
+      "source": "radarjombang.jawapos.com",
       "description": "Kekerasan Perempuan di Jombang Masih Tinggi, Mayoritas Korban Berstatus Pelajar",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2569,7 +2578,7 @@
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Tribrata News",
+      "source": "tribratanews.polri.go.id",
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2596,7 +2605,7 @@
       "title": "Satgas PPKS UNPAR Bekerja Sama dengan KSR Beri Sosialisasi Kelola Media Sosial Aman dari KBGO",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWpaeVBKTWJHUVhfTTNBR0RTSXhzbXVXUVVoeGszcjBuOUEtS0MtMkxGTk1xLWdXMG1keS1GcnZUZnp4Z0Q4NzVtUjRBLS1CYkN0TERua24xbG1aV0RIUFM5c0x2N2xBOURXb1paTkRiQ0E1UlFSRG56bDl3LWJyQVQ5TWlqQkZ0bnBJR0tqdW1QYW1RUk1TTG5NRE9IWG9SaVFwTzdqTmZOa2ZKWUNVZ2UxS1U?oc=5",
       "pubDate": "2026-04-16T06:25:20+00:00",
-      "source": "Universitas Katolik Parahyangan",
+      "source": "unpar.ac.id",
       "description": "Satgas PPKS UNPAR Bekerja Sama dengan KSR Beri Sosialisasi Kelola Media Sosial Aman dari KBGO",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2704,7 +2713,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2848,7 +2857,7 @@
       "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "who.int",
+      "source": "World Health Organization (WHO)",
       "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
