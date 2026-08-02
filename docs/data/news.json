@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-02T08:14:14.696614+00:00",
-  "total": 353,
+  "updated_at": "2026-08-02T13:10:22.389969+00:00",
+  "total": 355,
   "stats": {
     "tpks": 105,
     "kekerasan_seksual": 150,
     "kbg": 41,
-    "kbgo": 57
+    "kbgo": 59
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,6 +28,24 @@
   ],
   "articles": [
     {
+      "title": "Jurnalis Perempuan Hadapi Ancaman KBGO, Literasi Digital Dinilai Jadi Benteng Perlindungan",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0FZX2ZCRExybFQwMHozWDQ0aEtmeU9jSjNfWEc0Y0swc3M3M2lGY3dTd1Z4LWhWcUpaRnFGTEczdlFnZDVTdDFpaGFwcmkxWjU1eHVIUnh0MlM5MU1PbG54MGV5Y0IwNEZVRi10R2FBX3ZySzd4Sm5qcUNtZUNtUjhiTF9zRklaS3pCYzlsZDZoRlpYWnRobmh4a3ZLUjZoY2dZYkNGT0RxUXozcGpVb3lLXzFianFwTDNGdU9Ja3VTNXM?oc=5",
+      "pubDate": "2026-08-02T13:00:33+00:00",
+      "source": "Kalimantan Post",
+      "description": "Jurnalis Perempuan Hadapi Ancaman KBGO, Literasi Digital Dinilai Jadi Benteng Perlindungan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban di Era Digital",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeU1jMWdCYTdNV2lydndIemN1QnRjeVQ4WmFheXFkZmJVOVpDWDRsWXo5LXdfMUd5R212OHpHdXlQQVgtODFRN0xEOF9aclV5Q2psWDRXbGNocXZtdVlYNXNDWDhqM1BwbFpsSGRHcmJ4YjJxdFVsOTJfN2EyN0Z0NE5JOXFCckJwY2ZaenRGMFJTak1zRFpGOWFPOFBpY0JLWXpWbWlzN3M0eXdtaDBybE1TRmZMbHR5WEJJU00zQkQydkYtbXIwTkwwVQ?oc=5",
+      "pubDate": "2026-08-02T12:59:01+00:00",
+      "source": "Kalimantan Post",
+      "description": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban di Era Digital",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Kekerasan Seksual Anak: Menagih Ruang Aman bagi Perempuan",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzgxaVVsa2RjOXk3VkpzbmVSQmtqR0xLX21MMmRYa2xEbDJkNTN2dHR0VlB0VTRESVVvTnY1WFd6UFJKUW5uMEw4aGdCUExyV1g2bWVpNEJfWWVkQmxxa21Nenh5empnYW5fWUllMVRubmt3dWl1bGdPd3Jkdw?oc=5",
       "pubDate": "2026-08-01T11:21:14+00:00",
@@ -40,7 +58,7 @@
       "title": "SAFEnet Ungkap Meningkatnya Represi dan Ancaman Hak Digital di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0lnYnlrLV9KSmNHU3lZUXppeVpKT3lwQWk1N3NDUWxTUVgwTHl2VldobjBZN2ZrMDRsMlpMeTlhNXFfZUk3Z0hhMUJDMDJfajg3enBPQnp4eVVuZDhBSlh5ZmVIVUcwUWFCb2NMTXpOUWsyRUQ3VGlaNFAyY2FBem1nVFNkVHpuQi1rM3FLTVNlc0pEdGV5WVEyWQ?oc=5",
       "pubDate": "2026-08-01T07:46:57+00:00",
-      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
+      "source": "safenet.or.id",
       "description": "SAFEnet Ungkap Meningkatnya Represi dan Ancaman Hak Digital di Indonesia",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -427,7 +445,7 @@
       "title": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42T1dsQ1A2bnFOMmNjdFN0Z3M4aV9uTDBXeDdYOEYyQkJYcjRGZS1ZSE1Tc2hPLW9uRjlSa3k4LXk0by1paGxxVFpnNGRBcE9vTmFxaGotczJQd0FLYTZweWEwVUpNeVBxWng2Q3RhbUVuWDJROExCdE4yTQ?oc=5",
       "pubDate": "2026-07-24T02:24:41+00:00",
-      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
+      "source": "safenet.or.id",
       "description": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -751,7 +769,7 @@
       "title": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZma9IBZkFVX3lxTE1ZdGhlanl3eVhWWVExSVpYR2RYajNBRExKbGJ6UktfSV93b0hFRW1ldGc5c0hXM2gtNWNQM2c4dnhyUlU2eTY0TGM5eWRXVHlJR24tNG9aXzNaWmpQS3VTMEtCeWZkUQ?oc=5",
       "pubDate": "2026-07-20T07:00:00+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2533,7 +2551,7 @@
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2632,7 +2650,7 @@
       "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UWtQejdyeVBhamt6bThRek5NV2kwOXZfR2xjTE5BZHgxRk1qNUllSDN5U3hvLWVFTW5MYUZoUVNRcjZwampTdnRsb0Vwb2dUQ1hSQzh2dVQwZUFEQXJEZdIBZkFVX3lxTE54d2ZpbWNVOU1LX242LUExdnl3dndQZVdnUE5LZU8zeFVCSGR1WXhWTlZTdDFUakRVRnZBWnlJdmRjVWgydGxEc3p5ZDhMQUZaNURGZWxCTVowaWp3UlhSSXY2X1VoUQ?oc=5",
       "pubDate": "2026-04-15T07:00:00+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2866,7 +2884,7 @@
       "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "World Health Organization (WHO)",
+      "source": "who.int",
       "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2929,7 +2947,7 @@
       "title": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjhnd1VKUmRjakhaYVBSMWpONjAxY0FWREExblludXAxNWV4S2tBVW9BbWJqM2xwdzhjckJ2VHBTbC00TWJqekhIUkROc2djd05EMXotSHQ5cjlRUElza1JWOV94RjNFWUxXUmZlV3hOVkhUOXFrQjZ2azBNSXRfM0hheDVRdUxKMU5YUDh5c3U3YS1Md3A1M3Z4ZV9vc0hOblZMMk9MSDhxSno0Z3BOZTZnUE5FcmFPSXRnNWM2VGkwcFpqWm95bGYwc2pIc2xLVVo4?oc=5",
       "pubDate": "2026-02-06T08:00:00+00:00",
-      "source": "ugm.ac.id",
+      "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
