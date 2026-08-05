@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-04T19:24:33.500575+00:00",
-  "total": 364,
+  "updated_at": "2026-08-05T02:03:00.837784+00:00",
+  "total": 365,
   "stats": {
-    "tpks": 108,
+    "tpks": 109,
     "kekerasan_seksual": 153,
     "kbg": 41,
     "kbgo": 62
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Gali Data Komprehensif, PK Bapas Magelang Laksanakan Litmas Sidang Anak Kasus UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORW5NVldHTmtSTmZ4ckFmdjJRUWRFbE1GZDBSVjBsVURTSlVUZExQM2R1Z3gtWkdxdS00TVZ3LXFpVmZ0UlNxSlNlcW0xNzZXY1E5UUIwYzBkOElGRTdMaEI2S0dKZFBpeUpKWnlyam9LVGt4TVlPR2NXVk9KaEZORXgwSlludE9oM3IxbDJab0xBeERlSkFEZ0NSQXZJWlZ5UTF4bzVjOEE5Y1NXczNv?oc=5",
+      "pubDate": "2026-08-04T10:24:33+00:00",
+      "source": "IndoSatuNews.com",
+      "description": "Gali Data Komprehensif, PK Bapas Magelang Laksanakan Litmas Sidang Anak Kasus UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Membangun Pemberitaan Berperspektif Gender",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ3ltbVZZV01HeVl6am5jSld1LXFGdUNlMnVmcmJSb2FzQzJqczNjRFRWa3g3dzZTWTVqYktRZU9EcVZtVWlFV3dVaVNFanFaNjl0OWxfM2VVSWVlZVNSX2VRTzA5MjFFaG9Lc2RpNU1WQ2RHTUkzZEMzZTF5Z1pWZGxFWlJNdmlBT3ZPeUlDcVBlT0FQTmVRbFA2QQ?oc=5",
@@ -101,8 +110,8 @@
     },
     {
       "title": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban di Era Digital - Kabarindo.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLUczeU9BcGpNekw2RUUxUzBvSExYWUlnMGh3X2R1Y2hmZktDQ2lSVnhVdDcyekF2U1ExMElxdllha0NSV2NZekVTc1JCaDVnR2NfNGxIOWwzRFlmUTZmQVF0ZXUtSXI2bUExQ0U4aWd5M2VBYkNaRERrOU5WMkRScnd5cjhnSW5McnZFZFkwYnBpVXhDZVFuM2FVUndua1psTTd3ZFNQaHlfTmxaS0lBYWIxaHk5QXpEQUhYVmRUOExobDYxZ1dkMGx2OVJMT29mMjdfcGhLNDVaUU1uV09OakUzdF_SAeQBQVVfeXFMTS1HM3lPQXBqTXpMNkVFMVMwb0hMWFlJZzBod19kdWNoZmZLQ0NpUlZ4VXQ3MnpBdlNRMTBJcXZZYWtDUldjWXpFU3NSQmg1Z0djXzRsSDlsM0RZZlE2ZkFRdGV1LUlyNm1BMUNFOGlneTNlQWJDWkREazlOVjJEUnJ3eXI4Z0luTHJ2RWRZMGJwaVV4Q2VRbjNhVVJ3bmtabE03d2RTUGh5X05sWktJQWFiMWh5OUF6REFIWFZkVDhMaGw2MWdXZDBsdjlSTE9vZjI3X3BoSzQ1WlFNbldPTmpFM3Rf?oc=5",
-      "pubDate": "2026-08-02T16:57:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONlU5eHlCc0VSYWRJOWJweHpEeGJHMmxRWUluSmFXbUxaYmtoelpuRHJhMWN0NVhfamdlY0xlUE1NMHluRlpoSlIxMjc5U0NQeTVER1p4LWVXSWNFSVhCZlNITDFMSk5WSkQwY19UT0owakFISDV4OV9FeFJZei1vQmtlaUd6UFFFRnMzMkJMaTd2eUFRRVpfTzlsbVJobWxQbzdPTU1yS3g4SlNXNEhCVVA4QWNvM2ZtYTAwZF9TdV93UEloU2lKWk5VYVFsSGZtVDlMMzVkWFh6QUstVmRn0gHkAUFVX3lxTE0tRzN5T0Fwak16TDZFRTFTMG9ITFhZSWcwaHdfZHVjaGZmS0NDaVJWeFV0NzJ6QXZTUTEwSXF2WWFrQ1JXY1l6RVNzUkJoNWdHY180bEg5bDNEWWZRNmZBUXRldS1JcjZtQTFDRThpZ3kzZUFiQ1pERGs5TlYyRFJyd3lyOGdJbkxydkVkWTBicGlVeENlUW4zYVVSd25rWmxNN3dkU1BoeV9ObFpLSUFhYjFoeTlBekRBSFhWZFQ4TGhsNjFnV2QwbHY5UkxPb2YyN19waEs0NVpRTW5XT05qRTN0Xw?oc=5",
+      "pubDate": "2026-08-02T16:57:14+00:00",
       "source": "Kabarindo.com",
       "description": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban di Era Digital - Kabarindo.com",
       "keyword_id": "kbgo",
@@ -130,7 +139,7 @@
       "title": "Kekerasan Seksual Anak: Menagih Ruang Aman bagi Perempuan",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzgxaVVsa2RjOXk3VkpzbmVSQmtqR0xLX21MMmRYa2xEbDJkNTN2dHR0VlB0VTRESVVvTnY1WFd6UFJKUW5uMEw4aGdCUExyV1g2bWVpNEJfWWVkQmxxa21Nenh5empnYW5fWUllMVRubmt3dWl1bGdPd3Jkdw?oc=5",
       "pubDate": "2026-08-01T11:21:14+00:00",
-      "source": "pwmu.co",
+      "source": "PWMU.CO",
       "description": "Kekerasan Seksual Anak: Menagih Ruang Aman bagi Perempuan",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -148,7 +157,7 @@
       "title": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNWtYNmNfOXVlLXVCYzJlb2RLZk5sZ05aSlI3NmxiQUVZWUNvbklmS3FOS3Y4SENBR0NTTFBCQlN4TGF0RjNqa0ktU25FaUdQZEZEVXlHVFdJbERvWXkxQ3NpeDFxMm9OTlhXRWFVaVk4T0x5dzA5QWxNVUFTSzI2ZkNDTmFOODlhSGdNV3lpSHppdHUyUERRaWdtYmFFYktpc1NKLXlqXzZHR2h1OGRfWGVFWUhQdU1tRklqX2Z3Tnk4X2M?oc=5",
       "pubDate": "2026-08-01T04:14:24+00:00",
-      "source": "rakyatmaluku.fajar.co.id",
+      "source": "Rakyat Maluku",
       "description": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -157,7 +166,7 @@
       "title": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSndIZlFHQ01KZkRhU3N1OVZKbFN1SXRjS2MyWFJqaTlwVlZyZ2FCbWxlS0tzRThXeFVlc1NzZHZNWC01NnB1WXlIUFpTQlFmUkF1ZFZZVUhTT0JoTDZEWkJ4WXZVUjNyWGxvTUhER0VsQ1JHOW9aRDcxMUNTT2VlVG1iNVlmSkRXZFdVc29uWkhOS3pNM1hiNXZQeXhleU0tM3c4cA?oc=5",
       "pubDate": "2026-08-01T03:15:57+00:00",
-      "source": "Batam Pos",
+      "source": "metropolis.batampos.co.id",
       "description": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -319,7 +328,7 @@
       "title": "5 Bulan, UPTD PPPA Jombang Catat 74 Kasus Kekerasan Perempuan dan Anak",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSk5JZGxtLTlrTjYwdUItTFNnd1ZDUHdENmpQMno4Ulpwb2FRTHJCNWlURFlxN0lHeHlBZHdfVEloRU9XZGE0Nk9wTXY4REtmWUVmVUFjdmlxVkF0dzhSblpBLTJvTXJiNkxDbDJiSnVQdHlhcXlCdXV4bEJlQVRHTGJyTk8yZVAyekhweVNHc3BqUFV1U3h2allJOHdncW5aQTlWaUxLUy1BRzAzN0N4bGtBQXdDS0pYLXdpQUJHSU9DZ9IBxwFBVV95cUxNMHpFS0I5a1FIV0Y5VGNESUo4TkY1Y1l4cXRWaTVmR0xvOXZ5V1BjZENfSTRvVTd2cXVFeVVqNzlqdU5aSDFGN2NUdHpHaFpuR3UyTkZMT3hOQXY1Mi1yNFhCTHB6RkNNVW1jLTNTcGVYWDlLcDc1b203M2pwSlZERUVtVDM3X2YwOUxlakIxOFoybGZBay0tekFBYkNRWk13cTNvMTBMbFI2WlFCUUlLS3VQcFk2XzNMaWhvTFBDSWljRUxoa0Vz?oc=5",
       "pubDate": "2026-07-27T07:19:58+00:00",
-      "source": "jombangbanget.jawapos.com",
+      "source": "Jombang Banget",
       "description": "5 Bulan, UPTD PPPA Jombang Catat 74 Kasus Kekerasan Perempuan dan Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -488,7 +497,7 @@
     },
     {
       "title": "Vanita Naraya gelar FGD soroti tantangan implementasi UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNDQzTXBZemhOMWZ3VXlsbE5EU2tESnpPT0IwT1A0YnRmQjA0YWt3V09tWVR4ZkRsSGRTSDZEbjFMbFlrRU80M2RMMXAtOE1kd3R2WFZLNGhPU2ZNTmxGRjBCNEljRms1c0JZazJVdll6aTFsSl9DbFRBVGxqOUxZYl9ycTlaai1FbVQ5TVNPRURrZHZUNmVMTmdaU0Q5MG1xWVl6ajlB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX1BoM012Yy00RkU3RkFGdzNYcVJRVHFwLVdkc2xyTDVQcmFCbmE5RU9IWTVlZ3pBWmhCWm5oNzF3d19YU1VSejZ2MUNUeUFqMXpQVVdadTRFRnVHdjJqNVdUWXpVczRNV0lHdUk1SnJ3elpieXg0WTVYOWNsWVo2d3ZKcTIxZ1llb0RRT1VXa1VUZUhoYnJOdHNvVExjLU5kb0U0RjNzSHLSAagBQVVfeXFMT19QaDNNdmMtNEZFN0ZBRnczWHFSUVRxcC1XZHNsckw1UHJhQm5hOUVPSFk1ZWd6QVpoQlpuaDcxd3dfWFNVUno2djFDVHlBajF6UFVXWnU0RUZ1R3YyajVXVFl6VXM0TVdJR3VJNUpyd3paYnl4NFk1WDljbFlaNnd2SnEyMWdZZW9EUU9VV2tVVGVIaGJyTnRzb1RMYy1OZG9FNEYzc0hy?oc=5",
       "pubDate": "2026-07-24T10:56:37+00:00",
       "source": "ANTARA News",
       "description": "Vanita Naraya gelar FGD soroti tantangan implementasi UU TPKS",
@@ -957,7 +966,7 @@
     {
       "title": "TII: Kasus pemerkosaan di Sampang momen evaluasi implementas UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYW9wOGI2SC1yS0p3WHEzQ0pjS3JwX0puR0htUEhSLXJrZjI4bWJsZ05tV2Z1QnpBZEF5Q1RoVU1yZUNUQ1k1TDFuQVdxSG0wWjk0a0RFamp6OVRWUFY1a3RwdXVOSS15aXBiS2RHTzU0QS1VOWdiYnNqcUtHMUN2V2ZZemh0aVlTSjJBR3ZJTVBTTGtuWTdvRnhXdlJ0bW1vOGlTZlpmcHpaVVhuZ1HSAbABQVVfeXFMTmlrN3BVYXJtbGtWMWJmWDJnZllnWC04MUIzNGNCY0wzYjVwVVU3U0NJLUg4U190ekszMFE4eU5JVXlwYUhleW9IUDNXT090VG4wTXVvREJyeDUwbjI1UnByZG1lMWlBNm12eFJXa05ZNFJUUlFjUEpINThOMWxsUG5Pc0hmdjlOeG9vMks4MllDOEdDUUhDbVVaS3ZNaVM0WDNYemtPZWt3MkFyM0Noa1U?oc=5",
-      "pubDate": "2026-07-17T11:11:07+00:00",
+      "pubDate": "2026-07-17T07:00:00+00:00",
       "source": "ANTARA News",
       "description": "TII: Kasus pemerkosaan di Sampang momen evaluasi implementas UU TPKS",
       "keyword_id": "tpks",
@@ -2236,7 +2245,7 @@
       "title": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0EtR1EtV01uV3BVeFp1Sm12QkZ1MF9FenRPa01td0ZjUVBGNlZpeV9UTldQQXF5ODBtQzFsYjV1WTVfTjc4TU9XOEpkcHYxa3lvanZEYnBMZEF3cUtQaVdHRHBTT0VVY04xUFdlTlR2d2J5QTZHVnkyWlFVUGJKMW1LLWk?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "BIDIKKASUSNEWS.COM",
+      "source": "bidikkasusnews.com",
       "description": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2407,7 +2416,7 @@
       "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzJuVXZJanRSN1hwcEZ3U1ZrOWV3UkREMXVsX3VGOHNpbTBacURvOHJ0b29faWlBbkpnTkJVTG1VWE9vaGE5bnNwYUJROURZTDlfTzB2NW83Y0FUeE1jNUVIUWFIX3REa2w4ZEwtOHhEVWlza2dBQndFT0JOdnFxbEVSOGJBS2dkU1VLaS1QeG4zRG5oOWpaeUs2OUk5ckFmRWJPWktXUm43UTJFX3pKZkV4RlRrcG44VEJLRmJfZ0o?oc=5",
       "pubDate": "2026-05-20T07:00:00+00:00",
-      "source": "kemdiktisaintek.go.id",
+      "source": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2602,15 +2611,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -2618,6 +2618,15 @@
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kartini dan Luka yang Tak Terlihat",
@@ -2812,7 +2821,7 @@
       "title": "Modus 'Nikah Ghoib', WCC Jombang Ungkap Kekerasan Seksual di Lingkungan Pendidikan Masih Terjadi",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMlVJNkUwV05MbllJTXRIeG1PTEZUSHZ0SG9oa213S2M4aGh2YWRLQUNVQzlHQ1NNRWgtc1k3cnI4ZUNHT2l5aXNkTlpMN29lZURaUkswUGoyZWI2SEt0c1Y1el9jdTBZUDdnVk9FdzdFZkZzWTBITURRTWNtZnlscU5XQ3NCNUZsNS0zcnpNVDdYSG1UNWQ4aVB4SjdwcTlPblBOU2c5RDZsbDNvRG5mVkdmd3BlZmRPcGcwR1NJVmdXX0M0cjlZNGpiWHk0WndXb2dfcVk0YVpLLWlQMEhvQjhB0gHnAUFVX3lxTE5UN1J2cmNPWnBoY1JjX3NfZ1l1Zkl6aHpvV2MwOXk1TVFWNklEYnpZMW40OTVWSjNnLU52ektIeEx4SVpubXBkNFNzREdzTGR3V2NEb1FBUC01Q05nWkMzUDd2SkpTbzRKS1lPbERSZmV6YU1rS0hjVzFRTHVlbFJ0X2owZHo2cjVfWmZYOVhEM1lMaDEtcmdlTWdtOUhkOVFmdkdCclZfdVd6SHc5V2hYM0hxY1A4QmFCR3cwSmFmcElXZjdWeEVfOFVSbVlHNzZRMlh2STRKVmRjNElmQXBrbXlGb2JyNA?oc=5",
       "pubDate": "2026-03-31T07:00:00+00:00",
-      "source": "jombangbanget.jawapos.com",
+      "source": "Jombang Banget",
       "description": "Modus 'Nikah Ghoib', WCC Jombang Ungkap Kekerasan Seksual di Lingkungan Pendidikan Masih Terjadi",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2821,7 +2830,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2830,7 +2839,7 @@
       "title": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3BSdVY3aVZ2WFdSendVbDgxUjR0a3dLb1BsMGVvaVR0UXA0Y25hOUpFZEI3OGM3aUhGMzJoRlkySUFJb0Nwa19NcDBFcUc4SGZtcTlYQkJxeGoxX054VzI0M1p5cXNQNi1NX2l3N18zc0hXVkRJNjJJcXdMWVBtOG1Wc0RJNHVZLUJ2STlFdHBLSE5CY0lIWVV1blQ3Q0lxOGxWT3RsYXloaWJDRTFKSzU0NDBPOHVRVUdvWm1jWC0?oc=5",
       "pubDate": "2026-03-16T07:00:00+00:00",
-      "source": "News UMS",
+      "source": "news.ums.ac.id",
       "description": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2953,15 +2962,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
-      "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
@@ -2969,6 +2969,15 @@
       "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
+      "pubDate": "2026-02-23T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "7 Dugaan Kekerasan Berbasis Gender Ditemukan di Lokasi Pengungsian Aceh",
