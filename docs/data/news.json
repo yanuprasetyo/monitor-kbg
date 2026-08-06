@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-05T19:23:16.332397+00:00",
-  "total": 371,
+  "updated_at": "2026-08-06T02:06:31.576589+00:00",
+  "total": 373,
   "stats": {
-    "tpks": 111,
+    "tpks": 112,
     "kekerasan_seksual": 154,
     "kbg": 40,
-    "kbgo": 66
+    "kbgo": 67
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -60,6 +60,15 @@
       "pubDate": "2026-08-05T10:44:06+00:00",
       "source": "Kabar6.com",
       "description": "Implementasi UU TPKS Dinilai Masih Bermasalah, KY Bedah Putusan Pengadilan",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "KY susun instrumen analisis putusan hakim dalam implementasi UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWElBemtvTTktckItVW1JS216cXZKa3hLZXdGTmJXVy1wMEptaTV4d0VrNGlHTXVnMDFFYkR4R05naVlPMWp6WDFmNGRvd2pudWVkT2hWbldCakxtV3N2SVdwTXl0UlVhVXNPdk84dS05RXBScVlfMkRLNDY1Zm55UlBhX3JCVF91cFhkT0x6cG54MFlLb1l4VEdpb3hSWlZNOFNMaHJjQmszTEE5cHZn0gGyAUFVX3lxTE84VWNibEZ3Y185YnZwRFRHRVFGRXhCYlRaNl9zdE80b0syeUM4VHNkQ2pwZFJ5Z0FCS1NqM3JkdG9hWGFOUVo5ckxiQmVVcW1VTTYwemsySUdzT1EycHNkTDFrREUyVDk1TEVTU1dMck9vakV4dUM0X1RLOEpKa2tFS0gybU90NzRId1p4TWJTRDhfOVhSOWF2Y0VDbFBGVFhzVmY0UE9ZUUs2OFNHWTRHa3c?oc=5",
+      "pubDate": "2026-08-05T09:03:28+00:00",
+      "source": "antaranews.com",
+      "description": "KY susun instrumen analisis putusan hakim dalam implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -186,6 +195,15 @@
       "pubDate": "2026-08-02T12:59:01+00:00",
       "source": "Kalimantan Post",
       "description": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban di Era Digital",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Lawan Bullying dan Kekerasan Berbasis Gender Online: Mahasiswa KKN-PPM UGM Ajak Pelajar dan Warga Petang Lebih Melek Gender dan Digital",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZzFqMWhpRGdLdUJvRmc0eHJveVFNczNVUzM2ZHBBSU5xeUF6WVRGWnp1WlM1V1VOTlB0YlhBVDdYdVI1TDNYLXp5RmV1Z0xJbnl5OEdsYkZCbmRMd2c0Nnd4cVJjQ2E2ZG00Y3k0ZGFaTXk0T3ZLQ3pDYVBEZTUyTm1MMzZFaVVVQ0Z2U3hCLWpYRmpLZk9icThwT0RqTUxYSGhVVWd2TmV2NzBxUUgxVGpTYTFlNVk0ZTNlcy03LTZmRTVmZGh1bFg2Y0VVaWk4RTVjRFA5djRVUTJsbGRpYUhGRDM4S1FU?oc=5",
+      "pubDate": "2026-08-02T10:59:00+00:00",
+      "source": "KAGAMA",
+      "description": "Lawan Bullying dan Kekerasan Berbasis Gender Online: Mahasiswa KKN-PPM UGM Ajak Pelajar dan Warga Petang Lebih Melek Gender dan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -589,7 +607,7 @@
       "title": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42T1dsQ1A2bnFOMmNjdFN0Z3M4aV9uTDBXeDdYOEYyQkJYcjRGZS1ZSE1Tc2hPLW9uRjlSa3k4LXk0by1paGxxVFpnNGRBcE9vTmFxaGotczJQd0FLYTZweWEwVUpNeVBxWng2Q3RhbUVuWDJROExCdE4yTQ?oc=5",
       "pubDate": "2026-07-24T02:24:41+00:00",
-      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
+      "source": "safenet.or.id",
       "description": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -679,7 +697,7 @@
       "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "tempo.co",
+      "source": "Tempo.co",
       "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -1750,7 +1768,7 @@
       "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
       "pubDate": "2026-06-28T07:00:00+00:00",
-      "source": "Aktual.com",
+      "source": "aktual.com",
       "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3001,7 +3019,7 @@
       "title": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlJrTE5MaWJtNzJidUpybjZyZTRjNnVoTFctR0ZMdXVOb1dBTGxMTGlyNUxXYzY1WmFlTlBDOUVwYVhXaG0xZ3lFVmhpUkZtNWNsRUp2Z3JZaU0yNTVZN3h1WE42VDEtR0g4YWRLYVF1eVN5eWtNNEo1Mm1zTnpiMk1OQQ?oc=5",
       "pubDate": "2026-02-26T08:00:00+00:00",
-      "source": "magdalene.co",
+      "source": "Magdalene.co",
       "description": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
