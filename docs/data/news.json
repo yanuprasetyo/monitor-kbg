@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-08T06:42:45.158427+00:00",
-  "total": 385,
+  "updated_at": "2026-08-08T12:36:58.372383+00:00",
+  "total": 387,
   "stats": {
-    "tpks": 118,
+    "tpks": 119,
     "kekerasan_seksual": 159,
     "kbg": 41,
-    "kbgo": 67
+    "kbgo": 68
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Isu Kekerasan Berbasis Gender Disampaikan Dalam Rakor SPLP FSPMI Bekasi",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVZaQnhVZlZlc1dTSDFPUXhkNEZQZExTZy1BMHZYaWcxR2MxUS1LeUkyTjh2aTQ4YkZHQjZYU0tIaXlwVEczWWNjZkpiSmg3VFVhZDZXaGtFcnMyWXQwcnlwYVdUM3dnSUFtWlVXd2h2dW5VcXRSUnp2SFJnTUM1emVnZllUdDIxd01PemtwaFN5TVZKZmN3ZmZ4RFBRTUJTallmWHFKUTNBdw?oc=5",
+      "pubDate": "2026-08-08T10:04:23+00:00",
+      "source": "koranperdjoeangan.com",
+      "description": "Isu Kekerasan Berbasis Gender Disampaikan Dalam Rakor SPLP FSPMI Bekasi",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
     {
       "title": "Wakil Ketua DPR Sufmi Dasco Galang Dana Rp200 Miliar untuk Korban Kekerasan Seksual, Target Dana Abadi Rp1 Triliun",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMmpFUFJjVlBPLWhmM1lPM1ZhdUo3T0VvLTRQMzlNVzRDMW5QRUdzNGFuN2ZscnB6QXZNOXktYldod3FkTm1GMkk0RG5QTDdqQy11SlVLREhZZ1VLdjBibUNEbEJ4WGxsdU9iUEFXTzZJbzFLTWhYSHpXSVhKVHowNkhzUTdPMkt5Y0RPV3RWaGNiNktzVHR2Z2ljQlpnakMzVmFHTl80UU1ieHplTG51NngtU254OGRibVZHMEx4anpqeEd6YXNWOG1FaGxaZGNDVTNJVURQbF9hdmtoT2c?oc=5",
@@ -118,6 +127,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "KY susun instrumen analisis putusan hakim untuk implementasi UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM29WUUg4SlpVeVZGVEZwMFVlYlJCX0k4UnZGMGlrdVA1bTZkWEJuOEhZaFQ0S201X2ZDM0JZS0RFdG9tQ0t3c0pBMFltTERmRFV1a2RXTFhXbkQ0UlZPLVF2Ti03R0x1UjRaTkM0T2h0VDhlY3BNeDZ4VkpPcUdCM3UwRzRiTmJ1ZURZV1p3ajZfUEdVcHNSZ09pa0xPajF1T29GT2RsT3R2UzhzRnptelcwdw?oc=5",
+      "pubDate": "2026-08-05T14:00:55+00:00",
+      "source": "Elshinta",
+      "description": "KY susun instrumen analisis putusan hakim untuk implementasi UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Pemkot Palembang buka pelatihan literasi digital bagi perempuan",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFRtWHFZVlpkREhDWnNtZ3RsSjIyZjU2c083VFFZbUladVN3bU5UQzh1TDQ2Zmw2c01ZUllyMktadi1IWk01MmJCWTBLQ294R2RUSVh1TnQzVXcyWjZlOC1YZTBNOW50aGZoNmpNWTJIV215TlZQNEFRVUR1S1NLOG9LY05ZbEtzU2Jid1R5SG9rU2VRLVJ4MmNnTzRFTy1QdVlyaTJaSV9PbnM?oc=5",
       "pubDate": "2026-08-05T13:40:02+00:00",
@@ -130,7 +148,7 @@
       "title": "Pemkot Palembang Perkuat Literasi Digital Perempuan, Cegah Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanlGTDBZTU43enRwUi0xUUFEbzRwNFd2QjBqRnd4dmdfRk84Tk1Zd0F3WFRxYVg5VVlldy1kSTV2eDBFRzlGNVBzZVBKYmxKcDlWM1ZYeDNic0E0bXRubHNHMGIyYWdhWTRYdndnM09KNHNsUWZVX2ZPRUQzMFl3M2dnWHV2OUdaR0dicjhNR2x5Y2x4R0UwMjQ2UzhKY3VCVURpM1R6UWhmQ0tnNVBYMGtLdWxSQ3c?oc=5",
       "pubDate": "2026-08-05T13:29:00+00:00",
-      "source": "rmolsumsel",
+      "source": "rmolsumsel.id",
       "description": "Pemkot Palembang Perkuat Literasi Digital Perempuan, Cegah Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -1876,7 +1894,7 @@
       "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
       "pubDate": "2026-06-28T07:00:00+00:00",
-      "source": "aktual.com",
+      "source": "Aktual.com",
       "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2236,7 +2254,7 @@
       "title": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlZCRnlFdUZVU0RnUE90ZTF4SHMyNm1GelBuczFuV0M3WWFyYk04Wm5ObXV5QkxYazBQVEtFQ1BBd3BPcjRydG14ckVPbTI2R3pZZEFidjZOVmJ2dU1FdUV6aFhvZ3hRLTZHYWhoVE9qNWNFVkVVQmxIYTZQZGNkR0doRGRKbHMtVlViOUdMMkdLeUh2bWpkUF95Rk9FQ2Y2UUFxdXltN3RfelAzOF9xVWdUVE1aeFV4dWtkMFM2aw?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "dandapala.com",
+      "source": "Dandapala Digital",
       "description": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -2875,7 +2893,7 @@
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "tribratanews.polri.go.id",
+      "source": "Tribrata News",
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -3028,7 +3046,7 @@
       "title": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdVJfRW5iSTI4Ynp2VHJILTdzeHNiVTI3VGRhWXZJcGxReDFsUzR5d0JLTU9OOV9EbWd4elVqRkVLQ2J0RExjMG14Rm5STm9ibjlwX1E3SmVTa1hMa2t3LXFnanQxbXJrY1laakpTZXh1TzVHUjl2emV0RjZHeFBMQ2x5alEwck1xZTdqaERyakxNNTJLNlNIRlp3RXpXNWdfdmp0Z0M3RHpjYkZUOEZPaWsteGRTYU5CNGMyYjRneWtsc1o4MnVwTlVCUUx1d3psTE5PaDJFOXhhcUFUMGlkOEVaeURYQlB3RVVYbkRsaDJMQ0NzcFFWQjZUdjRyTU9fMHlndkRqOU53akhvc2xfag?oc=5",
       "pubDate": "2026-03-10T07:00:00+00:00",
-      "source": "komnasperempuan.go.id",
+      "source": "Komnas Perempuan",
       "description": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3055,7 +3073,7 @@
       "title": "Kemenko Polkam Dorong Sinergi Hadapi Lonjakan Kejahatan dan Kekerasan Perempuan-Anak",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNem9qcUdyWkFMbjBOMlpjaXZfX3lwQVMwUzVCazhNQmdMc3VuQlRMM2xod3dkUTAyaThFcDc5bFB1VVdOaVBaRVBQQ2kwbnNBTFN3TUx6ckJfVjREbWtVQW8yeVRTbFNJUDdjMWJ1MS1jcUxnblJqUTBKV292VjVsVFBKakJ4Ti14eUYyaG90SkhrQW5ndmZGa201Qk1Zcm5VUzVJa2JGOWV5dw?oc=5",
       "pubDate": "2026-03-03T08:00:00+00:00",
-      "source": "polkam.go.id",
+      "source": "Kemenko Polkam R.I.",
       "description": "Kemenko Polkam Dorong Sinergi Hadapi Lonjakan Kejahatan dan Kekerasan Perempuan-Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3208,19 +3226,10 @@
       "title": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjhnd1VKUmRjakhaYVBSMWpONjAxY0FWREExblludXAxNWV4S2tBVW9BbWJqM2xwdzhjckJ2VHBTbC00TWJqekhIUkROc2djd05EMXotSHQ5cjlRUElza1JWOV94RjNFWUxXUmZlV3hOVkhUOXFrQjZ2azBNSXRfM0hheDVRdUxKMU5YUDh5c3U3YS1Md3A1M3Z4ZV9vc0hOblZMMk9MSDhxSno0Z3BOZTZnUE5FcmFPSXRnNWM2VGkwcFpqWm95bGYwc2pIc2xLVVo4?oc=5",
       "pubDate": "2026-02-06T08:00:00+00:00",
-      "source": "ugm.ac.id",
+      "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
-      "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi RI",
-      "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
@@ -3230,6 +3239,15 @@
       "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
+      "pubDate": "2026-02-02T08:00:00+00:00",
+      "source": "Mahkamah Konstitusi RI",
+      "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
