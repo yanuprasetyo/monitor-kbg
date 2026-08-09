@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-08T18:29:50.932096+00:00",
-  "total": 387,
+  "updated_at": "2026-08-09T01:18:10.420079+00:00",
+  "total": 388,
   "stats": {
-    "tpks": 119,
-    "kekerasan_seksual": 159,
+    "tpks": 118,
+    "kekerasan_seksual": 160,
     "kbg": 41,
-    "kbgo": 68
+    "kbgo": 69
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -103,7 +103,7 @@
       "title": "Analisis Putusan, Instrumen Monitoring Implementasi UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnlRcDQzbVQ0YjRfeXJseHpGeUJoM2V3VVBOVVJ4UlVJTUtfZGFVdkpETjBDYVNrNTA3d2FDeU5jRk9VaDJTRGRka0hFbFRidHRzR3lDb2RzMmxuLXo1c1h2UjI3UVdHYmdSMzNwblVzXzRZMFJUM0VLZkFTYjlfUklULU1vMzRJZlBmY3JtREdHZ3kwaDFyOWZJOHFBVzVjODFHNnpOTTNGVDBTRWlBWm1uMUpDUTdqZXc?oc=5",
       "pubDate": "2026-08-06T01:05:00+00:00",
-      "source": "komisiyudisial.go.id",
+      "source": "Komisi Yudisial",
       "description": "Analisis Putusan, Instrumen Monitoring Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -121,7 +121,7 @@
       "title": "KY Gelar Workshop Penyempurnaan Instrumen Analisis Putusan dalam Implementasi UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZkU5am40alFkZDBKNXpKbnFpTVBlYld3NDhjOTJCcUdtS2pwcjdaTUNvSnFFd0c4dlFld3gxVmFNQTRpODQ4S2VIVTE0aXBKWHZ0WVFGaWF5RUd5dnRyM2lVcjJ6aHVDX1NJYm1aZUllT3pmeVJQWHc5Zk9yNXg3RTV1S29vYlBhcWZuRmhlaTdxNUtEajY2LUt2bXVPRDdWX1RLem1ncTdMaXhlQmc3cDZmb1FSVlB3Z0ZUYTI0cUR0RXgtUFY2NUJzbnhTWWxNSTVhWkRyekxUQ1oyU1E?oc=5",
       "pubDate": "2026-08-05T14:50:00+00:00",
-      "source": "komisiyudisial.go.id",
+      "source": "Komisi Yudisial",
       "description": "KY Gelar Workshop Penyempurnaan Instrumen Analisis Putusan dalam Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -265,7 +265,7 @@
       "title": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQld2QlByUVFienVoRWwzZFdyME43bVdSbU5PLUZqQ1J3ampOSTNmOVRnYjlMR0Q5VGhTRFE1Z0dPMUFfTW4yWml1YVhUVDdVV1kxcGtRX1V0R01oZkF2b09MaGlZb3ZKZTZjUkdjbXlXcUJ2T1c1TUotM0dTd2NVS2w4V284R1FhSlJ2UWVqS3lCT1lSbHNPZU5QWV9qYzZ3UFpBc3BtQlI2bzhzV2p6VjZQUFdUZ2J5T0FfLUI5LTF2aDJsWkxXSnF0ZmVhWnREUTRIRGp1N085c0VC?oc=5",
       "pubDate": "2026-08-03T12:15:00+00:00",
-      "source": "komisiyudisial.go.id",
+      "source": "Komisi Yudisial",
       "description": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -521,6 +521,15 @@
       "description": "5 Bulan, UPTD PPPA Jombang Catat 74 Kasus Kekerasan Perempuan dan Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Catatan Hari Anak 2026, Menanti Terwujudnya Perlindungan Anak di Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjE4MDFwT0FHOFZNVEU3dnd0dHA2YW1WXzh6OWI0SDBBQzF1aFdKT2NyaHduaENQdmdCOFdsdXgxS3NBdmM2M1RzVnlyU29OTzFXRlJyYWYxdnFkaTFvOTV0dExBQkZ4bm9qT240MXZsNXNFaW1nb3BhTjR2UE10WnNWWF83SlZJQWR0dFFUb3Z3c2p3Ujgwc0MtTXotSGlzWTdrOUZaOVRoMHRXWUprblRiOA?oc=5",
+      "pubDate": "2026-07-27T07:00:00+00:00",
+      "source": "The Indonesian Institute",
+      "description": "Catatan Hari Anak 2026, Menanti Terwujudnya Perlindungan Anak di Indonesia",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "UPTD PPA Batam tegaskan komitmen dampingi pemulihan bagi korban kekerasan",
@@ -1984,7 +1993,7 @@
       "title": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdFk0WkE3TFc3MXJranZaSzJac2FyTTZJZ0pyMWpGd3F0Zmoyc092ZUtxcWFfVHZ6ZHVIMDB6ZENxeGxCMFlNdXhkR1hNTUhoZGNEdzlGMkxqWHFUNGl2SjRwY2xEQzFyVTMwTDdyUDdGWk1PcjRIajJUUG42X0dFY3c3M24zcEkwaUZJRVlqZkotMzdtOVJmN09HMW9qT3FFalFoTUhfend2cmpJSXQ2cHNMV3NlTktfNk1tVVhrUVQtR2dYd0xnVFNPeTUyV3M4T2c?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "bimakini.com",
+      "source": "Bimakini",
       "description": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2254,7 +2263,7 @@
       "title": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlZCRnlFdUZVU0RnUE90ZTF4SHMyNm1GelBuczFuV0M3WWFyYk04Wm5ObXV5QkxYazBQVEtFQ1BBd3BPcjRydG14ckVPbTI2R3pZZEFidjZOVmJ2dU1FdUV6aFhvZ3hRLTZHYWhoVE9qNWNFVkVVQmxIYTZQZGNkR0doRGRKbHMtVlViOUdMMkdLeUh2bWpkUF95Rk9FQ2Y2UUFxdXltN3RfelAzOF9xVWdUVE1aeFV4dWtkMFM2aw?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "dandapala.com",
+      "source": "Dandapala Digital",
       "description": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -2470,7 +2479,7 @@
       "title": "Majelis Hakim PN Gowa Vonis Dosen UNM Pelaku Kekerasan Seksual 4 Tahun 6 Bulan Penjara",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1JJdThzMURyY2FrZjJVcXI3REJzNW4wLWdoQk5CX0FEVWtyeF9UaGxRem9ZLXFTTUxNdUxlc1c4cFlqSlZWU2NfYmRrbWFwc1BSd3lGaVlZVzFpUDZUQU8tMnFKaENrOVVJR0Z4LXZkTUhDc3EzTVlyYW8zdWxZbzdnNUFUWktSclVFNUtQeS1wQXdEMVktQUVQNjFlM1JiYVRUOHdHZGxpYUoyODZxckNlQjB6T3JVc3A4d3N6NlJ3WGM?oc=5",
       "pubDate": "2026-06-10T09:15:37+00:00",
-      "source": "lbhmakassar.org",
+      "source": "LBH Makassar",
       "description": "Majelis Hakim PN Gowa Vonis Dosen UNM Pelaku Kekerasan Seksual 4 Tahun 6 Bulan Penjara",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -2614,7 +2623,7 @@
       "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzJuVXZJanRSN1hwcEZ3U1ZrOWV3UkREMXVsX3VGOHNpbTBacURvOHJ0b29faWlBbkpnTkJVTG1VWE9vaGE5bnNwYUJROURZTDlfTzB2NW83Y0FUeE1jNUVIUWFIX3REa2w4ZEwtOHhEVWlza2dBQndFT0JOdnFxbEVSOGJBS2dkU1VLaS1QeG4zRG5oOWpaeUs2OUk5ckFmRWJPWktXUm43UTJFX3pKZkV4RlRrcG44VEJLRmJfZ0o?oc=5",
       "pubDate": "2026-05-20T07:00:00+00:00",
-      "source": "kemdiktisaintek.go.id",
+      "source": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3019,7 +3028,7 @@
       "title": "Modus 'Nikah Ghoib', WCC Jombang Ungkap Kekerasan Seksual di Lingkungan Pendidikan Masih Terjadi",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMlVJNkUwV05MbllJTXRIeG1PTEZUSHZ0SG9oa213S2M4aGh2YWRLQUNVQzlHQ1NNRWgtc1k3cnI4ZUNHT2l5aXNkTlpMN29lZURaUkswUGoyZWI2SEt0c1Y1el9jdTBZUDdnVk9FdzdFZkZzWTBITURRTWNtZnlscU5XQ3NCNUZsNS0zcnpNVDdYSG1UNWQ4aVB4SjdwcTlPblBOU2c5RDZsbDNvRG5mVkdmd3BlZmRPcGcwR1NJVmdXX0M0cjlZNGpiWHk0WndXb2dfcVk0YVpLLWlQMEhvQjhB0gHnAUFVX3lxTE5UN1J2cmNPWnBoY1JjX3NfZ1l1Zkl6aHpvV2MwOXk1TVFWNklEYnpZMW40OTVWSjNnLU52ektIeEx4SVpubXBkNFNzREdzTGR3V2NEb1FBUC01Q05nWkMzUDd2SkpTbzRKS1lPbERSZmV6YU1rS0hjVzFRTHVlbFJ0X2owZHo2cjVfWmZYOVhEM1lMaDEtcmdlTWdtOUhkOVFmdkdCclZfdVd6SHc5V2hYM0hxY1A4QmFCR3cwSmFmcElXZjdWeEVfOFVSbVlHNzZRMlh2STRKVmRjNElmQXBrbXlGb2JyNA?oc=5",
       "pubDate": "2026-03-31T07:00:00+00:00",
-      "source": "Jombang Banget",
+      "source": "jombangbanget.jawapos.com",
       "description": "Modus 'Nikah Ghoib', WCC Jombang Ungkap Kekerasan Seksual di Lingkungan Pendidikan Masih Terjadi",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3037,7 +3046,7 @@
       "title": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3BSdVY3aVZ2WFdSendVbDgxUjR0a3dLb1BsMGVvaVR0UXA0Y25hOUpFZEI3OGM3aUhGMzJoRlkySUFJb0Nwa19NcDBFcUc4SGZtcTlYQkJxeGoxX054VzI0M1p5cXNQNi1NX2l3N18zc0hXVkRJNjJJcXdMWVBtOG1Wc0RJNHVZLUJ2STlFdHBLSE5CY0lIWVV1blQ3Q0lxOGxWT3RsYXloaWJDRTFKSzU0NDBPOHVRVUdvWm1jWC0?oc=5",
       "pubDate": "2026-03-16T07:00:00+00:00",
-      "source": "News UMS",
+      "source": "news.ums.ac.id",
       "description": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3318,8 +3327,8 @@
       "pubDate": "2025-12-09T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Kekerasan Berbasis Gender Online: Korban Terjebak Konflik UU TPKS dan Ancaman UU ITE",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
