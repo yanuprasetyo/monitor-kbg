@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-11T12:52:48.765191+00:00",
-  "total": 399,
+  "updated_at": "2026-08-11T18:55:58.000961+00:00",
+  "total": 401,
   "stats": {
-    "tpks": 120,
-    "kekerasan_seksual": 167,
+    "tpks": 122,
+    "kekerasan_seksual": 166,
     "kbg": 42,
-    "kbgo": 70
+    "kbgo": 71
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -80,6 +80,15 @@
       "description": "Lawan Kekerasan Seksual, TIMES Forum Dorong Perlindungan Siswa dan Santri",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Tubuh Sebagai Objek, Hukum Sebagai Penonton : Mengapa Kekerasan Seksual di Indonesia Masih Setengah Hati Diadili?",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVnRDNEVoN0VxLTJydEctYVo5QlByYzhWeXZsNEplNFVNajF4VlJ6Nl9CQ0VkZ05wTWFXOTQzSEg0d0xzYnlXU2h2LVRSSG1uejhLRUxJNFB4TENOb3I0ZHd2NHNwbGhsUTlEZzNLT0FwYWo1Ulg3R2hCeUpGZ2QxcWRlRDlZVjdTRXduSEEtWVVZei1YN3BlRU0wckFXbU9zRVlJcklUTWdsQ1BtRGFvN2hhc1p2WmdsSUxhc0c1Q3JVdkFYUzhldkdLRGZIaUVjUnRUS0JVSjNnemdWSTVqWU9oTGVablFYWXdXZlVkcllxVXJtcTBQUXF2T2FnZm8zX0RqU2JacjNrUFpPbml3SjZ3?oc=5",
+      "pubDate": "2026-08-09T22:03:41+00:00",
+      "source": "Kompasiana.com",
+      "description": "Tubuh Sebagai Objek, Hukum Sebagai Penonton : Mengapa Kekerasan Seksual di Indonesia Masih Setengah Hati Diadili?",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Yakuza Maneges Gandeng Komnas PA Jatim Perkuat Perlindungan Korban Kekerasan Seksual",
@@ -226,10 +235,19 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Pemkot Palembang Perkuat Literasi Digital Perempuan untuk Cegah Kekerasan Berbasis Gender Online",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MWtLX2Z1NENhQWZ6akxuLWROUHA0VDBib2lSUE82czNHU25LeVgtd0pJMmRYLVlOTzZ5NXRTZF9wd3J1MWpEUWs0YXRhczRMN2RpWHhNRjBSWGhwRVlJRXpNS0RWbmFvbWdUZ01FcWh5bVhJb2tSbHJucDBxdw?oc=5",
+      "pubDate": "2026-08-05T13:09:02+00:00",
+      "source": "SumselPers",
+      "description": "Pemkot Palembang Perkuat Literasi Digital Perempuan untuk Cegah Kekerasan Berbasis Gender Online",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Kekerasan Seksual Berbasis Digital Meningkat Pesat, Mengapa Masyarakat Makin Rentan Jadi Korban Maupun Pelaku?",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkI2dE5HSjBfcXRwb2R3YVV2azVYdk9pMFpoYktfNGluZnZFczFvei16ZEFRNVBGVEZhQ3lXcFpCVTJlclZ6WE5NeFQ2aTlyLXhFT05jRGpKcS1ENkpteTVua2k5Ri10U0ctanEtbEJhZG5fNVVGbXlGTzJFYllDUDFmd0NuMHhiNnE2UkxrWWZhWWxEMWoxSlB3Z0xHU1pxT3hqNTd5S0FtQnhUcWxXRDBlM1JyWVVNMktXVWJueVJVLWwtT3FSNWRn?oc=5",
       "pubDate": "2026-08-05T11:02:15+00:00",
-      "source": "Kronologi.id",
+      "source": "kronologi.id",
       "description": "Kekerasan Seksual Berbasis Digital Meningkat Pesat, Mengapa Masyarakat Makin Rentan Jadi Korban Maupun Pelaku?",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -778,7 +796,7 @@
       "title": "Vanita Naraya gelar FGD soroti tantangan implementasi UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX1BoM012Yy00RkU3RkFGdzNYcVJRVHFwLVdkc2xyTDVQcmFCbmE5RU9IWTVlZ3pBWmhCWm5oNzF3d19YU1VSejZ2MUNUeUFqMXpQVVdadTRFRnVHdjJqNVdUWXpVczRNV0lHdUk1SnJ3elpieXg0WTVYOWNsWVo2d3ZKcTIxZ1llb0RRT1VXa1VUZUhoYnJOdHNvVExjLU5kb0U0RjNzSHLSAagBQVVfeXFMT19QaDNNdmMtNEZFN0ZBRnczWHFSUVRxcC1XZHNsckw1UHJhQm5hOUVPSFk1ZWd6QVpoQlpuaDcxd3dfWFNVUno2djFDVHlBajF6UFVXWnU0RUZ1R3YyajVXVFl6VXM0TVdJR3VJNUpyd3paYnl4NFk1WDljbFlaNnd2SnEyMWdZZW9EUU9VV2tVVGVIaGJyTnRzb1RMYy1OZG9FNEYzc0hy?oc=5",
       "pubDate": "2026-07-24T10:56:37+00:00",
-      "source": "antaranews.com",
+      "source": "ANTARA News",
       "description": "Vanita Naraya gelar FGD soroti tantangan implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -904,7 +922,7 @@
       "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "tempo.co",
+      "source": "Tempo.co",
       "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2704,7 +2722,7 @@
       "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzJuVXZJanRSN1hwcEZ3U1ZrOWV3UkREMXVsX3VGOHNpbTBacURvOHJ0b29faWlBbkpnTkJVTG1VWE9vaGE5bnNwYUJROURZTDlfTzB2NW83Y0FUeE1jNUVIUWFIX3REa2w4ZEwtOHhEVWlza2dBQndFT0JOdnFxbEVSOGJBS2dkU1VLaS1QeG4zRG5oOWpaeUs2OUk5ckFmRWJPWktXUm43UTJFX3pKZkV4RlRrcG44VEJLRmJfZ0o?oc=5",
       "pubDate": "2026-05-20T07:00:00+00:00",
-      "source": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+      "source": "kemdiktisaintek.go.id",
       "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2920,7 +2938,7 @@
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "prohealth.id",
+      "source": "Prohealth.id",
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -3118,10 +3136,10 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "UNICEF",
+      "source": "Unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
@@ -3316,19 +3334,10 @@
       "title": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjhnd1VKUmRjakhaYVBSMWpONjAxY0FWREExblludXAxNWV4S2tBVW9BbWJqM2xwdzhjckJ2VHBTbC00TWJqekhIUkROc2djd05EMXotSHQ5cjlRUElza1JWOV94RjNFWUxXUmZlV3hOVkhUOXFrQjZ2azBNSXRfM0hheDVRdUxKMU5YUDh5c3U3YS1Md3A1M3Z4ZV9vc0hOblZMMk9MSDhxSno0Z3BOZTZnUE5FcmFPSXRnNWM2VGkwcFpqWm95bGYwc2pIc2xLVVo4?oc=5",
       "pubDate": "2026-02-06T08:00:00+00:00",
-      "source": "Universitas Gadjah Mada",
+      "source": "ugm.ac.id",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
-      "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi RI",
-      "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
@@ -3338,6 +3347,15 @@
       "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
+      "pubDate": "2026-02-02T08:00:00+00:00",
+      "source": "Mahkamah Konstitusi RI",
+      "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
@@ -3424,7 +3442,7 @@
       "title": "DIY Serukan Gerakan Bersama Cegah Kekerasan Perempuan–Anak",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOTRkLTRmTGhIcGRmUmpEYnRRck02aTNtWVVnN3JhWmdDZTRURV9HTlNHSlQtZkFLSWpkS0J1bW5GQ2NtdTNiVnZpTV93MVdUZjhZU3hJWnNHOGtEWkdESmxqdThyTkpBZ2N2V3A1a2xDZ1RYNVZIQ3pzX1lkblVGTk1XT0hfQ2JCM2JWTjZvWlFwYUc1UlVMUVVSU2VWV2xkSXZzeQ?oc=5",
       "pubDate": "2025-12-05T08:00:00+00:00",
-      "source": "jogjaprov.go.id",
+      "source": "Jogjaprov",
       "description": "DIY Serukan Gerakan Bersama Cegah Kekerasan Perempuan–Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
