@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-11T06:58:20.814881+00:00",
-  "total": 396,
+  "updated_at": "2026-08-11T12:52:48.765191+00:00",
+  "total": 399,
   "stats": {
     "tpks": 120,
-    "kekerasan_seksual": 165,
+    "kekerasan_seksual": 167,
     "kbg": 42,
-    "kbgo": 69
+    "kbgo": 70
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bak Pedang Bermata Dua: Efek Domino Pengungkapan Kasus Kekerasan Seksual di Pesantren",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR182eTJxUVFOUjllNTdwTVhRR0dNTk9aVzYtN1EwRlZReFM3SVRDRHAtN2Ezbi1fZFZRMkUtem9nMG9sMHVuTEh6YkJvcnlPdmFjUXVZdGdndDBNeUs4ZGdYZ1NocC1UVmRRd0VBRlhMWGpqb0RaaWxXNzgtUlhZaXM0cEtyMk4td21BVWxWbVB1cHRFWjZRWjI2YjQ0ZzRoc05kVmF6LWNlX0ZBd1ZpVDVoZDdBTnpEYnRBRUlmdlZTMnN3VDd2UTJtZVhyNnUzc1FnaGZR?oc=5",
+      "pubDate": "2026-08-11T07:29:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "Bak Pedang Bermata Dua: Efek Domino Pengungkapan Kasus Kekerasan Seksual di Pesantren",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Polda Metro Jaya Ungkap Dugaan Kekerasan Seksual terhadap Anak, Ayah Kandung Jadi Tersangka",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRWxqdW9BcmVYMVRmcVFhVFBpSU9URjFvZC1BbDk4NnFMSHNOcW1QbGhIZmFqMHkyYXFnMTNRbV9SbmtoMVNqd0xfbFUwLWJqU1ZGcWZzV09oOW81NExKTlJOVjNNXy1xT296QVhuZE1mUjJvSkZxWTI5aVR4M0FKTXN2MUlZN1VwS0JWcDZQbkdGZnlRX2FFSWExRkFWTktZeVBpZkhUd2VXaTlyQTh2NmJSZFNjb3l1YmZzVWVaTWRyclJKRURjbjVZcFJzUkN6cmlhTC1Ga1BZVklO?oc=5",
+      "pubDate": "2026-08-11T02:57:00+00:00",
+      "source": "Media Budaya Indonesia",
+      "description": "Polda Metro Jaya Ungkap Dugaan Kekerasan Seksual terhadap Anak, Ayah Kandung Jadi Tersangka",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Wamendagri Dukung Penguatan Sistem Penanganan Kekerasan terhadap Perempuan dan Anak",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3dnYjNVTDRKLTdGcXZBNFF0aHdneExLZW9YUkFzTEVfcnhlc1NFNnliWEE1bUtYbVhUeWc3NlV3UTZRNTl1ellGX1NwQ0NWR1BCZGpKQXotWXZEemxjLTJFV2dIRmJNZnZnc1dxSUd4R2VucW1PVWxQT1JGR0ROOV9DMXFMWWFoSTRUQzcwSUgzLWJRMFI5R3k5X3I2bHFxbjRDZ3BpZVptQlpONEVmT0dxZFZfMXc?oc=5",
@@ -112,7 +130,7 @@
       "title": "Di Balik Tembok Akademik: Mengapa Kekerasan Seksual Masih Sering Terjadi? Halaman all",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcms0NXBqbncwTzZ0bDg0QTNYbHFnSVBNZFJoS1RqalN4eW1fUnZfVUFRaDFuQ3l4ZmxxZ0xqSzhYZ0RZMGl4NmpiOUtZc0dvaFVKLVVZWDV5NUhUYTdybmF6TlBuQmNfX2RYbV84ZUZ1LXFVQlczM1E0ZTVkNUtWNngxR0l0anZQLUFlLVU3dFpuMTRJc211UnRnN3dERkdyT2ZKeDdzckZNNmNmRmpGTDIwZnVnWVMySnNKc0RpeW93SllmaXBaVC1qSkpsdHdJeVNoMUZLQXlnV1hCM3I1cHpjQXdvTGc?oc=5",
       "pubDate": "2026-08-07T16:20:44+00:00",
-      "source": "kompasiana.com",
+      "source": "Kompasiana.com",
       "description": "Di Balik Tembok Akademik: Mengapa Kekerasan Seksual Masih Sering Terjadi? Halaman all",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3100,7 +3118,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3217,7 +3235,7 @@
       "title": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlJrTE5MaWJtNzJidUpybjZyZTRjNnVoTFctR0ZMdXVOb1dBTGxMTGlyNUxXYzY1WmFlTlBDOUVwYVhXaG0xZ3lFVmhpUkZtNWNsRUp2Z3JZaU0yNTVZN3h1WE42VDEtR0g4YWRLYVF1eVN5eWtNNEo1Mm1zTnpiMk1OQQ?oc=5",
       "pubDate": "2026-02-26T08:00:00+00:00",
-      "source": "magdalene.co",
+      "source": "Magdalene.co",
       "description": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3399,6 +3417,15 @@
       "pubDate": "2025-12-08T08:00:00+00:00",
       "source": "Universitas Katolik Parahyangan",
       "description": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "DIY Serukan Gerakan Bersama Cegah Kekerasan Perempuan–Anak",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOTRkLTRmTGhIcGRmUmpEYnRRck02aTNtWVVnN3JhWmdDZTRURV9HTlNHSlQtZkFLSWpkS0J1bW5GQ2NtdTNiVnZpTV93MVdUZjhZU3hJWnNHOGtEWkdESmxqdThyTkpBZ2N2V3A1a2xDZ1RYNVZIQ3pzX1lkblVGTk1XT0hfQ2JCM2JWTjZvWlFwYUc1UlVMUVVSU2VWV2xkSXZzeQ?oc=5",
+      "pubDate": "2025-12-05T08:00:00+00:00",
+      "source": "jogjaprov.go.id",
+      "description": "DIY Serukan Gerakan Bersama Cegah Kekerasan Perempuan–Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
