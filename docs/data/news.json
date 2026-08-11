@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-11T01:18:31.450388+00:00",
-  "total": 395,
+  "updated_at": "2026-08-11T06:58:20.814881+00:00",
+  "total": 396,
   "stats": {
-    "tpks": 119,
+    "tpks": 120,
     "kekerasan_seksual": 165,
     "kbg": 42,
     "kbgo": 69
   },
-  "new_this_fetch": 0,
+  "new_this_fetch": 60,
   "keywords": [
     {
       "id": "tpks",
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Wamendagri Dukung Penguatan Sistem Penanganan Kekerasan terhadap Perempuan dan Anak",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3dnYjNVTDRKLTdGcXZBNFF0aHdneExLZW9YUkFzTEVfcnhlc1NFNnliWEE1bUtYbVhUeWc3NlV3UTZRNTl1ellGX1NwQ0NWR1BCZGpKQXotWXZEemxjLTJFV2dIRmJNZnZnc1dxSUd4R2VucW1PVWxQT1JGR0ROOV9DMXFMWWFoSTRUQzcwSUgzLWJRMFI5R3k5X3I2bHFxbjRDZ3BpZVptQlpONEVmT0dxZFZfMXc?oc=5",
+      "pubDate": "2026-08-10T12:45:34+00:00",
+      "source": "indoposco.id",
+      "description": "Wamendagri Dukung Penguatan Sistem Penanganan Kekerasan terhadap Perempuan dan Anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Relasi Kuasa Bikin Korban Kekerasan Seksual Sulit Bicara, Ini Penjelasan DP3A Kabupaten Malang",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLVdtZUZYNmNHNDFEdmxQMGdHZ3o3Z2xNaklYTjVLNWlQdVFDS2NFdVA1Qzd0Y1RyNlJJNVQ2eG5hQjhIM1Z6NElGbktyMlpMV05TNjZJSjI0RG9xUUJkaXJrc0UtTWRRTlZPSW1SeUplVDR5TTA2UlZqem1BQUU3LWIwZmlxWnBUdFlJU1F0UUUtSXFaTEtaNkJJU1RvYjNlY0NTWnVFN2lPc21LcEU1M2tkbWM3ay1QX00zaGNNUElZY0VjcDBOOGdxVDdXSzI3U3RPMGl0M3RpNFVIaTJabWtR?oc=5",
@@ -76,7 +85,7 @@
       "title": "Menakar Perlindungan Hak Perempuan: Analisis Regulasi dan Upaya Penghapusan Kekerasan di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjBSVTNzN1ZhaGgtV2ZoVnVyVEh3X2F1dlBPaS11ejRHOEpDTm9YRVZlOVpCdFR0MFl6eUcydzlZWnU1T1BzTTl6WHFlTWtyUVloUTJWcExpUW9oZDlncUNFUEpBMlc2QVktcXJBVWFJQ2F1WmQwWE1EcGdNemdQV0FqM2lLU3ZaQmxGZDN3?oc=5",
       "pubDate": "2026-08-08T14:48:13+00:00",
-      "source": "Kompasiana.com",
+      "source": "kompasiana.com",
       "description": "Menakar Perlindungan Hak Perempuan: Analisis Regulasi dan Upaya Penghapusan Kekerasan di Indonesia",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -103,7 +112,7 @@
       "title": "Di Balik Tembok Akademik: Mengapa Kekerasan Seksual Masih Sering Terjadi? Halaman all",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcms0NXBqbncwTzZ0bDg0QTNYbHFnSVBNZFJoS1RqalN4eW1fUnZfVUFRaDFuQ3l4ZmxxZ0xqSzhYZ0RZMGl4NmpiOUtZc0dvaFVKLVVZWDV5NUhUYTdybmF6TlBuQmNfX2RYbV84ZUZ1LXFVQlczM1E0ZTVkNUtWNngxR0l0anZQLUFlLVU3dFpuMTRJc211UnRnN3dERkdyT2ZKeDdzckZNNmNmRmpGTDIwZnVnWVMySnNKc0RpeW93SllmaXBaVC1qSkpsdHdJeVNoMUZLQXlnV1hCM3I1cHpjQXdvTGc?oc=5",
       "pubDate": "2026-08-07T16:20:44+00:00",
-      "source": "Kompasiana.com",
+      "source": "kompasiana.com",
       "description": "Di Balik Tembok Akademik: Mengapa Kekerasan Seksual Masih Sering Terjadi? Halaman all",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -877,7 +886,7 @@
       "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "Tempo.co",
+      "source": "tempo.co",
       "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -967,7 +976,7 @@
       "title": "Kasus Kekerasan Seksual Harus Diatasi dengan Langkah Tegas",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXo5WEt0N2g2RHFqR3lkeUxCMFFaUlpvQnNXdE13ZzVwa29BbHBGUUhJV3ZZRWR3TUlfM3drYnlXdndVU3NDZFQ4RWNuYngzVkJRdHExWHJGRmVpTFF3U2xfeGNReTI5YlhEblJnSm1ZUm45cUpoTmZYU1dfSjBnWThyQnZOb1Y1cVBrek9yclVJcUMwS1NSUEp3?oc=5",
       "pubDate": "2026-07-22T13:13:18+00:00",
-      "source": "partainasdem.id",
+      "source": "Partai NasDem",
       "description": "Kasus Kekerasan Seksual Harus Diatasi dengan Langkah Tegas",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -1957,7 +1966,7 @@
       "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
       "pubDate": "2026-06-28T07:00:00+00:00",
-      "source": "aktual.com",
+      "source": "Aktual.com",
       "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2872,6 +2881,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Kartini dan Luka yang Tak Terlihat",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -2884,19 +2902,10 @@
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Prohealth.id",
+      "source": "prohealth.id",
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
@@ -2937,11 +2946,11 @@
     {
       "title": "Modul Akademi Penghapusan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlpiNm01SEJzemppMEdGRm9RcEtHREVVTEJKaC1CLUxNM2c2bTZLbHJESWFvYXlpUXhzUEdtcVRuM3hOa0ZuRlhRb1dCcjBtSVdldTJZRjZDZDZKRzhXNkZjNDNuOXZJWks3VzlCMVNCUmw4XzRqcmRSYUg3SGtwSnNhYUZGd1FOemIwYlJ5T2hhc3RRR0FSRDI5YkgwQWt6Z1ZMSnpHU3Z2TmphQTM0SQ?oc=5",
-      "pubDate": "2026-04-17T02:58:28+00:00",
+      "pubDate": "2026-04-17T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
@@ -3208,7 +3217,7 @@
       "title": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlJrTE5MaWJtNzJidUpybjZyZTRjNnVoTFctR0ZMdXVOb1dBTGxMTGlyNUxXYzY1WmFlTlBDOUVwYVhXaG0xZ3lFVmhpUkZtNWNsRUp2Z3JZaU0yNTVZN3h1WE42VDEtR0g4YWRLYVF1eVN5eWtNNEo1Mm1zTnpiMk1OQQ?oc=5",
       "pubDate": "2026-02-26T08:00:00+00:00",
-      "source": "Magdalene.co",
+      "source": "magdalene.co",
       "description": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
