@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T12:58:02.100414+00:00",
+  "updated_at": "2026-08-12T18:55:49.054777+00:00",
   "total": 408,
   "stats": {
     "tpks": 123,
@@ -76,7 +76,7 @@
       "title": "KY Susun Instrumen Analisis Putusan untuk Perkuat Implementasi UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0NsZXVJYVkxRVpGTW5vODkyVDZxbzZGaTVOTTIzcUVNLTA1LTlZMzRJYW9vMXR0V3RJV0hYYUdQc0VGR1N0RnM0dk1UdkhTcllvTnhDczlXWWszcG9nQUw5QWZudUFZMkRmUGhZSFFYOEwyTWc1RTdlamdBWTFFZTNHZDFGRXYwMzhqcjZNVnA4bXFrTGpIUjUxR2lxZm1IWGt4VUhqYkdBOWhpQkhnUFRGYVJ1b2FkMlhvWk9Zc3JGYi1rZGpmRWRWTQ?oc=5",
       "pubDate": "2026-08-12T02:43:14+00:00",
-      "source": "InfoPublik.id",
+      "source": "infopublik.id",
       "description": "KY Susun Instrumen Analisis Putusan untuk Perkuat Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -418,7 +418,7 @@
       "title": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQld2QlByUVFienVoRWwzZFdyME43bVdSbU5PLUZqQ1J3ampOSTNmOVRnYjlMR0Q5VGhTRFE1Z0dPMUFfTW4yWml1YVhUVDdVV1kxcGtRX1V0R01oZkF2b09MaGlZb3ZKZTZjUkdjbXlXcUJ2T1c1TUotM0dTd2NVS2w4V284R1FhSlJ2UWVqS3lCT1lSbHNPZU5QWV9qYzZ3UFpBc3BtQlI2bzhzV2p6VjZQUFdUZ2J5T0FfLUI5LTF2aDJsWkxXSnF0ZmVhWnREUTRIRGp1N085c0VC?oc=5",
       "pubDate": "2026-08-03T12:15:00+00:00",
-      "source": "Komisi Yudisial",
+      "source": "komisiyudisial.go.id",
       "description": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -865,15 +865,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHVSLWhGQ1liS0lfcWNMZzRtVFBwZUFUUjhobXNFVUdOaUJaTmplbW9sOHFTcGxyLXNpeDNEbTNQSEQtRHJtOTNPSF9ZMjRtUjBrRGhiTHdNOGQwLV9GVEdjeVA5S0JMRDFSNE5MOWhnUHRaV081M2lGa0pEUUJOZEhRamN1SVQxQmZRMVpOcmV0Q0E3c0VtemhJQUVrNUFRcUR4RjhvZTl6UWZj0gGvAUFVX3lxTFBvMkl4OEZqbGI3eGNUT0hRdUF6cTVFZTJTY0JNLTNWNWc3NmdKYVFiN1ZGR2daSGpzbmZoaTdVX3RuNlhpLVI2Rk94bjBDSGlXRzY3VWg2LVp2ODRLSnloNXIyNGc2Nl9EV2xNdXdBWjBZTGM4V1NrUTZQbWxuRXdSVEs3MDUxSXZBOGJSWXBwSWdJTHRucmFpa0Z1LXVrYTNPSXZKNk45YVY5TmdYTGc?oc=5",
-      "pubDate": "2026-07-24T07:00:00+00:00",
-      "source": "ANTARA News",
-      "description": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42T1dsQ1A2bnFOMmNjdFN0Z3M4aV9uTDBXeDdYOEYyQkJYcjRGZS1ZSE1Tc2hPLW9uRjlSa3k4LXk0by1paGxxVFpnNGRBcE9vTmFxaGotczJQd0FLYTZweWEwVUpNeVBxWng2Q3RhbUVuWDJROExCdE4yTQ?oc=5",
       "pubDate": "2026-07-24T07:00:00+00:00",
@@ -881,6 +872,15 @@
       "description": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHVSLWhGQ1liS0lfcWNMZzRtVFBwZUFUUjhobXNFVUdOaUJaTmplbW9sOHFTcGxyLXNpeDNEbTNQSEQtRHJtOTNPSF9ZMjRtUjBrRGhiTHdNOGQwLV9GVEdjeVA5S0JMRDFSNE5MOWhnUHRaV081M2lGa0pEUUJOZEhRamN1SVQxQmZRMVpOcmV0Q0E3c0VtemhJQUVrNUFRcUR4RjhvZTl6UWZj0gGvAUFVX3lxTFBvMkl4OEZqbGI3eGNUT0hRdUF6cTVFZTJTY0JNLTNWNWc3NmdKYVFiN1ZGR2daSGpzbmZoaTdVX3RuNlhpLVI2Rk94bjBDSGlXRzY3VWg2LVp2ODRLSnloNXIyNGc2Nl9EV2xNdXdBWjBZTGM4V1NrUTZQbWxuRXdSVEs3MDUxSXZBOGJSWXBwSWdJTHRucmFpa0Z1LXVrYTNPSXZKNk45YVY5TmdYTGc?oc=5",
+      "pubDate": "2026-07-24T07:00:00+00:00",
+      "source": "ANTARA News",
+      "description": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kekerasan Seksual masih Jadi Ancaman Anak Indonesia, DPR Minta Pemerintah Permudah Sistem Pelaporan",
@@ -985,7 +985,7 @@
       "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "tempo.co",
+      "source": "Tempo.co",
       "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -1273,7 +1273,7 @@
       "title": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDMwQzRYemNoZUhOS00wakZuS1VrYW5vclBnNjhnUmpQWXZEdFFTSXhnSzBqYldia3UyVFRhTlFmWlBNUG1VZjNnQzBRUkl0QVp0dmNwRTRnMDRpZ21kMnRRSUpHWWtkMUx1U1UzWHdIVG5MQXppZ2phNjhWXy1fRk9aazBhYXY3THQ1cnFOLS1WcUFLMUhGVGJHRDdlTG1ONXY0bFN0Y3Y3LUdQVERJdWEyREI0SzlBcFpoNG9xTEdXcFFXUVBXS3ljSzJxdDZkT2JFNlNR?oc=5",
       "pubDate": "2026-07-18T07:00:00+00:00",
-      "source": "Ombudsman Republik Indonesia",
+      "source": "ombudsman.go.id",
       "description": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3403,15 +3403,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGIzalRIcFBZQmZmWHF1WDlTNmtqY2hyOEtwQWFZS2J2OW5TMGFaSWFBVkNaV05rQ093MW10WkdyU2JibmxuOTRQbDZxTGhzTlEtNXRrby1POVF5dTFQdUxjNmpDTnJJbDZPVXBoVUE0RXBUblJCMmRMLXJBdFdmWk8wWjVxMFlsc0ZFLS1Hdzd2RDlLTlk4QlhTZGF0WUZlbjY2cWliaWRIVTBpemh5emhPZHo0S2hTYlJzOHZ3V0cxckxhZVBuZnlVN3JUX0pUTXZxQjd2U0xFNHg5bE9SOFh2ZlkxQUdwTFpONQ?oc=5",
-      "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
@@ -3419,6 +3410,15 @@
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGIzalRIcFBZQmZmWHF1WDlTNmtqY2hyOEtwQWFZS2J2OW5TMGFaSWFBVkNaV05rQ093MW10WkdyU2JibmxuOTRQbDZxTGhzTlEtNXRrby1POVF5dTFQdUxjNmpDTnJJbDZPVXBoVUE0RXBUblJCMmRMLXJBdFdmWk8wWjVxMFlsc0ZFLS1Hdzd2RDlLTlk4QlhTZGF0WUZlbjY2cWliaWRIVTBpemh5emhPZHo0S2hTYlJzOHZ3V0cxckxhZVBuZnlVN3JUX0pUTXZxQjd2U0xFNHg5bE9SOFh2ZlkxQUdwTFpONQ?oc=5",
+      "pubDate": "2026-02-02T08:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
