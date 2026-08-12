@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-12T01:26:15.832987+00:00",
-  "total": 402,
+  "updated_at": "2026-08-12T07:16:59.698529+00:00",
+  "total": 404,
   "stats": {
     "tpks": 122,
-    "kekerasan_seksual": 166,
-    "kbg": 42,
-    "kbgo": 72
+    "kekerasan_seksual": 168,
+    "kbg": 43,
+    "kbgo": 71
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Polisi di Buton Sultra Jadi Tersangka Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmMyNUdNZGpuZ192SnJMQ3pheDV4MWFlNk95cXJmRk1qU2hRWEMxTThZdDhoQTZEMkNtSG5xTDUtOTJlNVZLOUh2MzNtdXo0SEhXM1E0QnN6d0U5UldjekJ0c3ZNS1lBWWVNNnI1UlRYQ19qdHJBaWRKWGZvTU1CM3hlajRpZExLeWI0bzFWZEtVa28xMWF5NXRKSzhYdWdjOWVJQW9rVktSeHBlRC1WR0JvSHRIOUdLVFhz0gHAAUFVX3lxTE5sSWljOFBpZXYxT3RwQlVMLWRnZHFaQ3NrTHFWbi1jYm5aT0x6LTVUQ0NsbS1OVzlud0ZQUlg0WWtKR2lvUFhaNzFWUzVtOThTaXFlMmxxM0lkVlFYbWN5UmlIZl9oR1JpbkE2VzZOVlJHU1VQYjJzaXZFdTNHUnpVZldnanpNQnVvcHlIZHVucUlSTU9hTW54TnNuZFBlZkdlQUI3ZkxxVWl3b2hCZk90SWFSWEtlTG40Z1JUcnJpaA?oc=5",
+      "pubDate": "2026-08-12T06:00:41+00:00",
+      "source": "CNN Indonesia",
+      "description": "Polisi di Buton Sultra Jadi Tersangka Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "KY Susun Instrumen Analisis Putusan untuk Perkuat Implementasi UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0NsZXVJYVkxRVpGTW5vODkyVDZxbzZGaTVOTTIzcUVNLTA1LTlZMzRJYW9vMXR0V3RJV0hYYUdQc0VGR1N0RnM0dk1UdkhTcllvTnhDczlXWWszcG9nQUw5QWZudUFZMkRmUGhZSFFYOEwyTWc1RTdlamdBWTFFZTNHZDFGRXYwMzhqcjZNVnA4bXFrTGpIUjUxR2lxZm1IWGt4VUhqYkdBOWhpQkhnUFRGYVJ1b2FkMlhvWk9Zc3JGYi1rZGpmRWRWTQ?oc=5",
+      "pubDate": "2026-08-12T02:43:14+00:00",
+      "source": "InfoPublik.id",
+      "description": "KY Susun Instrumen Analisis Putusan untuk Perkuat Implementasi UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "KKN PM UMY Bekali Siswa SD Canden 2 Cegah Kekerasan Seksual Halaman 1",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLUpPYWdNbXRvdDViVjNfMUFQSnJkV2NiMXlWX1lJY0dUd1RqdERoOEVOS1NJeW5tMUpPdzVGM21nZGhFaWs0UDBweHlHRUp0TVhvOWtER1pFSTQybmFqNF9aWm9oM1VieFNjZERGTk5iaU1EejBwVXZ5eEVmeG5vaDVSM0FfN0lURjVEZGgzT3VOMjZLZHJ1RTM2V1hvNGVLaVJGUmJZbTBtZF9yMHVmLV83ZTNPcXI3MTZKS1lZeDN1V0YyT3l4c1BOeFFrQUZOc0pVNVUxVjVxUQ?oc=5",
+      "pubDate": "2026-08-12T01:27:35+00:00",
+      "source": "Kompasiana.com",
+      "description": "KKN PM UMY Bekali Siswa SD Canden 2 Cegah Kekerasan Seksual Halaman 1",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Bak Pedang Bermata Dua: Efek Domino Pengungkapan Kasus Kekerasan Seksual di Pesantren",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR182eTJxUVFOUjllNTdwTVhRR0dNTk9aVzYtN1EwRlZReFM3SVRDRHAtN2Ezbi1fZFZRMkUtem9nMG9sMHVuTEh6YkJvcnlPdmFjUXVZdGdndDBNeUs4ZGdYZ1NocC1UVmRRd0VBRlhMWGpqb0RaaWxXNzgtUlhZaXM0cEtyMk4td21BVWxWbVB1cHRFWjZRWjI2YjQ0ZzRoc05kVmF6LWNlX0ZBd1ZpVDVoZDdBTnpEYnRBRUlmdlZTMnN3VDd2UTJtZVhyNnUzc1FnaGZR?oc=5",
@@ -98,15 +125,6 @@
       "description": "Yakuza Maneges Gandeng Komnas PA Jatim Perkuat Perlindungan Korban Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "KY Susun Instrumen Analisis Putusan untuk Perkuat Implementasi UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0NsZXVJYVkxRVpGTW5vODkyVDZxbzZGaTVOTTIzcUVNLTA1LTlZMzRJYW9vMXR0V3RJV0hYYUdQc0VGR1N0RnM0dk1UdkhTcllvTnhDczlXWWszcG9nQUw5QWZudUFZMkRmUGhZSFFYOEwyTWc1RTdlamdBWTFFZTNHZDFGRXYwMzhqcjZNVnA4bXFrTGpIUjUxR2lxZm1IWGt4VUhqYkdBOWhpQkhnUFRGYVJ1b2FkMlhvWk9Zc3JGYi1rZGpmRWRWTQ?oc=5",
-      "pubDate": "2026-08-09T07:00:00+00:00",
-      "source": "InfoPublik.id",
-      "description": "KY Susun Instrumen Analisis Putusan untuk Perkuat Implementasi UU TPKS",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "Menakar Perlindungan Hak Perempuan: Analisis Regulasi dan Upaya Penghapusan Kekerasan di Indonesia",
@@ -247,7 +265,7 @@
       "title": "Kekerasan Seksual Berbasis Digital Meningkat Pesat, Mengapa Masyarakat Makin Rentan Jadi Korban Maupun Pelaku?",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkI2dE5HSjBfcXRwb2R3YVV2azVYdk9pMFpoYktfNGluZnZFczFvei16ZEFRNVBGVEZhQ3lXcFpCVTJlclZ6WE5NeFQ2aTlyLXhFT05jRGpKcS1ENkpteTVua2k5Ri10U0ctanEtbEJhZG5fNVVGbXlGTzJFYllDUDFmd0NuMHhiNnE2UkxrWWZhWWxEMWoxSlB3Z0xHU1pxT3hqNTd5S0FtQnhUcWxXRDBlM1JyWVVNMktXVWJueVJVLWwtT3FSNWRn?oc=5",
       "pubDate": "2026-08-05T11:02:15+00:00",
-      "source": "kronologi.id",
+      "source": "Kronologi.id",
       "description": "Kekerasan Seksual Berbasis Digital Meningkat Pesat, Mengapa Masyarakat Makin Rentan Jadi Korban Maupun Pelaku?",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -784,15 +802,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHVSLWhGQ1liS0lfcWNMZzRtVFBwZUFUUjhobXNFVUdOaUJaTmplbW9sOHFTcGxyLXNpeDNEbTNQSEQtRHJtOTNPSF9ZMjRtUjBrRGhiTHdNOGQwLV9GVEdjeVA5S0JMRDFSNE5MOWhnUHRaV081M2lGa0pEUUJOZEhRamN1SVQxQmZRMVpOcmV0Q0E3c0VtemhJQUVrNUFRcUR4RjhvZTl6UWZj0gGvAUFVX3lxTFBvMkl4OEZqbGI3eGNUT0hRdUF6cTVFZTJTY0JNLTNWNWc3NmdKYVFiN1ZGR2daSGpzbmZoaTdVX3RuNlhpLVI2Rk94bjBDSGlXRzY3VWg2LVp2ODRLSnloNXIyNGc2Nl9EV2xNdXdBWjBZTGM4V1NrUTZQbWxuRXdSVEs3MDUxSXZBOGJSWXBwSWdJTHRucmFpa0Z1LXVrYTNPSXZKNk45YVY5TmdYTGc?oc=5",
-      "pubDate": "2026-07-24T13:36:05+00:00",
-      "source": "ANTARA News",
-      "description": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "MPR Dorong Penguatan Sistem Perlindungan Anak hingga Tingkat Daerah",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOU1aNzlSNFRJclhJZXlibE9WczdyRW5nQlFKOGlXTmdHYmZ0OFBlYXI3ZklpbDN0YzRCbGZsSTBJZnlHSi1XTHhPcGV0UzlxTjI4WFgzOXdHR1hTaEZaUEF0bURKQXVXejB4UHBpQXcwLURzcWdhZEl1emN6WlRMM0Rtbk1WMHA4ckdRRDJTcVF5RmlUWkNjQkNLYVJhYjdtREdpTVlUdnJlTnFsaWdGdg?oc=5",
       "pubDate": "2026-07-24T11:22:00+00:00",
@@ -816,6 +825,15 @@
       "pubDate": "2026-07-24T10:50:52+00:00",
       "source": "Media Indonesia",
       "description": "Koordinasi Penegak Hukum dan Kualitas Pemenuhan Hak Korban Jadi Tantangan Pelaksanaan UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHVSLWhGQ1liS0lfcWNMZzRtVFBwZUFUUjhobXNFVUdOaUJaTmplbW9sOHFTcGxyLXNpeDNEbTNQSEQtRHJtOTNPSF9ZMjRtUjBrRGhiTHdNOGQwLV9GVEdjeVA5S0JMRDFSNE5MOWhnUHRaV081M2lGa0pEUUJOZEhRamN1SVQxQmZRMVpOcmV0Q0E3c0VtemhJQUVrNUFRcUR4RjhvZTl6UWZj0gGvAUFVX3lxTFBvMkl4OEZqbGI3eGNUT0hRdUF6cTVFZTJTY0JNLTNWNWc3NmdKYVFiN1ZGR2daSGpzbmZoaTdVX3RuNlhpLVI2Rk94bjBDSGlXRzY3VWg2LVp2ODRLSnloNXIyNGc2Nl9EV2xNdXdBWjBZTGM4V1NrUTZQbWxuRXdSVEs3MDUxSXZBOGJSWXBwSWdJTHRucmFpa0Z1LXVrYTNPSXZKNk45YVY5TmdYTGc?oc=5",
+      "pubDate": "2026-07-24T07:00:00+00:00",
+      "source": "ANTARA News",
+      "description": "Polda Metro dorong SOP terpadu penanganan korban kekerasan seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -3345,8 +3363,8 @@
       "pubDate": "2026-02-06T08:00:00+00:00",
       "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
@@ -3442,7 +3460,7 @@
       "title": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkdHZFVMMXc4cXRGUWk2ZlN1R3VQNEZsR3lwZ3NYdkRtZ1gtM1hYNXJZMWxCemxldG1aSUFjdkxYM2lJOTU1Nk5UNThVWlJiLUp5X2xabU9GVmxMcnlGSi0xeVFUWDR0cUpnQ2p6ZFFCQlpzQnpvNlBvT3EyYU51aFRSZ25jSmV0YURVWTl6SXF1ZVJzaExKWU4xV0FJUUp5WVE?oc=5",
       "pubDate": "2025-12-08T08:00:00+00:00",
-      "source": "Universitas Katolik Parahyangan",
+      "source": "unpar.ac.id",
       "description": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
