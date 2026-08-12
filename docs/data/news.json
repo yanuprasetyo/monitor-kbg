@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-11T18:55:58.000961+00:00",
-  "total": 401,
+  "updated_at": "2026-08-12T01:26:15.832987+00:00",
+  "total": 402,
   "stats": {
     "tpks": 122,
     "kekerasan_seksual": 166,
     "kbg": 42,
-    "kbgo": 71
+    "kbgo": 72
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -422,6 +422,15 @@
       "description": "Lawan Bullying dan Kekerasan Berbasis Gender Online: Mahasiswa KKN-PPM UGM Ajak Pelajar dan Warga Petang Lebih Melek Gender dan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Yang Sering Tak Diajarkan di Sekolah: Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUGtaZllneXduQmNfaEhOa0hKRmxpeU5Ib0lrRjlkWHRndzdXMk1KRFBuZ0J6UURyVE9wSGlLLU1QVG83Z05zY2lMV3ptaGticHlBWWF6dklseW8wYmZ1MmdHN0wyX0plZ3FFbk9Bb0FURkFNZlZZVkhhRFpVTWthN3k4cFpXb0Y0cy1ZSjFkLTEyaHFQZFZwSDNNc1NlcWhDcTNIQXY4bXYxSWthRmhMVG1CTTVNenVTM1RyOUlOUHRmUzRt?oc=5",
+      "pubDate": "2026-08-01T13:08:30+00:00",
+      "source": "Kompasiana.com",
+      "description": "Yang Sering Tak Diajarkan di Sekolah: Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Kekerasan Seksual Anak: Menagih Ruang Aman bagi Perempuan",
@@ -2722,7 +2731,7 @@
       "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzJuVXZJanRSN1hwcEZ3U1ZrOWV3UkREMXVsX3VGOHNpbTBacURvOHJ0b29faWlBbkpnTkJVTG1VWE9vaGE5bnNwYUJROURZTDlfTzB2NW83Y0FUeE1jNUVIUWFIX3REa2w4ZEwtOHhEVWlza2dBQndFT0JOdnFxbEVSOGJBS2dkU1VLaS1QeG4zRG5oOWpaeUs2OUk5ckFmRWJPWktXUm43UTJFX3pKZkV4RlRrcG44VEJLRmJfZ0o?oc=5",
       "pubDate": "2026-05-20T07:00:00+00:00",
-      "source": "kemdiktisaintek.go.id",
+      "source": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3136,7 +3145,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3334,10 +3343,10 @@
       "title": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjhnd1VKUmRjakhaYVBSMWpONjAxY0FWREExblludXAxNWV4S2tBVW9BbWJqM2xwdzhjckJ2VHBTbC00TWJqekhIUkROc2djd05EMXotSHQ5cjlRUElza1JWOV94RjNFWUxXUmZlV3hOVkhUOXFrQjZ2azBNSXRfM0hheDVRdUxKMU5YUDh5c3U3YS1Md3A1M3Z4ZV9vc0hOblZMMk9MSDhxSno0Z3BOZTZnUE5FcmFPSXRnNWM2VGkwcFpqWm95bGYwc2pIc2xLVVo4?oc=5",
       "pubDate": "2026-02-06T08:00:00+00:00",
-      "source": "ugm.ac.id",
+      "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
