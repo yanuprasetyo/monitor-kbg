@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-13T07:19:13.522799+00:00",
-  "total": 409,
+  "updated_at": "2026-08-13T12:58:36.012310+00:00",
+  "total": 411,
   "stats": {
     "tpks": 122,
-    "kekerasan_seksual": 172,
+    "kekerasan_seksual": 174,
     "kbg": 42,
     "kbgo": 73
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ada 4.513 Korban Kekerasan terhadap Perempuan di Jabar, Tertinggi Se-Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTl2cFl3TGJmMU95VTVzeWZLOTRzRl9CV09hb1gyVzRqYmw4OFR1UDdiWlJldk1RU2ZsTUtRTnFsazdvR0ZTMTFqSXh1NzZ0ci1FNjZYSmhxeWIyVjNBYW1nMmtJOXBYVm90SzZfSVdCYXkyNFl0VGtITEdKWGhiaGtGSmwtQmVObG93VGxRRnBTSXVQQnA4c2VNbWNwWWNYZVhnamduWTBHaG1SSjkwWVB4eXhVRjMyWUV3U2pJWnlRSXJGYUhNZw?oc=5",
+      "pubDate": "2026-08-13T09:26:00+00:00",
+      "source": "Kompas.com",
+      "description": "Ada 4.513 Korban Kekerasan terhadap Perempuan di Jabar, Tertinggi Se-Indonesia",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "TERUNGKAP Kasus Pelecehan Seksual di Alalak Utara, Seorang Tersangka Dimankan",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDN6WC1LaTJjeF9HMXEyUi1TNy1NSmkwQ3p6Wmk5SkhuUWRxaERFUHFrMnpVVmRPRjkxVHRqQVY3V0ttcUhGUjZaVGt4d1Fzenl4RVF5V2s4T3pTclFxbkhpZkczNDFuQmVUcWYweHhLY2F1YWtJdllDY1BkN2wyZzgzZ0Y2bU5OdnRrdm5SbnZfVjUwcHV3WVgyU1ZtdnZPYjRWOGV3?oc=5",
+      "pubDate": "2026-08-13T07:44:03+00:00",
+      "source": "Suar Indonesia",
+      "description": "TERUNGKAP Kasus Pelecehan Seksual di Alalak Utara, Seorang Tersangka Dimankan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Program PAREDI dorong pencegahan kekerasan seksual dan KDRT di HST",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUE1LVB0SDhHRjRoNWVyRnBpTEJ3VUJZckhaMjFZVzFrVHJnN0hxUUtrUU1JNWk5XzdDOERLTXJlU09IejM1UGhERmJYTkVRbFNoMHU1Tl9YS29uU2ZyM25nenBTMEhNZWtzUGhsaE1GRDlKUGgxdjhCdkNIMWVoSHdjaGl1MC1ZWk5yM2hIT1JKd2VSTzk4MUJOR2c4ZHI4Y19welFsems4Wmo2WDVz0gG0AUFVX3lxTE5EQjdlVk1zNVZwM3BaZjdoWlU3VnNmc3JuMmFtSlhXbVpqYmlzV2l5MDI5emktZHg5eFhIaVJ5eDFETnlnOS16UTdrVDFzZ2dWMWtjcGxQbEVSYzJSajZURjZzM01DR2k3TjFLa21JZ3BGUFNLNzBBOTRLdXJid0VpeV9XenZ6MEFNaktLS0tGZHBMOUltZ2trTnJ2MDZHV3dZSHlwWFotbjd1QWFteEhmQkx5Tw?oc=5",
@@ -103,7 +121,7 @@
       "title": "Polda Metro Jaya Ungkap Dugaan Kekerasan Seksual terhadap Anak, Ayah Kandung Jadi Tersangka",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRWxqdW9BcmVYMVRmcVFhVFBpSU9URjFvZC1BbDk4NnFMSHNOcW1QbGhIZmFqMHkyYXFnMTNRbV9SbmtoMVNqd0xfbFUwLWJqU1ZGcWZzV09oOW81NExKTlJOVjNNXy1xT296QVhuZE1mUjJvSkZxWTI5aVR4M0FKTXN2MUlZN1VwS0JWcDZQbkdGZnlRX2FFSWExRkFWTktZeVBpZkhUd2VXaTlyQTh2NmJSZFNjb3l1YmZzVWVaTWRyclJKRURjbjVZcFJzUkN6cmlhTC1Ga1BZVklO?oc=5",
       "pubDate": "2026-08-11T02:57:00+00:00",
-      "source": "Media Budaya Indonesia",
+      "source": "mediabudayaindonesia.com",
       "description": "Polda Metro Jaya Ungkap Dugaan Kekerasan Seksual terhadap Anak, Ayah Kandung Jadi Tersangka",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -139,7 +157,7 @@
       "title": "Lawan Kekerasan Seksual, TIMES Forum Dorong Perlindungan Siswa dan Santri",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmxBN2NTU3BabTh3aERraWlZb2dXeXU4cU81b3NBX2dCek45NjluejJIOGlzZXN3NEFnbEttZWR5QTlCc0pObkdKbUNQVWZlOUdXSG1KQUpHQVVQOWEySVNfVmttYXI5SVVvTm5WY1NPY2dDeWtxME1JUlBBU3lnOXVPcFlpb2lGS2ZEdXZXZVFWbXBLcFJQUDVrZWZSZVlKZTZ3QjJQbjRyTGw5NHRSYnRYTFZ5NXlKN2JIVDFLeGtYRmN1Y2c?oc=5",
       "pubDate": "2026-08-10T09:06:00+00:00",
-      "source": "TIMES Indonesia",
+      "source": "timesindonesia.co.id",
       "description": "Lawan Kekerasan Seksual, TIMES Forum Dorong Perlindungan Siswa dan Santri",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -346,7 +364,7 @@
       "title": "Perempuan Mendominasi Korban KBGO Sepanjang April-Juni 2026",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVlubFo4cTV3ampEMTJPR251ai1IaHFKN0VEaFJNOE1hX3MzbnA3eVIyTzdiMHN5MFVsVnNESkVBN3ZrdXdxOWpCRUYyeTFkWnZrRzdHVXBBSHVzdV9KRW91eW1udXNEVkpQYXk4YzM0eXA3amlXaXAyS0Z5eEZXRy00RmFhejFwVTNrWTJsM1o0YXV0dnBwN2pQRnNIaWVZQkw4?oc=5",
       "pubDate": "2026-08-05T03:30:25+00:00",
-      "source": "data.goodstats.id",
+      "source": "GoodStats",
       "description": "Perempuan Mendominasi Korban KBGO Sepanjang April-Juni 2026",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -364,7 +382,7 @@
       "title": "Pemkot Palembang Gelar Pelatihan Literasi Digital untuk Cegah Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BRmNyaGt1N0ZUbTBPNHp4Qy13RVVUODNfWHdkajJTZ3V3ZDBlSnpET0didkVzSENwZWlhR0RDbzlSbUNncldRekVIQm8yVkJUVTQw?oc=5",
       "pubDate": "2026-08-04T07:00:00+00:00",
-      "source": "Pemerintah Kota Palembang",
+      "source": "palembang.go.id",
       "description": "Pemkot Palembang Gelar Pelatihan Literasi Digital untuk Cegah Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -463,7 +481,7 @@
       "title": "Jurnalis Perempuan Hadapi Ancaman KBGO, Literasi Digital Dinilai Jadi Benteng Perlindungan",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0FZX2ZCRExybFQwMHozWDQ0aEtmeU9jSjNfWEc0Y0swc3M3M2lGY3dTd1Z4LWhWcUpaRnFGTEczdlFnZDVTdDFpaGFwcmkxWjU1eHVIUnh0MlM5MU1PbG54MGV5Y0IwNEZVRi10R2FBX3ZySzd4Sm5qcUNtZUNtUjhiTF9zRklaS3pCYzlsZDZoRlpYWnRobmh4a3ZLUjZoY2dZYkNGT0RxUXozcGpVb3lLXzFianFwTDNGdU9Ja3VTNXM?oc=5",
       "pubDate": "2026-08-02T13:00:33+00:00",
-      "source": "Kalimantan Post",
+      "source": "kalimantanpost.com",
       "description": "Jurnalis Perempuan Hadapi Ancaman KBGO, Literasi Digital Dinilai Jadi Benteng Perlindungan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -481,7 +499,7 @@
       "title": "Lawan Bullying dan Kekerasan Berbasis Gender Online: Mahasiswa KKN-PPM UGM Ajak Pelajar dan Warga Petang Lebih Melek Gender dan Digital",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZzFqMWhpRGdLdUJvRmc0eHJveVFNczNVUzM2ZHBBSU5xeUF6WVRGWnp1WlM1V1VOTlB0YlhBVDdYdVI1TDNYLXp5RmV1Z0xJbnl5OEdsYkZCbmRMd2c0Nnd4cVJjQ2E2ZG00Y3k0ZGFaTXk0T3ZLQ3pDYVBEZTUyTm1MMzZFaVVVQ0Z2U3hCLWpYRmpLZk9icThwT0RqTUxYSGhVVWd2TmV2NzBxUUgxVGpTYTFlNVk0ZTNlcy03LTZmRTVmZGh1bFg2Y0VVaWk4RTVjRFA5djRVUTJsbGRpYUhGRDM4S1FU?oc=5",
       "pubDate": "2026-08-02T10:59:00+00:00",
-      "source": "KAGAMA",
+      "source": "kagama.id",
       "description": "Lawan Bullying dan Kekerasan Berbasis Gender Online: Mahasiswa KKN-PPM UGM Ajak Pelajar dan Warga Petang Lebih Melek Gender dan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -877,7 +895,7 @@
       "title": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42T1dsQ1A2bnFOMmNjdFN0Z3M4aV9uTDBXeDdYOEYyQkJYcjRGZS1ZSE1Tc2hPLW9uRjlSa3k4LXk0by1paGxxVFpnNGRBcE9vTmFxaGotczJQd0FLYTZweWEwVUpNeVBxWng2Q3RhbUVuWDJROExCdE4yTQ?oc=5",
       "pubDate": "2026-07-24T07:00:00+00:00",
-      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
+      "source": "safenet.or.id",
       "description": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2164,7 +2182,7 @@
       "title": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdFk0WkE3TFc3MXJranZaSzJac2FyTTZJZ0pyMWpGd3F0Zmoyc092ZUtxcWFfVHZ6ZHVIMDB6ZENxeGxCMFlNdXhkR1hNTUhoZGNEdzlGMkxqWHFUNGl2SjRwY2xEQzFyVTMwTDdyUDdGWk1PcjRIajJUUG42X0dFY3c3M24zcEkwaUZJRVlqZkotMzdtOVJmN09HMW9qT3FFalFoTUhfend2cmpJSXQ2cHNMV3NlTktfNk1tVVhrUVQtR2dYd0xnVFNPeTUyV3M4T2c?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "bimakini.com",
+      "source": "Bimakini",
       "description": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3340,15 +3358,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
-      "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "World Health Organization (WHO)",
-      "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
@@ -3356,6 +3365,15 @@
       "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
+      "pubDate": "2026-02-23T08:00:00+00:00",
+      "source": "World Health Organization (WHO)",
+      "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "7 Dugaan Kekerasan Berbasis Gender Ditemukan di Lokasi Pengungsian Aceh",
