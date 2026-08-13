@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-13T01:28:17.949846+00:00",
-  "total": 408,
+  "updated_at": "2026-08-13T07:19:13.522799+00:00",
+  "total": 409,
   "stats": {
-    "tpks": 123,
-    "kekerasan_seksual": 171,
+    "tpks": 122,
+    "kekerasan_seksual": 172,
     "kbg": 42,
-    "kbgo": 72
+    "kbgo": 73
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -163,6 +163,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Ketika Layar Jadi Ladang Kekerasan: Bagaimana Media Nasional dan Global Membin Halaman all",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb3o1UUFYRWt2WkNEZE5wek1SNE5pSzNVQlZpRGtGNmxncWlRNDlzWHBXbHRYX0xRYzIzeWFiTTRtNnM4aWxsa2t6YW9vNExGaXNfbmRGTzZJUVZWSEVFVmItNnFfWFpkS0RoS2JFR1NGOHdGVXAwR1lXRWRkdnJ4d25MVm9NY2g5ZElFdVQ0VS1aQ3RPMklFTzQ5a3IwYTYyVmQ1Q015TVVKWklEWFBkUGpVeHFEdUxjaG1kSkhJU2pLRDNBc0ZDcVVPM2RWZUV0NGxuVnJDTlkyNVBqTHBORG5sTjR5dDlCYmU4?oc=5",
+      "pubDate": "2026-08-08T23:07:39+00:00",
+      "source": "Kompasiana.com",
+      "description": "Ketika Layar Jadi Ladang Kekerasan: Bagaimana Media Nasional dan Global Membin Halaman all",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Menakar Perlindungan Hak Perempuan: Analisis Regulasi dan Upaya Penghapusan Kekerasan di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjBSVTNzN1ZhaGgtV2ZoVnVyVEh3X2F1dlBPaS11ejRHOEpDTm9YRVZlOVpCdFR0MFl6eUcydzlZWnU1T1BzTTl6WHFlTWtyUVloUTJWcExpUW9oZDlncUNFUEpBMlc2QVktcXJBVWFJQ2F1WmQwWE1EcGdNemdQV0FqM2lLU3ZaQmxGZDN3?oc=5",
       "pubDate": "2026-08-08T14:48:13+00:00",
@@ -193,7 +202,7 @@
       "title": "Di Balik Tembok Akademik: Mengapa Kekerasan Seksual Masih Sering Terjadi? Halaman all",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcms0NXBqbncwTzZ0bDg0QTNYbHFnSVBNZFJoS1RqalN4eW1fUnZfVUFRaDFuQ3l4ZmxxZ0xqSzhYZ0RZMGl4NmpiOUtZc0dvaFVKLVVZWDV5NUhUYTdybmF6TlBuQmNfX2RYbV84ZUZ1LXFVQlczM1E0ZTVkNUtWNngxR0l0anZQLUFlLVU3dFpuMTRJc211UnRnN3dERkdyT2ZKeDdzckZNNmNmRmpGTDIwZnVnWVMySnNKc0RpeW93SllmaXBaVC1qSkpsdHdJeVNoMUZLQXlnV1hCM3I1cHpjQXdvTGc?oc=5",
       "pubDate": "2026-08-07T16:20:44+00:00",
-      "source": "kompasiana.com",
+      "source": "Kompasiana.com",
       "description": "Di Balik Tembok Akademik: Mengapa Kekerasan Seksual Masih Sering Terjadi? Halaman all",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -337,7 +346,7 @@
       "title": "Perempuan Mendominasi Korban KBGO Sepanjang April-Juni 2026",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVlubFo4cTV3ampEMTJPR251ai1IaHFKN0VEaFJNOE1hX3MzbnA3eVIyTzdiMHN5MFVsVnNESkVBN3ZrdXdxOWpCRUYyeTFkWnZrRzdHVXBBSHVzdV9KRW91eW1udXNEVkpQYXk4YzM0eXA3amlXaXAyS0Z5eEZXRy00RmFhejFwVTNrWTJsM1o0YXV0dnBwN2pQRnNIaWVZQkw4?oc=5",
       "pubDate": "2026-08-05T03:30:25+00:00",
-      "source": "GoodStats",
+      "source": "data.goodstats.id",
       "description": "Perempuan Mendominasi Korban KBGO Sepanjang April-Juni 2026",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -426,7 +435,7 @@
     {
       "title": "Stop Diam! Kampus Harus Lawan Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZUxJQTRmRUhZbnRjSVc2UDRaZGl3WkV6aHpYWXIteGVWa3dfYmRZbGctR3QzUU52ZUFlVVJoUXVad01FOEk0M3JKc3FXNkVxNmYycmQ3YTh2di1OalNCOGxCQUo4VWlOdmN6WTVKblUwUVpjZ3lmNS1nQUdsRXlpd2Y3dkg2NWdXZDBYRQ?oc=5",
-      "pubDate": "2026-08-03T03:43:07+00:00",
+      "pubDate": "2026-08-03T03:43:20+00:00",
       "source": "Universitas Nusa Mandiri",
       "description": "Stop Diam! Kampus Harus Lawan Kekerasan Digital",
       "keyword_id": "kbgo",
@@ -443,8 +452,8 @@
     },
     {
       "title": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban di Era Digital - Kabarindo.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLUczeU9BcGpNekw2RUUxUzBvSExYWUlnMGh3X2R1Y2hmZktDQ2lSVnhVdDcyekF2U1ExMElxdllha0NSV2NZekVTc1JCaDVnR2NfNGxIOWwzRFlmUTZmQVF0ZXUtSXI2bUExQ0U4aWd5M2VBYkNaRERrOU5WMkRScnd5cjhnSW5McnZFZFkwYnBpVXhDZVFuM2FVUndua1psTTd3ZFNQaHlfTmxaS0lBYWIxaHk5QXpEQUhYVmRUOExobDYxZ1dkMGx2OVJMT29mMjdfcGhLNDVaUU1uV09OakUzdF_SAeQBQVVfeXFMTS1HM3lPQXBqTXpMNkVFMVMwb0hMWFlJZzBod19kdWNoZmZLQ0NpUlZ4VXQ3MnpBdlNRMTBJcXZZYWtDUldjWXpFU3NSQmg1Z0djXzRsSDlsM0RZZlE2ZkFRdGV1LUlyNm1BMUNFOGlneTNlQWJDWkREazlOVjJEUnJ3eXI4Z0luTHJ2RWRZMGJwaVV4Q2VRbjNhVVJ3bmtabE03d2RTUGh5X05sWktJQWFiMWh5OUF6REFIWFZkVDhMaGw2MWdXZDBsdjlSTE9vZjI3X3BoSzQ1WlFNbldPTmpFM3Rf?oc=5",
-      "pubDate": "2026-08-02T16:57:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONlU5eHlCc0VSYWRJOWJweHpEeGJHMmxRWUluSmFXbUxaYmtoelpuRHJhMWN0NVhfamdlY0xlUE1NMHluRlpoSlIxMjc5U0NQeTVER1p4LWVXSWNFSVhCZlNITDFMSk5WSkQwY19UT0owakFISDV4OV9FeFJZei1vQmtlaUd6UFFFRnMzMkJMaTd2eUFRRVpfTzlsbVJobWxQbzdPTU1yS3g4SlNXNEhCVVA4QWNvM2ZtYTAwZF9TdV93UEloU2lKWk5VYVFsSGZtVDlMMzVkWFh6QUstVmRn0gHkAUFVX3lxTE0tRzN5T0Fwak16TDZFRTFTMG9ITFhZSWcwaHdfZHVjaGZmS0NDaVJWeFV0NzJ6QXZTUTEwSXF2WWFrQ1JXY1l6RVNzUkJoNWdHY180bEg5bDNEWWZRNmZBUXRldS1JcjZtQTFDRThpZ3kzZUFiQ1pERGs5TlYyRFJyd3lyOGdJbkxydkVkWTBicGlVeENlUW4zYVVSd25rWmxNN3dkU1BoeV9ObFpLSUFhYjFoeTlBekRBSFhWZFQ4TGhsNjFnV2QwbHY5UkxPb2YyN19waEs0NVpRTW5XT05qRTN0Xw?oc=5",
+      "pubDate": "2026-08-02T16:57:14+00:00",
       "source": "Kabarindo.com",
       "description": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban di Era Digital - Kabarindo.com",
       "keyword_id": "kbgo",
@@ -481,7 +490,7 @@
       "title": "Yang Sering Tak Diajarkan di Sekolah: Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUGtaZllneXduQmNfaEhOa0hKRmxpeU5Ib0lrRjlkWHRndzdXMk1KRFBuZ0J6UURyVE9wSGlLLU1QVG83Z05zY2lMV3ptaGticHlBWWF6dklseW8wYmZ1MmdHN0wyX0plZ3FFbk9Bb0FURkFNZlZZVkhhRFpVTWthN3k4cFpXb0Y0cy1ZSjFkLTEyaHFQZFZwSDNNc1NlcWhDcTNIQXY4bXYxSWthRmhMVG1CTTVNenVTM1RyOUlOUHRmUzRt?oc=5",
       "pubDate": "2026-08-01T13:08:30+00:00",
-      "source": "kompasiana.com",
+      "source": "Kompasiana.com",
       "description": "Yang Sering Tak Diajarkan di Sekolah: Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -505,20 +514,20 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSndIZlFHQ01KZkRhU3N1OVZKbFN1SXRjS2MyWFJqaTlwVlZyZ2FCbWxlS0tzRThXeFVlc1NzZHZNWC01NnB1WXlIUFpTQlFmUkF1ZFZZVUhTT0JoTDZEWkJ4WXZVUjNyWGxvTUhER0VsQ1JHOW9aRDcxMUNTT2VlVG1iNVlmSkRXZFdVc29uWkhOS3pNM1hiNXZQeXhleU0tM3c4cA?oc=5",
+      "pubDate": "2026-08-01T07:00:00+00:00",
+      "source": "Batam Pos",
+      "description": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNWtYNmNfOXVlLXVCYzJlb2RLZk5sZ05aSlI3NmxiQUVZWUNvbklmS3FOS3Y4SENBR0NTTFBCQlN4TGF0RjNqa0ktU25FaUdQZEZEVXlHVFdJbERvWXkxQ3NpeDFxMm9OTlhXRWFVaVk4T0x5dzA5QWxNVUFTSzI2ZkNDTmFOODlhSGdNV3lpSHppdHUyUERRaWdtYmFFYktpc1NKLXlqXzZHR2h1OGRfWGVFWUhQdU1tRklqX2Z3Tnk4X2M?oc=5",
       "pubDate": "2026-08-01T04:14:24+00:00",
       "source": "Rakyat Maluku",
       "description": "FJPI Maluku Bekali Jurnalis Hadapi KBGO, Perkuat Pemberitaan Berperspektif Korban",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSndIZlFHQ01KZkRhU3N1OVZKbFN1SXRjS2MyWFJqaTlwVlZyZ2FCbWxlS0tzRThXeFVlc1NzZHZNWC01NnB1WXlIUFpTQlFmUkF1ZFZZVUhTT0JoTDZEWkJ4WXZVUjNyWGxvTUhER0VsQ1JHOW9aRDcxMUNTT2VlVG1iNVlmSkRXZFdVc29uWkhOS3pNM1hiNXZQeXhleU0tM3c4cA?oc=5",
-      "pubDate": "2026-08-01T03:15:57+00:00",
-      "source": "Batam Pos",
-      "description": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -1525,7 +1534,7 @@
       "title": "Peran Media Sosial dan Ketegasan UU TPKS dalam Menghalau Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZmw5V1dnS2MzMmZVZDRBOHdyaUJ5ZXE0LXBzcGJhS3VUWk1jbkJVYjEyLUpHNk14M3E0ei1KSTVrbHl3MnhWS29TNHFZYnd1YjdRXy15N0xkOUowd2FoMlRnUW1Ya0tsRjNHMmttY2R5SUg0blRwRjlXeFlOb2w0eTFtME80MW5yZm0xV3lVQkZVR2VXOFQyR0hxQ2tfUHM?oc=5",
       "pubDate": "2026-07-13T07:00:00+00:00",
-      "source": "Universitas Ahmad Dahlan",
+      "source": "News UAD",
       "description": "Peran Media Sosial dan Ketegasan UU TPKS dalam Menghalau Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -2155,7 +2164,7 @@
       "title": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdFk0WkE3TFc3MXJranZaSzJac2FyTTZJZ0pyMWpGd3F0Zmoyc092ZUtxcWFfVHZ6ZHVIMDB6ZENxeGxCMFlNdXhkR1hNTUhoZGNEdzlGMkxqWHFUNGl2SjRwY2xEQzFyVTMwTDdyUDdGWk1PcjRIajJUUG42X0dFY3c3M24zcEkwaUZJRVlqZkotMzdtOVJmN09HMW9qT3FFalFoTUhfend2cmpJSXQ2cHNMV3NlTktfNk1tVVhrUVQtR2dYd0xnVFNPeTUyV3M4T2c?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "Bimakini",
+      "source": "bimakini.com",
       "description": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3199,10 +3208,10 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
