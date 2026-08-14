@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-14T07:16:56.793997+00:00",
-  "total": 414,
+  "updated_at": "2026-08-14T12:54:59.655897+00:00",
+  "total": 415,
   "stats": {
     "tpks": 122,
-    "kekerasan_seksual": 177,
+    "kekerasan_seksual": 178,
     "kbg": 42,
     "kbgo": 73
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Cegah Kekerasan Seksual terhadap Anak, Program Pemerintah ke Depan Harus Perkuat Peran Ibu",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTkMwNWpsaDhfclFTcHcxNzhZOC1TbktibGdmWjN6bExvZEMxUG8ySU4yV2NwRWJhOW9PbG9vVWJGTENLdkx3cmxDbW1wQjVfQnFHSGViRGJiUlpKREhUaWNTMTBjcTRBU2k3RnI4QWN6bmVvc1FJQVAwejg4eWY0QV9MN2d5RlhYaG03RDZXWG9VYmd3Vi1EMFZ5LVlGckxMUk9QOXhvSG1WcVhyMkZKMFMzNlNVOFlORmpnRURBUTBROHhaVlFCTGZWR1YwSi0wclpr?oc=5",
+      "pubDate": "2026-08-14T09:16:22+00:00",
+      "source": "DPR RI",
+      "description": "Cegah Kekerasan Seksual terhadap Anak, Program Pemerintah ke Depan Harus Perkuat Peran Ibu",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Buruh dan Masyarakat Sipil Bersatu Dorong Pemerintah Segera Ratifikasi Konvensi ILO Nomor 190",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUXdzaVI5ZEtwRG9fTllRWWVESkZXNkQ4THFsRUpCcGhJQ0VzUFJXay1tQjlGRlhpUjV5VVBTR2xCSV9ocld6c3RRX3JMeUtVMnZwMDBFajhNejl1N3NJdms4bjhqQnRTa2FhZlhQbksyM1BEZmREc0tDa1Izd1ZGaWt4M3JLU3Fyc0VvTkd0TVljaktCSUg1U1UxRkdsejhmMHdxT09XWEZXNk9MM1BHU29sQmdRWk1nQlVqZU16ODFtQWU3WXFJ?oc=5",
@@ -337,7 +346,7 @@
       "title": "Pemkot Palembang Perkuat Literasi Digital Perempuan, Cegah Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanlGTDBZTU43enRwUi0xUUFEbzRwNFd2QjBqRnd4dmdfRk84Tk1Zd0F3WFRxYVg5VVlldy1kSTV2eDBFRzlGNVBzZVBKYmxKcDlWM1ZYeDNic0E0bXRubHNHMGIyYWdhWTRYdndnM09KNHNsUWZVX2ZPRUQzMFl3M2dnWHV2OUdaR0dicjhNR2x5Y2x4R0UwMjQ2UzhKY3VCVURpM1R6UWhmQ0tnNVBYMGtLdWxSQ3c?oc=5",
       "pubDate": "2026-08-05T13:29:00+00:00",
-      "source": "rmolsumsel",
+      "source": "rmolsumsel.id",
       "description": "Pemkot Palembang Perkuat Literasi Digital Perempuan, Cegah Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -1327,7 +1336,7 @@
       "title": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDMwQzRYemNoZUhOS00wakZuS1VrYW5vclBnNjhnUmpQWXZEdFFTSXhnSzBqYldia3UyVFRhTlFmWlBNUG1VZjNnQzBRUkl0QVp0dmNwRTRnMDRpZ21kMnRRSUpHWWtkMUx1U1UzWHdIVG5MQXppZ2phNjhWXy1fRk9aazBhYXY3THQ1cnFOLS1WcUFLMUhGVGJHRDdlTG1ONXY0bFN0Y3Y3LUdQVERJdWEyREI0SzlBcFpoNG9xTEdXcFFXUVBXS3ljSzJxdDZkT2JFNlNR?oc=5",
       "pubDate": "2026-07-18T07:00:00+00:00",
-      "source": "Ombudsman Republik Indonesia",
+      "source": "ombudsman.go.id",
       "description": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3253,7 +3262,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3289,7 +3298,7 @@
       "title": "Pertama di PN Pakam, Pelaku Kekerasan Seksual Diwajibkan Bayar Restitusi",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3ZvS1hRZzRBZVpBYW5DMlkyX3dDR3FhU1o0VzNiYWV4OXZMOWdkc0ktYmdVOFc1R3VPbWJCbXRGck1LWUJvTW1qWXFqR2RMUmdTZUNwSEVVZE5MZ0dGbkRvTExmcWloc21QR21hTEFNRThTYmNUTXpkR25ESXR0SWQ4dmZUdGE0VDVIV0RqZi1yeWtZWkdIOWVyb2N2UERRaFlqQTJETmhBbS1R?oc=5",
       "pubDate": "2026-03-06T08:00:00+00:00",
-      "source": "dandapala.com",
+      "source": "Dandapala Digital",
       "description": "Pertama di PN Pakam, Pelaku Kekerasan Seksual Diwajibkan Bayar Restitusi",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3370,7 +3379,7 @@
       "title": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlJrTE5MaWJtNzJidUpybjZyZTRjNnVoTFctR0ZMdXVOb1dBTGxMTGlyNUxXYzY1WmFlTlBDOUVwYVhXaG0xZ3lFVmhpUkZtNWNsRUp2Z3JZaU0yNTVZN3h1WE42VDEtR0g4YWRLYVF1eVN5eWtNNEo1Mm1zTnpiMk1OQQ?oc=5",
       "pubDate": "2026-02-26T08:00:00+00:00",
-      "source": "Magdalene.co",
+      "source": "magdalene.co",
       "description": "Popularitas Sepak Bola Perempuan Naik, tapi Penghapusan Stigma dan Kekerasan Jalan di Tempat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3460,7 +3469,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi RI",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3478,7 +3487,7 @@
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXpmRUk2QmljZ0FCSzRhTmpFZFZZMVZDdmtJcDZzU01CYjhlVDIwQ0ZxeW03NVBWS3NyY2pvNzhCeVJyb1hvbWpQN0FrV1dMYUxrMEpURjdIbXV1QlBrT3ZJdWJfTXdiX09Ham92YXNYV2hwVGRJNHgzOGg1ZFdMd1hMbGdxdDBXZGpPaWpseF9Kb2prWXJWd1A5ZFpGVWFvR2pDSHp5Q01hbGhUcF9B?oc=5",
       "pubDate": "2026-01-08T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi RI",
       "description": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3514,7 +3523,7 @@
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0pVaXdwMnpPMThWOXRhMTdZRWtHTW04RjlHMWJnSFUwMmR2WlFZOXZacXV2akowUFR5ZWprZklBYzZFc1g2dmUtcE9VMUVvSU9YMUUtbE5ZbWxZYkJ4OGMwRU83ZTNCX0pmRnBOcFRJNC1nakdEbzQzbnpacm1lSDRVZzY3VVBkbWRXanJvSkg2WjRMaUE?oc=5",
       "pubDate": "2025-12-17T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi RI",
       "description": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3559,7 +3568,7 @@
       "title": "DIY Serukan Gerakan Bersama Cegah Kekerasan Perempuan–Anak",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOTRkLTRmTGhIcGRmUmpEYnRRck02aTNtWVVnN3JhWmdDZTRURV9HTlNHSlQtZkFLSWpkS0J1bW5GQ2NtdTNiVnZpTV93MVdUZjhZU3hJWnNHOGtEWkdESmxqdThyTkpBZ2N2V3A1a2xDZ1RYNVZIQ3pzX1lkblVGTk1XT0hfQ2JCM2JWTjZvWlFwYUc1UlVMUVVSU2VWV2xkSXZzeQ?oc=5",
       "pubDate": "2025-12-05T08:00:00+00:00",
-      "source": "jogjaprov.go.id",
+      "source": "Jogjaprov",
       "description": "DIY Serukan Gerakan Bersama Cegah Kekerasan Perempuan–Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
