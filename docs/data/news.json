@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-19T00:57:20.457626+00:00",
-  "total": 430,
+  "updated_at": "2026-08-19T06:35:11.546206+00:00",
+  "total": 442,
   "stats": {
-    "tpks": 126,
-    "kekerasan_seksual": 185,
+    "tpks": 128,
+    "kekerasan_seksual": 195,
     "kbg": 45,
     "kbgo": 74
   },
@@ -27,6 +27,114 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bareskrim Ungkap Tiga Kasus PPA-PPO, Tangani Kekerasan Seksual hingga TPPO Pengantin Pesanan",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcThxaEQtU3o3eFdTblF0aFl4LUgzMlViS2RUZVI3eGk5c0V1bldQQXFVTEZZbWpwRFBlX3hPLUx2V01QMk1fT1A2ZGtpV1NLRmVBcVZnTEdrcmNNcjNKd3ZOYWRCZHFaS2dhZDRraWpGeXpHaHRoYnQzc21jbUlyYWpoYmk2d2psSXA1U2pjSUgyVzdIdFZ3TVdYUjRQVE5PSElVUzFkd2Z2eGZlT2tzNjF2dnJ3WUh3U0t0RXhPU1liU3lKdF9uZWx2clBJZGdUeWk2NkYxYXNPM1hhM2c?oc=5",
+      "pubDate": "2026-08-19T06:15:00+00:00",
+      "source": "Media Budaya Indonesia",
+      "description": "Bareskrim Ungkap Tiga Kasus PPA-PPO, Tangani Kekerasan Seksual hingga TPPO Pengantin Pesanan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Eks Pelatih Panjat Tebing Hendra Basir Jadi Tersangka, 5 Atlet Putri Diduga Jadi Korban",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGF2VXNPcFcyZTlZMDQycE9YRGNqTXdQUS1mbG5ubGJna1pIQU9SLVBvQVByTzFOVzIyYzFpZzN5R1FnZGdyRXpCaXJlTEpkbVd0Rm1PZDBYNU1rb29JOHJYY2VZUHQ0bExzcWJBbk1ldU0zMk5KNkMxZGVVaHZ6WE8tZVFLQ25nTHlfcXI5NmVqUEVfQVkyNDBmcURWZzhZckE2UzJrX3R5MUJEQnJyN25obmdrdTdfbjk4SzlGTzhnU1Q4a2V3?oc=5",
+      "pubDate": "2026-08-19T05:49:52+00:00",
+      "source": "Memo Indonesia",
+      "description": "Eks Pelatih Panjat Tebing Hendra Basir Jadi Tersangka, 5 Atlet Putri Diduga Jadi Korban",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Syekh Al Misry Langgar Aturan Kewarganegaraan Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3BjaFhhTFBmNUV3em4zcG9xeXNYd28tNC1ZYTQxUzNqY3lOc2FmbnN6ZlBqR0dGdWxQN2JPZFptSWROVk9ndHdNM25xcTJzZFBxQ25KQ24xLUwxMzJ2aUNocWdDRzhFZFVRajg1SG5hWjlrbHNiT3k5MmJqMVAxQkpHOA?oc=5",
+      "pubDate": "2026-08-19T05:31:00+00:00",
+      "source": "Tirto.id",
+      "description": "Syekh Al Misry Langgar Aturan Kewarganegaraan Indonesia",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kasus Kekerasan Seksual Lima Atlet Putri, Eks Pelatih Pelatnas Panjat Tebing Jadi Tersangka",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNThBUWdNU0hHUnhrejRETEVxNjhTRlRmUjAwdVhqNmpCUGctY3ctd19vZWNvekFTZktFcU5tR1lFa3hfSXVCMmttNlV2djV2STFlenFDNlBpemd3SFFNN0ZBQXlQRFdDQVF4V1FlZFVyc1JmYmRCQ0NmYzlsS0hXZDR2Zks5bFJlbG9XZlE5amZIb29QeHR3Z2tCODhwRWwxV1pLN2d1SUtlWE1RU2UtNTZjTXJNdWFzX1V5Mg?oc=5",
+      "pubDate": "2026-08-19T05:26:29+00:00",
+      "source": "AFU.id",
+      "description": "Kasus Kekerasan Seksual Lima Atlet Putri, Eks Pelatih Pelatnas Panjat Tebing Jadi Tersangka",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Eks Pelatih Pelatnas Panjat Tebing Jadi Tersangka Kekerasan Seksual, Polisi: Korban 5 Atlet Putri",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWl9Xa2RxQ1kxbDVhMnNFMVdDNHM4Y1JsMkpEQTNpMEo4Q3JmZ1cwOExfQmJDRXZ2dzlxYzhSQjI2YjFyYWRMZDZQMENvN25OQlVmbUdDdWFaZ2d2ZGp5Sl80OVBnNklIdmc4UEFoa0RRZkdzTXZJb1NWVmRlQTJGQVBvQ0FWSGhYVERXTE5GdXBpZUhrYmFLMWQ4anc5QkJGRFUtMm0xeFpyTnFITjZtVjBkRG9CTUVTR09aNU9CY1hCUjhUS3MyLXZ0eW0wZ9IB0wFBVV95cUxPRUlHY2V0aS1FamNlYlI2bE5xVXIwSmpFSzIzMGx3TnNVXzZLS25hQmk2YjE1aC1NWmlnZXE0OW1BUFBWaG1oTS1JRjlJdVJtTUlDbkVaREpoMURNbDA0Qk11WFlUNmZmbllhV1N0VkMxRHdENVo5R2pHUG4xT3d4Y0pud01oRzlrN0tQS3l3MVFUQnA2TzFfejRwaUtXenBfMUx0X3JjQXZkSEZQbW5vOE1sOWpGOF9XMGhNYzN0MlZMNTJYXzBvbFNRTWhEQjlTVlRz?oc=5",
+      "pubDate": "2026-08-19T05:26:00+00:00",
+      "source": "Kompas.tv",
+      "description": "Eks Pelatih Pelatnas Panjat Tebing Jadi Tersangka Kekerasan Seksual, Polisi: Korban 5 Atlet Putri",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pelatih Panjat Tebing Jadi Tersangka TPKS, Ancaman Pidana 12 Tahun",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0l2ZUdxNWtxa1ZqVTZTdFpaUUJMOERYR1ZnZnlDQUoxUlkyNzhCUkU5TmluU0pDbU9SYWQxbGRyY1UzOG80M190azVVSGVOckh3VGcyTU1QM0Q2ZDNKMDZHRTdsLUZCQW9RYTBIRTQ1TXpVcmtzTlNWRDR3enllX25JczVaUTlTeVZVT09Od1hvc2dOUldHZTZnNlFqa0Y2ZmE4N3JabEU0b3c?oc=5",
+      "pubDate": "2026-08-19T05:00:43+00:00",
+      "source": "MetroTVNews.com",
+      "description": "Pelatih Panjat Tebing Jadi Tersangka TPKS, Ancaman Pidana 12 Tahun",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Eks Pelatih Panjat Tebing Pelatnas Jadi Tersangka Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVHJ0VVBEME9tM3NYZTllYzdXc1lfNUI3TnBnTm8tMTIwalV5YjMzb2JiS1g3aWVMZ3BRWEJqakFQTW8zSXAwMFlfRXRxazhZLUM1eU02UjRJbWw4aW90LWRTdmdXYVNrckt0YjB3c0lpaWNrdlB3OXkwMm1TQVlueGY3ak1mYThuQUJxOU92RkplOWd0RlktbXZ3Mnd3TXZhNEMtQUpENWZLVnVMM2EtSlFHR3RUMFdUZzJsa2liN1BJMy1Edi1iSkZzRdIB0AFBVV95cUxOQjJsQzJmMzBZeTZkWEp2TEI1Nml5cXdQMXJLU2VLaXJveHp4V194VWZicWJWdlFPNVphbUFBNGF0NjdyN2dNYk9VUWEyTHBma0xwN3FiOHN0ZlcwdmRCT3RpelZuVmVHeU5jUmdYWWNYS3d1WjUtWWxLeUxLZHBGTjdZamRBVHZ6OFZrX2lqQ29FYThHODlLdEFKcHZ0bHM4THZ5RXJ4QXhUVVpqdlRGREdqNGg0UmRpcFF3NGcyT0ZRQjNSSU1QMnFDcUNJTWZP?oc=5",
+      "pubDate": "2026-08-19T04:49:34+00:00",
+      "source": "cnnindonesia.com",
+      "description": "Eks Pelatih Panjat Tebing Pelatnas Jadi Tersangka Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Bareskrim Ungkap Dugaan Kekerasan Seksual, Mantan Pelatih Pelatnas Panjat Tebing Jadi Tersangka",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnBtQnhGN3htNXVZZERzc2RLS1FvVFAzYkhBSzJVZ0YybW9VaWFhbUlYek16S3Nsd3F6RHRhZTJxVXdVRUpwSHhSZ1JqT20tVm50UktlOWFQRmJpY2V4czRqZUhyeGtkc2VWWTZ1RElMQjJlYzVrUWFMVVJCa2hwTG95RDVraWhnODQtVnJwakxhdFktV1lUZTRLLXZabWlRZzAyUUk1anBUNk80NlJlQnZTY25leUtXWHJhY0hn?oc=5",
+      "pubDate": "2026-08-19T04:41:39+00:00",
+      "source": "Media POLRI",
+      "description": "Bareskrim Ungkap Dugaan Kekerasan Seksual, Mantan Pelatih Pelatnas Panjat Tebing Jadi Tersangka",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Mantan Pelatih Panjat Tebing Jadi Tersangka Kekerasan Seksual, 5 Atlet Putri Diduga Jadi Korban",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeDFhTHk3OS1XSnViWnUwdE9hVUZCZFhsckcwbHVNSFdEZG1ZbTB1dFdyeVNPcUZyVGx0cmxHZDRjcFp6MFFsMnozblh2eUNMa05fUFlWWlFlRW1VWHRwUC1NUnR5M1F0b0RRZHo1eXZyMGQ0YXRUVDNqN2ZGY2w5OWU0T0RJZHBYZndNbWFQckpPelVzVmthcjA3dmFhWEFNc0RlRkJ0NGtsUDNBSlFJaEtUaW9nMUY3eU9GMVF4R0VIblJGdHE4d3NIZjRpZ1RaSWtMZFd1VkFVeWFuSUhSZUNhMDY0X1nSAewBQVVfeXFMTmNKZzJtc0V2QXlRVk5aMFR4RWdvY1Jta0RpaGJWT1I4cEh5RzgyTmhIZ2tvckt6QU81RjNra1EwR29qcW5qNkcyNnNOVHloMktmeWdCQzdHY0wzYW9rb2NWcjNmaWdITE9PQXQ2ckN5T0o4b1FMSUlVekNyWVhVQnRNUWVlTTVQbFJGRWlDUnFqc1JWVW43dDNmOUNBYUo4VUlTMjlwalFiY3BsaDZtalg5bUxDMmxBZkNscTNTaFVya2FvSXhCcWdkMXktT1VvbFRXdEFqNTRXemQ0al9QVUEtVmtGNUxxWmMxYVU?oc=5",
+      "pubDate": "2026-08-19T04:16:53+00:00",
+      "source": "SINDOnews Nasional",
+      "description": "Mantan Pelatih Panjat Tebing Jadi Tersangka Kekerasan Seksual, 5 Atlet Putri Diduga Jadi Korban",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Bareskrim Tetapkan Mantan Pelatih Panjat Tebing sebagai Tersangka Kekerasan Seksual terhadap 5 Atlet",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnE0Zkw1S3NHeFpIRXdIWTNMYmFiNWVyc2QtRGhTMUFDVDVfTFd2N3BiWFI3SjBjT2g0VDFNeUJqb0xCOTVsZjdHMEJEZlBGaFlNRXlCbUtBd3VIZXByVTZhX044RmJEOUZ0N3JUSnROMzZJcHluRTZuXzQ2b3Q1MC1jX0E2QlFpdlJGbWQxZ3dERXh6TlJPZDRWWGMyZEZId2I4Y2JwX3hrSVBTek8tTDZnSFhwNGNDTENoNW5OVFNqRXVsUmVZWk5B?oc=5",
+      "pubDate": "2026-08-19T04:15:25+00:00",
+      "source": "AFU.id",
+      "description": "Bareskrim Tetapkan Mantan Pelatih Panjat Tebing sebagai Tersangka Kekerasan Seksual terhadap 5 Atlet",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Bareskrim Ungkap Kasus Kekerasan Seksual 5 Atlet Panjat Tebing Putri oleh Mantan Pelatih",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRHJDLXcxeGRsZk02TFhPWDlJM2dmamdVNU45Q0ZjOTVSN2JmZmkwMWRJY0g1U2FBaTF4ZHBTd3JGN2djc24tV2Z2Qi1CS2hoZ21YV0dOWDduTmxFdHlERUdoMDVFUFBjTW9Qa1RXeDZxWGJ1bEZncm4xZWZhZzlMamZkbjhWN3FDZ09QTWlja3daU00zQUJKQkcxM2FpcWVkVEs1b0ZyT19wb21JY2ROZ1dZSjh1N05vZWp1QnVNQUQxTHQ5TGNRVTdOR0UxUHdYSnE0cGQtNA?oc=5",
+      "pubDate": "2026-08-19T04:15:00+00:00",
+      "source": "mediaindonesia.com",
+      "description": "Bareskrim Ungkap Kasus Kekerasan Seksual 5 Atlet Panjat Tebing Putri oleh Mantan Pelatih",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Breaking News: Bareskrim Tetapkan Eks Pelatih Pelatnas Panjat Tebing Tersangka Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOajRwWjNMbURjUTFibUo0UkpoaEx0SjdrRGRPRm1nSGlJX2Z4WndQMUlpMVFPLUZCSjFvZFRFX0xwUTBDYWVJa0VJek1xTm9lMzVrQTFycE9JSWhpZ0dXcWpqWDRybnREWVA5WU1SNmVPUncxeERHVkFVb1E4bk1MNWtWMmg0VXNvNVh3My1ncUk1a2JrMmgwMTNUT0tZcW5HeTNVZGxHNVF3ZFpfUWRQNkVVdExLX2RRZVljY3RnTjlCbkdtTlZmcFFjLVlKaWdxZllTcWFjT1NGTHVXby1obnFobjFqZjBPVmNQVFhKdU91VzRIVFEzeUhLY0I2d3V3cWtnOXJnSkNPbFZ2UzJIYVNDeEFTUHNfWWJET2FLeXRKVW84WlV4M2lHcWYzdW54bWFTZHduS3VmbW5Yb3JkU1B5ODQ?oc=5",
+      "pubDate": "2026-08-19T03:43:00+00:00",
+      "source": "RCTI+",
+      "description": "Breaking News: Bareskrim Tetapkan Eks Pelatih Pelatnas Panjat Tebing Tersangka Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Mengawal Jalan Terjal Perlindungan Penyintas Kekerasan Berbasis Gender Online di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDZiYU5TUDJEU1lvXzVvVXMwbDRlSnZMV2xxa0R0Zzk4UGJjNTVFaXZzMjJTbThHZ0dxN3ZOdVVZcElvZGNyZW1POTN6dmhaYm5aXzVQX1laY1lfcG5BejFxY1FJbVhMOExLTUVxbVV2RFkwQ3puYlkyRFJuRl9UVmNRTTNEb2dLMXAzRzFNOWdQQWdtd1RxRExiMDl6WWgwVTZqZ0Z0U0FiUnN1ZW13WEk2RQ?oc=5",
@@ -166,7 +274,7 @@
       "title": "Kekerasan Seksual Jadi Jenis yang Paling Banyak Dialami Korban Sepanjang 2022",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcW1iNGxtdFgzWmVqdVQtX2JZN3A3NllxdkJYeWN5RHZEMzFLRWZoVkJZZUhnaHlmYmkyRk5zaEhBNkVROFJFTFY3Y2FEbjctQkl4WEJ1Q09QdkVkUy1KUll3VDI3cjlvdzRjQ3hFTW41dnZYOFFiUU1pVFNSV3NjM3Fjc2pOaGFZX3k2U1JESzN0R1BGWlBxMF9qOEZTWHFvYVQ0RUJSUGhBemdrRUdCZkhNbDBENkVkZWdTSjZPV0hFSHFXUGU4ZGtWZmk1LXRVZGFrTTJJLXdGa2xOWnc?oc=5",
       "pubDate": "2026-08-13T07:00:00+00:00",
-      "source": "Databoks",
+      "source": "Databoks Katadata",
       "description": "Kekerasan Seksual Jadi Jenis yang Paling Banyak Dialami Korban Sepanjang 2022",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -670,7 +778,7 @@
       "title": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSndIZlFHQ01KZkRhU3N1OVZKbFN1SXRjS2MyWFJqaTlwVlZyZ2FCbWxlS0tzRThXeFVlc1NzZHZNWC01NnB1WXlIUFpTQlFmUkF1ZFZZVUhTT0JoTDZEWkJ4WXZVUjNyWGxvTUhER0VsQ1JHOW9aRDcxMUNTT2VlVG1iNVlmSkRXZFdVc29uWkhOS3pNM1hiNXZQeXhleU0tM3c4cA?oc=5",
       "pubDate": "2026-08-01T07:00:00+00:00",
-      "source": "Batam Pos",
+      "source": "metropolis.batampos.co.id",
       "description": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -1147,7 +1255,7 @@
       "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "Tempo.co",
+      "source": "tempo.co",
       "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3262,7 +3370,7 @@
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "tribratanews.polri.go.id",
+      "source": "Tribrata News",
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -3406,7 +3514,7 @@
       "title": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3BSdVY3aVZ2WFdSendVbDgxUjR0a3dLb1BsMGVvaVR0UXA0Y25hOUpFZEI3OGM3aUhGMzJoRlkySUFJb0Nwa19NcDBFcUc4SGZtcTlYQkJxeGoxX054VzI0M1p5cXNQNi1NX2l3N18zc0hXVkRJNjJJcXdMWVBtOG1Wc0RJNHVZLUJ2STlFdHBLSE5CY0lIWVV1blQ3Q0lxOGxWT3RsYXloaWJDRTFKSzU0NDBPOHVRVUdvWm1jWC0?oc=5",
       "pubDate": "2026-03-16T07:00:00+00:00",
-      "source": "news.ums.ac.id",
+      "source": "News UMS",
       "description": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
