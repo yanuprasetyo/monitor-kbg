@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-19T12:36:39.936127+00:00",
-  "total": 446,
+  "updated_at": "2026-08-19T18:27:14.402656+00:00",
+  "total": 448,
   "stats": {
     "tpks": 128,
-    "kekerasan_seksual": 198,
+    "kekerasan_seksual": 200,
     "kbg": 46,
     "kbgo": 74
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Angka Kekerasan Seksual di Dunia Kerja Tembus 64%, Relasi Kuasa jadi Celah Perlindungan Korban",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkJ3YS12emZVUWpBYzJhZUtOUENBd3ozOTA4UXd3clpzSFZkZmdRYzdhQ21SWkJzdDlrTEt2enNZaTF1RXI2ajQzUl9lV29TaXVjdndQVElmeEtMWGgxVHUzeGd6X1hlTms3U1Rld240RVFKNGlaaC1uS0c4akViRVBUWmIxUS1rSmJ2TEVmbFV5RmFnX1RNWElRbWNvRlRwRkEyN1YzaDlhLXVjOW9fVUVtOV9WejNBR08wVkFPdw?oc=5",
+      "pubDate": "2026-08-19T17:25:00+00:00",
+      "source": "AFU.id",
+      "description": "Angka Kekerasan Seksual di Dunia Kerja Tembus 64%, Relasi Kuasa jadi Celah Perlindungan Korban",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Bareskrim Bongkar 3 Kasus Besar, dari Kekerasan Seksual Pelatnas hingga TPPO Modus Pengantin Pesanan",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSVZHT0hoTmhmU0tWT0pkRHhxdVdFTldTMWw3R2RsSWo5WXFWRnQtd2RHbWlyZ1pDeVNtZ0VIbWtUQ1l6UXViSmRLNUFnek1GTmpyS3RUaC1mWVE4aWRsRmhqUEtNbV9UemxGT3F4UWRVWmdqanhhVEM0UjdTSUpYTzJESGwtclNqLXFLb2ZKRWhhNGNIX3JjWUVLdDdYV3poT2dXOUFndldTd0I0dUtPdzhxVUUtc2IwcVZuek9Gd0k0ZEVxbDE3cnIzQTM?oc=5",
+      "pubDate": "2026-08-19T12:08:33+00:00",
+      "source": "suaraindonesia-news.com",
+      "description": "Bareskrim Bongkar 3 Kasus Besar, dari Kekerasan Seksual Pelatnas hingga TPPO Modus Pengantin Pesanan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Wabup Tapteng Buka Pelatihan Penyegaran Pencegahan dan Penanganan Kekerasan Berbasis Gender Dalam Situasi Bencana",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVGNXSXlpaDE2WkhuYjRmaGZoM2RSSEFGNjdaUHoyc1NRT0p4YnZFeFcwcWQxV2tEU2loRG5HcUliUHZBendGMjhNalhVVjJaMXV1eWlqWkEtc1JWZW4ybmQ5ZENEOE1GZ3BWSFZoaC1mX3ZsNU5wcFJWcGlHUFpSZy0zMG0zSWtQQmo3WTBsQlNpWHlXeGtHSVdHU05kV1MybHVQaERENlNNSmFINVoxZXpPdlhyUHpPUVJqZldpWGE1bFZ1bWRvWVY5Y3hmNUNEU3VJbDNQcHpXY1Jw?oc=5",
@@ -109,20 +127,20 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Bareskrim Ungkap Dugaan Kekerasan Seksual, Mantan Pelatih Pelatnas Panjat Tebing Jadi Tersangka",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnBtQnhGN3htNXVZZERzc2RLS1FvVFAzYkhBSzJVZ0YybW9VaWFhbUlYek16S3Nsd3F6RHRhZTJxVXdVRUpwSHhSZ1JqT20tVm50UktlOWFQRmJpY2V4czRqZUhyeGtkc2VWWTZ1RElMQjJlYzVrUWFMVVJCa2hwTG95RDVraWhnODQtVnJwakxhdFktV1lUZTRLLXZabWlRZzAyUUk1anBUNk80NlJlQnZTY25leUtXWHJhY0hn?oc=5",
+      "pubDate": "2026-08-19T04:51:29+00:00",
+      "source": "Media POLRI",
+      "description": "Bareskrim Ungkap Dugaan Kekerasan Seksual, Mantan Pelatih Pelatnas Panjat Tebing Jadi Tersangka",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Eks Pelatih Panjat Tebing Pelatnas Jadi Tersangka Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVHJ0VVBEME9tM3NYZTllYzdXc1lfNUI3TnBnTm8tMTIwalV5YjMzb2JiS1g3aWVMZ3BRWEJqakFQTW8zSXAwMFlfRXRxazhZLUM1eU02UjRJbWw4aW90LWRTdmdXYVNrckt0YjB3c0lpaWNrdlB3OXkwMm1TQVlueGY3ak1mYThuQUJxOU92RkplOWd0RlktbXZ3Mnd3TXZhNEMtQUpENWZLVnVMM2EtSlFHR3RUMFdUZzJsa2liN1BJMy1Edi1iSkZzRdIB0AFBVV95cUxOQjJsQzJmMzBZeTZkWEp2TEI1Nml5cXdQMXJLU2VLaXJveHp4V194VWZicWJWdlFPNVphbUFBNGF0NjdyN2dNYk9VUWEyTHBma0xwN3FiOHN0ZlcwdmRCT3RpelZuVmVHeU5jUmdYWWNYS3d1WjUtWWxLeUxLZHBGTjdZamRBVHZ6OFZrX2lqQ29FYThHODlLdEFKcHZ0bHM4THZ5RXJ4QXhUVVpqdlRGREdqNGg0UmRpcFF3NGcyT0ZRQjNSSU1QMnFDcUNJTWZP?oc=5",
       "pubDate": "2026-08-19T04:49:34+00:00",
       "source": "CNN Indonesia",
       "description": "Eks Pelatih Panjat Tebing Pelatnas Jadi Tersangka Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Bareskrim Ungkap Dugaan Kekerasan Seksual, Mantan Pelatih Pelatnas Panjat Tebing Jadi Tersangka",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnBtQnhGN3htNXVZZERzc2RLS1FvVFAzYkhBSzJVZ0YybW9VaWFhbUlYek16S3Nsd3F6RHRhZTJxVXdVRUpwSHhSZ1JqT20tVm50UktlOWFQRmJpY2V4czRqZUhyeGtkc2VWWTZ1RElMQjJlYzVrUWFMVVJCa2hwTG95RDVraWhnODQtVnJwakxhdFktV1lUZTRLLXZabWlRZzAyUUk1anBUNk80NlJlQnZTY25leUtXWHJhY0hn?oc=5",
-      "pubDate": "2026-08-19T04:41:39+00:00",
-      "source": "Media POLRI",
-      "description": "Bareskrim Ungkap Dugaan Kekerasan Seksual, Mantan Pelatih Pelatnas Panjat Tebing Jadi Tersangka",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -814,7 +832,7 @@
       "title": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSndIZlFHQ01KZkRhU3N1OVZKbFN1SXRjS2MyWFJqaTlwVlZyZ2FCbWxlS0tzRThXeFVlc1NzZHZNWC01NnB1WXlIUFpTQlFmUkF1ZFZZVUhTT0JoTDZEWkJ4WXZVUjNyWGxvTUhER0VsQ1JHOW9aRDcxMUNTT2VlVG1iNVlmSkRXZFdVc29uWkhOS3pNM1hiNXZQeXhleU0tM3c4cA?oc=5",
       "pubDate": "2026-08-01T07:00:00+00:00",
-      "source": "Batam Pos",
+      "source": "metropolis.batampos.co.id",
       "description": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2938,7 +2956,7 @@
       "title": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0EtR1EtV01uV3BVeFp1Sm12QkZ1MF9FenRPa01td0ZjUVBGNlZpeV9UTldQQXF5ODBtQzFsYjV1WTVfTjc4TU9XOEpkcHYxa3lvanZEYnBMZEF3cUtQaVdHRHBTT0VVY04xUFdlTlR2d2J5QTZHVnkyWlFVUGJKMW1LLWk?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "bidikkasusnews.com",
+      "source": "BIDIKKASUSNEWS.COM",
       "description": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3334,7 +3352,7 @@
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Prohealth.id",
+      "source": "prohealth.id",
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -3433,7 +3451,7 @@
       "title": "Satgas PPKS UNPAR Bekerja Sama dengan KSR Beri Sosialisasi Kelola Media Sosial Aman dari KBGO",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWpaeVBKTWJHUVhfTTNBR0RTSXhzbXVXUVVoeGszcjBuOUEtS0MtMkxGTk1xLWdXMG1keS1GcnZUZnp4Z0Q4NzVtUjRBLS1CYkN0TERua24xbG1aV0RIUFM5c0x2N2xBOURXb1paTkRiQ0E1UlFSRG56bDl3LWJyQVQ5TWlqQkZ0bnBJR0tqdW1QYW1RUk1TTG5NRE9IWG9SaVFwTzdqTmZOa2ZKWUNVZ2UxS1U?oc=5",
       "pubDate": "2026-04-16T06:25:20+00:00",
-      "source": "Universitas Katolik Parahyangan",
+      "source": "unpar.ac.id",
       "description": "Satgas PPKS UNPAR Bekerja Sama dengan KSR Beri Sosialisasi Kelola Media Sosial Aman dari KBGO",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
