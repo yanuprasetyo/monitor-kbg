@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-21T12:36:16.305190+00:00",
-  "total": 460,
+  "updated_at": "2026-08-21T18:29:12.477857+00:00",
+  "total": 461,
   "stats": {
-    "tpks": 131,
-    "kekerasan_seksual": 208,
+    "tpks": 130,
+    "kekerasan_seksual": 210,
     "kbg": 46,
     "kbgo": 75
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Erick Thohir Dukung Proses Hukum Kasus Kekerasan Seksual Atlet",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZnBQNnR3SFQ5R3RkSmZCWktpZzFMQ2puam9PS2d4dDRMTkMzMTJwYmEtREV2cS1HQ3JiUElsZnY0MzN1MnN0WldVaUk5TWZ2MDN1RHdPSHNIbk8xczZCaTBYdXZ1d1VDWWQySlhXYkpzcjBCWlNuWEZfN1hoLTdyaElFXzdHVURnSzRraUtGR0s?oc=5",
+      "pubDate": "2026-08-21T15:50:18+00:00",
+      "source": "Sudutpandang.id",
+      "description": "Erick Thohir Dukung Proses Hukum Kasus Kekerasan Seksual Atlet",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Menpora Dukung Proses Hukum Kekerasan Seksual Mantan Pelatih Federasi Panjat Tebing",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzMxWXBBRUphb3RDb1BqZkxLLUFsczZsZlBaa1BzUHRMall2Q1JGeVAwbUtiOXB3Nm1OUGdtVWcyTG5VTnlZdnpNbW5CMTFZaEZmdDRGYUlRX2taTzQ4cnFJRTYzdFJRakV6WTdIWjVIbDdFc1ptMkdrTDVOVS1lX1BZdmU2alZOUGxEMmFNbldfTVRSRDA3M1BLN24wQ1luaWZnVlctTHdBVEg3R1UxVUppVkNNVl9oT2g2a0taYnktXzVa?oc=5",
@@ -249,8 +258,8 @@
       "pubDate": "2026-08-19T04:15:25+00:00",
       "source": "AFU.id",
       "description": "Bareskrim Tetapkan Mantan Pelatih Panjat Tebing sebagai Tersangka Kekerasan Seksual terhadap 5 Atlet",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Bareskrim Ungkap Kasus Kekerasan Seksual 5 Atlet Panjat Tebing Putri oleh Mantan Pelatih",
@@ -1405,6 +1414,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUhUZVRnUVlHWFZBVHhnbHZ1bTFhZWlnRk1kZ19PekFiUk0wVVpEYUFXdHg2c295RE1wS1kwcnhNRmxTTm11RVpud25sV1FBeGNNMkJ0UkpabHdSeDFFSm5yaXRjbTVEZEYyRmEyR2tGZDBNckZ6TXJTQ25OQVItbWJBc0lHd2NGYnpKWG1pbWhpVGxsZk9CZmxuaw?oc=5",
+      "pubDate": "2026-07-23T07:00:00+00:00",
+      "source": "Prohealth.id",
+      "description": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
@@ -1428,15 +1446,6 @@
       "pubDate": "2026-07-23T05:05:00+00:00",
       "source": "TIMES Jabar",
       "description": "Polres Majalengka Bongkar Kasus Kekerasan Seksual Anak, Satu Tersangka Ditahan",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUhUZVRnUVlHWFZBVHhnbHZ1bTFhZWlnRk1kZ19PekFiUk0wVVpEYUFXdHg2c295RE1wS1kwcnhNRmxTTm11RVpud25sV1FBeGNNMkJ0UkpabHdSeDFFSm5yaXRjbTVEZEYyRmEyR2tGZDBNckZ6TXJTQ25OQVItbWJBc0lHd2NGYnpKWG1pbWhpVGxsZk9CZmxuaw?oc=5",
-      "pubDate": "2026-07-23T04:39:42+00:00",
-      "source": "Prohealth.id",
-      "description": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -1615,7 +1624,7 @@
       "title": "10 Provinsi Kasus Kekerasan Berbasis Gender Online Terbanyak di Indonesia 2026, Jabar Tertinggi",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlpNeXZnMlEtVFFUMEJxVFlhd2JZa0owenAydUJjQWYtbTF2djJLSkxCZWdYTC12RGhrUDZmbk00Qy1sWTZUMjk0Sl9oUzhvYWFEd0Q5dFFWRkpqaTE2SUl3bFRreFo3VnB0N1plRklta2x1QjZ6U1BHVmpKZUI1aE5CXzlsNmkyN2VGa192UFRRMFMwQm9CLWNqTjJ4V2NJaFF1ZFpmWUVSRU1taklubHdOQVdfLTRkcnkyN3BmbDBEWnNfeFN6aQ?oc=5",
       "pubDate": "2026-07-21T07:00:00+00:00",
-      "source": "goodstats.id",
+      "source": "GoodStats",
       "description": "10 Provinsi Kasus Kekerasan Berbasis Gender Online Terbanyak di Indonesia 2026, Jabar Tertinggi",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -3511,15 +3520,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -3527,6 +3527,15 @@
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Ketika Regulasi Bertemu Realitas, Penegakan Hukum Pelecehan Seksual di Ruang Digital Masih Dipertanyakan",
