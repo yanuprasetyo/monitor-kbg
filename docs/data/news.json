@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-21T06:37:17.248815+00:00",
-  "total": 458,
+  "updated_at": "2026-08-21T12:36:16.305190+00:00",
+  "total": 460,
   "stats": {
     "tpks": 131,
-    "kekerasan_seksual": 207,
+    "kekerasan_seksual": 208,
     "kbg": 46,
-    "kbgo": 74
+    "kbgo": 75
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Menpora Dukung Proses Hukum Kekerasan Seksual Mantan Pelatih Federasi Panjat Tebing",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzMxWXBBRUphb3RDb1BqZkxLLUFsczZsZlBaa1BzUHRMall2Q1JGeVAwbUtiOXB3Nm1OUGdtVWcyTG5VTnlZdnpNbW5CMTFZaEZmdDRGYUlRX2taTzQ4cnFJRTYzdFJRakV6WTdIWjVIbDdFc1ptMkdrTDVOVS1lX1BZdmU2alZOUGxEMmFNbldfTVRSRDA3M1BLN24wQ1luaWZnVlctTHdBVEg3R1UxVUppVkNNVl9oT2g2a0taYnktXzVa?oc=5",
+      "pubDate": "2026-08-21T11:15:05+00:00",
+      "source": "Media Indonesia",
+      "description": "Menpora Dukung Proses Hukum Kekerasan Seksual Mantan Pelatih Federasi Panjat Tebing",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Mantan Kepala Pelatih Pelatnas Federasi Panjat Tebing Indonesia Hendra Basir Jadi Tersangka",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZTZPUDllb3A4ajZtMTRzem40WnA5OWluQTFMSlFPSng4OU1PVlZ6TlhEeS00QXNWQi1kR1FsMGVlbVhwZlExZ1p6am14U3B4SDJBYlhwS1hiQXI5Q3g3NGRoWHdzcnVTOHJtSk50REkxX0ptc3VlbW8wTnJpd0NiMWtQSEtXUjhmMFM3YWhEUFpUTmNnSlI4VVNjb2VFc3luSXlDX3A0ZGY3X0JCRDNRVUdBRC10U2l0ZWp1cFhfNzJ6aUhfdUNyc3pUWWhvUUh3Rjlvc2pYb9IB3AFBVV95cUxNS25zSDN3MktCbnlKVDN2OFRENm1ETDBhSEVJNmFnbXhCeC1rbEZxa0NyenB3UWdsa3cyaEp3OGVVT25IMnN3RjZIaTAxQ0pFcTBkZEZ6bi1kLS1KLXlwWHlnaWJkdWFOcDljenVobDIxZ3liUGpvU2ExRHVQUjhHWUd0VGZaSWotbmt4MkphYnZpSldNS3U2OWwxRXlyUTJPU3ZBOWdGUk1nWEw3QnRXbUJzbmk4bGh2MGdWTndvdDg0c0VkVTBkVWVORGhQV2RJR1hPWFB2UlN0RXlZ?oc=5",
@@ -1909,6 +1918,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Relasi Kuasa dan Berulangnya Kekerasan Seksual di Kampus",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRC1XZWx6STUzY1oxX2llZTVCamt2N2tVVjRGRGdRRjhXQnZtdi1RWVQxdV9zU19STkFDdTdjeHlmY0xpdUxvSkJmOG4yYjdzMHNmSFFPWkp3US1VM3l5MHdnWEViY2hRVndXa0MwaEIxeXd1SXVIajBiQ2VQZVU1TXVjaTRKaXJFWXNKbnN3UGQ?oc=5",
+      "pubDate": "2026-07-14T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Relasi Kuasa dan Berulangnya Kekerasan Seksual di Kampus",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Kronologi Kekerasan Seksual di Sampang Libatkan 27 Tersangka, Pelaku Ajak Teman hingga Buat Grup",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUDVibEcyT01ic2xUYlRnaWpUY09BQTRub245eW9haE1SSDloUG9MM2tHUlVXSHZrc1BIekZlY3FwN0ZIMWFzRWRHY3o2RVZfbVpQMXVPUmMwNGdnQkw3M0RzSWwySkxfcVVrNG5OdTNaaVJQRlBZNWxuUTQxRWdlNzNMVjNuOTZ1b0R5OE9DQnNYaTB2LXpCLXBMN2RhUXByWW5MWWZaMk9saWFIcVlOMzZJZktiVGNRVmQ3UmtxZEQyNFlJUkRRLWFqSGdrZ9IB0wFBVV95cUxPV0kwWWp0YkRORmNjOGcySm05TzBUZDlTc2g0WjV4U0ZyT0dQZHdIOVRkbEYzakN4MWVXcTJKS0pRQnU1U1dnNWRkN29MbTh5UjBiREI5MlB3ZDFsRHpTY1pqLUtEcFRwaHk5bUhwNGNRUXV1dl9HMy1JdXY0MVRYY0N1dXdpUGdvbjdVMlY0LXBMb1l1dDREdTUzXzBjcHBSUzlKWXhRZm80MDJZcnhKWlBTdFZaOHZqd2w3OWtldzJDZnB3X2trYVFtMVltY3dkWkQ0?oc=5",
       "pubDate": "2026-07-14T02:59:00+00:00",
@@ -3493,15 +3511,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Tribrata News",
-      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -3509,6 +3518,15 @@
       "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Tribrata News",
+      "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Ketika Regulasi Bertemu Realitas, Penegakan Hukum Pelecehan Seksual di Ruang Digital Masih Dipertanyakan",
