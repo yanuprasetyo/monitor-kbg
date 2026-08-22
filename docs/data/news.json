@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-22T06:31:29.712592+00:00",
-  "total": 466,
+  "updated_at": "2026-08-22T12:28:34.735901+00:00",
+  "total": 470,
   "stats": {
-    "tpks": 131,
+    "tpks": 135,
     "kekerasan_seksual": 211,
-    "kbg": 46,
-    "kbgo": 78
+    "kbg": 45,
+    "kbgo": 79
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,6 +28,33 @@
   ],
   "articles": [
     {
+      "title": "Sekda Way Kanan Klaim Kasus Dugaan Pelecehan Seksual Selesai Lewat Mediasi, Ahli Hukum: Itu Langgar UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMFNTcXJQV0NWR3lqMDluNGtMQ0I5NVRiM0RmN3pUZmRRNUl1b2dMYm1wSlMzTUJEeFQ5YXFOUUZtRkF1eW9RbXlVUnBNNXBoNzlxTFc4QldvWXY5QWU0MTIzWU1RcFNFLTQxUmFOVEc1Ymlqb2ttdWJpa0dPT3V4YjgtaTQ3aEZpeE9vODBDemVzaWdwaWNQdVVveWVNeHFFMkVzblREb21zWHliNFRyd3ZlSjRlRmJuQ0RlTGNnU3N2VlJTR2YzTmtNTEtZa3RZX2otSWQ0aHhBaTRta0J3RHdGcXdPakJXOXc?oc=5",
+      "pubDate": "2026-08-22T11:24:01+00:00",
+      "source": "Medinaslampungnews",
+      "description": "Sekda Way Kanan Klaim Kasus Dugaan Pelecehan Seksual Selesai Lewat Mediasi, Ahli Hukum: Itu Langgar UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Bekas Pelatih Panjat Tebing Tersangka Kekerasan Seksual Lima Atlet Putri",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnZNbGNJVXh4d3JnUnhLUG9HVDJWSjE1OEpJVGdfWUJQeEtBLXdyWkJ4WnBQUlVybHFETG8zaEpJRTJ4NlZQeG9oaHZmeTVFSVctUThXdURHa0JuZGsxLThPM2ljenRIQlVEbm44bmd1WHh0eldDcFhiRzNWbEhJV1VHbUk4ZVVIM1daS2hPSERSTUNHNldvRlhzeWV5dXJRSklBMQ?oc=5",
+      "pubDate": "2026-08-22T09:20:38+00:00",
+      "source": "Kompas.id",
+      "description": "Bekas Pelatih Panjat Tebing Tersangka Kekerasan Seksual Lima Atlet Putri",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Dugaan Kekerasan Seksual Polwan di Sumbar, LBH: Harus Terapkan UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSmFnM1FFVTQxbVJ0ZGxYdVUxc3FrQmlraVFVdnBzMnFYdnlJclduaWducHBtaEEyQ0JlaUZGbEdtbTF1Y05Pd3F5RDFwNlRHbkY4eGoyUDloc3JnV0tLdTBiQWZvajZValBMNkt0d2liMTlaSDdNb1NTam1aQV9GZEtfMVdlLTVhN084UTc1UjNfY2Y3RGtzUEFXTUdSbzRPOWtJbWQyUFA4NzBjZldWcjFsS09QSEdIZGlkWXlMNEI0SUJFNVVReTFWeUtpcG40aklR0gHTAUFVX3lxTE5KYWczUUVVNDFtUnRkbFh1VTFzcWtCaWtpUVV2cHMycVh2eUlyV25pZ25wcG1oQTJDQmVpRkZsR21tMXVjTk93cXlEMXA2VEduRjh4ajJQOWhzcmdXS0t1MGJBZm9qNlVqUEw2S3R3aWIxOVpIN01vU1NqbVpBX0ZkS18xV2UtNWE3TzhRNzVSM19jZjdEa3NQQVdNR1JvNE85a0ltZDJQUDg3MGNmV1ZyMWxLT1BIR0hkaWRZeUw0QjRJQkU1VVF5MVZ5S2lwbjRqSVE?oc=5",
+      "pubDate": "2026-08-22T07:59:20+00:00",
+      "source": "IDN Times Sumsel",
+      "description": "Dugaan Kekerasan Seksual Polwan di Sumbar, LBH: Harus Terapkan UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Dugaan Kekerasan Seksual Anak di Pamekasan, Ansari Desak Perlindungan Korban dan Usut Tuntas",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSGxoeFhxMlB1ZENIdFRLSk5zQUlUbzRsbzEzMlFZNTY5bmJNeUJacGs4Ri1jSW41NXNRUFhzNWRVX1MycENjVnVhWnlOOE9qWXhXejU5V0tPRFNfeTlEcG1WbTBBNk4ya0t1ZWNLX3NwUzhnUFNzbEd4QmROeVVCb1FsVEZneXVhaXpROEhkdmJVbEZhWnhQQTBndzhiRFVTa0l4YW5BZWVVQjBETVY0UEx1M1RrV0M3QTdlSTRXa3FIRHFVb1lJcWtjdkczeTFiUWY00gHYAUFVX3lxTE5RSXV2Rkx2VUl0RFpoSTVLOFByMFFNcURtdDdTV29meEtEM3Y2aGlJa0N3b204TmFIOE9GMDZpaDlpQWltanN4bkRsZ2ZEN0Zkb0JRQUZHNXlyWlJoVUU4aDlpYkl6bF92cTlySU9BZlV6VWRRUXpreXd3cmVsbjhnV2lxc0hWOHhnRjhvbHBDa1VpX0k2c1ZjdEtLMnZjbmU2VkM1eFlzNUpXdjBnN3lfdEtVMGE1ZTh1VlBTZzY5YXBMSTZYbk9zeHZiQ1ZVZ0hVeVJobFA0LQ?oc=5",
       "pubDate": "2026-08-22T04:58:00+00:00",
@@ -38,12 +65,21 @@
     },
     {
       "title": "Penyelidikan Dugaan AKBP F Lecehkan Polwan Dibuka Lagi, LBH Padang Desak Polisi Terapkan UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenZ1R3FWYVpFdmZJdG9RRDR3ZkRaMm9acEhDQV94d0FsemRMbTJPamZ0aFBhMzlSblB3aHFnRHRrTXhTNEUtMDM3N05nZGdOcjhSTzJlQ3E1eDhaYVBHQlJ1clFvVTNZYXJ4QUdQRFh3aFI4TXo5TTNSU25hZUZMdXMyZFVNc1dRTWg0N2hHUzljamgxZDZBbjh6ZjY5TWliZ0VzSTZ2aUp5b0lpdG4xN1Y5NXhfQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zRmlQSHVJYmdjLVJ1VFkxdlZwLUtlZDUwQ0VHa3RydUQtVm1wYTVYLWxBcjlCVFZPcnlHNzdkNTZfZw?oc=5",
       "pubDate": "2026-08-22T04:03:00+00:00",
       "source": "Langgam.id",
       "description": "Penyelidikan Dugaan AKBP F Lecehkan Polwan Dibuka Lagi, LBH Padang Desak Polisi Terapkan UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Menpora Erick Thohir Mengatakan akan Melindungi Atlet yang Alami Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNlZUQkxCWGQwa0JJZEhmenFkZXhZRFE5V21JajFPaE5pMnNOUkRoSVZjSXZGTTlJTmhLaklWdTREd2hTejZNM0M3OUd6aklmMjdjMkNMZjRrM2YtaHRCTlJBVUtZYXpLTjA4NUUwUk1ySThWUTdNbDBKOFR1QUNqdzZENnBNWndtTXZqZVJfakduODg0SWxBclpkWUpEd210VWVNSU9yd0RkZ1NTTG82WnpYNGx6QTdHRTc5TTNsa1pDN0dwOUlncDg2UdIB0AFBVV95cUxNXy1xWFhIanlja2EwLUxSaWQ4RjZub1paOE1oeEUwR2EtcmtZVFRzYzlpT1dvWmlxbmtwQlh2Z3ZBY05iWHdOd2VrMjdnSWtHZDBNU2pvb2JZdDA3VkFDdHpSRlRtV3hKV1JObURqM3hzcGRBOVo5T2k0QzFlMWowbEJ3Z0tKekozUU1BMktsbEdTUTE4TkR2UXMyVUlJaXc2OWpyRUJuMUNlNmVDd3gxU0hYVXRpT09oR1pOdkpqcGZOaVBTNFlUSThVMmNZLXBh?oc=5",
+      "pubDate": "2026-08-21T23:00:17+00:00",
+      "source": "Sumut Pos",
+      "description": "Menpora Erick Thohir Mengatakan akan Melindungi Atlet yang Alami Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Erick Thohir Dukung Proses Hukum Kasus Kekerasan Seksual Atlet",
@@ -276,8 +312,8 @@
       "pubDate": "2026-08-19T04:15:25+00:00",
       "source": "AFU.id",
       "description": "Bareskrim Tetapkan Mantan Pelatih Panjat Tebing sebagai Tersangka Kekerasan Seksual terhadap 5 Atlet",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Bareskrim Ungkap Kasus Kekerasan Seksual 5 Atlet Panjat Tebing Putri oleh Mantan Pelatih",
@@ -1459,15 +1495,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
-      "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "Tempo.co",
-      "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUhUZVRnUVlHWFZBVHhnbHZ1bTFhZWlnRk1kZ19PekFiUk0wVVpEYUFXdHg2c295RE1wS1kwcnhNRmxTTm11RVpud25sV1FBeGNNMkJ0UkpabHdSeDFFSm5yaXRjbTVEZEYyRmEyR2tGZDBNckZ6TXJTQ25OQVItbWJBc0lHd2NGYnpKWG1pbWhpVGxsZk9CZmxuaw?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
@@ -1475,6 +1502,15 @@
       "description": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
+      "pubDate": "2026-07-23T07:00:00+00:00",
+      "source": "Tempo.co",
+      "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "KPAI Soroti Ancaman Baru bagi Anak: Kesehatan Mental, Rokok, Kekerasan Seksual",
@@ -1752,8 +1788,8 @@
       "pubDate": "2026-07-18T07:00:00+00:00",
       "source": "Kompas.id",
       "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
@@ -2917,15 +2953,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Penyekapan perempuan di Bandung alarm bahaya femisida",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFFobkRhcnF5bWlhVFF0NUJRRHVaOXJVNG9yNy1tMTY4eXFLNS12Z19ZaEdwcFgzaG5UUjdRaDVyN0pua3RPMy1tc1VIR2tWUkVfZmlRaVdIU2t6Z1BMWEpEd0dPU2RTVGV0R2R3SlpZMkxvR1lJWGc5Yl9oYmVlUDVMeFJQdkNkZVNYQnp3ajNyU2RsUGZGc0otUQ?oc=5",
-      "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "Alinea.ID",
-      "description": "Penyekapan perempuan di Bandung alarm bahaya femisida",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlZCRnlFdUZVU0RnUE90ZTF4SHMyNm1GelBuczFuV0M3WWFyYk04Wm5ObXV5QkxYazBQVEtFQ1BBd3BPcjRydG14ckVPbTI2R3pZZEFidjZOVmJ2dU1FdUV6aFhvZ3hRLTZHYWhoVE9qNWNFVkVVQmxIYTZQZGNkR0doRGRKbHMtVlViOUdMMkdLeUh2bWpkUF95Rk9FQ2Y2UUFxdXltN3RfelAzOF9xVWdUVE1aeFV4dWtkMFM2aw?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
@@ -2933,6 +2960,15 @@
       "description": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Penyekapan perempuan di Bandung alarm bahaya femisida",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFFobkRhcnF5bWlhVFF0NUJRRHVaOXJVNG9yNy1tMTY4eXFLNS12Z19ZaEdwcFgzaG5UUjdRaDVyN0pua3RPMy1tc1VIR2tWUkVfZmlRaVdIU2t6Z1BMWEpEd0dPU2RTVGV0R2R3SlpZMkxvR1lJWGc5Yl9oYmVlUDVMeFJQdkNkZVNYQnp3ajNyU2RsUGZGc0otUQ?oc=5",
+      "pubDate": "2026-06-22T07:00:00+00:00",
+      "source": "Alinea.ID",
+      "description": "Penyekapan perempuan di Bandung alarm bahaya femisida",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Korban Kekerasan Seksual FH UI Ajukan Keberatan ke Itjen",
@@ -3502,6 +3538,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -3518,15 +3563,6 @@
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Mengurai Kekerasan Seksual Melalui Arsitektur Keadilan Digital",
@@ -3853,6 +3889,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
+      "pubDate": "2026-02-23T08:00:00+00:00",
+      "source": "World Health Organization (WHO)",
+      "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM21ENXF2c3NOOHNWemprc3pOQkNFRVRwQUFaSTVoYXdnRExwUkVPU2t1bkxSbEpVSVhNdmJHdWhNTkFHdnhmaXR3b0txU05aSHNWRHk1V2dUUTJhN3ZpTXNHTG9idmlFR0haOEVXZ3AyMnhrcm8zaGJQOXJwVndjYmljYmpjYjdaRjR0MzNxc05wM3pyc2t1dDZLemtsaVV3bjAzdTdGbENORTEySXBwd1RFVFZMZw?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
@@ -3860,15 +3905,6 @@
       "description": "Bisakah Lapor Kekerasan Seksual Anak Jika Korban Sudah Dewasa?",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
-      "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "who.int",
-      "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "7 Dugaan Kekerasan Berbasis Gender Ditemukan di Lokasi Pengungsian Aceh",
@@ -3921,8 +3957,8 @@
       "pubDate": "2026-02-06T08:00:00+00:00",
       "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
@@ -3997,15 +4033,6 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "Kekerasan Berbasis Gender Online: Korban Terjebak Konflik UU TPKS dan Ancaman UU ITE",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW9wSlpidFFmTzE4MXBjbkVtQkhNMG9BdW5UMTN3TlB1MTRKM19IZl9sWkNyNHZtTTNIM2x5VnJyeFg1alFQeG1obmpsRk5WSFllWEJWWjRFcVp5RUxteGcyRE9aWkdGTkE0bFN4bnBnaGtZWUExNGp6RVhxN0lnNjU3eTNHQnJmNWZtNlJsTWlqeFVqRGllRTl1QktmNzFoemxrWVl2U2t1WG00eEZiV25ZbjBhcXJSWUM1ODNQa29sc2F0dkp3Z1hSUzIzMnJMcVJBSA?oc=5",
-      "pubDate": "2025-12-09T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Kekerasan Berbasis Gender Online: Korban Terjebak Konflik UU TPKS dan Ancaman UU ITE",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNl80Vk5HTGV0RW5rcnNpWmxKa04td0EtVFhLWlQxMzVzYmFBMnp1U2MxM3BfdXNFdllqWWRQam1tX3Jwbzk1T1pBVk12LTIwVzZ4RlpYLVk3SDJtMGxzdnBxazY1RVJWN3o5eG9NNEVmZDdldW41R21lN0EtUFU5a0VrbEM2bWstYWVveWJsZ0FPd1FPZ2F2ZlJkbGN2RjRHVFBId1k2d2R3VzN6MDRYNzBDcS1ONzJ1RXg5VVNFenFkQzVndHBXWXRXWjJGY0pBMUVZbUZkenA?oc=5",
       "pubDate": "2025-12-09T08:00:00+00:00",
@@ -4013,6 +4040,15 @@
       "description": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kekerasan Berbasis Gender Online: Korban Terjebak Konflik UU TPKS dan Ancaman UU ITE",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW9wSlpidFFmTzE4MXBjbkVtQkhNMG9BdW5UMTN3TlB1MTRKM19IZl9sWkNyNHZtTTNIM2x5VnJyeFg1alFQeG1obmpsRk5WSFllWEJWWjRFcVp5RUxteGcyRE9aWkdGTkE0bFN4bnBnaGtZWUExNGp6RVhxN0lnNjU3eTNHQnJmNWZtNlJsTWlqeFVqRGllRTl1QktmNzFoemxrWVl2U2t1WG00eEZiV25ZbjBhcXJSWUM1ODNQa29sc2F0dkp3Z1hSUzIzMnJMcVJBSA?oc=5",
+      "pubDate": "2025-12-09T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Kekerasan Berbasis Gender Online: Korban Terjebak Konflik UU TPKS dan Ancaman UU ITE",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
