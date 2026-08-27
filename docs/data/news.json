@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-26T19:41:47.958174+00:00",
-  "total": 493,
+  "updated_at": "2026-08-27T06:55:20.930095+00:00",
+  "total": 495,
   "stats": {
     "tpks": 144,
-    "kekerasan_seksual": 215,
+    "kekerasan_seksual": 217,
     "kbg": 56,
     "kbgo": 78
   },
@@ -28,6 +28,24 @@
   ],
   "articles": [
     {
+      "title": "Gandeng Komunitas Pecinta KA, KAI Daop 7 Madiun Gelar Kampanye Anti Pelecehan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTN1ZndnYVVJYkh1V3JKWTZTVUd0OUduYUdaZUdfcUdoa093dW8yeEwySGNiTWlpTnZkMHgwb1A1bG12N1dOd0Y0dXdnRmlHSi15WlQwWlJFUW0zakNNVlFqdlN5MVdfdHNhUFkzNmQ2VlpRRTJWRkI5Q3RjOHZoYVhudnRjRGNYc2pGNnJOZFRQb294cWVvRF96Z3FaQWQwTnFnbFdNWEJrNkg4b2FDY3ZmRDNQNDg?oc=5",
+      "pubDate": "2026-08-27T02:50:00+00:00",
+      "source": "Ngopibareng.id",
+      "description": "Gandeng Komunitas Pecinta KA, KAI Daop 7 Madiun Gelar Kampanye Anti Pelecehan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kasus KBG Tinggi di Lobar, Dewan Minta Perkuat Sinergi serta Anggaran UPT PPA -",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUdGeUkweHNIUkItbEstTHpZVWVtUFBhNkxVVXkxbUZJd1pzVWdvMHA0Ry1hUW9TNDhrZ3RrTkwzVUtYMk41UkhBSTBIMGVCNkhfMklQTWY2WEhrQXdIWU5lOXFyNTFUbGNJczhsX25wekdYYmJQal9Sbm8wbHRBSk92V2VEcHcwT0o1bXRjckIxMGNYZXZrVDR5LXdxVlRsX3I3dm5n?oc=5",
+      "pubDate": "2026-08-26T08:26:43+00:00",
+      "source": "Radar Mandalika",
+      "description": "Kasus KBG Tinggi di Lobar, Dewan Minta Perkuat Sinergi serta Anggaran UPT PPA",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Usut Tuntas Kasus Kekerasan Anak, HWCI Kalbar Puji Langkah Tegas Polres Sambas",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcDlXUGNBckRjZE5PbFoxR3pSVTZObDBHZWx3RnVNWTlKVjlNVU43OHBBb094VHoyT2Q0bnI4LVJ5UTQtTUxtRGF6UGhDTm9BRmduNkVhM1o4MzFVYWo1YV94UjFSQXpJQ1B4Mmd0VmZqZ1RYU2YyZFBoUVFWWTNfVFlpWU52bE1zRXc1SS1OdEFFb1U3aHFWdFlXYkJlYmFSaWFaNGpHOHRlOGNrOHpmbGt0SVRYa25GZ0lBSmJpbWRCalRrSEpWedIBzgFBVV95cUxQcWI4TTRWWENzQ2lZY3AtT2c2RHFyazNTcWkteTR6WFN4aG5UVDRpcUd3ZWxxSDJqTGsxT1RJOUVCYnl3Sk9FZ3pPaEpLQm1sY2VGTm1xdm9kNzR6RzRTbndTZU5lZFhraGlpYUhuLXhORHN3WWRCSGRjUE5oVWFVUFZ6YjVUTnMyUXUtYzVBbzBWU09CU2IzOU5YM2pUd3lEcnZ4M2RRYVJ0UlEzVGY2a25wUDFDTFRMWWxXbU5fX3NEWWx0ZGVwdFZwVkVwZw?oc=5",
       "pubDate": "2026-08-26T04:54:30+00:00",
@@ -35,15 +53,6 @@
       "description": "Usut Tuntas Kasus Kekerasan Anak, HWCI Kalbar Puji Langkah Tegas Polres Sambas",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Kasus KBG Tinggi di Lobar, Dewan Minta Perkuat Sinergi serta Anggaran UPT PPA -",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUdGeUkweHNIUkItbEstTHpZVWVtUFBhNkxVVXkxbUZJd1pzVWdvMHA0Ry1hUW9TNDhrZ3RrTkwzVUtYMk41UkhBSTBIMGVCNkhfMklQTWY2WEhrQXdIWU5lOXFyNTFUbGNJczhsX25wekdYYmJQal9Sbm8wbHRBSk92V2VEcHcwT0o1bXRjckIxMGNYZXZrVDR5LXdxVlRsX3I3dm5n?oc=5",
-      "pubDate": "2026-08-26T01:00:05+00:00",
-      "source": "Radar Mandalika",
-      "description": "Kasus KBG Tinggi di Lobar, Dewan Minta Perkuat Sinergi serta Anggaran UPT PPA",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Kemenkum Dorong Perlindungan hingga Pemulihan Korban",
@@ -919,15 +928,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Pemkot Palembang Perkuat Literasi Digital Perempuan, Cegah Kekerasan Berbasis Gender Online",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanlGTDBZTU43enRwUi0xUUFEbzRwNFd2QjBqRnd4dmdfRk84Tk1Zd0F3WFRxYVg5VVlldy1kSTV2eDBFRzlGNVBzZVBKYmxKcDlWM1ZYeDNic0E0bXRubHNHMGIyYWdhWTRYdndnM09KNHNsUWZVX2ZPRUQzMFl3M2dnWHV2OUdaR0dicjhNR2x5Y2x4R0UwMjQ2UzhKY3VCVURpM1R6UWhmQ0tnNVBYMGtLdWxSQ3c?oc=5",
-      "pubDate": "2026-08-05T13:29:00+00:00",
-      "source": "rmolsumsel.id",
-      "description": "Pemkot Palembang Perkuat Literasi Digital Perempuan, Cegah Kekerasan Berbasis Gender Online",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Pemkot Palembang Perkuat Literasi Digital Perempuan untuk Cegah Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MWtLX2Z1NENhQWZ6akxuLWROUHA0VDBib2lSUE82czNHU25LeVgtd0pJMmRYLVlOTzZ5NXRTZF9wd3J1MWpEUWs0YXRhczRMN2RpWHhNRjBSWGhwRVlJRXpNS0RWbmFvbWdUZ01FcWh5bVhJb2tSbHJucDBxdw?oc=5",
       "pubDate": "2026-08-05T13:09:02+00:00",
@@ -980,6 +980,15 @@
       "description": "KY susun instrumen analisis putusan hakim dalam implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Pemkot Palembang Perkuat Literasi Digital Perempuan, Cegah Kekerasan Berbasis Gender Online",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanlGTDBZTU43enRwUi0xUUFEbzRwNFd2QjBqRnd4dmdfRk84Tk1Zd0F3WFRxYVg5VVlldy1kSTV2eDBFRzlGNVBzZVBKYmxKcDlWM1ZYeDNic0E0bXRubHNHMGIyYWdhWTRYdndnM09KNHNsUWZVX2ZPRUQzMFl3M2dnWHV2OUdaR0dicjhNR2x5Y2x4R0UwMjQ2UzhKY3VCVURpM1R6UWhmQ0tnNVBYMGtLdWxSQ3c?oc=5",
+      "pubDate": "2026-08-05T07:00:00+00:00",
+      "source": "rmolsumsel",
+      "description": "Pemkot Palembang Perkuat Literasi Digital Perempuan, Cegah Kekerasan Berbasis Gender Online",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Perempuan Mendominasi Korban KBGO Sepanjang April-Juni 2026",
@@ -1065,7 +1074,7 @@
     {
       "title": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQld2QlByUVFienVoRWwzZFdyME43bVdSbU5PLUZqQ1J3ampOSTNmOVRnYjlMR0Q5VGhTRFE1Z0dPMUFfTW4yWml1YVhUVDdVV1kxcGtRX1V0R01oZkF2b09MaGlZb3ZKZTZjUkdjbXlXcUJ2T1c1TUotM0dTd2NVS2w4V284R1FhSlJ2UWVqS3lCT1lSbHNPZU5QWV9qYzZ3UFpBc3BtQlI2bzhzV2p6VjZQUFdUZ2J5T0FfLUI5LTF2aDJsWkxXSnF0ZmVhWnREUTRIRGp1N085c0VC?oc=5",
-      "pubDate": "2026-08-03T12:15:00+00:00",
+      "pubDate": "2026-08-03T07:00:00+00:00",
       "source": "Komisi Yudisial",
       "description": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "keyword_id": "tpks",
@@ -1124,6 +1133,15 @@
       "description": "Lawan Bullying dan Kekerasan Berbasis Gender Online: Mahasiswa KKN-PPM UGM Ajak Pelajar dan Warga Petang Lebih Melek Gender dan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Ayah Tiri di Lampung Hamili Anak, Kekerasan Seksual dalam Keluarga Kian Mengkhawatirkan",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0FONERveTFiOXZTUWNtUjB5eWlxVk5OdThzOWJmS1JJVkJjNng2QnJDdjBoeU5GSVQyTTZfZHdtUE5ULUU4WnZYUGkteTNpRmpUWl9BeU0wRnFTZ05JYzBhdlZ5VWRqRGVpTG54LS1RcC1NRmVIejB1ZTFtNGI3cTFHbFBYWEpjRzFkaGFJVjVSZ3RZLVhPNlpWbkNnZ2dSWGMwRVFQQ0VIWkVQd2FRaVBQWDdubldVX3NqQm9sU2pqdw?oc=5",
+      "pubDate": "2026-08-02T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Ayah Tiri di Lampung Hamili Anak, Kekerasan Seksual dalam Keluarga Kian Mengkhawatirkan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Yang Sering Tak Diajarkan di Sekolah: Kekerasan Berbasis Gender",
