@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-27T06:55:20.930095+00:00",
+  "updated_at": "2026-08-27T21:38:36.430885+00:00",
   "total": 495,
   "stats": {
-    "tpks": 144,
-    "kekerasan_seksual": 217,
+    "tpks": 143,
+    "kekerasan_seksual": 218,
     "kbg": 56,
     "kbgo": 78
   },
@@ -51,8 +51,8 @@
       "pubDate": "2026-08-26T04:54:30+00:00",
       "source": "Pontianak Post",
       "description": "Usut Tuntas Kasus Kekerasan Anak, HWCI Kalbar Puji Langkah Tegas Polres Sambas",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Kemenkum Dorong Perlindungan hingga Pemulihan Korban",
@@ -74,7 +74,7 @@
     },
     {
       "title": "Cegah Kekerasan Seksual, Kemenkum Babel Perkuat Pemahaman UU TPKS dan Perlindungan Korban - sumeks.disway.id",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2c2clpIZ1VPUG5fX2ZpLUZpQkdDVjVkWkFCTnZqUzliajFFY1Q1a0YxdmZQS3E5OEhFanJ1UnpBTkZocVlqVWJPU1RjeDAwNzlrdEpjOU5JQmZTazEzUmo3elhXU1NRLTQybEkzVGgzTVRWY2gtXzB3cWdZdU1KdHNZaEpxWUFvNHhHR1BGM3JGSWdsNjBITFVvNHYtWEhpTlNrTXA3Y1pRZHRKQnk3b1JwT3J5N1B0ME0tSW9VYU1aZ9IBwgFBVV95cUxOT2c2clpIZ1VPUG5fX2ZpLUZpQkdDVjVkWkFCTnZqUzliajFFY1Q1a0YxdmZQS3E5OEhFanJ1UnpBTkZocVlqVWJPU1RjeDAwNzlrdEpjOU5JQmZTazEzUmo3elhXU1NRLTQybEkzVGgzTVRWY2gtXzB3cWdZdU1KdHNZaEpxWUFvNHhHR1BGM3JGSWdsNjBITFVvNHYtWEhpTlNrTXA3Y1pRZHRKQnk3b1JwT3J5N1B0ME0tSW9VYU1aZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOW5PRGszZG9HdnlFY1V2X3lmYUNUNTJyYjhjOVJlVW12akRRZUVwdHkxU1FGXzNITEVOYWtYWHpKM3kwZWhfYkVuNTZaUTVDQkpTRHpMS2RQcjVTdklmQ1U0MHFkMTRPN3IyM1VKSTVJRUM3T1E5NlVxV2VyLUUteXNYSzN4SDMtUXNMOUs2czhpNnY5MGFjY2QtUFRHVzNQV2FDWVFZcFFnbkZ2aTZYNE5EVkNsT1dWYzlkTmZkdndVYl9wcnNnc2p5TUpJa1Z10gHCAUFVX3lxTE5PZzZyWkhnVU9Qbl9fZmktRmlCR0NWNWRaQUJOdmpTOWJqMUVjVDVrRjF2ZlBLcTk4SEVqcnVSekFORmhxWWpVYk9TVGN4MDA3OWt0SmM5TklCZlNrMTNSajd6WFdTU1EtNDJsSTNUaDNNVFZjaC1fMHdxZ1l1TUp0c1loSnFZQW80eEdHUEYzckZJZ2w2MEhMVW80di1YSGlOU2tNcDdjWlFkdEpCeTdvUnBPcnk3UHQwTS1Jb1VhTVpn?oc=5",
       "pubDate": "2026-08-24T12:05:00+00:00",
       "source": "Sumeks",
       "description": "Cegah Kekerasan Seksual, Kemenkum Babel Perkuat Pemahaman UU TPKS dan Perlindungan Korban - sumeks.disway.id",
@@ -1936,15 +1936,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kekerasan Seksual di Sampang, Kejahatan Serius",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkVOWEs2bkhFY3Bfdzh1RHhOTlM4RXdDbG9LaGMxeXRKSlVKbFhDRzZycHVlWWtIUUNOTFVNWFl2bkh4MzI3MXc2QnVYeEVZc21FdHZYdERxNjBucmoyQmNLLVcwRURXLXc4WXdabXVYNWktSk9lTkVFd0FDT2tNU3pCUFdTZXFXcnpF?oc=5",
-      "pubDate": "2026-07-18T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDMwQzRYemNoZUhOS00wakZuS1VrYW5vclBnNjhnUmpQWXZEdFFTSXhnSzBqYldia3UyVFRhTlFmWlBNUG1VZjNnQzBRUkl0QVp0dmNwRTRnMDRpZ21kMnRRSUpHWWtkMUx1U1UzWHdIVG5MQXppZ2phNjhWXy1fRk9aazBhYXY3THQ1cnFOLS1WcUFLMUhGVGJHRDdlTG1ONXY0bFN0Y3Y3LUdQVERJdWEyREI0SzlBcFpoNG9xTEdXcFFXUVBXS3ljSzJxdDZkT2JFNlNR?oc=5",
       "pubDate": "2026-07-18T07:00:00+00:00",
@@ -1952,6 +1943,15 @@
       "description": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kekerasan Seksual di Sampang, Kejahatan Serius",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkVOWEs2bkhFY3Bfdzh1RHhOTlM4RXdDbG9LaGMxeXRKSlVKbFhDRzZycHVlWWtIUUNOTFVNWFl2bkh4MzI3MXc2QnVYeEVZc21FdHZYdERxNjBucmoyQmNLLVcwRURXLXc4WXdabXVYNWktSk9lTkVFd0FDT2tNU3pCUFdTZXFXcnpF?oc=5",
+      "pubDate": "2026-07-18T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Universitas Sahid Gelar Pelatihan Digital Communication Safety Starts With You untuk Tingkatkan Literasi dan Keamanan Digital Mahasiswa",
@@ -3106,15 +3106,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlZCRnlFdUZVU0RnUE90ZTF4SHMyNm1GelBuczFuV0M3WWFyYk04Wm5ObXV5QkxYazBQVEtFQ1BBd3BPcjRydG14ckVPbTI2R3pZZEFidjZOVmJ2dU1FdUV6aFhvZ3hRLTZHYWhoVE9qNWNFVkVVQmxIYTZQZGNkR0doRGRKbHMtVlViOUdMMkdLeUh2bWpkUF95Rk9FQ2Y2UUFxdXltN3RfelAzOF9xVWdUVE1aeFV4dWtkMFM2aw?oc=5",
-      "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "Dandapala Digital",
-      "description": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Penyekapan perempuan di Bandung alarm bahaya femisida",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFFobkRhcnF5bWlhVFF0NUJRRHVaOXJVNG9yNy1tMTY4eXFLNS12Z19ZaEdwcFgzaG5UUjdRaDVyN0pua3RPMy1tc1VIR2tWUkVfZmlRaVdIU2t6Z1BMWEpEd0dPU2RTVGV0R2R3SlpZMkxvR1lJWGc5Yl9oYmVlUDVMeFJQdkNkZVNYQnp3ajNyU2RsUGZGc0otUQ?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
@@ -3122,6 +3113,15 @@
       "description": "Penyekapan perempuan di Bandung alarm bahaya femisida",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlZCRnlFdUZVU0RnUE90ZTF4SHMyNm1GelBuczFuV0M3WWFyYk04Wm5ObXV5QkxYazBQVEtFQ1BBd3BPcjRydG14ckVPbTI2R3pZZEFidjZOVmJ2dU1FdUV6aFhvZ3hRLTZHYWhoVE9qNWNFVkVVQmxIYTZQZGNkR0doRGRKbHMtVlViOUdMMkdLeUh2bWpkUF95Rk9FQ2Y2UUFxdXltN3RfelAzOF9xVWdUVE1aeFV4dWtkMFM2aw?oc=5",
+      "pubDate": "2026-06-22T07:00:00+00:00",
+      "source": "Dandapala Digital",
+      "description": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Korban Kekerasan Seksual FH UI Ajukan Keberatan ke Itjen",
@@ -3343,7 +3343,7 @@
       "title": "Empat Upaya Kemenag Atasi Kasus Kekerasan dan Perundungan di Pesantren",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWtGQ1VpMEVkY3had2wxX3BqOHdxdzRDQWtUTm4xbjlTLXplcklaSXFVMzBsSW5hOXpqdkxjdllQTDktdHRXV3dkRXU5dW9JcWdYdGRVV3BVSDBqZktRMHd5cnNSdG9VNjBKWDltRmowN3lqNE8wa0tNRDNKeldPSTlvR1JPa0VTQXVHZF9HY0drQ3ZLSnBFbWVxczlGTmtaTlkwNE1GM1RySUE?oc=5",
       "pubDate": "2026-06-08T07:00:00+00:00",
-      "source": "kemenag.go.id",
+      "source": "Kementerian Agama",
       "description": "Empat Upaya Kemenag Atasi Kasus Kekerasan dan Perundungan di Pesantren",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
