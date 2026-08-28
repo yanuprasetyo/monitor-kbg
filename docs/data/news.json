@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-27T21:38:36.430885+00:00",
-  "total": 495,
+  "updated_at": "2026-08-28T08:43:16.273724+00:00",
+  "total": 496,
   "stats": {
-    "tpks": 143,
-    "kekerasan_seksual": 218,
+    "tpks": 142,
+    "kekerasan_seksual": 220,
     "kbg": 56,
     "kbgo": 78
   },
@@ -1936,6 +1936,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Kekerasan Seksual di Sampang, Kejahatan Serius",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkVOWEs2bkhFY3Bfdzh1RHhOTlM4RXdDbG9LaGMxeXRKSlVKbFhDRzZycHVlWWtIUUNOTFVNWFl2bkh4MzI3MXc2QnVYeEVZc21FdHZYdERxNjBucmoyQmNLLVcwRURXLXc4WXdabXVYNWktSk9lTkVFd0FDT2tNU3pCUFdTZXFXcnpF?oc=5",
+      "pubDate": "2026-07-18T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDMwQzRYemNoZUhOS00wakZuS1VrYW5vclBnNjhnUmpQWXZEdFFTSXhnSzBqYldia3UyVFRhTlFmWlBNUG1VZjNnQzBRUkl0QVp0dmNwRTRnMDRpZ21kMnRRSUpHWWtkMUx1U1UzWHdIVG5MQXppZ2phNjhWXy1fRk9aazBhYXY3THQ1cnFOLS1WcUFLMUhGVGJHRDdlTG1ONXY0bFN0Y3Y3LUdQVERJdWEyREI0SzlBcFpoNG9xTEdXcFFXUVBXS3ljSzJxdDZkT2JFNlNR?oc=5",
       "pubDate": "2026-07-18T07:00:00+00:00",
@@ -1943,15 +1952,6 @@
       "description": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Kekerasan Seksual di Sampang, Kejahatan Serius",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkVOWEs2bkhFY3Bfdzh1RHhOTlM4RXdDbG9LaGMxeXRKSlVKbFhDRzZycHVlWWtIUUNOTFVNWFl2bkh4MzI3MXc2QnVYeEVZc21FdHZYdERxNjBucmoyQmNLLVcwRURXLXc4WXdabXVYNWktSk9lTkVFd0FDT2tNU3pCUFdTZXFXcnpF?oc=5",
-      "pubDate": "2026-07-18T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "Universitas Sahid Gelar Pelatihan Digital Communication Safety Starts With You untuk Tingkatkan Literasi dan Keamanan Digital Mahasiswa",
@@ -3687,8 +3687,8 @@
       "pubDate": "2026-04-24T02:26:01+00:00",
       "source": "Pusiknas Bareskrim Polri",
       "description": "Bermula dari Candaan, Ujung-ujungnya Terancam Pidana Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
@@ -3817,6 +3817,15 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
+      "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UWtQejdyeVBhamt6bThRek5NV2kwOXZfR2xjTE5BZHgxRk1qNUllSDN5U3hvLWVFTW5MYUZoUVNRcjZwampTdnRsb0Vwb2dUQ1hSQzh2dVQwZUFEQXJEZdIBZkFVX3lxTE54d2ZpbWNVOU1LX242LUExdnl3dndQZVdnUE5LZU8zeFVCSGR1WXhWTlZTdDFUakRVRnZBWnlJdmRjVWgydGxEc3p5ZDhMQUZaNURGZWxCTVowaWp3UlhSSXY2X1VoUQ?oc=5",
+      "pubDate": "2026-04-15T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Kasus Mahasiswa UI Cerminan Nyata Kekerasan Berbasis Gender Online di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbURHUkN4ZUptWkYzZWxUQ255M3BybnBkOFJXemJQZ1RDOHVvbEN3Tk5nY3pYUU1EcjJiQkEydGsyUThxM1BkeTZHVlI3VjhaZWZWZGpxNnRWWHExOXpsSVl0ZjRCVDhOOTVWX0dYNklZZTl3cmlEZm5jNGdIM0RJWDQ3UV92TVZoWHJVM3BUR1k1TVJOM2pHUExRYzZYU1pOVVJXbUgtbFpfbHJUQXUyeV8wWkVZRmpYRFFLUG9HOGhYU1Q4TGfSAcsBQVVfeXFMT2QwMzdCQW9uYkJKNktTUG4tdUpycXhjaHdkYy1wR2JvUVh5OTlxLXNQMzFSLXhzUDduQUhOc2lxbUtid2N3bzBneVR4emU4aGJydEg0ZEF3bDNVdVluTFVyYlE1UW9YdWFuVGt5ZDBDQUxVQ3NDNlVqU3hGRmhxUXcwVlNQQjFSekpHTzdBbFVyYUFjRjdRU0habEpFVGZvajRiV1NrWjdxa0J5c0lLLU5NekZjTUluT0RHR0ZfOUQxS0dBOWFJLU5zY2c?oc=5",
       "pubDate": "2026-04-15T07:00:00+00:00",
@@ -3824,15 +3833,6 @@
       "description": "Kasus Mahasiswa UI Cerminan Nyata Kekerasan Berbasis Gender Online di Indonesia",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UWtQejdyeVBhamt6bThRek5NV2kwOXZfR2xjTE5BZHgxRk1qNUllSDN5U3hvLWVFTW5MYUZoUVNRcjZwampTdnRsb0Vwb2dUQ1hSQzh2dVQwZUFEQXJEZQ?oc=5",
-      "pubDate": "2026-04-15T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Komnas Perempuan Tegaskan Ruang Digital Tidak Bebas Hukum",
@@ -4117,7 +4117,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "Mahkamah Konstitusi RI",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -4130,6 +4130,15 @@
       "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWm85WVB2amk0bkpreEtjYlB1b01zLVN1RjdBdUZfb1UySmFGTW5OanUtTFNxSXY0NUk5aGtYTVhCWDhfYVZRN2syWW50ZEFvaXBMVlBPVGFoVFVRMmtTN0JEVzdVZ2J1RmF0R3BZZkQtVVpwZ0w0dEV3Qjd0c2FaX3FwZFZ0cXVqN3lLWDVzOWxBTVVaRG83MHNfNFJOTjFKTWs3VzgzVnFaZw?oc=5",
+      "pubDate": "2026-01-08T08:00:00+00:00",
+      "source": "Mahkamah Konstitusi RI",
+      "description": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
@@ -4171,7 +4180,7 @@
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0pVaXdwMnpPMThWOXRhMTdZRWtHTW04RjlHMWJnSFUwMmR2WlFZOXZacXV2akowUFR5ZWprZklBYzZFc1g2dmUtcE9VMUVvSU9YMUUtbE5ZbWxZYkJ4OGMwRU83ZTNCX0pmRnBOcFRJNC1nakdEbzQzbnpacm1lSDRVZzY3VVBkbWRXanJvSkg2WjRMaUE?oc=5",
       "pubDate": "2025-12-17T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "Mahkamah Konstitusi RI",
       "description": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
