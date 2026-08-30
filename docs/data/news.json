@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-30T11:07:00.377272+00:00",
-  "total": 503,
+  "updated_at": "2026-08-30T15:55:36.288757+00:00",
+  "total": 505,
   "stats": {
     "tpks": 143,
-    "kekerasan_seksual": 223,
-    "kbg": 56,
+    "kekerasan_seksual": 224,
+    "kbg": 57,
     "kbgo": 81
   },
   "new_this_fetch": 60,
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bos Restoran Korea Son Ga Bantah Dugaan Kekerasan Seksual, Klaim Tak Bersalah dan Janji Pulang ke Surabaya",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN0xodmR4U2tITGtWLTY5Q1lNeHhxdmM5M3dnSVJ2dXhXWlNXN0EzQWFzencxdk9rRzNXbDVZeVF1bm1XSUhDYUdZcklSQkhDQm40STR1cWduQ0tGdllMNVZ4ajZ5Y3QzaVpPTm5KdHNaR052QnIzUW9fVEo2R1pSRzlMSmNKbzNGUzFDdUs0MGwyMEdyWFp2SVRtUFRYRFM2VXNuTjBNWmdxbGlLa3FLOG9pRVlmTFZuMnpRcVJEUkk3TnFWU01wZ2tZWU9GNTRSa0dtUzYzRmtyQTRMMjQ0Wg?oc=5",
+      "pubDate": "2026-08-30T06:30:10+00:00",
+      "source": "Memo Indonesia",
+      "description": "Bos Restoran Korea Son Ga Bantah Dugaan Kekerasan Seksual, Klaim Tak Bersalah dan Janji Pulang ke Surabaya",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "PUAN MALUT: LINDUNGI ANAK, HUKUM BERAT PELAKU KEKERASAN SEKSUAL DI HALMAHERA SELATAN",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0hlNFUxWUxGbExYdTFhMm5yYnBYNlNueUtxUkt0azBSUlUyUE5rNGs2V1ZTQTNjVjZTeFA5MmVRYXA5SmpUOHUxU0xYdVpOU2hJNEFRM2FRa3c2ZTlsTDFKQVZEbHVRV3c1c05xSWJXUFZhZzFyUkpWejVrX3Q1N2lrcFFaNGNzci1ZVUtRUkQtZUx1Y040YlgzTWo1WGJqRF9YNkhCSmZaNW9BYlhrR3ZuYVhpdTQ?oc=5",
@@ -1990,20 +1999,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDMwQzRYemNoZUhOS00wakZuS1VrYW5vclBnNjhnUmpQWXZEdFFTSXhnSzBqYldia3UyVFRhTlFmWlBNUG1VZjNnQzBRUkl0QVp0dmNwRTRnMDRpZ21kMnRRSUpHWWtkMUx1U1UzWHdIVG5MQXppZ2phNjhWXy1fRk9aazBhYXY3THQ1cnFOLS1WcUFLMUhGVGJHRDdlTG1ONXY0bFN0Y3Y3LUdQVERJdWEyREI0SzlBcFpoNG9xTEdXcFFXUVBXS3ljSzJxdDZkT2JFNlNR?oc=5",
-      "pubDate": "2026-07-18T07:00:00+00:00",
-      "source": "Ombudsman Republik Indonesia",
-      "description": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Kekerasan Seksual di Sampang, Kejahatan Serius",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkVOWEs2bkhFY3Bfdzh1RHhOTlM4RXdDbG9LaGMxeXRKSlVKbFhDRzZycHVlWWtIUUNOTFVNWFl2bkh4MzI3MXc2QnVYeEVZc21FdHZYdERxNjBucmoyQmNLLVcwRURXLXc4WXdabXVYNWktSk9lTkVFd0FDT2tNU3pCUFdTZXFXcnpF?oc=5",
       "pubDate": "2026-07-18T07:00:00+00:00",
       "source": "Kompas.id",
       "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDMwQzRYemNoZUhOS00wakZuS1VrYW5vclBnNjhnUmpQWXZEdFFTSXhnSzBqYldia3UyVFRhTlFmWlBNUG1VZjNnQzBRUkl0QVp0dmNwRTRnMDRpZ21kMnRRSUpHWWtkMUx1U1UzWHdIVG5MQXppZ2phNjhWXy1fRk9aazBhYXY3THQ1cnFOLS1WcUFLMUhGVGJHRDdlTG1ONXY0bFN0Y3Y3LUdQVERJdWEyREI0SzlBcFpoNG9xTEdXcFFXUVBXS3ljSzJxdDZkT2JFNlNR?oc=5",
+      "pubDate": "2026-07-18T07:00:00+00:00",
+      "source": "Ombudsman Republik Indonesia",
+      "description": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -3174,6 +3183,15 @@
       "pubDate": "2026-06-22T07:00:00+00:00",
       "source": "Alinea.ID",
       "description": "Penyekapan perempuan di Bandung alarm bahaya femisida",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Kartini Manakarra Soroti Tingginya Ketidakadilan Gender di Kabupaten Majene",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTVHc0p6SHJYZ3RhN0VEdFVMVFJ5Q1hyVF9ZNWVwdi1QOXJzSkZLS0RPcTNOR3M0Sl9xeTNORjNGUlZpNzlkYzdTUEdVOVhsTU8wc2gtN2lmQ1BwTUJWTUJfWngxbEtvVW1Nd3Rsa1JNc0RQUkVhNmlsMGVpN2Jfb25wOTNxMlU0TkJHdWhGTWdXNlpRby1BbFlpSFN2Q1d6N0o4a1BoMUMwdVVMTkdGRk83ZlFmbTdoWHc?oc=5",
+      "pubDate": "2026-06-22T07:00:00+00:00",
+      "source": "RRI.co.id",
+      "description": "Kartini Manakarra Soroti Tingginya Ketidakadilan Gender di Kabupaten Majene",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
