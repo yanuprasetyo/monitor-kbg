@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-31T22:19:59.824234+00:00",
-  "total": 507,
+  "updated_at": "2026-09-01T03:14:56.848690+00:00",
+  "total": 509,
   "stats": {
     "tpks": 146,
     "kekerasan_seksual": 223,
-    "kbg": 57,
+    "kbg": 59,
     "kbgo": 81
   },
   "new_this_fetch": 60,
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNczU1bEQxdWlvWFRlMzZub3dYckk0aUZNS25qRHN0eTAtX3YtUm9aUFhyekNNVFFEOE10Q0lxZHV2a3d6Z2RVM2NQeWdQQUk0N2VLRVJiQndKWFUzSXhac1MxMWxvQkVwSjIxSUF3c2V4cEgzdHJvZm5BNW9Fd09yZkpjaXFUcl9ibTRPazBhZzZSTFA3N0dzM1l5WW02b1VtbGhvSXFpLTB1VW9QTFlqS09aemhqSDNmZ2F5Rg?oc=5",
+      "pubDate": "2026-08-31T15:08:24+00:00",
+      "source": "aktual.com",
+      "description": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
     {
       "title": "Bos Restoran Korea Son Ga Bantah Dugaan Kekerasan Seksual, Klaim Tak Bersalah dan Janji Pulang ke Surabaya",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN0xodmR4U2tITGtWLTY5Q1lNeHhxdmM5M3dnSVJ2dXhXWlNXN0EzQWFzencxdk9rRzNXbDVZeVF1bm1XSUhDYUdZcklSQkhDQm40STR1cWduQ0tGdllMNVZ4ajZ5Y3QzaVpPTm5KdHNaR052QnIzUW9fVEo2R1pSRzlMSmNKbzNGUzFDdUs0MGwyMEdyWFp2SVRtUFRYRFM2VXNuTjBNWmdxbGlLa3FLOG9pRVlmTFZuMnpRcVJEUkk3TnFWU01wZ2tZWU9GNTRSa0dtUzYzRmtyQTRMMjQ0Wg?oc=5",
@@ -1930,7 +1939,7 @@
       "title": "10 Provinsi Kasus Kekerasan Berbasis Gender Online Terbanyak di Indonesia 2026, Jabar Tertinggi",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlpNeXZnMlEtVFFUMEJxVFlhd2JZa0owenAydUJjQWYtbTF2djJLSkxCZWdYTC12RGhrUDZmbk00Qy1sWTZUMjk0Sl9oUzhvYWFEd0Q5dFFWRkpqaTE2SUl3bFRreFo3VnB0N1plRklta2x1QjZ6U1BHVmpKZUI1aE5CXzlsNmkyN2VGa192UFRRMFMwQm9CLWNqTjJ4V2NJaFF1ZFpmWUVSRU1taklubHdOQVdfLTRkcnkyN3BmbDBEWnNfeFN6aQ?oc=5",
       "pubDate": "2026-07-21T07:00:00+00:00",
-      "source": "GoodStats",
+      "source": "goodstats.id",
       "description": "10 Provinsi Kasus Kekerasan Berbasis Gender Online Terbanyak di Indonesia 2026, Jabar Tertinggi",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2013,8 +2022,8 @@
       "pubDate": "2026-07-18T07:00:00+00:00",
       "source": "Kompas.id",
       "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
@@ -2890,15 +2899,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Perkuat Partisipasi Publik dalam Pencegahan dan Penanggulangan Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmVrTkFFYldLZk5RUUFXWFdFUmtEVDNFUEVKS1RtZWdUa3BJQWVwWnp5Sl9tM21Xd3VoMjZaM0RaMVZzUkptSzl3YnR5MlpxZldBZG13SG1SQzF5Umw5N2N5Z1RFc1FnVnNRdGJCY2hKM1NOanB3dGp0R3lfLXA4TWs5U2FkRzV3dGRndWRuTkhnUjlQWThlQW43M214d0V3bWtROG92amdYT2JCdnZUUEJyR05Kc00?oc=5",
-      "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "Partai NasDem",
-      "description": "Perkuat Partisipasi Publik dalam Pencegahan dan Penanggulangan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUUZTUFRqMXZkUzZVWjZNR2Z3aWdDNEdrbXFrcHc4WVlxTGJDeEpRdTB4d1BCQWt3V0xfc0o3N0tnVG5KWnJzMi11UEc5WkpyMUJ4Um1yc2drWGJMXzZlN0l2LUd1YUJWY1NqZjNQNmlDMlRXVWVIcV95UWt3YkpacVVFanZITjF3TDhOS0htNDFCTmVadEZRVTVmWHZXQjBGQ0F6VjJ0eE43VHpvT3EyS1NwZmFreVU2c1pKVnQ1cHBlTnpNeWJUTVk4Zk5oTXBDb1RqTUhxdXlHWHp6eGNzZmpXT0ZTTWlOdGtXVWFvZUdEdElHRzJTMkpyYkRHdGNRaHNRa3Vyb29JREVWS19GclI5Nm14bEpWU3k3MHVn?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
@@ -2911,10 +2911,19 @@
       "title": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdFk0WkE3TFc3MXJranZaSzJac2FyTTZJZ0pyMWpGd3F0Zmoyc092ZUtxcWFfVHZ6ZHVIMDB6ZENxeGxCMFlNdXhkR1hNTUhoZGNEdzlGMkxqWHFUNGl2SjRwY2xEQzFyVTMwTDdyUDdGWk1PcjRIajJUUG42X0dFY3c3M24zcEkwaUZJRVlqZkotMzdtOVJmN09HMW9qT3FFalFoTUhfend2cmpJSXQ2cHNMV3NlTktfNk1tVVhrUVQtR2dYd0xnVFNPeTUyV3M4T2c?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "bimakini.com",
+      "source": "Bimakini",
       "description": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Perkuat Partisipasi Publik dalam Pencegahan dan Penanggulangan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmVrTkFFYldLZk5RUUFXWFdFUmtEVDNFUEVKS1RtZWdUa3BJQWVwWnp5Sl9tM21Xd3VoMjZaM0RaMVZzUkptSzl3YnR5MlpxZldBZG13SG1SQzF5Umw5N2N5Z1RFc1FnVnNRdGJCY2hKM1NOanB3dGp0R3lfLXA4TWs5U2FkRzV3dGRndWRuTkhnUjlQWThlQW43M214d0V3bWtROG92amdYT2JCdnZUUEJyR05Kc00?oc=5",
+      "pubDate": "2026-06-26T07:00:00+00:00",
+      "source": "Partai NasDem",
+      "description": "Perkuat Partisipasi Publik dalam Pencegahan dan Penanggulangan Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Angka Kekerasan terhadap Perempuan dan Anak di Sumedang Tembus 90 Kasus Sampai Bulan Juni 2026, Problem Parenting Saja?",
@@ -3397,7 +3406,7 @@
       "title": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRwQWtzUVA4RFVTV3dQNUdVLW1JVVVNQ0YwbkVoU3dHaThZekNJRnVpMGF1ek5pQTlYUWZmZDFQSy1ZSUdmd2s4MVZnenFXdEhsd0JVWTBGS0YxU2RHZlMzQUNRNVl5QlI2alo3djVtUEpXODdORWJ2WGoxYWVCeVJUTFlyZGFQNk9OVTl6QkpsdzFDa3ZMZWpUbjh4cXRkUG9uUzdEcFEzMTFhR2Jn?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "bphn.go.id",
+      "source": "Badan Pembinaan Hukum Nasional",
       "description": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3790,15 +3799,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Kartini dan Luka yang Tak Terlihat",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "geotimes",
-      "description": "Kartini dan Luka yang Tak Terlihat",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
@@ -3806,6 +3806,15 @@
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kartini dan Luka yang Tak Terlihat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFGTjRGYjBlQUxPWEJMY2NsOVVtb1o4dzRMTXppLURQUDFnSWx4enlzY2hFWjRFQnlJTXdHdkNJYXloWW8yNUtoa015MS12UFJleWcxNXVqZjlFV3lmRzJOUktGdlhxQl9XVU5B?oc=5",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "source": "geotimes",
+      "description": "Kartini dan Luka yang Tak Terlihat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
@@ -3849,15 +3858,6 @@
       "pubDate": "2026-04-17T02:58:28+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -3878,6 +3878,15 @@
       "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Ketika Regulasi Bertemu Realitas, Penegakan Hukum Pelecehan Seksual di Ruang Digital Masih Dipertanyakan",
@@ -4209,8 +4218,8 @@
       "pubDate": "2026-02-06T08:00:00+00:00",
       "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
@@ -4303,6 +4312,15 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
+      "title": "Membangun Pengungsian Ramah Perempuan",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTdFJ5Q2E1Y01TanllMnV6WGpPVkh3WXNERF9sRnhnT2lBeUg2TXBDNkc2SnliMU1qdFBMelRjdk9QVFdrOEdrWV9mc01haDNsaFZ6SXAxa21sUWVEOUI5emFNOTVJZXpQdHc?oc=5",
+      "pubDate": "2025-12-09T08:00:00+00:00",
+      "source": "Universitas Airlangga Official Website",
+      "description": "Membangun Pengungsian Ramah Perempuan",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNl80Vk5HTGV0RW5rcnNpWmxKa04td0EtVFhLWlQxMzVzYmFBMnp1U2MxM3BfdXNFdllqWWRQam1tX3Jwbzk1T1pBVk12LTIwVzZ4RlpYLVk3SDJtMGxzdnBxazY1RVJWN3o5eG9NNEVmZDdldW41R21lN0EtUFU5a0VrbEM2bWstYWVveWJsZ0FPd1FPZ2F2ZlJkbGN2RjRHVFBId1k2d2R3VzN6MDRYNzBDcS1ONzJ1RXg5VVNFenFkQzVndHBXWXRXWjJGY0pBMUVZbUZkenA?oc=5",
       "pubDate": "2025-12-09T08:00:00+00:00",
@@ -4324,7 +4342,7 @@
       "title": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkdHZFVMMXc4cXRGUWk2ZlN1R3VQNEZsR3lwZ3NYdkRtZ1gtM1hYNXJZMWxCemxldG1aSUFjdkxYM2lJOTU1Nk5UNThVWlJiLUp5X2xabU9GVmxMcnlGSi0xeVFUWDR0cUpnQ2p6ZFFCQlpzQnpvNlBvT3EyYU51aFRSZ25jSmV0YURVWTl6SXF1ZVJzaExKWU4xV0FJUUp5WVE?oc=5",
       "pubDate": "2025-12-08T08:00:00+00:00",
-      "source": "unpar.ac.id",
+      "source": "Universitas Katolik Parahyangan",
       "description": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4394,7 +4412,7 @@
     },
     {
       "title": "DPRD DIY Terima Audiensi Yayasan Gembala Baik Srikandi Bahas Pencegahan Kekerasan Berbasis Gender dalam Kegiatan Budaya",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVC1qQUxZLUswVUJyRnpEUGNSTW9RWjZ0QmR2eE5YWHBqT0tYaFlmNk5ZZGR5S0JXX1kzTUpaY0UtU1lIYU5EbUE4SVBKTV9IMHB3dUFaWXk4NmhFZUxVT05TNnhRSmhBemx3bWpMNVhnbU5NaHF3UUE5WTdXVjdIcjBlYkI1Y2pyUllvLUN3RUxENjVGZEVIc3ZlRkZHcWVKcHhUd3FmNWxNTHpWeHo4T3dlQ0pCaWx1R3lKdnFRVEtaNkVhZ1BMMjU2ZHBSbUFUYW5oMlNNZHZONzdVLVJUdQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObVQxSTJ5cWxaeDNIdlJlRlVsUU5ENHFTMjRVOG9oUEJsblVKRTlGblJpWExkU0hna2w1cVJPek5xNnYzTDNBaTh1RThPYzdUamUyTTBtQ1laSEJNZnpGeTZhWGtfUUlKOFBfa3RSUm91TnpMSGhGbGpvUGI5NWtydFlPbmRKb2t6M1lYZ0h6SE9iYzctb1psZGtXUTZUQ21NVE4yaVRRZDlGZjQ0X2xoWnJtTi12MDNnaFBJV1VUTXFaSlpib1ZrWUpkWkk5dzVuM3VVZFFjd0JxYjZRMjRjc0hKZmRmczl6?oc=5",
       "pubDate": "2025-10-30T07:00:00+00:00",
       "source": "DPRD DIY",
       "description": "DPRD DIY Terima Audiensi Yayasan Gembala Baik Srikandi Bahas Pencegahan Kekerasan Berbasis Gender dalam Kegiatan Budaya",
