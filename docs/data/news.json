@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-03T10:34:50.183595+00:00",
+  "updated_at": "2026-09-03T15:40:52.452951+00:00",
   "total": 526,
   "stats": {
-    "tpks": 151,
-    "kekerasan_seksual": 228,
+    "tpks": 150,
+    "kekerasan_seksual": 229,
     "kbg": 59,
     "kbgo": 88
   },
-  "new_this_fetch": 60,
+  "new_this_fetch": 15,
   "keywords": [
     {
       "id": "tpks",
@@ -418,7 +418,7 @@
       "title": "Initiative! Mengoptimalkan “Temporary Special Measures” dalam Penanganan Kekerasan Seksual di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUHNXRHZrcmo2MUswZVd4cG9vdHJ2M1lrOWJEd0RNMEdFVkNhR1NQdDRPVHAzMWFHRE9tODJ4RjZPN1JBZlZYcFJKYnZVWUxXcWdvai1EYS1KNEswSm12MWxVdnRkam93VjR1Q2plWlItTU5sdGNELWU3ZnZVYklKQjlCOUhzMDQ3RUMzcHZUNFBGS3BJZ3BrLTJIR3F1ZzJKZEVMMEJYNkhuNmNJUjIyNVlOVm9DckVDT2pMUmF4b2RNZjlVVmdqNzFZVkd1T2FqZkZWbzU4VQ?oc=5",
       "pubDate": "2026-08-20T08:23:28+00:00",
-      "source": "theindonesianinstitute.com",
+      "source": "The Indonesian Institute",
       "description": "Initiative! Mengoptimalkan “Temporary Special Measures” dalam Penanganan Kekerasan Seksual di Indonesia",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2071,15 +2071,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Kekerasan Seksual di Sampang, Kejahatan Serius",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkVOWEs2bkhFY3Bfdzh1RHhOTlM4RXdDbG9LaGMxeXRKSlVKbFhDRzZycHVlWWtIUUNOTFVNWFl2bkh4MzI3MXc2QnVYeEVZc21FdHZYdERxNjBucmoyQmNLLVcwRURXLXc4WXdabXVYNWktSk9lTkVFd0FDT2tNU3pCUFdTZXFXcnpF?oc=5",
-      "pubDate": "2026-07-18T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDMwQzRYemNoZUhOS00wakZuS1VrYW5vclBnNjhnUmpQWXZEdFFTSXhnSzBqYldia3UyVFRhTlFmWlBNUG1VZjNnQzBRUkl0QVp0dmNwRTRnMDRpZ21kMnRRSUpHWWtkMUx1U1UzWHdIVG5MQXppZ2phNjhWXy1fRk9aazBhYXY3THQ1cnFOLS1WcUFLMUhGVGJHRDdlTG1ONXY0bFN0Y3Y3LUdQVERJdWEyREI0SzlBcFpoNG9xTEdXcFFXUVBXS3ljSzJxdDZkT2JFNlNR?oc=5",
       "pubDate": "2026-07-18T07:00:00+00:00",
@@ -2087,6 +2078,15 @@
       "description": "Tiga Kampus Tersandung Kasus Pelecehan Seksual, Satgas Seharusnya Tak Sekadar Formalitas",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kekerasan Seksual di Sampang, Kejahatan Serius",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkVOWEs2bkhFY3Bfdzh1RHhOTlM4RXdDbG9LaGMxeXRKSlVKbFhDRzZycHVlWWtIUUNOTFVNWFl2bkh4MzI3MXc2QnVYeEVZc21FdHZYdERxNjBucmoyQmNLLVcwRURXLXc4WXdabXVYNWktSk9lTkVFd0FDT2tNU3pCUFdTZXFXcnpF?oc=5",
+      "pubDate": "2026-07-18T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Universitas Sahid Gelar Pelatihan Digital Communication Safety Starts With You untuk Tingkatkan Literasi dan Keamanan Digital Mahasiswa",
@@ -3061,15 +3061,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Pemko Sibolga Dukung Penguatan Kapasitas Perlindungan Perempuan dan Anak dalam Situasi Bencana",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnZVbFg3aGdqWGlLcmdqTE1TY2RTY3NSMGxfT2xnM3d4amZZbVBHM2Q2eHdFOFBWQjdMUkpmLVBXN3I4dTQxaTBnTGcyMXh0NUVBOTk5UGx4N0hya0swNWlVMXoxNHp0ZGEtVktGelZwSmRBSHBaN0l2SG5rYWo3M19UMVEzSnR6aXpsV20wOTBtZFpabGo2ZlBRM1ZqdUtQZG8ySE5TWVZuYWtWMUdqZkdxdnhqUXo4MGpBVlJB?oc=5",
-      "pubDate": "2026-06-25T07:00:00+00:00",
-      "source": "sibolgakota.go.id",
-      "description": "Pemko Sibolga Dukung Penguatan Kapasitas Perlindungan Perempuan dan Anak dalam Situasi Bencana",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Lakukan Kekerasan Seksual ke Anak, Hak Kekuasaan Ayah Dicabut oleh PN Mentok",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdl9vSmw4N1RNdmh6TDNFdzN2dlR0Y3otOFlhZzFacld3dG1BUXRJLVdCNzlHTnBPOV9RT3B2czN2RUY1TW1jNW1wakEzdkpteWszS0RsWXppUFVjNVplNklUZTNKRy01bU16VVU4WlNMUlpwSHVldXJmRUl5QmI1dVBnX3Z5allFTHVpUzNrcTZOWXlkVUFCaUJKczRyZ24wclVLdmZRSUpZQWh6SmN2bC1n?oc=5",
       "pubDate": "2026-06-25T07:00:00+00:00",
@@ -3077,6 +3068,15 @@
       "description": "Lakukan Kekerasan Seksual ke Anak, Hak Kekuasaan Ayah Dicabut oleh PN Mentok",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pemko Sibolga Dukung Penguatan Kapasitas Perlindungan Perempuan dan Anak dalam Situasi Bencana",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnZVbFg3aGdqWGlLcmdqTE1TY2RTY3NSMGxfT2xnM3d4amZZbVBHM2Q2eHdFOFBWQjdMUkpmLVBXN3I4dTQxaTBnTGcyMXh0NUVBOTk5UGx4N0hya0swNWlVMXoxNHp0ZGEtVktGelZwSmRBSHBaN0l2SG5rYWo3M19UMVEzSnR6aXpsV20wOTBtZFpabGo2ZlBRM1ZqdUtQZG8ySE5TWVZuYWtWMUdqZkdxdnhqUXo4MGpBVlJB?oc=5",
+      "pubDate": "2026-06-25T07:00:00+00:00",
+      "source": "sibolgakota.go.id",
+      "description": "Pemko Sibolga Dukung Penguatan Kapasitas Perlindungan Perempuan dan Anak dalam Situasi Bencana",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Jangan Dianggap Sepele, Ini Contoh-Contoh Kekerasan Seksual Verbal dan Non-Verbal",
@@ -3466,6 +3466,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRwQWtzUVA4RFVTV3dQNUdVLW1JVVVNQ0YwbkVoU3dHaThZekNJRnVpMGF1ek5pQTlYUWZmZDFQSy1ZSUdmd2s4MVZnenFXdEhsd0JVWTBGS0YxU2RHZlMzQUNRNVl5QlI2alo3djVtUEpXODdORWJ2WGoxYWVCeVJUTFlyZGFQNk9OVTl6QkpsdzFDa3ZMZWpUbjh4cXRkUG9uUzdEcFEzMTFhR2Jn?oc=5",
+      "pubDate": "2026-06-11T07:00:00+00:00",
+      "source": "bphn.go.id",
+      "description": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0EtR1EtV01uV3BVeFp1Sm12QkZ1MF9FenRPa01td0ZjUVBGNlZpeV9UTldQQXF5ODBtQzFsYjV1WTVfTjc4TU9XOEpkcHYxa3lvanZEYnBMZEF3cUtQaVdHRHBTT0VVY04xUFdlTlR2d2J5QTZHVnkyWlFVUGJKMW1LLWk?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
@@ -3473,15 +3482,6 @@
       "description": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRwQWtzUVA4RFVTV3dQNUdVLW1JVVVNQ0YwbkVoU3dHaThZekNJRnVpMGF1ek5pQTlYUWZmZDFQSy1ZSUdmd2s4MVZnenFXdEhsd0JVWTBGS0YxU2RHZlMzQUNRNVl5QlI2alo3djVtUEpXODdORWJ2WGoxYWVCeVJUTFlyZGFQNk9OVTl6QkpsdzFDa3ZMZWpUbjh4cXRkUG9uUzdEcFEzMTFhR2Jn?oc=5",
-      "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "Badan Pembinaan Hukum Nasional",
-      "description": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Maraknya Kekerasan Berbasis Gender Online Jadi Tantangan Ruang Digital Indonesia - Kompasiana.com",
@@ -3937,7 +3937,7 @@
       "title": "Lagu 'Erika' di ITB dan pengakuan penyintas kekerasan seksual",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Xdl9wOHAwMmExelVUUnRxeDh6d3JpVkc3WUZ6ZkFCbEhkR2NsbmhSb01XeWw1OTM5S1FxUGtNYUtqZklrS2lPSG00N0h3a1RtOFJra09uTmt4N0ljSloyYtIBZkFVX3lxTE1aWjRiSzJubEF2SndOSUVfRGY3elQ3WG5GMUpOazNDVkM4b3d1WnhTTTFidVBYOXJGUlM0XzRfU2VRWlY0UkVoTHRhZVZqNkFxSmVOaTMwajlNZFluU01vN2hRbEVOQQ?oc=5",
       "pubDate": "2026-04-17T07:00:00+00:00",
-      "source": "BBC",
+      "source": "bbc.com",
       "description": "Lagu 'Erika' di ITB dan pengakuan penyintas kekerasan seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3957,8 +3957,8 @@
       "pubDate": "2026-04-17T02:58:28+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
