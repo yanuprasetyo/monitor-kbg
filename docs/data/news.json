@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T10:26:34.037689+00:00",
+  "updated_at": "2026-09-04T15:39:10.464488+00:00",
   "total": 533,
   "stats": {
     "tpks": 151,
@@ -67,7 +67,7 @@
       "title": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNczU1bEQxdWlvWFRlMzZub3dYckk0aUZNS25qRHN0eTAtX3YtUm9aUFhyekNNVFFEOE10Q0lxZHV2a3d6Z2RVM2NQeWdQQUk0N2VLRVJiQndKWFUzSXhac1MxMWxvQkVwSjIxSUF3c2V4cEgzdHJvZm5BNW9Fd09yZkpjaXFUcl9ibTRPazBhZzZSTFA3N0dzM1l5WW02b1VtbGhvSXFpLTB1VW9QTFlqS09aemhqSDNmZ2F5Rg?oc=5",
       "pubDate": "2026-08-31T15:08:24+00:00",
-      "source": "aktual.com",
+      "source": "Aktual.com",
       "description": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -316,15 +316,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Bekas Pelatih Panjat Tebing Tersangka Kekerasan Seksual Lima Atlet Putri",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnZNbGNJVXh4d3JnUnhLUG9HVDJWSjE1OEpJVGdfWUJQeEtBLXdyWkJ4WnBQUlVybHFETG8zaEpJRTJ4NlZQeG9oaHZmeTVFSVctUThXdURHa0JuZGsxLThPM2ljenRIQlVEbm44bmd1WHh0eldDcFhiRzNWbEhJV1VHbUk4ZVVIM1daS2hPSERSTUNHNldvRlhzeWV5dXJRSklBMQ?oc=5",
-      "pubDate": "2026-08-22T09:20:38+00:00",
-      "source": "Kompas.id",
-      "description": "Bekas Pelatih Panjat Tebing Tersangka Kekerasan Seksual Lima Atlet Putri",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Dugaan Kekerasan Seksual Polwan di Sumbar, LBH: Harus Terapkan UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSmFnM1FFVTQxbVJ0ZGxYdVUxc3FrQmlraVFVdnBzMnFYdnlJclduaWducHBtaEEyQ0JlaUZGbEdtbTF1Y05Pd3F5RDFwNlRHbkY4eGoyUDloc3JnV0tLdTBiQWZvajZValBMNkt0d2liMTlaSDdNb1NTam1aQV9GZEtfMVdlLTVhN084UTc1UjNfY2Y3RGtzUEFXTUdSbzRPOWtJbWQyUFA4NzBjZldWcjFsS09QSEdIZGlkWXlMNEI0SUJFNVVReTFWeUtpcG40aklR0gHTAUFVX3lxTE5KYWczUUVVNDFtUnRkbFh1VTFzcWtCaWtpUVV2cHMycVh2eUlyV25pZ25wcG1oQTJDQmVpRkZsR21tMXVjTk93cXlEMXA2VEduRjh4ajJQOWhzcmdXS0t1MGJBZm9qNlVqUEw2S3R3aWIxOVpIN01vU1NqbVpBX0ZkS18xV2UtNWE3TzhRNzVSM19jZjdEa3NQQVdNR1JvNE85a0ltZDJQUDg3MGNmV1ZyMWxLT1BIR0hkaWRZeUw0QjRJQkU1VVF5MVZ5S2lwbjRqSVE?oc=5",
       "pubDate": "2026-08-22T07:59:20+00:00",
@@ -332,6 +323,15 @@
       "description": "Dugaan Kekerasan Seksual Polwan di Sumbar, LBH: Harus Terapkan UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Bekas Pelatih Panjat Tebing Tersangka Kekerasan Seksual Lima Atlet Putri",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnZNbGNJVXh4d3JnUnhLUG9HVDJWSjE1OEpJVGdfWUJQeEtBLXdyWkJ4WnBQUlVybHFETG8zaEpJRTJ4NlZQeG9oaHZmeTVFSVctUThXdURHa0JuZGsxLThPM2ljenRIQlVEbm44bmd1WHh0eldDcFhiRzNWbEhJV1VHbUk4ZVVIM1daS2hPSERSTUNHNldvRlhzeWV5dXJRSklBMQ?oc=5",
+      "pubDate": "2026-08-22T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Bekas Pelatih Panjat Tebing Tersangka Kekerasan Seksual Lima Atlet Putri",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Dugaan Kekerasan Seksual Anak di Pamekasan, Ansari Desak Perlindungan Korban dan Usut Tuntas",
@@ -769,7 +769,7 @@
       "title": "6 Mahasiswa Unesa Terduga Pelaku Pelecehan Seksual di Grup WA Diskors",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX2VtQklKMnl3QUdWT3J5cFdGWVZrZzdJUllmVEtxOXVuaFJhNmp1c3I0VmhXUU5kN1Zka3BnRjQ5cWg4ODBZQXlKa05Rck03X3RNbk9vajMzcW80eGZyZloxbXA1NUh6UjBhb0RHZkpVc2ZKZmZEbU01RWZJUWU3WW9RWFBQRkt5VUFfX3JQTUJZVEI0OGNnTEFvNTZiYXJoRnBBR2pKcW9NOFNCZl9sOUh2UndkYnphNVl0SUpSLWFZeWFMX1FfRlpyRlBIUdIB0wFBVV95cUxNX2Y3Z05ETWV5QTh5SVU5S2hIN0Qtbko5bWFkRnFUazZIa1llS2JBZDJaY184YmFQVXV0YldJenlWOXJoRV9RNk1KUndSeUFlV21NWVU4RklpVHhiTWtvZzBDdVphZjdxd29HR21zcWMtVVViTnNSbjUyUkNWS3RLMmJsVklLZlhRVkhwLU9IUW1RakJwOUFGbzFURTVzM0RxcVNJRDBFYXhCaGoyYjRibGUwaVNDNlgwVGdZRW5wM0R4Qnd4X240WUJSbC0tTGc5aTB3?oc=5",
       "pubDate": "2026-08-13T07:00:00+00:00",
-      "source": "cnnindonesia.com",
+      "source": "CNN Indonesia",
       "description": "6 Mahasiswa Unesa Terduga Pelaku Pelecehan Seksual di Grup WA Diskors",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2920,7 +2920,7 @@
       "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
       "pubDate": "2026-06-28T07:00:00+00:00",
-      "source": "aktual.com",
+      "source": "Aktual.com",
       "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3001,7 +3001,7 @@
       "title": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdFk0WkE3TFc3MXJranZaSzJac2FyTTZJZ0pyMWpGd3F0Zmoyc092ZUtxcWFfVHZ6ZHVIMDB6ZENxeGxCMFlNdXhkR1hNTUhoZGNEdzlGMkxqWHFUNGl2SjRwY2xEQzFyVTMwTDdyUDdGWk1PcjRIajJUUG42X0dFY3c3M24zcEkwaUZJRVlqZkotMzdtOVJmN09HMW9qT3FFalFoTUhfend2cmpJSXQ2cHNMV3NlTktfNk1tVVhrUVQtR2dYd0xnVFNPeTUyV3M4T2c?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "Bimakini",
+      "source": "bimakini.com",
       "description": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3109,7 +3109,7 @@
       "title": "Lakukan Kekerasan Seksual ke Anak, Hak Kekuasaan Ayah Dicabut oleh PN Mentok",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdl9vSmw4N1RNdmh6TDNFdzN2dlR0Y3otOFlhZzFacld3dG1BUXRJLVdCNzlHTnBPOV9RT3B2czN2RUY1TW1jNW1wakEzdkpteWszS0RsWXppUFVjNVplNklUZTNKRy01bU16VVU4WlNMUlpwSHVldXJmRUl5QmI1dVBnX3Z5allFTHVpUzNrcTZOWXlkVUFCaUJKczRyZ24wclVLdmZRSUpZQWh6SmN2bC1n?oc=5",
       "pubDate": "2026-06-25T07:00:00+00:00",
-      "source": "Dandapala Digital",
+      "source": "dandapala.com",
       "description": "Lakukan Kekerasan Seksual ke Anak, Hak Kekuasaan Ayah Dicabut oleh PN Mentok",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3316,7 +3316,7 @@
       "title": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlZCRnlFdUZVU0RnUE90ZTF4SHMyNm1GelBuczFuV0M3WWFyYk04Wm5ObXV5QkxYazBQVEtFQ1BBd3BPcjRydG14ckVPbTI2R3pZZEFidjZOVmJ2dU1FdUV6aFhvZ3hRLTZHYWhoVE9qNWNFVkVVQmxIYTZQZGNkR0doRGRKbHMtVlViOUdMMkdLeUh2bWpkUF95Rk9FQ2Y2UUFxdXltN3RfelAzOF9xVWdUVE1aeFV4dWtkMFM2aw?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "Dandapala Digital",
+      "source": "dandapala.com",
       "description": "PN Sei Rampah Kabulkan Restitusi bagi Korban Kekerasan Seksual Penyandang Disabilitas",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3766,7 +3766,7 @@
       "title": "Kemenag Tegaskan Tak Ada Toleransi bagi Pelaku Kekerasan Seksual di Pesantren",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGdKamlmb0l2bERGMUFoQzRyai02dU9sUXJYa1IwZi1tUzhrUWNCekh1cjJ1UndISU9LTElPaFlMU2o3NUFzaWE0NE1PUXNXUk03TFdVU0RDOW1xa1RZYmN1UjBaQjB0dXhBU0xJcXdWYkdEeVM5My04cks2a0RTaUxyV1AzM2VPOTNXM3FHdWdyTFdkTDU3YUUwTzNTQnhiUkNSa09nNERMTFlMTVJwT3lXMzg?oc=5",
       "pubDate": "2026-05-09T07:00:00+00:00",
-      "source": "Kementerian Agama",
+      "source": "kemenag.go.id",
       "description": "Kemenag Tegaskan Tak Ada Toleransi bagi Pelaku Kekerasan Seksual di Pesantren",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4006,15 +4006,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -4022,6 +4013,15 @@
       "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
@@ -4243,7 +4243,7 @@
       "title": "Pertama di PN Pakam, Pelaku Kekerasan Seksual Diwajibkan Bayar Restitusi",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3ZvS1hRZzRBZVpBYW5DMlkyX3dDR3FhU1o0VzNiYWV4OXZMOWdkc0ktYmdVOFc1R3VPbWJCbXRGck1LWUJvTW1qWXFqR2RMUmdTZUNwSEVVZE5MZ0dGbkRvTExmcWloc21QR21hTEFNRThTYmNUTXpkR25ESXR0SWQ4dmZUdGE0VDVIV0RqZi1yeWtZWkdIOWVyb2N2UERRaFlqQTJETmhBbS1R?oc=5",
       "pubDate": "2026-03-06T08:00:00+00:00",
-      "source": "Dandapala Digital",
+      "source": "dandapala.com",
       "description": "Pertama di PN Pakam, Pelaku Kekerasan Seksual Diwajibkan Bayar Restitusi",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -4432,7 +4432,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "Mahkamah Konstitusi RI",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -4450,7 +4450,7 @@
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWm85WVB2amk0bkpreEtjYlB1b01zLVN1RjdBdUZfb1UySmFGTW5OanUtTFNxSXY0NUk5aGtYTVhCWDhfYVZRN2syWW50ZEFvaXBMVlBPVGFoVFVRMmtTN0JEVzdVZ2J1RmF0R3BZZkQtVVpwZ0w0dEV3Qjd0c2FaX3FwZFZ0cXVqN3lLWDVzOWxBTVVaRG83MHNfNFJOTjFKTWs3VzgzVnFaZw?oc=5",
       "pubDate": "2026-01-08T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "Mahkamah Konstitusi RI",
       "description": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -4504,7 +4504,7 @@
       "title": "Marak KBGO di Solo, Remaja hingga Anak SD Disasar dengan Modus Iming-Iming Pulsa",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZGpCcm01OG1lSjY1YXNoWVRyd2F2MDBFYl8xWlM3NzdmczM1RDZDdkxfbVRHN2Q4aTM0VE4wVHJjYy1QUmJUMlZtdDcwTmQ2aUQyT241V0RHdUo5Qm5wWHdhY29DWUNsVDVmNEo2MVJVVEV2WVNsSFFuYmVvS1hmNk0za2NCTlFyV1BJcjNkekhRU2I2NDRXMUpNMzdDakJCQ0RwR3pwYWZiVVRFMTlXcU9jVVpHWk04TFBNaHc2YlFEV3l0TXNjUDU1U1JpelpLREE?oc=5",
       "pubDate": "2025-12-12T08:00:00+00:00",
-      "source": "Kompas.com",
+      "source": "regional.kompas.com",
       "description": "Marak KBGO di Solo, Remaja hingga Anak SD Disasar dengan Modus Iming-Iming Pulsa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4783,7 +4783,7 @@
       "title": "Mencapai Indonesia Emas 2045 Tanpa Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlNiSGVadGRYX3ZpcXN3aC05NEhKX2FTbUN3ak1kaHZwVHNzbGhMMGVSNHdaYzdlWTRoc1BXaWxtenZTSDV6TUw0OUpCamxhaGc3S3ZTLTZBbTIwamVzYi0xaVpXX0laUlFJbW5WN3ZUTVhKZ1ZDbnl2aXo1d1M5dWI4Ym51Vm5hOENuRXZfTTdNcjE3ck9DNlZWeVN2UVNxQjM0clRB?oc=5",
       "pubDate": "2024-08-05T07:00:00+00:00",
-      "source": "Kementerian Sekretariat Negara",
+      "source": "setneg.go.id",
       "description": "Mencapai Indonesia Emas 2045 Tanpa Kekerasan Berbasis Gender Online",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
