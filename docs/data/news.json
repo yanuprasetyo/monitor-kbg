@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-09T20:19:00.746994+00:00",
-  "total": 547,
+  "updated_at": "2026-09-10T02:47:32.006527+00:00",
+  "total": 548,
   "stats": {
-    "tpks": 153,
+    "tpks": 154,
     "kekerasan_seksual": 241,
     "kbg": 61,
     "kbgo": 92
@@ -28,10 +28,19 @@
   ],
   "articles": [
     {
+      "title": "Anak Korban Gempa Flores Alami Kekerasan Seksual, Bagaimana Penanggulangan Bencana Berperspektif Gender?",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnhjVzN5VkJWOFFGTzhkNFNZaDU2WndMVkZLSVNnU0xBWDkyQ0lSeUxTZnczU1Y0WEw0cTlpSFFGY01HTHZRMjNWMUZjc1FTX1FxS29lNlk0cnFfUnZVcHVta04xTlo2RmtwQ3IwcE1LLXpMMHJHa2M0ZVdfS25FaVhlMk5vZU4zcWJHWWllNGJBaFRkdVNXV1d5RFRsSEVJSkt1Zm5oWTExb2NKM0h1ZHJ5N1BEajZ4ZWxmdkJvREFVTENSeTZ5dlRzWEw?oc=5",
+      "pubDate": "2026-09-09T22:05:51+00:00",
+      "source": "Konde.co",
+      "description": "Anak Korban Gempa Flores Alami Kekerasan Seksual, Bagaimana Penanggulangan Bencana Berperspektif Gender?",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Larangan Kekerasan Seksual di Tengah Pengungsian dan Ancamannya",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVENVcEt4LTVUaUo0elhUbFdUenUzZTJ6R3FEdjE3UWlPem5saS1HaUM5OGhlQ2MtbHFNNXFwTEpsbjJ5YVp2MGJtd0FETHV4NUQwc3pNLU5nckhTc19IYUJ0a0pyRm4wVnNWYlRUWTJ2ODJDUEhuSUpGeGYxVkx0MU5yV3YxbUJFSEJ0VUttZVBJOXVWY29WRHFRUnBwRTF5RGfSAacBQVVfeXFMTzNQZl9lX1A1SURQa1BsbTNjYzFQQXpZRk9PZWhFQ0dzRW1MX3pLYncxdF9JWEIwUjd6MVVpbVdYS1NxNTlsNVdwNHV6S3ZWc1ZBVWVicXVvZXRKZUIyRVJXa3F3c2REZ2dKYWF3NnlrSENManVsWmN6Z184aUVzemZMSTRZM1BLOEdHTXFrMzhRTkZMVkZaV3M3aUhfM3A1N2RoWm9QWU0?oc=5",
       "pubDate": "2026-09-08T23:00:00+00:00",
-      "source": "islam.nu.or.id",
+      "source": "NU Online",
       "description": "Larangan Kekerasan Seksual di Tengah Pengungsian dan Ancamannya",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -49,7 +58,7 @@
       "title": "Menteri Arifah : Krisis iklim perbesar kerentanan perempuan dan anak",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTJlalZrTTJDMGZrNk5ENjFhcVNIMkZlS1BmekVSS3BPbml2UjZSbHJVUE9fZm5nZmt1OXNWS2hpbUxJY3YtN1lpYTBuYkhBMG9pTXg4WFVfZHJGR05NYzY2blVUUmFndXR5bGVLSlNjTXV1T1hNTmtXT2s2VFdNNnd1RnBMVUdUOVI4NjNKTmdtbENDZFF0X1YydWZGN0FzSXlQTDJudzVhWWtBNFHSAa8BQVVfeXFMTlFBMy1WRTlReTBzSDFtcmptNk1mcEpfdXo0MV9rU09JTVUxZF80RERGbHRaOE50b0NLX1QwTWV4SmdHQ1F1R3NPOGlJRnFLcmVJVmZkVkE2X211eEgtYmhYNVFlOGxfTkJybFo4LS1mY3JzdFVRVDVWT2tpYmg4QVVjSlM1dE1XWThSbTZ4UUZZRFZ5cHZwZmVseFdMcEN4c2REOFdSeXN6QVVoeHpFaw?oc=5",
       "pubDate": "2026-09-08T14:21:40+00:00",
-      "source": "ANTARA News",
+      "source": "antaranews.com",
       "description": "Menteri Arifah : Krisis iklim perbesar kerentanan perempuan dan anak",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4531,7 +4540,7 @@
       "title": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjhnd1VKUmRjakhaYVBSMWpONjAxY0FWREExblludXAxNWV4S2tBVW9BbWJqM2xwdzhjckJ2VHBTbC00TWJqekhIUkROc2djd05EMXotSHQ5cjlRUElza1JWOV94RjNFWUxXUmZlV3hOVkhUOXFrQjZ2azBNSXRfM0hheDVRdUxKMU5YUDh5c3U3YS1Md3A1M3Z4ZV9vc0hOblZMMk9MSDhxSno0Z3BOZTZnUE5FcmFPSXRnNWM2VGkwcFpqWm95bGYwc2pIc2xLVVo4?oc=5",
       "pubDate": "2026-02-06T08:00:00+00:00",
-      "source": "ugm.ac.id",
+      "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4540,7 +4549,7 @@
       "title": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXItS2pnLWQySjhoWGJ6aTM1Vlc2c0h4WmJ4a29JT2ZxYlFCODlXdk01cW5jMUFuUEJTLWl5X1lvTXVreHZMQXdpMlZLejk2ODF1MUtMc0Q3SDJ2ZjJ1YUFONFcxelBhMVpkYTh5dzN2TktUUFlwRjVjcE56ZjZXZlFHWnpXY1JJc0FMNk1CT2hpOVM3OFBybjJjd1N6TXNNdEhQbS0zNE80UFBZUmF6RzhvcXVPZ3lZS1dPd3VYWFNPZw?oc=5",
       "pubDate": "2026-02-04T08:00:00+00:00",
-      "source": "Kementerian Agama",
+      "source": "kemenag.go.id",
       "description": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -4675,7 +4684,7 @@
       "title": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkdHZFVMMXc4cXRGUWk2ZlN1R3VQNEZsR3lwZ3NYdkRtZ1gtM1hYNXJZMWxCemxldG1aSUFjdkxYM2lJOTU1Nk5UNThVWlJiLUp5X2xabU9GVmxMcnlGSi0xeVFUWDR0cUpnQ2p6ZFFCQlpzQnpvNlBvT3EyYU51aFRSZ25jSmV0YURVWTl6SXF1ZVJzaExKWU4xV0FJUUp5WVE?oc=5",
       "pubDate": "2025-12-08T08:00:00+00:00",
-      "source": "Unpar",
+      "source": "Universitas Katolik Parahyangan",
       "description": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
