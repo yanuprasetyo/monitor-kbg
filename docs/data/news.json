@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-11T15:45:15.709940+00:00",
-  "total": 551,
+  "updated_at": "2026-09-11T20:21:30.425994+00:00",
+  "total": 552,
   "stats": {
     "tpks": 156,
     "kekerasan_seksual": 242,
-    "kbg": 61,
+    "kbg": 62,
     "kbgo": 92
   },
   "new_this_fetch": 60,
@@ -193,7 +193,7 @@
       "title": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNczU1bEQxdWlvWFRlMzZub3dYckk0aUZNS25qRHN0eTAtX3YtUm9aUFhyekNNVFFEOE10Q0lxZHV2a3d6Z2RVM2NQeWdQQUk0N2VLRVJiQndKWFUzSXhac1MxMWxvQkVwSjIxSUF3c2V4cEgzdHJvZm5BNW9Fd09yZkpjaXFUcl9ibTRPazBhZzZSTFA3N0dzM1l5WW02b1VtbGhvSXFpLTB1VW9QTFlqS09aemhqSDNmZ2F5Rg?oc=5",
       "pubDate": "2026-08-31T15:08:24+00:00",
-      "source": "Aktual.com",
+      "source": "aktual.com",
       "description": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -3484,6 +3484,15 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
+      "title": "Pemetaan KBG Dinilai Krusial, Kartini Manakarra Desak Kolaborasi Lintas Sektor",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDJiZldUV3VtMjljZE9DYnhENy15ZTBrU2NOemoxOE53LXVycjFIWTlFTzJSS01fbzZncElXeFJCaWpnSGRobnQ4RHlMbXBIQmY2RERqbFZoc0JVNnhCZEZGay1NTXRrTWZRLW92dWVTNHFtblpuSzk2SV9KekFGRkozZTI1Ynk4cWJVbzRJbzdvaGtwbTRFUzd2bTBoclV3RGlTZVNPMGN4U1JUVnIxZ1FWN2Fja09GNC1GZQ?oc=5",
+      "pubDate": "2026-06-22T07:00:00+00:00",
+      "source": "RRI.co.id",
+      "description": "Pemetaan KBG Dinilai Krusial, Kartini Manakarra Desak Kolaborasi Lintas Sektor",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Kartini Manakarra Soroti Tingginya Ketidakadilan Gender di Kabupaten Majene",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTVHc0p6SHJYZ3RhN0VEdFVMVFJ5Q1hyVF9ZNWVwdi1QOXJzSkZLS0RPcTNOR3M0Sl9xeTNORjNGUlZpNzlkYzdTUEdVOVhsTU8wc2gtN2lmQ1BwTUJWTUJfWngxbEtvVW1Nd3Rsa1JNc0RQUkVhNmlsMGVpN2Jfb25wOTNxMlU0TkJHdWhGTWdXNlpRby1BbFlpSFN2Q1d6N0o4a1BoMUMwdVVMTkdGRk83ZlFmbTdoWHc?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
@@ -3721,7 +3730,7 @@
       "title": "Empat Upaya Kemenag Atasi Kasus Kekerasan dan Perundungan di Pesantren",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWtGQ1VpMEVkY3had2wxX3BqOHdxdzRDQWtUTm4xbjlTLXplcklaSXFVMzBsSW5hOXpqdkxjdllQTDktdHRXV3dkRXU5dW9JcWdYdGRVV3BVSDBqZktRMHd5cnNSdG9VNjBKWDltRmowN3lqNE8wa0tNRDNKeldPSTlvR1JPa0VTQXVHZF9HY0drQ3ZLSnBFbWVxczlGTmtaTlkwNE1GM1RySUE?oc=5",
       "pubDate": "2026-06-08T07:00:00+00:00",
-      "source": "Kementerian Agama",
+      "source": "kemenag.go.id",
       "description": "Empat Upaya Kemenag Atasi Kasus Kekerasan dan Perundungan di Pesantren",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4377,7 +4386,7 @@
     {
       "title": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdVJfRW5iSTI4Ynp2VHJILTdzeHNiVTI3VGRhWXZJcGxReDFsUzR5d0JLTU9OOV9EbWd4elVqRkVLQ2J0RExjMG14Rm5STm9ibjlwX1E3SmVTa1hMa2t3LXFnanQxbXJrY1laakpTZXh1TzVHUjl2emV0RjZHeFBMQ2x5alEwck1xZTdqaERyakxNNTJLNlNIRlp3RXpXNWdfdmp0Z0M3RHpjYkZUOEZPaWsteGRTYU5CNGMyYjRneWtsc1o4MnVwTlVCUUx1d3psTE5PaDJFOXhhcUFUMGlkOEVaeURYQlB3RVVYbkRsaDJMQ0NzcFFWQjZUdjRyTU9fMHlndkRqOU53akhvc2xfag?oc=5",
-      "pubDate": "2026-03-12T08:18:13+00:00",
+      "pubDate": "2026-03-10T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
       "keyword_id": "kekerasan_seksual",
