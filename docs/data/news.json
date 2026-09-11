@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-10T20:21:46.370064+00:00",
-  "total": 550,
+  "updated_at": "2026-09-11T02:40:50.989204+00:00",
+  "total": 551,
   "stats": {
-    "tpks": 155,
+    "tpks": 156,
     "kekerasan_seksual": 242,
     "kbg": 61,
     "kbgo": 92
@@ -76,7 +76,7 @@
       "title": "Menteri Arifah : Krisis iklim perbesar kerentanan perempuan dan anak",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTJlalZrTTJDMGZrNk5ENjFhcVNIMkZlS1BmekVSS3BPbml2UjZSbHJVUE9fZm5nZmt1OXNWS2hpbUxJY3YtN1lpYTBuYkhBMG9pTXg4WFVfZHJGR05NYzY2blVUUmFndXR5bGVLSlNjTXV1T1hNTmtXT2s2VFdNNnd1RnBMVUdUOVI4NjNKTmdtbENDZFF0X1YydWZGN0FzSXlQTDJudzVhWWtBNFHSAa8BQVVfeXFMTlFBMy1WRTlReTBzSDFtcmptNk1mcEpfdXo0MV9rU09JTVUxZF80RERGbHRaOE50b0NLX1QwTWV4SmdHQ1F1R3NPOGlJRnFLcmVJVmZkVkE2X211eEgtYmhYNVFlOGxfTkJybFo4LS1mY3JzdFVRVDVWT2tpYmg4QVVjSlM1dE1XWThSbTZ4UUZZRFZ5cHZwZmVseFdMcEN4c2REOFdSeXN6QVVoeHpFaw?oc=5",
       "pubDate": "2026-09-08T14:21:40+00:00",
-      "source": "antaranews.com",
+      "source": "ANTARA News",
       "description": "Menteri Arifah : Krisis iklim perbesar kerentanan perempuan dan anak",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -1063,6 +1063,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "PN Sampang Tetapkan Restitusi Rp21,4 Juta untuk Anak Korban Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGYzdGI5OFprRWR3VW8zUWdxRUMwSWg1UHhyTktJUDFHSnJ6eVVGMXkwYnZaRXk1TGEwWUNhVnRnRVF6TG5FUXNoTHhLWmNjQklWUno4VzRtNFppR0RfUTBHTFFGQ05TSUFTaU9zV2VWdEQtbnV2SmxjU3pvSWJNUWtKZEN1OS16djB5OWZoQ0NLVV9OczlUVDk2NnZuUVVZdmJyX25jWVA1emd4TFdEUzlwWQ?oc=5",
+      "pubDate": "2026-08-10T07:00:00+00:00",
+      "source": "Dandapala Digital",
+      "description": "PN Sampang Tetapkan Restitusi Rp21,4 Juta untuk Anak Korban Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Tubuh Sebagai Objek, Hukum Sebagai Penonton : Mengapa Kekerasan Seksual di Indonesia Masih Setengah Hati Diadili?",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVnRDNEVoN0VxLTJydEctYVo5QlByYzhWeXZsNEplNFVNajF4VlJ6Nl9CQ0VkZ05wTWFXOTQzSEg0d0xzYnlXU2h2LVRSSG1uejhLRUxJNFB4TENOb3I0ZHd2NHNwbGhsUTlEZzNLT0FwYWo1Ulg3R2hCeUpGZ2QxcWRlRDlZVjdTRXduSEEtWVVZei1YN3BlRU0wckFXbU9zRVlJcklUTWdsQ1BtRGFvN2hhc1p2WmdsSUxhc0c1Q3JVdkFYUzhldkdLRGZIaUVjUnRUS0JVSjNnemdWSTVqWU9oTGVablFYWXdXZlVkcllxVXJtcTBQUXF2T2FnZm8zX0RqU2JacjNrUFpPbml3SjZ3?oc=5",
       "pubDate": "2026-08-09T22:03:41+00:00",
@@ -1957,7 +1966,7 @@
       "title": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUhUZVRnUVlHWFZBVHhnbHZ1bTFhZWlnRk1kZ19PekFiUk0wVVpEYUFXdHg2c295RE1wS1kwcnhNRmxTTm11RVpud25sV1FBeGNNMkJ0UkpabHdSeDFFSm5yaXRjbTVEZEYyRmEyR2tGZDBNckZ6TXJTQ25OQVItbWJBc0lHd2NGYnpKWG1pbWhpVGxsZk9CZmxuaw?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "prohealth.id",
+      "source": "Prohealth.id",
       "description": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2218,7 +2227,7 @@
       "title": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZma9IBZkFVX3lxTE1ZdGhlanl3eVhWWVExSVpYR2RYajNBRExKbGJ6UktfSV93b0hFRW1ldGc5c0hXM2gtNWNQM2c4dnhyUlU2eTY0TGM5eWRXVHlJR24tNG9aXzNaWmpQS3VTMEtCeWZkUQ?oc=5",
       "pubDate": "2026-07-20T07:00:00+00:00",
-      "source": "BBC",
+      "source": "bbc.com",
       "description": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3397,7 +3406,7 @@
       "title": "Jumlah Kasus Masih Tinggi, Pemkab Lobar Gandeng Jaringan CSO Tekan Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSk56RnhkTFRTNVVXWDhHLTdkQlBlRkNULS1QcFU5Q3hDM093M2NGbGR6VE01b2xGNDZXaEtmNUVKb0NPLWlUenVsdmVNMEpGSUV6ZHZ0NnpnUzFkRktKWG1rbjJic1VXNW5EQzI3d242NktTQ0FrUUpHWnRwcFRvVG5xcW9DQld2bTBHOWFXWnJBdDJGd1pYTXBWYktmWTI2WDNMY0JXMDk0YUNDejFXSk1aLXFuRmI4VEdldzJYZHBWdw?oc=5",
       "pubDate": "2026-06-23T07:00:00+00:00",
-      "source": "suarantb.com",
+      "source": "SUARANTB.com",
       "description": "Jumlah Kasus Masih Tinggi, Pemkab Lobar Gandeng Jaringan CSO Tekan Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3775,7 +3784,7 @@
       "title": "Kejahatan: Pati hingga Pekalongan, lima dugaan kekerasan seksual di ponpes",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41bTZMNG1WYzVpYW9PeGFZZ0xhNHF0U0ozYXBJcFpKcDVOc21KZlh6dnRMWjdxVk9yaU16bDVvQmVDbkdveWtrLW1xb2dLWGZKU1l3a2x3RWNhVkZLODFSadIBZkFVX3lxTE15akc5MlZIU0lZUEM2NVRRM0NwaW1sZW9pSVBhWFRHai1KYjZ0YTdmNlJvclZDVktlZ2kwVG1vSXJldmNvSGp4Ny1LOFVFSjkxb3pFOElwZU5kMTF1TnF4S0VaTjdZdw?oc=5",
       "pubDate": "2026-06-02T07:00:00+00:00",
-      "source": "BBC",
+      "source": "bbc.com",
       "description": "Kejahatan: Pati hingga Pekalongan, lima dugaan kekerasan seksual di ponpes",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3982,7 +3991,7 @@
       "title": "Mengarusutamakan Perlindungan Daring untuk Perempuan dan Anak Selama Covid-19",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JUURMaEtYY2tfZjdULXVSem5SXzJIWU5IZkpVMllyWTk4a2RGSENLZWxjaEJfclQyenpDdmJhQ0E3LXc2MWc3V0JXVmVxQVhQVlVyd1VBMWlkdUtyNG56eEp1eU43T2p2Ump3eTF3?oc=5",
       "pubDate": "2026-05-06T20:59:54+00:00",
-      "source": "Goethe-Institut",
+      "source": "goethe.de",
       "description": "Mengarusutamakan Perlindungan Daring untuk Perempuan dan Anak Selama Covid-19",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4081,7 +4090,7 @@
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "BBC",
+      "source": "bbc.com",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4234,7 +4243,7 @@
       "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UWtQejdyeVBhamt6bThRek5NV2kwOXZfR2xjTE5BZHgxRk1qNUllSDN5U3hvLWVFTW5MYUZoUVNRcjZwampTdnRsb0Vwb2dUQ1hSQzh2dVQwZUFEQXJEZdIBZkFVX3lxTE54d2ZpbWNVOU1LX242LUExdnl3dndQZVdnUE5LZU8zeFVCSGR1WXhWTlZTdDFUakRVRnZBWnlJdmRjVWgydGxEc3p5ZDhMQUZaNURGZWxCTVowaWp3UlhSSXY2X1VoUQ?oc=5",
       "pubDate": "2026-04-15T07:00:00+00:00",
-      "source": "BBC",
+      "source": "bbc.com",
       "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4702,7 +4711,7 @@
       "title": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkdHZFVMMXc4cXRGUWk2ZlN1R3VQNEZsR3lwZ3NYdkRtZ1gtM1hYNXJZMWxCemxldG1aSUFjdkxYM2lJOTU1Nk5UNThVWlJiLUp5X2xabU9GVmxMcnlGSi0xeVFUWDR0cUpnQ2p6ZFFCQlpzQnpvNlBvT3EyYU51aFRSZ25jSmV0YURVWTl6SXF1ZVJzaExKWU4xV0FJUUp5WVE?oc=5",
       "pubDate": "2025-12-08T08:00:00+00:00",
-      "source": "Universitas Katolik Parahyangan",
+      "source": "unpar.ac.id",
       "description": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
