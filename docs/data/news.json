@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-13T02:48:30.470212+00:00",
-  "total": 554,
+  "updated_at": "2026-09-13T10:59:23.203412+00:00",
+  "total": 555,
   "stats": {
     "tpks": 156,
-    "kekerasan_seksual": 244,
+    "kekerasan_seksual": 245,
     "kbg": 62,
     "kbgo": 92
   },
@@ -28,10 +28,19 @@
   ],
   "articles": [
     {
+      "title": "Betrand Peto Dilaporkan ke Polisi Terkait Dugaan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUkFwakZyYjFQUU5Ed0FaVm5JYjFGSmpnR0o1cUpVUmZSU1ppLV9hNmhhbzRoTmc3MXFiUmZlU3Q0a1ZlaV9CNHBNd2Q4TWZsaldqcU4yS3VfRVVxaUhiWkV2a1VtaE14UlJSV3NndmpUSHUwVlhpUTRoV3QtYVJEaHRmRW5NYkdrWVVqV2FPNzJNYVhmeGxqbVhyal9aS0xiSkNCNDhuV0l1S25EekprLUoxOHZZRTFmcTZBME1ZZG40SDNnWU9lU2NR0gHPAUFVX3lxTE1oYnQ5b1REN3JqbVpIUTVpSGR3MjIzZ2otM2pnand1RkdvekdDclRNNGlFWVRRMnpDQ0FGUGlPVGpjaExnbDFpTkNVYTFHaGtyd0h0amhmVWNvVG84NVhBMGtnSkVEZEE1WmJCdGRwb1AwR2Fva2dINWU4T0pfai1wS1Z4SmtLTnhrNVVFX3JZY0lqOXBnMFVlcFVNb2tKWkdXMzg2WGd6MUlDUEZpNFVQRi12eDNiSDlmeHIwb2xKTWxKSlpZTGZvdDkwemR0Zw?oc=5",
+      "pubDate": "2026-09-13T04:25:51+00:00",
+      "source": "CNN Indonesia",
+      "description": "Betrand Peto Dilaporkan ke Polisi Terkait Dugaan Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Tetangga RI Pertimbangkan Hukuman Kebiri Kimia ke Penjahat Seksual",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVlKb2p3ZXQ0MzQ2OEZtXzBoNGYxanNhaENncWI3T1l0aDZuZm9XU3ZIQ19weWN2dHRvTkxlbm56bFF6UWl0VGZLV3lzYzRNNXNDLUd3Y0hha3dMVkwxRWw5cnFpSzdGSEtVMmwzVEw5UWloNGdOQW0xS1RjYy14Nm9UdUR6ZWRCdVFvQ2dzSmJ0UTlMd1l3TG1RVW5wNDJ2cWpQdl92a0hhd3VlYXpxNVJyWWozWGJNUThrN3c0Vk1RYnc?oc=5",
       "pubDate": "2026-09-12T07:30:00+00:00",
-      "source": "CNBC Indonesia",
+      "source": "cnbcindonesia.com",
       "description": "Tetangga RI Pertimbangkan Hukuman Kebiri Kimia ke Penjahat Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -1993,7 +2002,7 @@
       "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "tempo.co",
+      "source": "Tempo.co",
       "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3496,7 +3505,7 @@
       "title": "Penyekapan perempuan di Bandung alarm bahaya femisida",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFFobkRhcnF5bWlhVFF0NUJRRHVaOXJVNG9yNy1tMTY4eXFLNS12Z19ZaEdwcFgzaG5UUjdRaDVyN0pua3RPMy1tc1VIR2tWUkVfZmlRaVdIU2t6Z1BMWEpEd0dPU2RTVGV0R2R3SlpZMkxvR1lJWGc5Yl9oYmVlUDVMeFJQdkNkZVNYQnp3ajNyU2RsUGZGc0otUQ?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "alinea.id",
+      "source": "Alinea.ID",
       "description": "Penyekapan perempuan di Bandung alarm bahaya femisida",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3808,6 +3817,15 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
+      "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQVpwM2p6aTFWWHdOT2VLam9udENhaTl4bFJ1U1cwOXlHcWJWbVhxX01RMWNxMENLeGJMQ2dkUFkwcC1Pd0pmOXpkLTlWaUs3RFYweU1hS2J6ek9ncWxON3A4cEptZy1FTnhkakV6REVCWUlKeldzRndBeWdReHVJQURRMENCZl9JUUs3YVNFTE1UYVNZWXI3X29qUEdiOEtQRzZqTEpEbkk4NXNrZ2pmQlE5MXVSRGxLd2VTWUxEMm5xd3dIQ3FmSGpCUHh6S0I2M19DYmxfTQ?oc=5",
+      "pubDate": "2026-06-02T07:00:00+00:00",
+      "source": "kemdiktisaintek.go.id",
+      "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Kejahatan: Pati hingga Pekalongan, lima dugaan kekerasan seksual di ponpes",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41bTZMNG1WYzVpYW9PeGFZZ0xhNHF0U0ozYXBJcFpKcDVOc21KZlh6dnRMWjdxVk9yaU16bDVvQmVDbkdveWtrLW1xb2dLWGZKU1l3a2x3RWNhVkZLODFSadIBZkFVX3lxTE15akc5MlZIU0lZUEM2NVRRM0NwaW1sZW9pSVBhWFRHai1KYjZ0YTdmNlJvclZDVktlZ2kwVG1vSXJldmNvSGp4Ny1LOFVFSjkxb3pFOElwZU5kMTF1TnF4S0VaTjdZdw?oc=5",
       "pubDate": "2026-06-02T07:00:00+00:00",
@@ -3815,15 +3833,6 @@
       "description": "Kejahatan: Pati hingga Pekalongan, lima dugaan kekerasan seksual di ponpes",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQVpwM2p6aTFWWHdOT2VLam9udENhaTl4bFJ1U1cwOXlHcWJWbVhxX01RMWNxMENLeGJMQ2dkUFkwcC1Pd0pmOXpkLTlWaUs3RFYweU1hS2J6ek9ncWxON3A4cEptZy1FTnhkakV6REVCWUlKeldzRndBeWdReHVJQURRMENCZl9JUUs3YVNFTE1UYVNZWXI3X29qUEdiOEtQRzZqTEpEbkk4NXNrZ2pmQlE5MXVSRGxLd2VTWUxEMm5xd3dIQ3FmSGpCUHh6S0I2M19DYmxfTQ?oc=5",
-      "pubDate": "2026-06-02T07:00:00+00:00",
-      "source": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
-      "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Universitas Indonesia Jatuhkan Skors 15 Mahasiswa Terlapor Kekerasan Seksual Berbasis Elektronik",
@@ -4387,7 +4396,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "UNICEF",
+      "source": "Unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4531,7 +4540,7 @@
       "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "World Health Organization (WHO)",
+      "source": "who.int",
       "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4612,7 +4621,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -4675,7 +4684,7 @@
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0pVaXdwMnpPMThWOXRhMTdZRWtHTW04RjlHMWJnSFUwMmR2WlFZOXZacXV2akowUFR5ZWprZklBYzZFc1g2dmUtcE9VMUVvSU9YMUUtbE5ZbWxZYkJ4OGMwRU83ZTNCX0pmRnBOcFRJNC1nakdEbzQzbnpacm1lSDRVZzY3VVBkbWRXanJvSkg2WjRMaUE?oc=5",
       "pubDate": "2025-12-17T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi",
       "description": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
