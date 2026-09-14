@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-13T20:11:57.403548+00:00",
-  "total": 558,
+  "updated_at": "2026-09-14T03:03:10.376132+00:00",
+  "total": 561,
   "stats": {
-    "tpks": 157,
-    "kekerasan_seksual": 247,
+    "tpks": 158,
+    "kekerasan_seksual": 249,
     "kbg": 62,
     "kbgo": 92
   },
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Polisi Ungkap Dugaan Kekerasan Seksual Betrand Peto Terjadi di Jaksel",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTJnX3JldDltNDZreWxvSDNtOXlmN19pUHNhMFdSOWxRSXVxUWFxMDhhS1IwWHV6YzNfRm4yN0NiY2JORGNBNEF5dTZta24wb3BkOEY0bFNQOXJZWnhyd090UnVQQU0yWFhweGlpMDBDZG1qR3dFenlIaVQycDRwcjZ5Wi1ha25MMlVBdTNjX29QU241TWdBa3JxSWJMRWFZMXZUaktseDBVeVNjRlY1WFNHMnFaQllVbWtLYkQxUmxzRkFJQUYzSHFhOXBFZ9IB0wFBVV95cUxQRXRJOXNjYUdVeTNpWTA4b2dBY25xcEhxWkdVa0Qzb1N0ajktMlFFZXlGQzRTcDM1amMtdzRJZXcyZDRfRUN4SnNfZVJ6WWZjNlZ0MXVzLXhtZUtTYy1sZWRldTFjNnAyZ2xjQ28wTVJybGxqaTR6SEw0bWJXYndVUy00TV9MamFuNmJqYUl3RnIyZnFraXJYWmJpZ0VwOVRvSGxtQzJLb3dsZHd5X3VTenMwUGRfWHFBeVhpSXhweEVoTVVQNm9oVURWSFZQRFBGakJR?oc=5",
+      "pubDate": "2026-09-14T02:20:46+00:00",
+      "source": "CNN Indonesia",
+      "description": "Polisi Ungkap Dugaan Kekerasan Seksual Betrand Peto Terjadi di Jaksel",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Korban Bencana NTT, Belum Aman dari Ancaman Kekerasan Seksual!",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQblMzQWY0OGl0N2JpSGxwYXhSTC1pRWR0cHFQR0Z2NHRQUjdMMmpabjhzYTlYdlI2dmtSVmk5VnBPb1VyangwLXV5Sk0xdnJKVXVMWUlCVzNSNU5NTVFEY255bjcxNkl2VjhBQVBWQ2F2OEd5RWhOTjhjOW9TSVJDc0E5a2w5MHJrWVBRNE9zMnJJSUxPWktRWWtsbXJDUXN6WGc?oc=5",
+      "pubDate": "2026-09-14T02:04:30+00:00",
+      "source": "The Indonesian Institute",
+      "description": "Korban Bencana NTT, Belum Aman dari Ancaman Kekerasan Seksual!",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Yakuza Maneges Laporkan Dugaan TPKS Santriwati ke Polres Malang",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXBnQ082dGUzWnpqRXluYzlkeGpkZDNaR2Y3SGtvN1g3cGZ1bXE3aVpOMHVrVjFfOTZzRldFVFlLUmtXM1JJSlg4eXZUaUYxTjVqMjhlSnFfQ0s5SmZ1Z2Uwd1I1cHljRE9oQlpJZmFCeDRZRjFzUnpzVFR2SHFzTkt0ZGJuV0lfOGtocENNYUc?oc=5",
+      "pubDate": "2026-09-14T01:41:06+00:00",
+      "source": "beritajatim.com",
+      "description": "Yakuza Maneges Laporkan Dugaan TPKS Santriwati ke Polres Malang",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Korban Dugaan Pelecehan Betrand Siapkan 2 Laporan Polisi",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWUY2VENyQVdTd0wwa2VNbm5DaFdQZ3o3ZjVfek1QUDFaeWNNSGl1bWRQMldvTEs3RkZweWFUTHo5ckZJVERTVGxkWTVZLW5Ydm1aNV9pMXhvbU9URDhIby0xeUJWLUtybUI1UWszdGR4blY0X0I2RUZjcUtJU0dFZUVsYkFuUQ?oc=5",
@@ -319,7 +346,7 @@
       "title": "IPK Kaltim Imbau Korban Kekerasan Berbasis Gender Online Tak Takut Lapor Polisi",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS0puWEk0b3cxTUNJaTBXaTNvZWRwUUpUM2ZYY3dWTTJRaWhWcGIxMElXcmxEWENtc0hiMTQyV2I2R3RMaHB2S0N5V01rc3gtdVBEU25teF9ZWGtZX084WGFOTFowVHZLYXRlT2Zzb2tZQmwwOEdvbkJpdEtRekhJd0puSU9adlgtNVprd2xXOW80bVRSQl9wX1RIemkxajFpcHpxS1lXVTA3ZlhYQWNPQjBNTlFvbGdRbzVhWmJ3V3JlcUk?oc=5",
       "pubDate": "2026-08-27T07:00:00+00:00",
-      "source": "rri.co.id",
+      "source": "RRI.co.id",
       "description": "IPK Kaltim Imbau Korban Kekerasan Berbasis Gender Online Tak Takut Lapor Polisi",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -625,7 +652,7 @@
       "title": "Initiative! Mengoptimalkan “Temporary Special Measures” dalam Penanganan Kekerasan Seksual di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUHNXRHZrcmo2MUswZVd4cG9vdHJ2M1lrOWJEd0RNMEdFVkNhR1NQdDRPVHAzMWFHRE9tODJ4RjZPN1JBZlZYcFJKYnZVWUxXcWdvai1EYS1KNEswSm12MWxVdnRkam93VjR1Q2plWlItTU5sdGNELWU3ZnZVYklKQjlCOUhzMDQ3RUMzcHZUNFBGS3BJZ3BrLTJIR3F1ZzJKZEVMMEJYNkhuNmNJUjIyNVlOVm9DckVDT2pMUmF4b2RNZjlVVmdqNzFZVkd1T2FqZkZWbzU4VQ?oc=5",
       "pubDate": "2026-08-20T07:00:00+00:00",
-      "source": "theindonesianinstitute.com",
+      "source": "The Indonesian Institute",
       "description": "Initiative! Mengoptimalkan “Temporary Special Measures” dalam Penanganan Kekerasan Seksual di Indonesia",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -1435,7 +1462,7 @@
       "title": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQld2QlByUVFienVoRWwzZFdyME43bVdSbU5PLUZqQ1J3ampOSTNmOVRnYjlMR0Q5VGhTRFE1Z0dPMUFfTW4yWml1YVhUVDdVV1kxcGtRX1V0R01oZkF2b09MaGlZb3ZKZTZjUkdjbXlXcUJ2T1c1TUotM0dTd2NVS2w4V284R1FhSlJ2UWVqS3lCT1lSbHNPZU5QWV9qYzZ3UFpBc3BtQlI2bzhzV2p6VjZQUFdUZ2J5T0FfLUI5LTF2aDJsWkxXSnF0ZmVhWnREUTRIRGp1N085c0VC?oc=5",
       "pubDate": "2026-08-03T07:00:00+00:00",
-      "source": "Komisi Yudisial",
+      "source": "komisiyudisial.go.id",
       "description": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -1534,7 +1561,7 @@
       "title": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSndIZlFHQ01KZkRhU3N1OVZKbFN1SXRjS2MyWFJqaTlwVlZyZ2FCbWxlS0tzRThXeFVlc1NzZHZNWC01NnB1WXlIUFpTQlFmUkF1ZFZZVUhTT0JoTDZEWkJ4WXZVUjNyWGxvTUhER0VsQ1JHOW9aRDcxMUNTT2VlVG1iNVlmSkRXZFdVc29uWkhOS3pNM1hiNXZQeXhleU0tM3c4cA?oc=5",
       "pubDate": "2026-08-01T07:00:00+00:00",
-      "source": "metropolis.batampos.co.id",
+      "source": "Batam Pos",
       "description": "UPTD PPA Batam Tangani 121 Kasus Kekerasan, 72 Persen Korbannya Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2029,7 +2056,7 @@
       "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "tempo.co",
+      "source": "Tempo.co",
       "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2281,7 +2308,7 @@
       "title": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUl9YYjdZTEpUMll4cXhlVllxNHNhbkNzMzhaVmJ3V0pZVlVKU05lc0hmN3Q0UHJBcG9Pd0hWRGVXUHpkSk83ajd2Vmt2dUZDempoS1lsQThLS25pcUZma9IBZkFVX3lxTE1ZdGhlanl3eVhWWVExSVpYR2RYajNBRExKbGJ6UktfSV93b0hFRW1ldGc5c0hXM2gtNWNQM2c4dnhyUlU2eTY0TGM5eWRXVHlJR24tNG9aXzNaWmpQS3VTMEtCeWZkUQ?oc=5",
       "pubDate": "2026-07-20T07:00:00+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Perempuan disabilitas tuli di Jakarta jadi korban kekerasan seksual hingga melahirkan anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2326,7 +2353,7 @@
       "title": "Kekerasan Seksual di Sampang, Kejahatan Serius",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkVOWEs2bkhFY3Bfdzh1RHhOTlM4RXdDbG9LaGMxeXRKSlVKbFhDRzZycHVlWWtIUUNOTFVNWFl2bkh4MzI3MXc2QnVYeEVZc21FdHZYdERxNjBucmoyQmNLLVcwRURXLXc4WXdabXVYNWktSk9lTkVFd0FDT2tNU3pCUFdTZXFXcnpF?oc=5",
       "pubDate": "2026-07-18T07:00:00+00:00",
-      "source": "Kompas.id",
+      "source": "kompas.id",
       "description": "Kekerasan Seksual di Sampang, Kejahatan Serius",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2641,7 +2668,7 @@
       "title": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVRDME9XQW9RekxRZU83QTdyVEZmWVZsbjkyUWhtT1NiU0xQa1ZmZ2Y1WWl3dHUwbFl6MnFRQlVNRnNsa0FsTzZKX0YyUV9YSlpZQ0EtaU1TdU9RNnotRms1a25GZ3VJbXJyUG4tcHZUdDRvU0dYalVjVWJvUU53T1kydGtqSk5hYWh6NmhBMUw5bmZtbmJSYXZELWpyWjBNajBRejhzd3ZjYWE4Nk9J0gGuAUFVX3lxTE1BY2lveThOaFRpWEtZZGdFT3k5VE1BRTFIbUNKcXJMbC1MY0xSRThkWS00aUJ0RUpUR21uR2lmSGsyUEJMOEIwc3hzdXJYUWFnZzdmajRmUl9ONF9jR3lTbmFGME1GR0YzME5aZUZZLW5kajJ0SzB1X0RQSFRVTEY4RlpHaXhKTGNRVGJfUEZ2Wl9zUi1jNXdwYkJ4aE1EeVQ3SDBuV1hJVzd0SFNldw?oc=5",
       "pubDate": "2026-07-11T07:00:00+00:00",
-      "source": "harian.disway.id",
+      "source": "HARIAN DISWAY",
       "description": "Kebijakan Transformatif Gender dalam Pencegahan Kekerasan Berbasis Gender - harian.disway.id",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3541,7 +3568,7 @@
       "title": "Pemetaan KBG Dinilai Krusial, Kartini Manakarra Desak Kolaborasi Lintas Sektor",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDJiZldUV3VtMjljZE9DYnhENy15ZTBrU2NOemoxOE53LXVycjFIWTlFTzJSS01fbzZncElXeFJCaWpnSGRobnQ4RHlMbXBIQmY2RERqbFZoc0JVNnhCZEZGay1NTXRrTWZRLW92dWVTNHFtblpuSzk2SV9KekFGRkozZTI1Ynk4cWJVbzRJbzdvaGtwbTRFUzd2bTBoclV3RGlTZVNPMGN4U1JUVnIxZ1FWN2Fja09GNC1GZQ?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "rri.co.id",
+      "source": "RRI.co.id",
       "description": "Pemetaan KBG Dinilai Krusial, Kartini Manakarra Desak Kolaborasi Lintas Sektor",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4153,7 +4180,7 @@
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4306,7 +4333,7 @@
       "title": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UWtQejdyeVBhamt6bThRek5NV2kwOXZfR2xjTE5BZHgxRk1qNUllSDN5U3hvLWVFTW5MYUZoUVNRcjZwampTdnRsb0Vwb2dUQ1hSQzh2dVQwZUFEQXJEZdIBZkFVX3lxTE54d2ZpbWNVOU1LX242LUExdnl3dndQZVdnUE5LZU8zeFVCSGR1WXhWTlZTdDFUakRVRnZBWnlJdmRjVWgydGxEc3p5ZDhMQUZaNURGZWxCTVowaWp3UlhSSXY2X1VoUQ?oc=5",
       "pubDate": "2026-04-15T07:00:00+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Viral dugaan pelecehan seksual di FH UI – Mengapa kekerasan 'tumbuh subur' di lembaga pendidikan?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
