@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-14T03:03:10.376132+00:00",
-  "total": 561,
+  "updated_at": "2026-09-14T11:35:40.038118+00:00",
+  "total": 563,
   "stats": {
-    "tpks": 158,
-    "kekerasan_seksual": 249,
+    "tpks": 159,
+    "kekerasan_seksual": 250,
     "kbg": 62,
     "kbgo": 92
   },
@@ -28,13 +28,22 @@
   ],
   "articles": [
     {
-      "title": "Polisi Ungkap Dugaan Kekerasan Seksual Betrand Peto Terjadi di Jaksel",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTJnX3JldDltNDZreWxvSDNtOXlmN19pUHNhMFdSOWxRSXVxUWFxMDhhS1IwWHV6YzNfRm4yN0NiY2JORGNBNEF5dTZta24wb3BkOEY0bFNQOXJZWnhyd090UnVQQU0yWFhweGlpMDBDZG1qR3dFenlIaVQycDRwcjZ5Wi1ha25MMlVBdTNjX29QU241TWdBa3JxSWJMRWFZMXZUaktseDBVeVNjRlY1WFNHMnFaQllVbWtLYkQxUmxzRkFJQUYzSHFhOXBFZ9IB0wFBVV95cUxQRXRJOXNjYUdVeTNpWTA4b2dBY25xcEhxWkdVa0Qzb1N0ajktMlFFZXlGQzRTcDM1amMtdzRJZXcyZDRfRUN4SnNfZVJ6WWZjNlZ0MXVzLXhtZUtTYy1sZWRldTFjNnAyZ2xjQ28wTVJybGxqaTR6SEw0bWJXYndVUy00TV9MamFuNmJqYUl3RnIyZnFraXJYWmJpZ0VwOVRvSGxtQzJLb3dsZHd5X3VTenMwUGRfWHFBeVhpSXhweEVoTVVQNm9oVURWSFZQRFBGakJR?oc=5",
-      "pubDate": "2026-09-14T02:20:46+00:00",
-      "source": "CNN Indonesia",
-      "description": "Polisi Ungkap Dugaan Kekerasan Seksual Betrand Peto Terjadi di Jaksel",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "title": "Soroti Tantangan Implementasi UU Tindak Pidana Kekerasan Seksual, Yayasan Vanita Naraya Gelar FGD di Bangka Belitung",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU2ZqSkRpR3pGWEt5bVlZUDhHSG42VzVKd2V2LUlVWklkMkdEZUFKZW9UNmNVdjBMOHFhckR6SHRZajdmaXdySXJIZXJHOVZJbXY5Z0tROHNPRkEtai16STRZRXBSdnA0TVp4MkR1MU14TmVOSmpQeFNyR0R0LUFSRjM5ejZJV1hsNWZlX0kyQU52OXJpRDVZOXhIdUpsTGhkYll1dTQ4M1YtQUk2T3U0Ul9jOV9CY1RjSkhCcXBKS2Vhd1A1ZjVTallIMFlEUk5kalE3SlNTcl9LeTZYLVZQZnVpa1BFc05qdzdoQjlBM0o?oc=5",
+      "pubDate": "2026-09-14T10:21:54+00:00",
+      "source": "Negeri Laskar Pelangi",
+      "description": "Soroti Tantangan Implementasi UU Tindak Pidana Kekerasan Seksual, Yayasan Vanita Naraya Gelar FGD di Bangka Belitung",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Soroti Tantangan Implementasi UU TPKS, Vanita Naraya Gelar FGD di Bangka Belitung - babelpos.disway.id",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWM4LU9mR0x0SUxrVWQwYzFZYzhaVFpadjE1VEpKdU5veVg0MV82UkRNbmJ0WW5aVXJaYXVHMkJLZDQ2LWM0R3hCdExkYnlxWjdYTDUxbUpGY1BuV1hPc3BJaElILVI5UVN5ZWY4c3VIaXB6aVJ0d3lDUXNnTGhQV0xFZUZGSVlQU2tOYnAtV3kteHNsZlQ3dmN6SlkxY0tOTXNXajFtZ0NUMkpNcHRCSXdIcTBqTThZTndOYllmTWVNWXhTbEdBeHBoN1p3Z9IBugFBVV95cUxQWXQ1cmRjNWh6eE82VHJWT2w1dVZHejVpMzByQmhnN1E4VDB5bDd5VExxQXByUnF1MVFFQXlOVGUtaEo2bFZHdWdFRF9ySVRrejZ0OFJhaS0wZkFpTWgxYlotb1ZVZUpJR3Nkck1CR1p6WXg1T3QwaTlsLVE3M0FOTENxczhyTGxEa2lweGVTWmdqVm1iVS1OUldaTVBReEJKYlBKRjNubzlmMDAzVWhscmFHdFFZR3B2SUE?oc=5",
+      "pubDate": "2026-09-14T09:54:00+00:00",
+      "source": "Babelpos",
+      "description": "Soroti Tantangan Implementasi UU TPKS, Vanita Naraya Gelar FGD di Bangka Belitung - babelpos.disway.id",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Korban Bencana NTT, Belum Aman dari Ancaman Kekerasan Seksual!",
@@ -62,6 +71,15 @@
       "description": "Korban Dugaan Pelecehan Betrand Siapkan 2 Laporan Polisi",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Polisi Ungkap Dugaan Kekerasan Seksual Betrand Peto Terjadi di Jaksel",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTJnX3JldDltNDZreWxvSDNtOXlmN19pUHNhMFdSOWxRSXVxUWFxMDhhS1IwWHV6YzNfRm4yN0NiY2JORGNBNEF5dTZta24wb3BkOEY0bFNQOXJZWnhyd090UnVQQU0yWFhweGlpMDBDZG1qR3dFenlIaVQycDRwcjZ5Wi1ha25MMlVBdTNjX29QU241TWdBa3JxSWJMRWFZMXZUaktseDBVeVNjRlY1WFNHMnFaQllVbWtLYkQxUmxzRkFJQUYzSHFhOXBFZ9IB0wFBVV95cUxQRXRJOXNjYUdVeTNpWTA4b2dBY25xcEhxWkdVa0Qzb1N0ajktMlFFZXlGQzRTcDM1amMtdzRJZXcyZDRfRUN4SnNfZVJ6WWZjNlZ0MXVzLXhtZUtTYy1sZWRldTFjNnAyZ2xjQ28wTVJybGxqaTR6SEw0bWJXYndVUy00TV9MamFuNmJqYUl3RnIyZnFraXJYWmJpZ0VwOVRvSGxtQzJLb3dsZHd5X3VTenMwUGRfWHFBeVhpSXhweEVoTVVQNm9oVURWSFZQRFBGakJR?oc=5",
+      "pubDate": "2026-09-13T07:15:47+00:00",
+      "source": "CNN Indonesia",
+      "description": "Polisi Ungkap Dugaan Kekerasan Seksual Betrand Peto Terjadi di Jaksel",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Polisi Ungkap Dugaan Kekerasan Seksual Betrand Peto Terjadi di SCBD",
@@ -155,7 +173,7 @@
     },
     {
       "title": "Menteri Arifah : Krisis iklim perbesar kerentanan perempuan dan anak",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTJlalZrTTJDMGZrNk5ENjFhcVNIMkZlS1BmekVSS3BPbml2UjZSbHJVUE9fZm5nZmt1OXNWS2hpbUxJY3YtN1lpYTBuYkhBMG9pTXg4WFVfZHJGR05NYzY2blVUUmFndXR5bGVLSlNjTXV1T1hNTmtXT2s2VFdNNnd1RnBMVUdUOVI4NjNKTmdtbENDZFF0X1YydWZGN0FzSXlQTDJudzVhWWtBNFHSAa8BQVVfeXFMTlFBMy1WRTlReTBzSDFtcmptNk1mcEpfdXo0MV9rU09JTVUxZF80RERGbHRaOE50b0NLX1QwTWV4SmdHQ1F1R3NPOGlJRnFLcmVJVmZkVkE2X211eEgtYmhYNVFlOGxfTkJybFo4LS1mY3JzdFVRVDVWT2tpYmg4QVVjSlM1dE1XWThSbTZ4UUZZRFZ5cHZwZmVseFdMcEN4c2REOFdSeXN6QVVoeHpFaw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVlBc3htZGRlR2ptcDhFOHpJaGRTSFAtcnkzbEoxWjlWRXpoc3BqYlI1aW92X1VCVTQwQ3RJRWRlbGRxZ0JsaTlfNjhnLXhsM05wNVVqMHpJMDZuT1E4X2V0RDh4WnpUaG80d29wN0l1QXJ1cWhuRV9ILWpLRDQ2WGVEMEVmekg1QlE3UjlKV2pWTnN0QUlfcFRuWHFnWE1OWG5EeUN4QkpGRGht?oc=5",
       "pubDate": "2026-09-08T14:21:40+00:00",
       "source": "ANTARA News",
       "description": "Menteri Arifah : Krisis iklim perbesar kerentanan perempuan dan anak",
@@ -1462,7 +1480,7 @@
       "title": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQld2QlByUVFienVoRWwzZFdyME43bVdSbU5PLUZqQ1J3ampOSTNmOVRnYjlMR0Q5VGhTRFE1Z0dPMUFfTW4yWml1YVhUVDdVV1kxcGtRX1V0R01oZkF2b09MaGlZb3ZKZTZjUkdjbXlXcUJ2T1c1TUotM0dTd2NVS2w4V284R1FhSlJ2UWVqS3lCT1lSbHNPZU5QWV9qYzZ3UFpBc3BtQlI2bzhzV2p6VjZQUFdUZ2J5T0FfLUI5LTF2aDJsWkxXSnF0ZmVhWnREUTRIRGp1N085c0VC?oc=5",
       "pubDate": "2026-08-03T07:00:00+00:00",
-      "source": "komisiyudisial.go.id",
+      "source": "Komisi Yudisial",
       "description": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3565,20 +3583,20 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "Pemetaan KBG Dinilai Krusial, Kartini Manakarra Desak Kolaborasi Lintas Sektor",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDJiZldUV3VtMjljZE9DYnhENy15ZTBrU2NOemoxOE53LXVycjFIWTlFTzJSS01fbzZncElXeFJCaWpnSGRobnQ4RHlMbXBIQmY2RERqbFZoc0JVNnhCZEZGay1NTXRrTWZRLW92dWVTNHFtblpuSzk2SV9KekFGRkozZTI1Ynk4cWJVbzRJbzdvaGtwbTRFUzd2bTBoclV3RGlTZVNPMGN4U1JUVnIxZ1FWN2Fja09GNC1GZQ?oc=5",
-      "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "RRI.co.id",
-      "description": "Pemetaan KBG Dinilai Krusial, Kartini Manakarra Desak Kolaborasi Lintas Sektor",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Kartini Manakarra Soroti Tingginya Ketidakadilan Gender di Kabupaten Majene",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTVHc0p6SHJYZ3RhN0VEdFVMVFJ5Q1hyVF9ZNWVwdi1QOXJzSkZLS0RPcTNOR3M0Sl9xeTNORjNGUlZpNzlkYzdTUEdVOVhsTU8wc2gtN2lmQ1BwTUJWTUJfWngxbEtvVW1Nd3Rsa1JNc0RQUkVhNmlsMGVpN2Jfb25wOTNxMlU0TkJHdWhGTWdXNlpRby1BbFlpSFN2Q1d6N0o4a1BoMUMwdVVMTkdGRk83ZlFmbTdoWHc?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
       "source": "RRI.co.id",
       "description": "Kartini Manakarra Soroti Tingginya Ketidakadilan Gender di Kabupaten Majene",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Pemetaan KBG Dinilai Krusial, Kartini Manakarra Desak Kolaborasi Lintas Sektor",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDJiZldUV3VtMjljZE9DYnhENy15ZTBrU2NOemoxOE53LXVycjFIWTlFTzJSS01fbzZncElXeFJCaWpnSGRobnQ4RHlMbXBIQmY2RERqbFZoc0JVNnhCZEZGay1NTXRrTWZRLW92dWVTNHFtblpuSzk2SV9KekFGRkozZTI1Ynk4cWJVbzRJbzdvaGtwbTRFUzd2bTBoclV3RGlTZVNPMGN4U1JUVnIxZ1FWN2Fja09GNC1GZQ?oc=5",
+      "pubDate": "2026-06-22T07:00:00+00:00",
+      "source": "RRI.co.id",
+      "description": "Pemetaan KBG Dinilai Krusial, Kartini Manakarra Desak Kolaborasi Lintas Sektor",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
@@ -4254,8 +4272,8 @@
       "pubDate": "2026-04-17T02:58:28+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
