@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-14T21:20:56.185800+00:00",
-  "total": 564,
+  "updated_at": "2026-09-15T03:05:21.096418+00:00",
+  "total": 565,
   "stats": {
-    "tpks": 159,
+    "tpks": 160,
     "kekerasan_seksual": 251,
     "kbg": 62,
     "kbgo": 92
@@ -53,6 +53,15 @@
       "description": "Soroti Tantangan Implementasi UU TPKS, Vanita Naraya Gelar FGD di Bangka Belitung - babelpos.disway.id",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Polres Bondowoso Ungkap Sejumlah Kasus Kekerasan Seksual Anak, Pelaku Ada yang Ayah Tiri",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeHBGWXRXdnRIUHVyczhwRWJuSW0ycG8wQjVtZEN4d3N0U1hPQTc2cEZkeGEyN2pZMFJJVDVaUVJ6U0VXRTNvaU5CMDUtX3JpNThnM2czc09xUHFCbE9Dbk4xRG5DMmFMVk5qUWhjWUtZM040QjhnZ25QYXQwdTB5N2hGTHZvS1pfMm01bnJIaHV2bVdfeGMzLXNwY1dlbl9fMlpPSXp6emhDSUdDTTdsN05tdDVobENmTzF3WXZSM3JQLWdhb194NHpSRWRFTXJGT1V3MQ?oc=5",
+      "pubDate": "2026-09-14T08:18:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "Polres Bondowoso Ungkap Sejumlah Kasus Kekerasan Seksual Anak, Pelaku Ada yang Ayah Tiri",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Korban Bencana NTT, Belum Aman dari Ancaman Kekerasan Seksual!",
@@ -409,7 +418,7 @@
       "title": "Kasus KBG Tinggi di Lobar, Dewan Minta Perkuat Sinergi serta Anggaran UPT PPA -",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUdGeUkweHNIUkItbEstTHpZVWVtUFBhNkxVVXkxbUZJd1pzVWdvMHA0Ry1hUW9TNDhrZ3RrTkwzVUtYMk41UkhBSTBIMGVCNkhfMklQTWY2WEhrQXdIWU5lOXFyNTFUbGNJczhsX25wekdYYmJQal9Sbm8wbHRBSk92V2VEcHcwT0o1bXRjckIxMGNYZXZrVDR5LXdxVlRsX3I3dm5n?oc=5",
       "pubDate": "2026-08-26T07:00:00+00:00",
-      "source": "Radar Mandalika",
+      "source": "radarmandalika.id",
       "description": "Kasus KBG Tinggi di Lobar, Dewan Minta Perkuat Sinergi serta Anggaran UPT PPA",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -1948,7 +1957,7 @@
       "title": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42T1dsQ1A2bnFOMmNjdFN0Z3M4aV9uTDBXeDdYOEYyQkJYcjRGZS1ZSE1Tc2hPLW9uRjlSa3k4LXk0by1paGxxVFpnNGRBcE9vTmFxaGotczJQd0FLYTZweWEwVUpNeVBxWng2Q3RhbUVuWDJROExCdE4yTQ?oc=5",
       "pubDate": "2026-07-24T07:00:00+00:00",
-      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
+      "source": "safenet.or.id",
       "description": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2074,7 +2083,7 @@
       "title": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUhUZVRnUVlHWFZBVHhnbHZ1bTFhZWlnRk1kZ19PekFiUk0wVVpEYUFXdHg2c295RE1wS1kwcnhNRmxTTm11RVpud25sV1FBeGNNMkJ0UkpabHdSeDFFSm5yaXRjbTVEZEYyRmEyR2tGZDBNckZ6TXJTQ25OQVItbWJBc0lHd2NGYnpKWG1pbWhpVGxsZk9CZmxuaw?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "Prohealth.id",
+      "source": "prohealth.id",
       "description": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2299,7 +2308,7 @@
       "title": "10 Provinsi Kasus Kekerasan Berbasis Gender Online Terbanyak di Indonesia 2026, Jabar Tertinggi",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlpNeXZnMlEtVFFUMEJxVFlhd2JZa0owenAydUJjQWYtbTF2djJLSkxCZWdYTC12RGhrUDZmbk00Qy1sWTZUMjk0Sl9oUzhvYWFEd0Q5dFFWRkpqaTE2SUl3bFRreFo3VnB0N1plRklta2x1QjZ6U1BHVmpKZUI1aE5CXzlsNmkyN2VGa192UFRRMFMwQm9CLWNqTjJ4V2NJaFF1ZFpmWUVSRU1taklubHdOQVdfLTRkcnkyN3BmbDBEWnNfeFN6aQ?oc=5",
       "pubDate": "2026-07-21T07:00:00+00:00",
-      "source": "GoodStats",
+      "source": "goodstats.id",
       "description": "10 Provinsi Kasus Kekerasan Berbasis Gender Online Terbanyak di Indonesia 2026, Jabar Tertinggi",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -3208,7 +3217,7 @@
       "title": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEd0SHBhWENnUDYtNmIyWXBYb3RQbGZXMUFFM0JlTzNQellMRk5Bamp2dzlOWlpWTUM0S1BXdDJ6cmhmWUVNUG1HdDR4TlNYdzlZRTJaTk9na3UyTG56YTNpVkp3d0ExSEprVjlhNW1IRG1zOGpFazRQTE9rUlViZ0lvY3pKemVIMC1qYUgtX2Q2U3RLYU84WVhDU3NVWTJSdkcwRTVsMC1hNlhDdFoyQ1ZLaVN5Q2ZKWEVMbGRDTEF5ZC1MendDS2tsMU92Y2ZnN05ZQmxRN2JjcEJ4Mm00?oc=5",
       "pubDate": "2026-06-27T07:00:00+00:00",
-      "source": "Komnas Perempuan",
+      "source": "komnasperempuan.go.id",
       "description": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3271,7 +3280,7 @@
       "title": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUUZTUFRqMXZkUzZVWjZNR2Z3aWdDNEdrbXFrcHc4WVlxTGJDeEpRdTB4d1BCQWt3V0xfc0o3N0tnVG5KWnJzMi11UEc5WkpyMUJ4Um1yc2drWGJMXzZlN0l2LUd1YUJWY1NqZjNQNmlDMlRXVWVIcV95UWt3YkpacVVFanZITjF3TDhOS0htNDFCTmVadEZRVTVmWHZXQjBGQ0F6VjJ0eE43VHpvT3EyS1NwZmFreVU2c1pKVnQ1cHBlTnpNeWJUTVk4Zk5oTXBDb1RqTUhxdXlHWHp6eGNzZmpXT0ZTTWlOdGtXVWFvZUdEdElHRzJTMkpyYkRHdGNRaHNRa3Vyb29JREVWS19GclI5Nm14bEpWU3k3MHVn?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "Komnas Perempuan",
+      "source": "komnasperempuan.go.id",
       "description": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3424,7 +3433,7 @@
       "title": "Instrumen Pemantauan Pelaksanaan Pencegahan dan Pemenuhan Hak Korban Tindak Pidana Kekerasan Seksual (TPKS)",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeXBfZlFBWlQ5VUIxeFBFZWJ4M0piVGJXd0V1eTN3WkRfSGRRZXZyYlpxdElkclRONE9peTdNYk9wUVp0VEdGa3JLS1dWdEs5enNidEJQLW1MQjFwemFaUS1HTWpfX1hQY2kwWV9LdFNPUS1KanA5cFkyNjRieFJObncxR2pkdlR0Ym1BT1UzM2ZSM2ZNS21UVVYyXzlVeS1NMnU2NzdLdnkzemVoUDRjUFNvUkpGYjByMzUyOU5lZmtpZEZSQS1uMElOZnR3dWdnbUsxZHk2TWxzbUtGVjJwa2ZpVnc4b1hvdWp4Y01fNENXbl93ZU5GYzZRZnl1TGU3Mmt3?oc=5",
       "pubDate": "2026-06-24T07:00:00+00:00",
-      "source": "Komnas Perempuan",
+      "source": "komnasperempuan.go.id",
       "description": "Instrumen Pemantauan Pelaksanaan Pencegahan dan Pemenuhan Hak Korban Tindak Pidana Kekerasan Seksual (TPKS)",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3505,7 +3514,7 @@
       "title": "CATAHU 2025: MENGUATKAN DATA, MENGATASI KERENTANAN, MENDESAK NEGARA BERSIKAP UNTUK KEADILAN KORBAN",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLW5UMzI1czdwOFJua2t5NUNkX0k1VE5rRmFLREJPVzJ1SW5qeWRYSDluMU9QMVpud0hYRHpkeFNpb01jU09rSDJQOVhLSzBiUS1GejhRNEdpSXVLOXFSOGF6UlpPWmRsVlZwV2F5ekFKTC04WVpPOE96Zm5fSnpaQ0FNdTJJMm15TkE0cVI3V1gtdDk4XzRQRlFNNFRlWWtLTzZuWTJValJoY1ptamhjcktha0o3ZmMxeTdNMXd0ZVhjeUtKQnNKLUtyZUg4d053T2dqN2pLSHNCWDdRdjVtRGl3?oc=5",
       "pubDate": "2026-06-23T07:00:00+00:00",
-      "source": "Komnas Perempuan",
+      "source": "komnasperempuan.go.id",
       "description": "CATAHU 2025: MENGUATKAN DATA, MENGATASI KERENTANAN, MENDESAK NEGARA BERSIKAP UNTUK KEADILAN KORBAN",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3883,7 +3892,7 @@
       "title": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3YtUkUzRGVteDdNbTZnODRHT2tDYWZWdVJwQnVuZ2VKM3hwM2RTdHlpd0M0VHhULVM1eEczZzFSRUVQTUpvSUFQb1RBTGcwTk80d2IxOVEzcURqQzZJdkQ3MWt3V2JYd1FzbTl4aUFEeEczQjB1M2dMS0xWbkpFN0w3cDc2VFVQX0s3NmhxbGExdWdIVW1yNjI5ZC1mNzhybjdwX0NqWGR0WUdLZXlvaVVIUjdYdmp2OFVGdVRiWW90UGlyUGl6SmdQNlFWTGFjR2xoWEJ3ZXpfdzM0dGQya3FRdmJ5TllnZTNoZFNEakxYYWZlWHZabWMyMi1MMjR0SEJHRnk5ZW5KVVpQ?oc=5",
       "pubDate": "2026-06-05T04:28:33+00:00",
-      "source": "Komnas Perempuan",
+      "source": "komnasperempuan.go.id",
       "description": "Komnas Perempuan dan Tirto Refleksikan Empat Tahun Implementasi UU TPKS serta Peran Media dalam Penguatan Akses Keadilan Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -4090,7 +4099,7 @@
       "title": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOTRKRFFHdEdMdmhWbFZ1VEZYVnVmX2lfMmFCZWJIT3VkMHRMZklyYm9kMm5FU093SG5jNFJNbmZ6c0xkeENDYmh2UFdGc1FTN0JQNlFhM2RIMm91c2lDRFV5VmZsYmJYNkpkeGRDZFE0Y2Z4WVJ1a0dqbzE0TjJLVV9HU2ZKUlpaWWtkcXB4M3BoUExYVkNMU1B2ZUcxbjhtd29sMTBDVXN2LTd1enlDLXg0aDVYNldwYWJoeTlLMEpaQlZkcDhBTWxPRmQtdnMyYkhPXzE1ejhOZGR1Z1BFbU5sa3h1UQ?oc=5",
       "pubDate": "2026-05-07T07:00:00+00:00",
-      "source": "Komnas Perempuan",
+      "source": "komnasperempuan.go.id",
       "description": "Kunjungi Bareskrim Polri, Komnas Perempuan Sampaikan Prasyarat Pemenuhan Hak Korban KBGO",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4198,7 +4207,7 @@
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Prohealth.id",
+      "source": "prohealth.id",
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4279,16 +4288,16 @@
       "title": "Modul Akademi Penghapusan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlpiNm01SEJzemppMEdGRm9RcEtHREVVTEJKaC1CLUxNM2c2bTZLbHJESWFvYXlpUXhzUEdtcVRuM3hOa0ZuRlhRb1dCcjBtSVdldTJZRjZDZDZKRzhXNkZjNDNuOXZJWks3VzlCMVNCUmw4XzRqcmRSYUg3SGtwSnNhYUZGd1FOemIwYlJ5T2hhc3RRR0FSRDI5YkgwQWt6Z1ZMSnpHU3Z2TmphQTM0SQ?oc=5",
       "pubDate": "2026-04-17T02:58:28+00:00",
-      "source": "Komnas Perempuan",
+      "source": "komnasperempuan.go.id",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "tribratanews.polri.go.id",
+      "source": "Tribrata News",
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4621,7 +4630,7 @@
       "title": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGhqMkdDdE1VNVZOYUxQMVN4VTJfMExEV1oyZGlOYU1WWU1XWVA2enlsUnhodzEyTVdkTXRES3RCVzlUbjZrWGJDMVVXUUVPNEJjdW5HY3pMUTN1SldkY18xNEh5emYteTlwam5QZklBRXVMbjZGNXNpTFV4WUZpTHZtT1J0bGVFMzZpUXdoNTNTWEhWdGRydVFmZGJSZjE2NjA2aDlGTjl5dGk1X2JZeE96ME5sd1VTQ2V3?oc=5",
       "pubDate": "2026-02-23T08:00:00+00:00",
-      "source": "World Health Organization (WHO)",
+      "source": "who.int",
       "description": "Bersatu Merespons Dampak Kesehatan Jiwa Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4864,7 +4873,7 @@
       "title": "Komnas Perempuan Luncurkan Laporan Pengembangan Pengetahuan KBGO untuk Perkuat Ruang Aman Digital bagi Perempuan di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNT3ZtRlppeXk3YVJpRTBlb3BIZUJNWmFWc0k1cFF2UU91bHVaczVHdEpDS2oxYVg1WVBkaVd1eWI1TFFleUs0dVBaNElBVGl6bFloalNaYWVNdy00dE15eEVXNW9EcFN4VUZLNUpCYkktc0p4ZWZsNUFjMmJEM01zZVdiNHZlbkFab1E0TEZNVzF4TEt2T2tjckdpaWF3R3FPVDVGRkY0VTNySlBpYi1yX3dmX0kxZWc3TWRFOUJNeXBFZWtBdnJsM1EzNGFpUXF1dXBVR3FPYlZXeWdMVHhOejlnWjNlcFd3MG45MG1KbHU4c1JJNWk3UERpQ2thVGdIdEVTYVdoWnhvOTRreHRiLWxJaFg?oc=5",
       "pubDate": "2025-11-20T08:00:00+00:00",
-      "source": "Komnas Perempuan",
+      "source": "komnasperempuan.go.id",
       "description": "Komnas Perempuan Luncurkan Laporan Pengembangan Pengetahuan KBGO untuk Perkuat Ruang Aman Digital bagi Perempuan di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
