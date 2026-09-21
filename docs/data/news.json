@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-21T03:00:06.296189+00:00",
-  "total": 594,
+  "updated_at": "2026-09-21T11:48:52.197716+00:00",
+  "total": 599,
   "stats": {
-    "tpks": 171,
-    "kekerasan_seksual": 263,
-    "kbg": 64,
-    "kbgo": 96
+    "tpks": 172,
+    "kekerasan_seksual": 265,
+    "kbg": 65,
+    "kbgo": 97
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,51 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
+      "pubDate": "2026-09-21T10:07:31+00:00",
+      "source": "ANTARA News",
+      "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkotaGlDVlRKVEVmcUw4NTVJaHdGakFGcFZHcjZ0ektNTHN0eDBJb3pJSHVzUFhsMjIwMmZMRXFPWGtkV3Juay1DR293MVpJaTZZa2ZyQlhNcGVLSXV4eWcwWEpqVHpHTlZPSzNKQnpBN3NiYVRrRTF4djNEdmZqd0xlVVB0YkwxeUZ0YW1teEFaa1RxUkZ3TG5nR2pOX3BrNVZIUGgweURSLTRORGc?oc=5",
+      "pubDate": "2026-09-21T09:42:13+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Namanya Masuk SOI, Bos Son Ga Terduga Pelaku Kekerasan Seksual Bebas Keluar-Masuk Indonesia - memorandum.disway.id",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ0JRdk9Hb2NMMTFsODkxNWJnOWlQeEhRdjRvUHJ2SDB6NGphS2dCNGxwY0ZHdjFZbm9XQzBmcmh3U01haUNCSDhJbjRmNTRZQ2lqUC1ZaUFWcGZDVjROal80eDc3Rmd3TUJpcEw1dzFZQWVhSUVWOU9GY3RLMGtJeGxRQXNnTEF2dzc1NmFtaUQ0NU5aVGNEMXB3RlhpbFQzSF9NdGtqOXVBZXZoN1czdzFOMlFYTmFGbzMtVTBLVjRfaWRJMm9NNWRHMVdDWWw1Uk5HaUNycXVkREZrajRZ0gHKAUFVX3lxTFBQSE4xdWZldkZqYkN6c1QxLW4zb25RWnVndWEwY1h6cld2dHdMM3NDRXgtM0pLVlozR2lWRUtjQlF6cmVQcnBkZmN2WXFGa2lic0NEa1YzS0c3b28zbzlCMFpaaHJXRVRCUHlJdEl2NUZzNERUSWJqNWd1SmtQWHBKNVI4MElMTmZub0FVY2YxR2h3TTg3Z05lTWtmVmlrckgyT2RxdGhNMVdhN2pCNWxzRTg4ZkVWS3E4eGJaQXkxOEZPZ3R6VnNRRnc?oc=5",
+      "pubDate": "2026-09-21T08:03:00+00:00",
+      "source": "Memorandum.co.id",
+      "description": "Namanya Masuk SOI, Bos Son Ga Terduga Pelaku Kekerasan Seksual Bebas Keluar-Masuk Indonesia - memorandum.disway.id",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Oknum Polresta Kendari Diduga Intimidasi Korban Pemerkosaan dan Langgar UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFhCQjZXQlgzaUtCalktbi1oQmE2VENpam44X18taUNEbi1BcmFYdlZsajJsSU1jS0RYeTlWMXJfTV83MHNaeHdsbGRoejVCTDZORVpEUWVBUWR3QTlqRTBHZk1CVWRTMmpMSm1rQTJxTzZUUVc2d1RPa3pxejg4VjM2cHE2Yi16U2dpSUFqUkRLS0hzRjVZZERWejIxSnd4MmF5Q1J3?oc=5",
+      "pubDate": "2026-09-21T08:00:52+00:00",
+      "source": "Gotvnews",
+      "description": "Oknum Polresta Kendari Diduga Intimidasi Korban Pemerkosaan dan Langgar UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Anak kiai Jombang yang dihukum penjara, diam-diam bebas lebih awal, temuan BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ldDNGczhmbWotekpIN1ptUl96Q29zWU1pUFJ2ZUNpVkQ2V0JDOXE3NDJ1Rnc0VWREVUpZLXdKRy1RX29OUXo3LXBzY2tpYXN1OF9TX0Z3TERmMVM4aTZ5ZHBR0gFnQVVfeXFMTndxMkdJRXpLUGk5S2c3d20yellWMHg0NUJFTVRTNHRvMkVGT1otUVdtZ1czalp0TVZ3RTdpOTRRV01wRGJld3k2TGgxUTdXYmZGelNDVXV2cFB5bnNVajIwVmlTVDcyVQ?oc=5",
+      "pubDate": "2026-09-20T23:23:58+00:00",
+      "source": "BBC",
+      "description": "Anak kiai Jombang yang dihukum penjara, diam-diam bebas lebih awal, temuan BBC",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Membangun Ruang Aman Bagi Anak Dan Perempuan Di Era Digital Halaman all",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMFd4N3F2WmEyQUF2SXZ5WjZEc3Q2NTViOVplR0V2cTdTMFBObmxmbllzUDZkRHgzaVdyUTdXOEltc25abHpjbXRHc1FzcDZ2bk0zU0dmWk5faVRkZllVZGpzbWc3c3RGTGNMeUsxR3JfbnUtTFhMaDZidkVveXg1Q0hKd3pzMFBJczBUa0EzRGlmMGpUQTc3cXFCbzhPRFB5VHRpVGxlOVNYbmJoNExpM1RHcmVvclZ5bWpaUDU5QmVTd1I3ZzFfZ1EtMA?oc=5",
@@ -121,7 +166,7 @@
       "title": "Manfaat Menggunakan VPN untuk Perlindungan Privasi Online Anda",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkZkNW0zVzR1eXNBUi04UWR0M1Rpdi1rbFB0V0tWUUxnYm5CYTJBY3podHRVME5zSDFsWExoWHNRcnlRMU9sZjRHT2tONnNQTjhhOTBSTlo0c3pMSmUxTFlLRlNFQnUya2kyY0JBSDNVTmY0TUZGVnpxTHlQUXpQY2ViMUhzWGRuai0tMEl0amZkYTI4dXlFcUFleS1CQ1FfNExN?oc=5",
       "pubDate": "2026-09-17T20:34:00+00:00",
-      "source": "Industry.co.id",
+      "source": "industry.co.id",
       "description": "Manfaat Menggunakan VPN untuk Perlindungan Privasi Online Anda",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -561,7 +606,7 @@
     {
       "title": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNczU1bEQxdWlvWFRlMzZub3dYckk0aUZNS25qRHN0eTAtX3YtUm9aUFhyekNNVFFEOE10Q0lxZHV2a3d6Z2RVM2NQeWdQQUk0N2VLRVJiQndKWFUzSXhac1MxMWxvQkVwSjIxSUF3c2V4cEgzdHJvZm5BNW9Fd09yZkpjaXFUcl9ibTRPazBhZzZSTFA3N0dzM1l5WW02b1VtbGhvSXFpLTB1VW9QTFlqS09aemhqSDNmZ2F5Rg?oc=5",
-      "pubDate": "2026-08-31T15:08:24+00:00",
+      "pubDate": "2026-08-31T07:00:00+00:00",
       "source": "Aktual.com",
       "description": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "keyword_id": "kbgo",
@@ -1759,7 +1804,7 @@
       "title": "Stop Diam! Kampus Harus Lawan Kekerasan Digital",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZUxJQTRmRUhZbnRjSVc2UDRaZGl3WkV6aHpYWXIteGVWa3dfYmRZbGctR3QzUU52ZUFlVVJoUXVad01FOEk0M3JKc3FXNkVxNmYycmQ3YTh2di1OalNCOGxCQUo4VWlOdmN6WTVKblUwUVpjZ3lmNS1nQUdsRXlpd2Y3dkg2NWdXZDBYRQ?oc=5",
       "pubDate": "2026-08-03T07:00:00+00:00",
-      "source": "news.nusamandiri.ac.id",
+      "source": "Universitas Nusa Mandiri",
       "description": "Stop Diam! Kampus Harus Lawan Kekerasan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -2332,15 +2377,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUhUZVRnUVlHWFZBVHhnbHZ1bTFhZWlnRk1kZ19PekFiUk0wVVpEYUFXdHg2c295RE1wS1kwcnhNRmxTTm11RVpud25sV1FBeGNNMkJ0UkpabHdSeDFFSm5yaXRjbTVEZEYyRmEyR2tGZDBNckZ6TXJTQ25OQVItbWJBc0lHd2NGYnpKWG1pbWhpVGxsZk9CZmxuaw?oc=5",
-      "pubDate": "2026-07-23T07:00:00+00:00",
-      "source": "Prohealth.id",
-      "description": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQS1jcVVFQ3BneU0xa094blY1OEtXNmJUV0lZUnFLejcxNDhkOVctbDdMLTNyc2lPZUF0M3gxMTY0NVZ3dHFxMFY0cnk1ZURkNkt2emlfVXViWmpFLXYyOXVkcGNfeVUxTFNOQ0ljSHpiZkJqN283RTgxcFJzOFFjNVB6LUo3a2xMaVQySEVidnA1RXlKbzVmdm1WS1U?oc=5",
       "pubDate": "2026-07-23T07:00:00+00:00",
@@ -2348,6 +2384,15 @@
       "description": "Hari Anak Nasional: Anak Perempuan Masih Dibayangi Kekerasan",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUhUZVRnUVlHWFZBVHhnbHZ1bTFhZWlnRk1kZ19PekFiUk0wVVpEYUFXdHg2c295RE1wS1kwcnhNRmxTTm11RVpud25sV1FBeGNNMkJ0UkpabHdSeDFFSm5yaXRjbTVEZEYyRmEyR2tGZDBNckZ6TXJTQ25OQVItbWJBc0lHd2NGYnpKWG1pbWhpVGxsZk9CZmxuaw?oc=5",
+      "pubDate": "2026-07-23T07:00:00+00:00",
+      "source": "Prohealth.id",
+      "description": "Plan Indonesia Ingatkan Kasus Kekerasan pada Anak Perempuan Kian Kompleks",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "KPAI Soroti Ancaman Baru bagi Anak: Kesehatan Mental, Rokok, Kekerasan Seksual",
@@ -2983,7 +3028,7 @@
       "title": "Cegah KDRT dan KBGO, Bhabinkamtibmas Keparakan Hadiri Edukasi Pencegahan Kekerasan Berbasis Keluarga",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdTNCaEJDY0NuSXRLLVdYZk9nRlBPSXd1RDYxNnlockROM0tuVDNfVmRpVl96V2U3STB6cEEzNkt3eDdYVmZGbG9XUG1fZkl1Nlk1MS12TzNfOVpmQ1c4YVlwY25NcE5FV1l6N0N2ZFh4eVJTY0RLY2U0bFZzNUlCOTByQm8wRHRmWnp1SHZTRUxhRFVMTHo0akNERmRlR0pzcnZnWFhDM0YyUmNDZk5uSXBUZV9xd3NwX2s3Vnl2Zi1UZnM0UFNvMGV2MWEtZjR3aEEtUnNjazkxREJaMXpXVDBzR2xITlNGbkxuSl93Y0JWVEVNQklVMmh1VEgtb3M?oc=5",
       "pubDate": "2026-07-10T07:00:00+00:00",
-      "source": "jogja.polri.go.id",
+      "source": "Polda DIY",
       "description": "Cegah KDRT dan KBGO, Bhabinkamtibmas Keparakan Hadiri Edukasi Pencegahan Kekerasan Berbasis Keluarga",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4972,7 +5017,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -5035,7 +5080,7 @@
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0pVaXdwMnpPMThWOXRhMTdZRWtHTW04RjlHMWJnSFUwMmR2WlFZOXZacXV2akowUFR5ZWprZklBYzZFc1g2dmUtcE9VMUVvSU9YMUUtbE5ZbWxZYkJ4OGMwRU83ZTNCX0pmRnBOcFRJNC1nakdEbzQzbnpacm1lSDRVZzY3VVBkbWRXanJvSkg2WjRMaUE?oc=5",
       "pubDate": "2025-12-17T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi",
       "description": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
