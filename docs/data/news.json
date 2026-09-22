@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T21:36:57.637157+00:00",
-  "total": 604,
+  "updated_at": "2026-09-22T03:00:06.212120+00:00",
+  "total": 605,
   "stats": {
     "tpks": 175,
-    "kekerasan_seksual": 267,
+    "kekerasan_seksual": 268,
     "kbg": 64,
     "kbgo": 98
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "KPU Ciamis Perkuat Pencegahan Kekerasan Seksual di Lingkungan Internal",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2t4RThjTWJ4WDRJVU1BSzNVSVNCOExFSm1pUS1FMDhKaE8wS2tKMnNkWWxGSHZHd29FS01PbDRCbTJkd0VaMXotMDZDRmtHNDl1b09Sc1pFYkpJTWlXcFJKSFgyVjg1ZDBpV0FBdHdaQkk1elNqckYxcmRVOTFZOTkwSDNsSHRON0ZOUUFfazB6NF9WVmJTNTVNaFNLS0FFQzVhLTRHdw?oc=5",
+      "pubDate": "2026-09-22T01:05:07+00:00",
+      "source": "MediaSakti",
+      "description": "KPU Ciamis Perkuat Pencegahan Kekerasan Seksual di Lingkungan Internal",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Polisi Tetapkan Dua Tersangka Kekerasan Seksual di Gorontalo",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0F6bm5mcWYtNlhVbHVtYVdSTnFRRFU4cEhsMXFYaHUydUVEN1ZFTTRiTC0xdHVody0waGV1Zmd4d1hkT3Q4OV9xYUJCQmM3RXNwRVAzX2d6WFpCWHZkdllmb2hRRHppaW9wUDBENWNmVWdTQ21EQzJsR2NGUk15b0pyZEJzSnFsMFVmUFNlQkdEVmhCRlgtSzJtUQ?oc=5",
@@ -65,7 +74,7 @@
     },
     {
       "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRERXSTZWVmI4TWNVSk1RZHJuZFNpd0FpaTUxZ2M4dVJ3VGp1Ykttb010VWJxS3B0ZHUxbVlzY09yMWtEUjhGekJLRk1QV2VTLU85bmpDelpweXRkR2pKZU9Ra3k2aTkzWWo3SERnRjBPb3dwdVZ5Y2lCLWRRNll1azZidTB5TUg4ZHptSXJoSUh4Ykt4SV94dUd4NDBaQTZMb2RhQ09n0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
       "pubDate": "2026-09-21T10:07:31+00:00",
       "source": "ANTARA News",
       "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
@@ -94,7 +103,7 @@
       "title": "Oknum Polresta Kendari Diduga Intimidasi Korban Pemerkosaan dan Langgar UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFhCQjZXQlgzaUtCalktbi1oQmE2VENpam44X18taUNEbi1BcmFYdlZsajJsSU1jS0RYeTlWMXJfTV83MHNaeHdsbGRoejVCTDZORVpEUWVBUWR3QTlqRTBHZk1CVWRTMmpMSm1rQTJxTzZUUVc2d1RPa3pxejg4VjM2cHE2Yi16U2dpSUFqUkRLS0hzRjVZZERWejIxSnd4MmF5Q1J3?oc=5",
       "pubDate": "2026-09-21T08:00:52+00:00",
-      "source": "gotvnews.co.id",
+      "source": "Gotvnews",
       "description": "Oknum Polresta Kendari Diduga Intimidasi Korban Pemerkosaan dan Langgar UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -651,8 +660,8 @@
     {
       "title": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNczU1bEQxdWlvWFRlMzZub3dYckk0aUZNS25qRHN0eTAtX3YtUm9aUFhyekNNVFFEOE10Q0lxZHV2a3d6Z2RVM2NQeWdQQUk0N2VLRVJiQndKWFUzSXhac1MxMWxvQkVwSjIxSUF3c2V4cEgzdHJvZm5BNW9Fd09yZkpjaXFUcl9ibTRPazBhZzZSTFA3N0dzM1l5WW02b1VtbGhvSXFpLTB1VW9QTFlqS09aemhqSDNmZ2F5Rg?oc=5",
-      "pubDate": "2026-08-31T15:08:24+00:00",
-      "source": "Aktual.com",
+      "pubDate": "2026-08-31T07:00:00+00:00",
+      "source": "aktual.com",
       "description": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -841,7 +850,7 @@
       "title": "Sistemik dan Akut, Dosen UGM Bongkar Borok Penanganan Kekerasan Gender yang Hanya Jalan Jika Viral",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY0xvNGdRTDZ0bnRCSWFpQThQd0ppaWxKZWRFRmd3ZkdacXpTaUV5dDU2VDNrWkRhTS1vckJ1ZDUwRWtGM2YxdkY0RTlPNHo4aTVoN0dLMmUwcDZfMGVyUGFKN0xILXIwaEJfb2wwRHJYR18wbTg3MjkyTmJkVWRnOWxDNjY3azdmb0F1dnhWU3lDY3U3dEIzM1pYdWV1NDhual9iZkR4bmZHWk5PNTR1a2hFNzNjWDg5emNwQ2pUV1Jtdmwxem1ZZGtfUmZjV0lrQlBNb01vbm51d9IB2gFBVV95cUxNbnBvZlhldjBKYnpSbG5MWktqWTlUa2RtVmVmSmFBNkY0NWJwd0dFdlN4WW5KNm85OEVSYzE2bUNwN0ZZZnJsYzlRZTBQUUVzZ2dvV2Y1NW84VlRhSk9UdWVJS1RPM3p6S2VUUlU2MEcyMEsyTW83X3d1aXUtWENiTUJnbm50RklRM1JTM3FtaUQ4T3hWQzRUMGcya3pvQVJzNThMbWQ2NDc2VnpucWkzczlJbXpvMXU3bDNpNWhwX1VYTDJNcm1HTVZnRi13LUxPMjhDc1J0aWh6Zw?oc=5",
       "pubDate": "2026-08-24T07:00:00+00:00",
-      "source": "suara.com",
+      "source": "Suara.com",
       "description": "Sistemik dan Akut, Dosen UGM Bongkar Borok Penanganan Kekerasan Gender yang Hanya Jalan Jika Viral",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -3541,7 +3550,7 @@
       "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
       "pubDate": "2026-06-28T07:00:00+00:00",
-      "source": "Aktual.com",
+      "source": "aktual.com",
       "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4342,7 +4351,7 @@
       "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzJuVXZJanRSN1hwcEZ3U1ZrOWV3UkREMXVsX3VGOHNpbTBacURvOHJ0b29faWlBbkpnTkJVTG1VWE9vaGE5bnNwYUJROURZTDlfTzB2NW83Y0FUeE1jNUVIUWFIX3REa2w4ZEwtOHhEVWlza2dBQndFT0JOdnFxbEVSOGJBS2dkU1VLaS1QeG4zRG5oOWpaeUs2OUk5ckFmRWJPWktXUm43UTJFX3pKZkV4RlRrcG44VEJLRmJfZ0o?oc=5",
       "pubDate": "2026-05-20T07:00:00+00:00",
-      "source": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+      "source": "kemdiktisaintek.go.id",
       "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4645,6 +4654,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Prohealth.id",
+      "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -4661,15 +4679,6 @@
       "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Prohealth.id",
-      "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital Tangani KBGO",
@@ -4837,7 +4846,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "UNICEF",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4846,7 +4855,7 @@
       "title": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3BSdVY3aVZ2WFdSendVbDgxUjR0a3dLb1BsMGVvaVR0UXA0Y25hOUpFZEI3OGM3aUhGMzJoRlkySUFJb0Nwa19NcDBFcUc4SGZtcTlYQkJxeGoxX054VzI0M1p5cXNQNi1NX2l3N18zc0hXVkRJNjJJcXdMWVBtOG1Wc0RJNHVZLUJ2STlFdHBLSE5CY0lIWVV1blQ3Q0lxOGxWT3RsYXloaWJDRTFKSzU0NDBPOHVRVUdvWm1jWC0?oc=5",
       "pubDate": "2026-03-16T07:00:00+00:00",
-      "source": "Universitas Muhammadiyah Surakarta",
+      "source": "News UMS",
       "description": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
