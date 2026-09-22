@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-22T03:00:06.212120+00:00",
-  "total": 605,
+  "updated_at": "2026-09-22T10:50:49.012921+00:00",
+  "total": 610,
   "stats": {
     "tpks": 175,
-    "kekerasan_seksual": 268,
-    "kbg": 64,
+    "kekerasan_seksual": 272,
+    "kbg": 65,
     "kbgo": 98
   },
   "new_this_fetch": 60,
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "ISI Yogyakarta Nonaktifkan Dosen Diduga Pelaku Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS1dSUmF3NHdSTXRPYXY1TF8xVkRXUjQwQlpKZXhqUk83VHpEY1lGTG9rVU9RQVVnU05WM1VNNnZaT08yOWxjakFqaTJBRmJhNElUU1oxa3M3dDVJV2hzYkx0eEZ0VldKRWx6WF9TSTBDSGdqcVdtRUxpdDV1ZnpEZURJWHhCRWFjcW5lUnYtbUE4SGdTQzg2cGVDLVpZT1ZNbW0tMGoyczFrc0QzQlB5NE5zcXRJenM4bFFtaEVQc1lUelFibl9v0gHMAUFVX3lxTE1FYXBSYS1sQ1k1S2VNc044OEo0SHFlb0R3dGdLQ01tY0dIOXQ1UGd3MFM0TUgyMUFUMjFRazNPTEhjODhFNkJ3RGtKMVlWSTZ6SFpVa0N0MXljamlYMnBhV3RmdHpYcnlqNzJXQlY0M0oxeFBfa09qTk9udUoyTnljdTRMeXJwYVhGMlV1SjduY1lBMF91bldwSkNnX2lyYUxpLVJWTlFDaW1pQUdiREtfU0p4S1ZnQTJKOE9MZ1N5QXRzcXdmNlVzV1gybQ?oc=5",
+      "pubDate": "2026-09-22T09:16:20+00:00",
+      "source": "cnnindonesia.com",
+      "description": "ISI Yogyakarta Nonaktifkan Dosen Diduga Pelaku Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Baru Setahun Mengajar, Dosen DKV ISI Yogyakarta Dinonaktifkan usai Terbukti Lakukan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTmlPbVhwWWpPV3c4SEwwZjZSeDhCLUM0a0Y1UTNYQlJxbjF0ZVhNMXVzUHNVbzVpemU2bHo4QmxMd1QxcUE4TjlUWjRJbEgzelRMcGhBYUEtcGltem1zNmpla0RVcUpjejhhSGFLZzRyVjhvZENRMkhtWXNGaHYzSEpwTXlCSkVPc2NNZGY4ZFQ4RFFpUzBBV1RocUQ4TGZLSzdsdkhNMm1leVV3Z3Z3U1FfZkQ0V3IyaVBlVjI0T3I4RzNMNV9jenJ3?oc=5",
+      "pubDate": "2026-09-22T07:30:47+00:00",
+      "source": "AFU.id",
+      "description": "Baru Setahun Mengajar, Dosen DKV ISI Yogyakarta Dinonaktifkan usai Terbukti Lakukan Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Inggris bentuk pengadilan khusus untuk kasus kekerasan seksual – 'Demi keadilan bagi korban'",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtbk9aNERFVlkzLXVLcHdrTVlfNE5wTW52UFdXd3A3Yk9oYUVfejlCRHZKaUJIeVo3RVk2TXZPb2s5RFFmTG5yLUdtQ1VaXzRzYVlMY2l1Slc2QVBkVEZySU1R0gFnQVVfeXFMT1p3M2d3VWtqLU5Vako2QWR2a09pMXBNNHA3YXpRV21LUThFazQ1OUVzMnh2T29iTzJIMnZuN1czeTBVeFN6eXI4SWxZanV0Q3lyekdnd0l4cWZvSDFtMngyT3FrajFBNA?oc=5",
+      "pubDate": "2026-09-22T04:10:44+00:00",
+      "source": "BBC",
+      "description": "Inggris bentuk pengadilan khusus untuk kasus kekerasan seksual – 'Demi keadilan bagi korban'",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "KPU Ciamis Perkuat Pencegahan Kekerasan Seksual di Lingkungan Internal",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2t4RThjTWJ4WDRJVU1BSzNVSVNCOExFSm1pUS1FMDhKaE8wS2tKMnNkWWxGSHZHd29FS01PbDRCbTJkd0VaMXotMDZDRmtHNDl1b09Sc1pFYkpJTWlXcFJKSFgyVjg1ZDBpV0FBdHdaQkk1elNqckYxcmRVOTFZOTkwSDNsSHRON0ZOUUFfazB6NF9WVmJTNTVNaFNLS0FFQzVhLTRHdw?oc=5",
@@ -661,7 +688,7 @@
       "title": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNczU1bEQxdWlvWFRlMzZub3dYckk0aUZNS25qRHN0eTAtX3YtUm9aUFhyekNNVFFEOE10Q0lxZHV2a3d6Z2RVM2NQeWdQQUk0N2VLRVJiQndKWFUzSXhac1MxMWxvQkVwSjIxSUF3c2V4cEgzdHJvZm5BNW9Fd09yZkpjaXFUcl9ibTRPazBhZzZSTFA3N0dzM1l5WW02b1VtbGhvSXFpLTB1VW9QTFlqS09aemhqSDNmZ2F5Rg?oc=5",
       "pubDate": "2026-08-31T07:00:00+00:00",
-      "source": "aktual.com",
+      "source": "Aktual.com",
       "description": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -1849,7 +1876,7 @@
       "title": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQld2QlByUVFienVoRWwzZFdyME43bVdSbU5PLUZqQ1J3ampOSTNmOVRnYjlMR0Q5VGhTRFE1Z0dPMUFfTW4yWml1YVhUVDdVV1kxcGtRX1V0R01oZkF2b09MaGlZb3ZKZTZjUkdjbXlXcUJ2T1c1TUotM0dTd2NVS2w4V284R1FhSlJ2UWVqS3lCT1lSbHNPZU5QWV9qYzZ3UFpBc3BtQlI2bzhzV2p6VjZQUFdUZ2J5T0FfLUI5LTF2aDJsWkxXSnF0ZmVhWnREUTRIRGp1N085c0VC?oc=5",
       "pubDate": "2026-08-03T07:00:00+00:00",
-      "source": "Komisi Yudisial",
+      "source": "komisiyudisial.go.id",
       "description": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3550,7 +3577,7 @@
       "title": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWJ5M3N2eXBsUlF6UE9LRUVqMDhSRkNEQnFhYnBMOF92Vk1KSE1VNVhydVRvM1R1eDA2MmtQYUdRM0J5ZFhKck0xLVVsLTRITFJKcG9QY19KLXF3cUxTNDNBb084QXZlcE01bDhmY2s5M0JWVm9WTXhUQUdaVW1zWlNQdVVwdUpHUGdjQ3I4ekxyU28tdTMwbw?oc=5",
       "pubDate": "2026-06-28T07:00:00+00:00",
-      "source": "aktual.com",
+      "source": "Aktual.com",
       "description": "Legislator Desak Komnas Perempuan Revisi Dasar Hukum Kasus Taufik Hidayat",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4171,7 +4198,7 @@
       "title": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0EtR1EtV01uV3BVeFp1Sm12QkZ1MF9FenRPa01td0ZjUVBGNlZpeV9UTldQQXF5ODBtQzFsYjV1WTVfTjc4TU9XOEpkcHYxa3lvanZEYnBMZEF3cUtQaVdHRHBTT0VVY04xUFdlTlR2d2J5QTZHVnkyWlFVUGJKMW1LLWk?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "BIDIKKASUSNEWS.COM",
+      "source": "bidikkasusnews.com",
       "description": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4263,6 +4290,15 @@
       "pubDate": "2026-06-04T07:00:00+00:00",
       "source": "Universitas Diponegoro",
       "description": "Dosen FISIP UNDIP meneliti Kekerasan Berbasis Gender di 7 Propinsi dalam program VOICE 4 Equality",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQVpwM2p6aTFWWHdOT2VLam9udENhaTl4bFJ1U1cwOXlHcWJWbVhxX01RMWNxMENLeGJMQ2dkUFkwcC1Pd0pmOXpkLTlWaUs3RFYweU1hS2J6ek9ncWxON3A4cEptZy1FTnhkakV6REVCWUlKeldzRndBeWdReHVJQURRMENCZl9JUUs3YVNFTE1UYVNZWXI3X29qUEdiOEtQRzZqTEpEbkk4NXNrZ2pmQlE5MXVSRGxLd2VTWUxEMm5xd3dIQ3FmSGpCUHh6S0I2M19DYmxfTQ?oc=5",
+      "pubDate": "2026-06-02T07:00:00+00:00",
+      "source": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+      "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
@@ -4654,6 +4690,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Dugaan kasus kekerasan seksual FH UI: Bukti absennya etika gender dalam pendidikan hukum",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUFmQnpzYmJsWG11WlNVbUNHX25hY05LQ0RGOHBQWm1uaVBnWkhKR09IWjZqc2pNQW9ob1dBMHJDaVZ2Z1c5a2U1YTZvLVQ0WUZMWWkwVGFQQmVzbmdFc0JFLXh2SUdOVm9tckx5N1psbnZiaWdENzkyckVGMkl1VUoxZUdweXBfQUNOazZ0MFE1aXJrUWk4bzhxSEZKWjlxMWhiV0RCb0pHY0hVQjZQWE55MC1qVFFLNl80ZFZCcw?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "The Conversation",
+      "description": "Dugaan kasus kekerasan seksual FH UI: Bukti absennya etika gender dalam pendidikan hukum",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -4846,7 +4891,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "UNICEF",
+      "source": "Unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -5053,7 +5098,7 @@
       "title": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjhnd1VKUmRjakhaYVBSMWpONjAxY0FWREExblludXAxNWV4S2tBVW9BbWJqM2xwdzhjckJ2VHBTbC00TWJqekhIUkROc2djd05EMXotSHQ5cjlRUElza1JWOV94RjNFWUxXUmZlV3hOVkhUOXFrQjZ2azBNSXRfM0hheDVRdUxKMU5YUDh5c3U3YS1Md3A1M3Z4ZV9vc0hOblZMMk9MSDhxSno0Z3BOZTZnUE5FcmFPSXRnNWM2VGkwcFpqWm95bGYwc2pIc2xLVVo4?oc=5",
       "pubDate": "2026-02-06T08:00:00+00:00",
-      "source": "Universitas Gadjah Mada",
+      "source": "ugm.ac.id",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
