@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-23T10:39:33.217911+00:00",
-  "total": 622,
+  "updated_at": "2026-09-23T15:58:29.110754+00:00",
+  "total": 625,
   "stats": {
     "tpks": 176,
-    "kekerasan_seksual": 282,
-    "kbg": 66,
+    "kekerasan_seksual": 284,
+    "kbg": 67,
     "kbgo": 98
   },
   "new_this_fetch": 60,
@@ -28,13 +28,31 @@
   ],
   "articles": [
     {
+      "title": "ANW Siapkan Bukti Krusial Jelang Pemeriksaan Betrand Peto Terkait Dugaan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDZha2dfa0IyN283RU9LbzFOUjlwWHd2bng1S1QxdVpiQ29IS3RGV3lGN3hoSmZ3c1E1QS1Sa1h6ZXB0Njl6OW1XM0ZfMUxpVnpJYWNlN1F4Q0QyMnZsSjA2a3NxQVkyaXZkNWpxWG04YXFpZkVkR0wxdTdjQ1JrazBmUFByUWptZlVqMDg1azBqa1h4NlRrWHFnaDJkOHRlWnNieVdZWG9MX1ZEVnNaTDBSNjhDRWI5bk9fLWhDSVFtcVczeF9rOGN4YXdWU0tSeHBwTW94YjJQSWc3OFNIa9IB3wFBVV95cUxOanFaNXU2WnppcXh3a3RpaExDQjlLck42OHc1dHlaZEN2MmV2Mk1WSlJCaFE0anJSMVJHaUJuemowSzZHMXh1MWU0VV9OckJXbHBoX1N2ZEMxMXh6TW1EdEktTm1CT2RGNVd6dDF1ZnZlSzZRcXFIMlo2LUdacmZrRWUtUmRJYW9iaTZkaV9mSDk0ZzBBRjhfS3VyZ2I4Q0tfNXYtVDJoajlxVVRmY2N6aHFNaEZuVFdTR1pVblpZa3lvNEd0aVZkemw1WmljMHhqNGk0YkwxcWk5OGZNYUhR?oc=5",
+      "pubDate": "2026-09-23T12:00:00+00:00",
+      "source": "celebrity.okezone.com",
+      "description": "ANW Siapkan Bukti Krusial Jelang Pemeriksaan Betrand Peto Terkait Dugaan Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Sukma temui pendiri pesantren terduga pelaku kekerasan seksual",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yRzY5SmNLaWJvcE5xd2dCcnQwQVR5dkFUbmJRa2QzQ1hZZHFXTW9oVkhSQ3VLVUV5eXktZEtxaWN0eWhwdDZyTGhjR0ZwZVFkRTBoeFdxeXVtR1RKOU9LRjJ30gFnQVVfeXFMTnV4OXN2cng1OGRyUlFyaklHU0xQaVlBWTBKZnFncThiVzJQZTVDZFhNVS1wY0h2VjZab2RyYTRBejZnTTRUanc0SnIzX2tCTEg0cFdOZXBmTjZtaDlIWTdQME1waDhYaw?oc=5",
       "pubDate": "2026-09-23T09:41:05+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Sukma temui pendiri pesantren terduga pelaku kekerasan seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzFCR3U3ZmpLRS1tYUt2U3RFbWl4WW5KNHR0OW50aEwtRW1yYXFiLU1BeDNvOXJZM2JOaHUtTmNVOWo3WHktWDJuT0FyZXBZbGtZMzZfVmNCOGtjNGRwTDB1b0hmbHh0WUFPdkFHS2xvNlhJSHFrSEoxcVJhN0xuLTUyWWlaSDd3cTMwSmxGX2RLSVYxbDZGZDZkRk50ZkszTTAyRVlmQU90NktnMUJtV3MwejFRYXphUzIzcUhXLTBDbUFo?oc=5",
+      "pubDate": "2026-09-23T09:17:24+00:00",
+      "source": "sibolgakota.go.id",
+      "description": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Terpidana Kekerasan Seksual Santri di Jombang Bebas, Ini Tanggapan Yusril",
@@ -67,7 +85,7 @@
       "title": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXd1aUhuUFA2NzVncFZ3MXltUWdKeExFejJ5NnJwODNHX3ZFNXBTbjhZQ05FdngyTXdmSmpDUTVwNkl5ZVh3RTRiblZ0MHVGbXliWTVPcHRySGVWQjZXYUpUOFZFMW9mSmtmVzNZM1dwMEZneTZVbFZKZVpwcmdqN2pxMmFRcjdvZzVrYmdjY1k2TktBQ2pESmdwZkg2ZVlHb1Zuc2psV2UtWFZsbHg0VXB4SXfSAboBQVVfeXFMTWNWWGEtMTJJNTdEQ254Qng2MC02YUNmNHRtNGVzeERycE5uSGRDNTdXb3I5cEU5QzRyQXA5R0dFUGZZYTZsNVZ4YUR4aXFxZC03WkV6cW9yMmRYSmQtWjJJeWpEQ3ozeHp5cUdyZ0xvRVhDU1NkU2dfLVhBcXlzU0ppVjdXaU9FM24zczJWZWJxZ0ZJQm9mSDZ0d2xCdm1kZHNBYkJCNmsxYWR6dTJjSGhqWWFNTzA4a0tn?oc=5",
       "pubDate": "2026-09-23T03:45:22+00:00",
-      "source": "news.detik.com",
+      "source": "detikNews",
       "description": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -85,7 +103,7 @@
       "title": "Pimpinan pesantren diduga lakukan kekerasan seksual, ratusan santri Ponpes Abul Barokat Wannafahat NTB dijemput orang tuanya – 'Kami khawatir karena anak saya perempuan'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Gdnl5TmVEWFdGWkpBZS1LYk1KSXFiOWZkNXZmUm9sUWRJTHpORncxNWxLVmVDSDRBbGpaYldNeGx1UERONWtBOVlZcC1SOWJucHNSUEdkZlVrRGsxYlJHQ3Rn0gFnQVVfeXFMUFlVa2MtcHFyZkFSSzA5SFFENEtaekxMZFZnZXdPQ1JwY25QYW85bnJBYlNsbktmLTE1RzNlSmNzV0UtNWNZVWZhbTc5ZEM3U00wUmNFOG83dVNCTDlkeW9VU1MzdGRVVQ?oc=5",
       "pubDate": "2026-09-22T13:40:43+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Pimpinan pesantren diduga lakukan kekerasan seksual, ratusan santri Ponpes Abul Barokat Wannafahat NTB dijemput orang tuanya – 'Kami khawatir karena anak saya perempuan'",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -105,6 +123,15 @@
       "pubDate": "2026-09-22T11:04:08+00:00",
       "source": "ruang.id",
       "description": "Nol Toleransi Pelecehan Seksual, ISI Jogja Lindungi Korban",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "ISI Yogyakarta Nonaktifkan Dosen Diduga Pelaku Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS1dSUmF3NHdSTXRPYXY1TF8xVkRXUjQwQlpKZXhqUk83VHpEY1lGTG9rVU9RQVVnU05WM1VNNnZaT08yOWxjakFqaTJBRmJhNElUU1oxa3M3dDVJV2hzYkx0eEZ0VldKRWx6WF9TSTBDSGdqcVdtRUxpdDV1ZnpEZURJWHhCRWFjcW5lUnYtbUE4SGdTQzg2cGVDLVpZT1ZNbW0tMGoyczFrc0QzQlB5NE5zcXRJenM4bFFtaEVQc1lUelFibl9v0gHMAUFVX3lxTE1FYXBSYS1sQ1k1S2VNc044OEo0SHFlb0R3dGdLQ01tY0dIOXQ1UGd3MFM0TUgyMUFUMjFRazNPTEhjODhFNkJ3RGtKMVlWSTZ6SFpVa0N0MXljamlYMnBhV3RmdHpYcnlqNzJXQlY0M0oxeFBfa09qTk9udUoyTnljdTRMeXJwYVhGMlV1SjduY1lBMF91bldwSkNnX2lyYUxpLVJWTlFDaW1pQUdiREtfU0p4S1ZnQTJKOE9MZ1N5QXRzcXdmNlVzV1gybQ?oc=5",
+      "pubDate": "2026-09-22T09:16:20+00:00",
+      "source": "cnnindonesia.com",
+      "description": "ISI Yogyakarta Nonaktifkan Dosen Diduga Pelaku Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -148,7 +175,7 @@
       "title": "Inggris bentuk pengadilan khusus untuk kasus kekerasan seksual – 'Demi keadilan bagi korban'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtbk9aNERFVlkzLXVLcHdrTVlfNE5wTW52UFdXd3A3Yk9oYUVfejlCRHZKaUJIeVo3RVk2TXZPb2s5RFFmTG5yLUdtQ1VaXzRzYVlMY2l1Slc2QVBkVEZySU1R0gFnQVVfeXFMT1p3M2d3VWtqLU5Vako2QWR2a09pMXBNNHA3YXpRV21LUThFazQ1OUVzMnh2T29iTzJIMnZuN1czeTBVeFN6eXI4SWxZanV0Q3lyekdnd0l4cWZvSDFtMngyT3FrajFBNA?oc=5",
       "pubDate": "2026-09-22T04:11:07+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Inggris bentuk pengadilan khusus untuk kasus kekerasan seksual – 'Demi keadilan bagi korban'",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4720,7 +4747,7 @@
       "title": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZlhyanRsbXgzU3Q2bndHQnpMcTd1RklhZ1BFZ0FWeXBVTGpNb3NicXhKdXJndjFuSGxrOUlTUlZGZGR0eHlodTlmQ3pFdXJZVktjbWJkYjNwYzJrb0dBS9IBZkFVX3lxTE1nMFNGQlhJdWRjUlhXQ05CSWpSRXRHVGc4R19ZWHlvMzFRZ2JMX0g1NzMtNG9vNjFLSkxxbTM0T3Q3S0ctVTdKanJNOTNoNEhtNWJxd1hXVXF0aDkxdWxKbWdpN2Z5Zw?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "bbc.com",
+      "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -5206,7 +5233,7 @@
       "title": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjhnd1VKUmRjakhaYVBSMWpONjAxY0FWREExblludXAxNWV4S2tBVW9BbWJqM2xwdzhjckJ2VHBTbC00TWJqekhIUkROc2djd05EMXotSHQ5cjlRUElza1JWOV94RjNFWUxXUmZlV3hOVkhUOXFrQjZ2azBNSXRfM0hheDVRdUxKMU5YUDh5c3U3YS1Md3A1M3Z4ZV9vc0hOblZMMk9MSDhxSno0Z3BOZTZnUE5FcmFPSXRnNWM2VGkwcFpqWm95bGYwc2pIc2xLVVo4?oc=5",
       "pubDate": "2026-02-06T08:00:00+00:00",
-      "source": "Universitas Gadjah Mada",
+      "source": "ugm.ac.id",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
