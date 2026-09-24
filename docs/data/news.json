@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-23T20:59:21.663027+00:00",
-  "total": 625,
+  "updated_at": "2026-09-24T02:51:22.240549+00:00",
+  "total": 626,
   "stats": {
-    "tpks": 176,
+    "tpks": 177,
     "kekerasan_seksual": 284,
     "kbg": 67,
     "kbgo": 98
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Korban Siapkan Bukti Krusial Jelang Pemeriksaan Betrand Peto Terkait Dugaan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYmtaZ0JlYzBWX0paQzNGODF6YlFwUDZ6WXphNVUtVlNyaE5tSjh4QWpydnRtQkxEYWRyV3BxS0lhVktaaEZDZ1U3TFZfSGtSajZLZG9mUEkybllwOC10RV91NllrQlBfUTloSV9WS2w4RFZCZDA4ZjVMcDJnaEo1VVo3aXczUGU2azNnREJKUHlsWGswbnV2MDMyQmV5dUFyVG5wRXRoQV9nT1FmeEF4VlJ6ZnNHM1dGWEVwMEhXQkNHazBZQkY0WVVacWMyN3lVcHdGSmdyRzhEUExW?oc=5",
+      "pubDate": "2026-09-24T01:21:00+00:00",
+      "source": "RCTI+",
+      "description": "Korban Siapkan Bukti Krusial Jelang Pemeriksaan Betrand Peto Terkait Dugaan Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "ANW Siapkan Bukti Krusial Jelang Pemeriksaan Betrand Peto Terkait Dugaan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDZha2dfa0IyN283RU9LbzFOUjlwWHd2bng1S1QxdVpiQ29IS3RGV3lGN3hoSmZ3c1E1QS1Sa1h6ZXB0Njl6OW1XM0ZfMUxpVnpJYWNlN1F4Q0QyMnZsSjA2a3NxQVkyaXZkNWpxWG04YXFpZkVkR0wxdTdjQ1JrazBmUFByUWptZlVqMDg1azBqa1h4NlRrWHFnaDJkOHRlWnNieVdZWG9MX1ZEVnNaTDBSNjhDRWI5bk9fLWhDSVFtcVczeF9rOGN4YXdWU0tSeHBwTW94YjJQSWc3OFNIa9IB3wFBVV95cUxOanFaNXU2WnppcXh3a3RpaExDQjlLck42OHc1dHlaZEN2MmV2Mk1WSlJCaFE0anJSMVJHaUJuemowSzZHMXh1MWU0VV9OckJXbHBoX1N2ZEMxMXh6TW1EdEktTm1CT2RGNVd6dDF1ZnZlSzZRcXFIMlo2LUdacmZrRWUtUmRJYW9iaTZkaV9mSDk0ZzBBRjhfS3VyZ2I4Q0tfNXYtVDJoajlxVVRmY2N6aHFNaEZuVFdTR1pVblpZa3lvNEd0aVZkemw1WmljMHhqNGk0YkwxcWk5OGZNYUhR?oc=5",
@@ -94,7 +103,7 @@
       "title": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXd1aUhuUFA2NzVncFZ3MXltUWdKeExFejJ5NnJwODNHX3ZFNXBTbjhZQ05FdngyTXdmSmpDUTVwNkl5ZVh3RTRiblZ0MHVGbXliWTVPcHRySGVWQjZXYUpUOFZFMW9mSmtmVzNZM1dwMEZneTZVbFZKZVpwcmdqN2pxMmFRcjdvZzVrYmdjY1k2TktBQ2pESmdwZkg2ZVlHb1Zuc2psV2UtWFZsbHg0VXB4SXfSAboBQVVfeXFMTWNWWGEtMTJJNTdEQ254Qng2MC02YUNmNHRtNGVzeERycE5uSGRDNTdXb3I5cEU5QzRyQXA5R0dFUGZZYTZsNVZ4YUR4aXFxZC03WkV6cW9yMmRYSmQtWjJJeWpEQ3ozeHp5cUdyZ0xvRVhDU1NkU2dfLVhBcXlzU0ppVjdXaU9FM24zczJWZWJxZ0ZJQm9mSDZ0d2xCdm1kZHNBYkJCNmsxYWR6dTJjSGhqWWFNTzA4a0tn?oc=5",
       "pubDate": "2026-09-23T03:45:22+00:00",
-      "source": "news.detik.com",
+      "source": "detikNews",
       "description": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4342,7 +4351,7 @@
       "title": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0EtR1EtV01uV3BVeFp1Sm12QkZ1MF9FenRPa01td0ZjUVBGNlZpeV9UTldQQXF5ODBtQzFsYjV1WTVfTjc4TU9XOEpkcHYxa3lvanZEYnBMZEF3cUtQaVdHRHBTT0VVY04xUFdlTlR2d2J5QTZHVnkyWlFVUGJKMW1LLWk?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "BIDIKKASUSNEWS.COM",
+      "source": "bidikkasusnews.com",
       "description": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4441,7 +4450,7 @@
       "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQVpwM2p6aTFWWHdOT2VLam9udENhaTl4bFJ1U1cwOXlHcWJWbVhxX01RMWNxMENLeGJMQ2dkUFkwcC1Pd0pmOXpkLTlWaUs3RFYweU1hS2J6ek9ncWxON3A4cEptZy1FTnhkakV6REVCWUlKeldzRndBeWdReHVJQURRMENCZl9JUUs3YVNFTE1UYVNZWXI3X29qUEdiOEtQRzZqTEpEbkk4NXNrZ2pmQlE5MXVSRGxLd2VTWUxEMm5xd3dIQ3FmSGpCUHh6S0I2M19DYmxfTQ?oc=5",
       "pubDate": "2026-06-02T07:00:00+00:00",
-      "source": "kemdiktisaintek.go.id",
+      "source": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4738,7 +4747,7 @@
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclpiaTVDblFQVGlPMXI0cklveWVWRnZfbzdmX241V0lpT0Z2U0p3WjQtWjZja3JyQkd3WkdsR3RhbGVoVDEtak56VlBKcENOQWR1WVhfRGVNenAteFk3eE1pWnJkbGZiSGMzSHdMQjFuREFSMzRrdl9sbjJ6WUM2ZWNhbXJQaEl0NVZNVmtWOUlQUlAtT0hhLXFEekU?oc=5",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "source": "Prohealth.id",
+      "source": "prohealth.id",
       "description": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4828,7 +4837,7 @@
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "tribratanews.polri.go.id",
+      "source": "Tribrata News",
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -4837,7 +4846,7 @@
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTXBNb3dyMXAxZnk2azRzWV9mT25qbW5qckdhMXRVaVlYWXFfT2p5VFBFQkV1d2pwZFcxQUVSNDN0QUdSTWVMTHRIc2xLT2JyVV8tUEVoU2d1RmgtZWt2RE1Xa1A5YjZqaVd4VUZIU1dKd01HUHc?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Prohealth.id",
+      "source": "prohealth.id",
       "description": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -5035,7 +5044,7 @@
       "title": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3BSdVY3aVZ2WFdSendVbDgxUjR0a3dLb1BsMGVvaVR0UXA0Y25hOUpFZEI3OGM3aUhGMzJoRlkySUFJb0Nwa19NcDBFcUc4SGZtcTlYQkJxeGoxX054VzI0M1p5cXNQNi1NX2l3N18zc0hXVkRJNjJJcXdMWVBtOG1Wc0RJNHVZLUJ2STlFdHBLSE5CY0lIWVV1blQ3Q0lxOGxWT3RsYXloaWJDRTFKSzU0NDBPOHVRVUdvWm1jWC0?oc=5",
       "pubDate": "2026-03-16T07:00:00+00:00",
-      "source": "News UMS",
+      "source": "news.ums.ac.id",
       "description": "Lawan KBGO di Era Digital, Milad IMM Adam Malik dan IMM Averroes UMS Gelar Seminar Edukasi",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
