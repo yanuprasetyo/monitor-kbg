@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-25T11:00:27.798495+00:00",
-  "total": 634,
+  "updated_at": "2026-09-25T16:22:53.039603+00:00",
+  "total": 639,
   "stats": {
-    "tpks": 179,
-    "kekerasan_seksual": 288,
+    "tpks": 180,
+    "kekerasan_seksual": 291,
     "kbg": 68,
-    "kbgo": 99
+    "kbgo": 100
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,8 +28,44 @@
   ],
   "articles": [
     {
+      "title": "Polda Banten Tangani Laporan Dugaan Kekerasan Seksual ASN di Lingkungan Pemkab Tangerang",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHpxZ3A5WDY4MmEtSVlWNWJJU3cwaVpHYzkxWmk0TU5lZU1tbVd2OTVFYTVQWXlvZWpud3NQaElmSnEyZzNMWWpMbmI2MVBEWnlhcWtiaDlmQ2xQRHhHYXdjRTk1SWdpYnB2Ti1ubTRzNlRRS2ZSZnBQNVdUODkxcmpPNlJVUkI4U29qdXpnNHZqcnFxb1ozSlYwVFV3TE9FeEhpUnRlaC1sc0Vj?oc=5",
+      "pubDate": "2026-09-25T15:59:21+00:00",
+      "source": "Kabar6.com",
+      "description": "Polda Banten Tangani Laporan Dugaan Kekerasan Seksual ASN di Lingkungan Pemkab Tangerang",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Pimpinan pesantren di NTB diduga lakukan kekerasan seksual, TGB janji 'mengawal' proses hukum",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcU0taVh1aTJIcnJxcTlMQk11X1pVYk11RlFDLXg2ZTd2cnZBRmtvMXZFLUJ0QUZ1V3hWYkhLRVhIdnNtdXJ6bjBSYmtHS0ZvSzFpa3RuYlo4ZmhibmlxOTVn0gFnQVVfeXFMT3hkRkx5bWNSNV9uZ1QyWDdhdUV6VV83dzBobENKRkQxTDl3UlhxekNUZDliRGV6Ymg0MGdzaXhKRWh2YjUtS1JqdUVvblpJZ0E1ZGlTQS1XZTJVSlI3QU5hbWtMUWk2OA?oc=5",
+      "pubDate": "2026-09-25T14:26:18+00:00",
+      "source": "BBC",
+      "description": "Pimpinan pesantren di NTB diduga lakukan kekerasan seksual, TGB janji 'mengawal' proses hukum",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Satgas NTT Peduli Kepri waspadai KBGO Dalam beberapa waktu",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSEd3U2FDeXZjRjhodmRuZzRwWmNnSGJsSktOczhCQkI2UG41Z19aY3pJYWNGcXpJbjJSQ2MwTzVBVmNZZTZ6bE1oLXZHaUtJNnFTbWY1cEZDQkpvb3QyWEdFSG4taHJNc2VxSUNfSVFoQWo5MmIzOGVKSDM4QWd1Mzhya01XbFZfT2VYYXozQUtub183dEE?oc=5",
+      "pubDate": "2026-09-25T14:19:05+00:00",
+      "source": "Teropong Publik",
+      "description": "Satgas NTT Peduli Kepri waspadai KBGO Dalam beberapa waktu",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmhZVTNXNDduWC1uZE9hRWhXajc1dmE5S2Y2TDE5dmlwdGQ3UXRpcm80bkV4WEFPSzlGRnZiMEtTRUdJQ1JweFRscF9paHFSYXdyQmliSXRUUmhBSFRsQTE0bXppaXEwRV9OcXJVRUtGaG9WVktXSTY5NVBNOXZsSUxSak9yUGZiVGoyS2t4bjVkeXY4V18ySTI2NkozQlZNS0Zfa3Rfb3FPWkxzMl96di1jcjJUT1RCRmFvS0lxamtOMTM0Yk1pdWZaMUkwdw?oc=5",
+      "pubDate": "2026-09-25T10:53:41+00:00",
+      "source": "Kompas.id",
+      "description": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpd9IBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmN4b1dOeE9RcWthdU00enpqcExueHA4OU1yU3M2cl83bnNvdWE1cVBUbm53eldqRjU1UGRDbFJJWDdqdHdSX05STnJVenVJcVNNSE9WM0NkVmtlUGI2V0g2bUFTRGsyQmZONU1rYzNzOVhTdGNXRnhmd0tvR25jcVlFb3hwZVlmM04wUkpidElVSWlrTzBRRlRXOHBmZV9McGp1Z1NVRWxLcWtZMXV1cERlWGFrZE1DSTlQZtIBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
       "pubDate": "2026-09-25T07:38:51+00:00",
       "source": "ANTARA News Bengkulu",
       "description": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
@@ -60,6 +96,15 @@
       "pubDate": "2026-09-24T10:20:42+00:00",
       "source": "Suara Surabaya",
       "description": "KPAI Soroti Hak Pemulihan Korban Kekerasan Seksual Usai Bechi Bebas Bersyarat",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Ratusan santriwati di Lombok Tengah dipulangkan",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mdGRkemN1MTlVSXRNdGQ5Rkxib3U3enVjRHpGWm9jWlJiaXJfRDg1UU9ZVHdDc3NjY25RRHFxQmtVaS1Ha0F4UjM4bDg1NER5NFpIMXg2alNuMUJxMnFtOUJR0gFnQVVfeXFMTnM2bG1CNUVPWWFnMmRvZmRjd0J4RGEwcTZwOHZ6ODJqckVhT3NyQjVhX2hmX2xkWmM5Q1hSX25IZW5XaFAxUWl5Z2hmWGxDT0xRWW9tQkNDNkhBR0FHcUZlbkUtUExUQQ?oc=5",
+      "pubDate": "2026-09-24T08:30:53+00:00",
+      "source": "BBC",
+      "description": "Ratusan santriwati di Lombok Tengah dipulangkan",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -148,7 +193,7 @@
       "title": "Dinas PPPA Tapteng, Kementerian PPPA dan Yayasan Pulih Gelar Sosialisasi",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdOWXhkc3d0cUJLdVFnQzF4SlVFUl92bDBRTlJldTZfRnp4VUdYUHAya29JSUMwTFlMb0hWbnA5dklLRHl6ZTAwaFoyVERBalpOcUE3c04zZ3JrUE9XdHBQOWwxNFlXSW9yd0dFNjZNeDNJRWh2MVExSEhOQTdKS3FDSUNreVZ0VHZ4Q0pwVW81RDJ6OFMtZGFmQW1mNy11Y0FvQ250eWRyYVVYX0ViTWRYXzg?oc=5",
       "pubDate": "2026-09-23T05:47:00+00:00",
-      "source": "RRI.co.id",
+      "source": "rri.co.id",
       "description": "Dinas PPPA Tapteng, Kementerian PPPA dan Yayasan Pulih Gelar Sosialisasi",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -1786,7 +1831,7 @@
       "title": "PN Sampang Tetapkan Restitusi Rp21,4 Juta untuk Anak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGYzdGI5OFprRWR3VW8zUWdxRUMwSWg1UHhyTktJUDFHSnJ6eVVGMXkwYnZaRXk1TGEwWUNhVnRnRVF6TG5FUXNoTHhLWmNjQklWUno4VzRtNFppR0RfUTBHTFFGQ05TSUFTaU9zV2VWdEQtbnV2SmxjU3pvSWJNUWtKZEN1OS16djB5OWZoQ0NLVV9OczlUVDk2NnZuUVVZdmJyX25jWVA1emd4TFdEUzlwWQ?oc=5",
       "pubDate": "2026-08-10T07:00:00+00:00",
-      "source": "Dandapala Digital",
+      "source": "dandapala.com",
       "description": "PN Sampang Tetapkan Restitusi Rp21,4 Juta untuk Anak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -4198,7 +4243,7 @@
       "title": "Penyekapan perempuan di Bandung alarm bahaya femisida",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFFobkRhcnF5bWlhVFF0NUJRRHVaOXJVNG9yNy1tMTY4eXFLNS12Z19ZaEdwcFgzaG5UUjdRaDVyN0pua3RPMy1tc1VIR2tWUkVfZmlRaVdIU2t6Z1BMWEpEd0dPU2RTVGV0R2R3SlpZMkxvR1lJWGc5Yl9oYmVlUDVMeFJQdkNkZVNYQnp3ajNyU2RsUGZGc0otUQ?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "Alinea.ID",
+      "source": "alinea.id",
       "description": "Penyekapan perempuan di Bandung alarm bahaya femisida",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4423,7 +4468,7 @@
       "title": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0EtR1EtV01uV3BVeFp1Sm12QkZ1MF9FenRPa01td0ZjUVBGNlZpeV9UTldQQXF5ODBtQzFsYjV1WTVfTjc4TU9XOEpkcHYxa3lvanZEYnBMZEF3cUtQaVdHRHBTT0VVY04xUFdlTlR2d2J5QTZHVnkyWlFVUGJKMW1LLWk?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "bidikkasusnews.com",
+      "source": "BIDIKKASUSNEWS.COM",
       "description": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4909,7 +4954,7 @@
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "tribratanews.polri.go.id",
+      "source": "Tribrata News",
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -5332,7 +5377,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -5395,7 +5440,7 @@
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0pVaXdwMnpPMThWOXRhMTdZRWtHTW04RjlHMWJnSFUwMmR2WlFZOXZacXV2akowUFR5ZWprZklBYzZFc1g2dmUtcE9VMUVvSU9YMUUtbE5ZbWxZYkJ4OGMwRU83ZTNCX0pmRnBOcFRJNC1nakdEbzQzbnpacm1lSDRVZzY3VVBkbWRXanJvSkg2WjRMaUE?oc=5",
       "pubDate": "2025-12-17T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi",
       "description": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
