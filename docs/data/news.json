@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T03:07:41.471792+00:00",
-  "total": 632,
+  "updated_at": "2026-09-25T11:00:27.798495+00:00",
+  "total": 634,
   "stats": {
-    "tpks": 178,
-    "kekerasan_seksual": 287,
+    "tpks": 179,
+    "kekerasan_seksual": 288,
     "kbg": 68,
     "kbgo": 99
   },
@@ -28,8 +28,26 @@
   ],
   "articles": [
     {
+      "title": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpd9IBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
+      "pubDate": "2026-09-25T07:38:51+00:00",
+      "source": "ANTARA News Bengkulu",
+      "description": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kasus Kekerasan Seksual Tuan Guru di NTB terhadap Santriwati",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNmRKb1RhQ3BYLUd0azdVbnFScVJKYzlDTzUyNUw3cEluYVl6S3RQdDBfT1JSTG5YbEJocnFuZVp0M0FsWkhhdC1Sbm85UHZqcHAyZ3ZUVVhhcE8yOVFTUlFCazhyLU0yZ1RZeU5rWi1NdWRXRTV1bzlXTkQ0Y21kZUZBS3U0VV95Q0VxTlhBUTI4bTJJRXdwbGVGQzVKZU1tNDFmRjRteUZHVm9lRkNUMHJVNFBoNnlMcHlxTmFyZTNpV1V3NWpUNl9VMjY?oc=5",
+      "pubDate": "2026-09-25T05:26:04+00:00",
+      "source": "SBS",
+      "description": "Kasus Kekerasan Seksual Tuan Guru di NTB terhadap Santriwati",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Terpidana Kekerasan Seksual Santri di Jombang Bebas, Ini Kata KPAI",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN1VXNDBNSlZnakJ0WW5FMnphNnRHNkItTTBlSWMzZUNPWFZCWXBHemJiMUQ4SlRYSHlaT0RLVlExWDQ3SktZOHZhUVBROXNmX2FHZzh0TnowdUdPeFUwMXVLankwckFsY1JUMHcydGdOejBVMklndGtqVnNpMnJYdXl4NXNQWUZxR3BEUmxpRmRMYkhxajBPRjdmRGNST2d4OHE4cFlKdmp6OExyOWdXZDlCNDFGWEllVklZQlJ6bkppWkFs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnVHZTl4bk9lMTg1ZnBpcTBWTThLQ2pLaGExclV3LWoxV21saEZpX1IyR3dmeHV6dFFjbFdQb2VsTVdZbTcyZUlKdXRHbmlXd3dSSTdRQVlSSnRnZnc5YmlPQmhYUVBRRVpjd3RObEozOGlEdmk0OS1ITDJZRnA3UGRXaFVJZ0JrX3QxLTBkeGt4dmcyU2E3c3BRWG9GaDBYUl9F?oc=5",
       "pubDate": "2026-09-25T02:37:00+00:00",
       "source": "VOICE Indonesia",
       "description": "Terpidana Kekerasan Seksual Santri di Jombang Bebas, Ini Kata KPAI",
@@ -121,7 +139,7 @@
       "title": "Pelaku Kekerasan Seksual Mas Bechi Bebas Bersyarat, MUI: Mencederai Rasa Keadilan Korban",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0xRVEV5bWphZzJyTG5XNm9kMnA0TUYyUWYwSkdVcXJmYUwyUnNtZXprMDBsclBOTWt4ZnhzdUgtaU5kNTlpWk9tUHJDU1hqbmNqOWIyNWloN2J0bVExNTljUFE5SnkwcExuR1c4c2FCTkRPbEhUTXlQOXF1bzItWFFFaXV1Q0tRQlBIdUhFa0stLTN2cVZDdkh5bU1Qdm9LR01YWE8yNHJNVTZBS0xGeGloUzRnWkZtRmQ0MmxsLUh0ZTlCTDFtZGZtaVdveEFXa0E?oc=5",
       "pubDate": "2026-09-23T08:01:28+00:00",
-      "source": "khazanah.republika.co.id",
+      "source": "republika.co.id",
       "description": "Pelaku Kekerasan Seksual Mas Bechi Bebas Bersyarat, MUI: Mencederai Rasa Keadilan Korban",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -148,7 +166,7 @@
       "title": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXd1aUhuUFA2NzVncFZ3MXltUWdKeExFejJ5NnJwODNHX3ZFNXBTbjhZQ05FdngyTXdmSmpDUTVwNkl5ZVh3RTRiblZ0MHVGbXliWTVPcHRySGVWQjZXYUpUOFZFMW9mSmtmVzNZM1dwMEZneTZVbFZKZVpwcmdqN2pxMmFRcjdvZzVrYmdjY1k2TktBQ2pESmdwZkg2ZVlHb1Zuc2psV2UtWFZsbHg0VXB4SXfSAboBQVVfeXFMTWNWWGEtMTJJNTdEQ254Qng2MC02YUNmNHRtNGVzeERycE5uSGRDNTdXb3I5cEU5QzRyQXA5R0dFUGZZYTZsNVZ4YUR4aXFxZC03WkV6cW9yMmRYSmQtWjJJeWpEQ3ozeHp5cUdyZ0xvRVhDU1NkU2dfLVhBcXlzU0ppVjdXaU9FM24zczJWZWJxZ0ZJQm9mSDZ0d2xCdm1kZHNBYkJCNmsxYWR6dTJjSGhqWWFNTzA4a0tn?oc=5",
       "pubDate": "2026-09-23T03:45:22+00:00",
-      "source": "news.detik.com",
+      "source": "detikNews",
       "description": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4405,7 +4423,7 @@
       "title": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0EtR1EtV01uV3BVeFp1Sm12QkZ1MF9FenRPa01td0ZjUVBGNlZpeV9UTldQQXF5ODBtQzFsYjV1WTVfTjc4TU9XOEpkcHYxa3lvanZEYnBMZEF3cUtQaVdHRHBTT0VVY04xUFdlTlR2d2J5QTZHVnkyWlFVUGJKMW1LLWk?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "BIDIKKASUSNEWS.COM",
+      "source": "bidikkasusnews.com",
       "description": "PENYULUHAN KBG DI PROYEK BRT MEDAN SOROTI HAK PEKERJA PEREMPUAN",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4540,7 +4558,7 @@
       "title": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWnpZTmZleW1sWVJiYU9TbDFUQ0pUaVRITzlJTFVpQWdrUUdjQmdEM2RaMUt5RUozMzB6R0huMmVZS3hMQnowN3lPemdPcXRjRml1bDNweWVScnlFV1psNXlhWXExeWFMWUVzTjlER2w1RzBBakJ0MVJYSmVEejdlOVIzcGFyQzJCWUdpUl90eFJIcUFHdllERXJhMG5HM1hqTFhhSkhtcWNfbDM5YkU0SHNRN3dMWXJvd1BrNHNBMTloeFZTOHpxNGdFLTk1QTNuMF9PUE9RbmJ6bHRYNll5SEhSZXd2bk0xODdGUHFLN1pQNDhGb3Fnb1pEcUNqQkxMd0s1WnhvX2rSAY4CQVVfeXFMUFkwY0wwWkhKanBZLWg3TnBPb1NpNHZiQ3drbHhMazJIcUUzUmpRQVo4MXg1eGZ5SVcybU42ZTVEVmZTOEQ5alExTGJ4S3ZBVExOUi1Dd3lXaDdPeWVDc0VjVlRWYkpnQTdYRV9wbFduM3UtdXhOX1Fla0JPTVNod0NpdmJQYlRmc2NVa212SlhOeC1ycEdYTkE3Q3NuMGY1QWRyTEZad1Q3YnRmWUc1X09LbjRwNjhOQk1YWlBfLTdrMlBDWXZJRDJpX2h0aThWTG9sNmJRUkhGa3R6YjFMUEZnOUctMS1vaHRheEpGLUtoSHV1c2FFZWU1a083bkl5UHpqS2NlSzMwNER3Z2ln?oc=5",
       "pubDate": "2026-05-29T07:00:00+00:00",
-      "source": "megapolitan.antaranews.com",
+      "source": "ANTARA News Megapolitan",
       "description": "ANARA Indonesia sosialisasikan 'Safe Home' untuk perkuat pencegahan kekerasan berbasis gender di Desa Sukadana, Pujut, Lombok Tengah",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4891,7 +4909,7 @@
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Tribrata News",
+      "source": "tribratanews.polri.go.id",
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -5314,7 +5332,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "mkri.id",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -5377,7 +5395,7 @@
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0pVaXdwMnpPMThWOXRhMTdZRWtHTW04RjlHMWJnSFUwMmR2WlFZOXZacXV2akowUFR5ZWprZklBYzZFc1g2dmUtcE9VMUVvSU9YMUUtbE5ZbWxZYkJ4OGMwRU83ZTNCX0pmRnBOcFRJNC1nakdEbzQzbnpacm1lSDRVZzY3VVBkbWRXanJvSkg2WjRMaUE?oc=5",
       "pubDate": "2025-12-17T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "mkri.id",
       "description": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
