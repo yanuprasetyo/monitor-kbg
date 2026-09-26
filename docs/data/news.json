@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-26T03:11:49.789078+00:00",
-  "total": 640,
+  "updated_at": "2026-09-26T10:42:28.000280+00:00",
+  "total": 643,
   "stats": {
     "tpks": 180,
     "kekerasan_seksual": 292,
-    "kbg": 68,
+    "kbg": 71,
     "kbgo": 100
   },
   "new_this_fetch": 60,
@@ -28,6 +28,33 @@
   ],
   "articles": [
     {
+      "title": "Jurnalis Diingatkan Cegah Reviktimisasi Korban Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMkVqSjFzWE5oSDg0YXJ6YTBWZElfQVNnOFVjTGJtamd4akNfaWJybnJDaElIYS1RMlN6cktyMlA0MktHVER2VWFLelVEdm1faTNSNDhMakFvajBzSzU0NEhVTzZlRTF0Rkk3Z2NxMWEwRFVGSHBPZmotSVZpSGZEdXpfaTVJQUJFRWVSYXBuclduOHk5SmQ4S1JySUR1MlNtb09qWGxscXNKbWFqUmRobzA4eGZ0V0RycERsdHM1c0RYbTJtTGhQNkZzbS3SAa8BQVVfeXFMUGJ3dkstLXhWM3hsOWNpSTgxeVRUOWpKaUc0dU43QlNPa2xZVWRvSGNuTG16TlJ3RGlFOG9vOHgwR1FjdGJxZ0Y5VE5zanJYSWFPU3g3WjNMWkIwajY1SENXWEhuY0MzSkhVSmcwcnIzNzRrOTJLVUVJSFJGT21nenlvM3BMelp6cm9fM1MyZlZTUzJ4ek1qQjVFRE5yb09EZjNReks4ZllGWXBBVHFHQQ?oc=5",
+      "pubDate": "2026-09-26T09:10:00+00:00",
+      "source": "Espos.id",
+      "description": "Jurnalis Diingatkan Cegah Reviktimisasi Korban Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Jurnalis Diminta Berperspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaC1lOFp6R0xYMlVLUkN5dGZWWG9NSGRWX3lEQWdqWDROeTZPaVN1M0RtNFR4RGowa1BMSDNvQVhWX2pUZlE3aFdJMkpybVdRazRZSVhITmpCNUxWWVlBQ3g0ME5yejJ3NjV6dzBhOE5kY2dhbkwtdEJrVDhwTDhqT0IxYmhPeXlTRERxQXp2WE5iNzRNNnVyRS1aQ3M5VGpDckpRemE1ZVNWWGEtQThWRHZMN2JWcE3SAbcBQVVfeXFMT2gtZThaekdMWDJVS1JDeXRmVlhvTUhkVl95REFnalg0Tnk2T2lTdTNEbTRUeERqMGtQTEgzb0FYVl9qVGZRN2hXSTJKcm1XUWs0WUlYSE5qQjVMVllZQUN4NDBOcnoydzY1encwYThOZGNnYW5MLXRCa1Q4cEw4ak9CMWJoT3l5U0REcUF6dlhOYjc0TTZ1ckUtWkNzOVRqQ3JKUXphNWVTVlhhLUE4VkR2TDdiVnBN?oc=5",
+      "pubDate": "2026-09-26T07:41:00+00:00",
+      "source": "iNews.ID",
+      "description": "Jurnalis Diminta Berperspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "OPSI ajak Jurnalis Wilayah USA Gelar Pelatihan Perspektif Pencegahan KBG",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEFoNHBMdkE1T1V4X2RBQllISHZFWUNnRGxWNWgyZFpWWW4zRjhqelpSQ3VJSWRhVnJGajRSUnV4UGpCbFVyVXMzSmFJT0lBaXdudG92SEh1THM5enlqeTJhM3JnNWhRUUVNMFpZQVBwUklKZ1JFSGR1RWdWekVWZWpzMTBZMUtabkhzcVhGZDJ0ODZ0V1VVd3F3?oc=5",
+      "pubDate": "2026-09-26T03:08:00+00:00",
+      "source": "rasikafm.com",
+      "description": "OPSI ajak Jurnalis Wilayah USA Gelar Pelatihan Perspektif Pencegahan KBG",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Menteri PPPA Kecam Kekerasan Seksual di Sekolah Internasional Tangsel",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb19GUlJNdzBJbUh4QmluZ193OF9QMzhlTHV5M1M4X0RXNUVFMU1YbmRiaVZ3Z3IwdHVRdlBMM1k3NHAxZkhoMHNIM1JIQW92YTU3U2lXWEt6WnRCX0NZNkgwSFlZdFNBQktMUkd5Zm1LSHFXRE1pYWRUa0hWNW5DT3pJVVBOaS1Oelg2UnFOQWRodHhWb3ZScnhDYzJzdm95UmpidUFTT1E4a1ZqYndSUi1NRnE2cDFLb0tQVlNWclpLWVozandnOHNFcFN1UdIB0wFBVV95cUxPcWpqUXp4U09GZ2d2T1Z4UzNDbGlVQU43YmdpSWRZT1lrSUpWRUZoaDNRbENBUHYzcjl5aXROX294T1ZjbEluNkViOGdSTjV2eENvTFVDQU5aQmJoMWhFdUNpaWU3THB1OGN5MmNUdWRuYUJMOTdoSmY3aXBiSndiQ0E5VHhObDNxSDdYeVZaNm9tSUtaU2h1YzVMYWdUWEV3d0R4OF81SXRBa1Z6NEVzWThjWV8xMWxnUnM0UlVNYnlqVThmVWpKZUJwcjc0MGhJRTlV?oc=5",
       "pubDate": "2026-09-25T21:00:55+00:00",
@@ -46,11 +73,11 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Pimpinan pesantren di NTB diduga lakukan kekerasan seksual, TGB janji 'mengawal' proses hukum",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcU0taVh1aTJIcnJxcTlMQk11X1pVYk11RlFDLXg2ZTd2cnZBRmtvMXZFLUJ0QUZ1V3hWYkhLRVhIdnNtdXJ6bjBSYmtHS0ZvSzFpa3RuYlo4ZmhibmlxOTVn0gFnQVVfeXFMT3hkRkx5bWNSNV9uZ1QyWDdhdUV6VV83dzBobENKRkQxTDl3UlhxekNUZDliRGV6Ymg0MGdzaXhKRWh2YjUtS1JqdUVvblpJZ0E1ZGlTQS1XZTJVSlI3QU5hbWtMUWk2OA?oc=5",
+      "title": "Pimpinan pesantren di NTB diduga lakukan kekerasan seksual, TGB janji 'mengawal' proses hukum – 'Korban harus dapat keadilan'",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcU0taVh1aTJIcnJxcTlMQk11X1pVYk11RlFDLXg2ZTd2cnZBRmtvMXZFLUJ0QUZ1V3hWYkhLRVhIdnNtdXJ6bjBSYmtHS0ZvSzFpa3RuYlo4ZmhibmlxOTVn?oc=5",
       "pubDate": "2026-09-25T14:26:18+00:00",
       "source": "BBC",
-      "description": "Pimpinan pesantren di NTB diduga lakukan kekerasan seksual, TGB janji 'mengawal' proses hukum",
+      "description": "Pimpinan pesantren di NTB diduga lakukan kekerasan seksual, TGB janji 'mengawal' proses hukum – 'Korban harus dapat keadilan'",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -74,7 +101,7 @@
     },
     {
       "title": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmN4b1dOeE9RcWthdU00enpqcExueHA4OU1yU3M2cl83bnNvdWE1cVBUbm53eldqRjU1UGRDbFJJWDdqdHdSX05STnJVenVJcVNNSE9WM0NkVmtlUGI2V0g2bUFTRGsyQmZONU1rYzNzOVhTdGNXRnhmd0tvR25jcVlFb3hwZVlmM04wUkpidElVSWlrTzBRRlRXOHBmZV9McGp1Z1NVRWxLcWtZMXV1cERlWGFrZE1DSTlQZtIBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpd9IBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
       "pubDate": "2026-09-25T07:38:51+00:00",
       "source": "ANTARA News Bengkulu",
       "description": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
@@ -94,7 +121,7 @@
       "title": "Terpidana Kekerasan Seksual Santri di Jombang Bebas, Ini Kata KPAI",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnVHZTl4bk9lMTg1ZnBpcTBWTThLQ2pLaGExclV3LWoxV21saEZpX1IyR3dmeHV6dFFjbFdQb2VsTVdZbTcyZUlKdXRHbmlXd3dSSTdRQVlSSnRnZnc5YmlPQmhYUVBRRVpjd3RObEozOGlEdmk0OS1ITDJZRnA3UGRXaFVJZ0JrX3QxLTBkeGt4dmcyU2E3c3BRWG9GaDBYUl9F?oc=5",
       "pubDate": "2026-09-25T02:37:00+00:00",
-      "source": "voiceindonesia.co",
+      "source": "VOICE Indonesia",
       "description": "Terpidana Kekerasan Seksual Santri di Jombang Bebas, Ini Kata KPAI",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -193,7 +220,7 @@
       "title": "Pelaku Kekerasan Seksual Mas Bechi Bebas Bersyarat, MUI: Mencederai Rasa Keadilan Korban",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0xRVEV5bWphZzJyTG5XNm9kMnA0TUYyUWYwSkdVcXJmYUwyUnNtZXprMDBsclBOTWt4ZnhzdUgtaU5kNTlpWk9tUHJDU1hqbmNqOWIyNWloN2J0bVExNTljUFE5SnkwcExuR1c4c2FCTkRPbEhUTXlQOXF1bzItWFFFaXV1Q0tRQlBIdUhFa0stLTN2cVZDdkh5bU1Qdm9LR01YWE8yNHJNVTZBS0xGeGloUzRnWkZtRmQ0MmxsLUh0ZTlCTDFtZGZtaVdveEFXa0E?oc=5",
       "pubDate": "2026-09-23T08:01:28+00:00",
-      "source": "republika.co.id",
+      "source": "khazanah.republika.co.id",
       "description": "Pelaku Kekerasan Seksual Mas Bechi Bebas Bersyarat, MUI: Mencederai Rasa Keadilan Korban",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -787,7 +814,7 @@
       "title": "Dugaan Kekerasan Seksual Pelatih Renang di Sleman: ”Child Grooming” hingga Trauma Korban",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXo5Q3BqUmNDdVljNFlsNHVHWTYxT25YbGtUR282S0hlc1pfV0Z5dHlVQ2JfVmk0bjZrV3JNNkpEUGdRRWVpQWlMUHlSbk1jeUpla1JCc2hSR2tSNG9VNHA3RFV4NFpHaXpJWkNPbzF6dU8xQ0xZaV9FaEVaUnBvRmpibjRqTnA5QU1PR1hVNVA0U2NTTUJBM1psTUEzM1R3UnNTYjZBdUZFdEtCWm5HbXd2dlVfZw?oc=5",
       "pubDate": "2026-09-10T07:00:00+00:00",
-      "source": "Kompas.id",
+      "source": "kompas.id",
       "description": "Dugaan Kekerasan Seksual Pelatih Renang di Sleman: ”Child Grooming” hingga Trauma Korban",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4252,7 +4279,7 @@
       "title": "Penyekapan perempuan di Bandung alarm bahaya femisida",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFFobkRhcnF5bWlhVFF0NUJRRHVaOXJVNG9yNy1tMTY4eXFLNS12Z19ZaEdwcFgzaG5UUjdRaDVyN0pua3RPMy1tc1VIR2tWUkVfZmlRaVdIU2t6Z1BMWEpEd0dPU2RTVGV0R2R3SlpZMkxvR1lJWGc5Yl9oYmVlUDVMeFJQdkNkZVNYQnp3ajNyU2RsUGZGc0otUQ?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "alinea.id",
+      "source": "Alinea.ID",
       "description": "Penyekapan perempuan di Bandung alarm bahaya femisida",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -4468,7 +4495,7 @@
       "title": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRwQWtzUVA4RFVTV3dQNUdVLW1JVVVNQ0YwbkVoU3dHaThZekNJRnVpMGF1ek5pQTlYUWZmZDFQSy1ZSUdmd2s4MVZnenFXdEhsd0JVWTBGS0YxU2RHZlMzQUNRNVl5QlI2alo3djVtUEpXODdORWJ2WGoxYWVCeVJUTFlyZGFQNk9OVTl6QkpsdzFDa3ZMZWpUbjh4cXRkUG9uUzdEcFEzMTFhR2Jn?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "Badan Pembinaan Hukum Nasional",
+      "source": "bphn.go.id",
       "description": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
