@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-26T15:37:54.755712+00:00",
-  "total": 643,
+  "updated_at": "2026-09-26T20:34:36.604556+00:00",
+  "total": 646,
   "stats": {
     "tpks": 180,
-    "kekerasan_seksual": 292,
-    "kbg": 71,
+    "kekerasan_seksual": 294,
+    "kbg": 72,
     "kbgo": 100
   },
-  "new_this_fetch": 0,
+  "new_this_fetch": 60,
   "keywords": [
     {
       "id": "tpks",
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Gender",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0o2WnhVb3dRcTRJcWtqTlFMUWxCdVNCaVY2N1hGT3Vta0hHalhNRWpmcmRqcnBEQ09QdEZNaWFPQmptdnBROHdpT2piUkg2VXNXaDlaYU0tU3VlWlpfbm5XLTRJZ25vQzZ6amo2WTQ5aEJCNnVpRmNkMXlQdnFoTzBsOVVvRWdLOTVCbS1Rd3VmMC1yV09JbExTME5jSnNONEUwVFlxTVY5SWxIclN6Y21WNVDSAbQBQVVfeXFMTl9KNlp4VW93UXE0SXFrak5RTFFsQnVTQmlWNjdYRk91bWtIR2pYTUVqZnJkanJwRENPUHRGTWlhT0JqbXZwUTh3aU9qYlJINlVzV2g5WmFNLVN1ZVpaX25uVy00SWdub0M2empqNlk0OWhCQjZ1aUZjZDF5UHZxaE8wbDlVb0VnSzk1Qm0tUXd1ZjAtcldPSWxMUzBOY0pzTjRFMFRZcU1WOUlsSHJTemNtVjVQ?oc=5",
+      "pubDate": "2026-09-26T16:23:00+00:00",
+      "source": "iNews.ID",
+      "description": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Pemuda 21 Tahun di Berau Ditangkap atas Dugaan Kekerasan Seksual terhadap Anak",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVNzUUp6NUhEM0hvN3IxYmlFMXZEQ0UtMEppRFZvMnRUTEJ1cUVqLURiM2hOMC1PR1BSOEhweTJyeWpHYXAzTVhUd2lkcXFNQXBSWmdKcXkzVUwxVEx3MFRGNWFvMkRZTDNaM3lWTFdwTXVZTk1KczN5ZWFaclp4VG9wTGYzbUtQOG10S0plRll1RlM4MU1PZFhudmFxbzljRS1LcWJkdlBOS3hLZ0pSYl9MaEx2LXlkYVo4VHpfWQ?oc=5",
+      "pubDate": "2026-09-26T12:49:21+00:00",
+      "source": "Media Indonesia",
+      "description": "Pemuda 21 Tahun di Berau Ditangkap atas Dugaan Kekerasan Seksual terhadap Anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Polsek Gianyar Edukasi Siswa SDN 3 Samplangan Cegah Bullying dan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1pldjd5ZUcyUkNsaTI5Z0h0MWJ3VGJLcGtvX1o4SnN4UkxFUVBWTlFLQ1hPUExiNjJIMHdUQXhWVV9lRFdTWFpjQ21HVUpYQkhxbERGN1c5WVZjMzRfVE9XR2dIZ0lELVliWjc2YjlFQkctNW1Tb01Xc3VvRG5FblJvb0FTR3pNUUZLWHJ4Z1g0TkxsMW1ZUlB3UExkWEYyVzdyZ2dQejJTa25kVnNUbmVnM2xHblVIaXpFMEJzNFNZSGM?oc=5",
+      "pubDate": "2026-09-26T11:53:00+00:00",
+      "source": "suryaindonesia.net",
+      "description": "Polsek Gianyar Edukasi Siswa SDN 3 Samplangan Cegah Bullying dan Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Jurnalis Diingatkan Cegah Reviktimisasi Korban Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMkVqSjFzWE5oSDg0YXJ6YTBWZElfQVNnOFVjTGJtamd4akNfaWJybnJDaElIYS1RMlN6cktyMlA0MktHVER2VWFLelVEdm1faTNSNDhMakFvajBzSzU0NEhVTzZlRTF0Rkk3Z2NxMWEwRFVGSHBPZmotSVZpSGZEdXpfaTVJQUJFRWVSYXBuclduOHk5SmQ4S1JySUR1MlNtb09qWGxscXNKbWFqUmRobzA4eGZ0V0RycERsdHM1c0RYbTJtTGhQNkZzbS3SAa8BQVVfeXFMUGJ3dkstLXhWM3hsOWNpSTgxeVRUOWpKaUc0dU43QlNPa2xZVWRvSGNuTG16TlJ3RGlFOG9vOHgwR1FjdGJxZ0Y5VE5zanJYSWFPU3g3WjNMWkIwajY1SENXWEhuY0MzSkhVSmcwcnIzNzRrOTJLVUVJSFJGT21nenlvM3BMelp6cm9fM1MyZlZTUzJ4ek1qQjVFRE5yb09EZjNReks4ZllGWXBBVHFHQQ?oc=5",
@@ -67,17 +94,17 @@
       "title": "Polda Banten Tangani Laporan Dugaan Kekerasan Seksual ASN di Lingkungan Pemkab Tangerang",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHpxZ3A5WDY4MmEtSVlWNWJJU3cwaVpHYzkxWmk0TU5lZU1tbVd2OTVFYTVQWXlvZWpud3NQaElmSnEyZzNMWWpMbmI2MVBEWnlhcWtiaDlmQ2xQRHhHYXdjRTk1SWdpYnB2Ti1ubTRzNlRRS2ZSZnBQNVdUODkxcmpPNlJVUkI4U29qdXpnNHZqcnFxb1ozSlYwVFV3TE9FeEhpUnRlaC1sc0Vj?oc=5",
       "pubDate": "2026-09-25T15:59:21+00:00",
-      "source": "Kabar6.com",
+      "source": "kabar6.com",
       "description": "Polda Banten Tangani Laporan Dugaan Kekerasan Seksual ASN di Lingkungan Pemkab Tangerang",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Pimpinan pesantren di NTB diduga lakukan kekerasan seksual, TGB janji 'mengawal' proses hukum – 'Korban harus dapat keadilan'",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcU0taVh1aTJIcnJxcTlMQk11X1pVYk11RlFDLXg2ZTd2cnZBRmtvMXZFLUJ0QUZ1V3hWYkhLRVhIdnNtdXJ6bjBSYmtHS0ZvSzFpa3RuYlo4ZmhibmlxOTVn?oc=5",
+      "title": "Pimpinan pesantren di NTB diduga lakukan kekerasan seksual, TGB janji 'mengawal' proses hukum",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcU0taVh1aTJIcnJxcTlMQk11X1pVYk11RlFDLXg2ZTd2cnZBRmtvMXZFLUJ0QUZ1V3hWYkhLRVhIdnNtdXJ6bjBSYmtHS0ZvSzFpa3RuYlo4ZmhibmlxOTVn0gFnQVVfeXFMT3hkRkx5bWNSNV9uZ1QyWDdhdUV6VV83dzBobENKRkQxTDl3UlhxekNUZDliRGV6Ymg0MGdzaXhKRWh2YjUtS1JqdUVvblpJZ0E1ZGlTQS1XZTJVSlI3QU5hbWtMUWk2OA?oc=5",
       "pubDate": "2026-09-25T14:26:18+00:00",
       "source": "BBC",
-      "description": "Pimpinan pesantren di NTB diduga lakukan kekerasan seksual, TGB janji 'mengawal' proses hukum – 'Korban harus dapat keadilan'",
+      "description": "Pimpinan pesantren di NTB diduga lakukan kekerasan seksual, TGB janji 'mengawal' proses hukum",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -85,7 +112,7 @@
       "title": "Satgas NTT Peduli Kepri waspadai KBGO Dalam beberapa waktu",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSEd3U2FDeXZjRjhodmRuZzRwWmNnSGJsSktOczhCQkI2UG41Z19aY3pJYWNGcXpJbjJSQ2MwTzVBVmNZZTZ6bE1oLXZHaUtJNnFTbWY1cEZDQkpvb3QyWEdFSG4taHJNc2VxSUNfSVFoQWo5MmIzOGVKSDM4QWd1Mzhya01XbFZfT2VYYXozQUtub183dEE?oc=5",
       "pubDate": "2026-09-25T14:19:45+00:00",
-      "source": "Teropong Publik",
+      "source": "teropongpublik.co.id",
       "description": "Satgas NTT Peduli Kepri waspadai KBGO Dalam beberapa waktu",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -121,7 +148,7 @@
       "title": "Terpidana Kekerasan Seksual Santri di Jombang Bebas, Ini Kata KPAI",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnVHZTl4bk9lMTg1ZnBpcTBWTThLQ2pLaGExclV3LWoxV21saEZpX1IyR3dmeHV6dFFjbFdQb2VsTVdZbTcyZUlKdXRHbmlXd3dSSTdRQVlSSnRnZnc5YmlPQmhYUVBRRVpjd3RObEozOGlEdmk0OS1ITDJZRnA3UGRXaFVJZ0JrX3QxLTBkeGt4dmcyU2E3c3BRWG9GaDBYUl9F?oc=5",
       "pubDate": "2026-09-25T02:37:00+00:00",
-      "source": "VOICE Indonesia",
+      "source": "voiceindonesia.co",
       "description": "Terpidana Kekerasan Seksual Santri di Jombang Bebas, Ini Kata KPAI",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -814,7 +841,7 @@
       "title": "Dugaan Kekerasan Seksual Pelatih Renang di Sleman: ”Child Grooming” hingga Trauma Korban",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXo5Q3BqUmNDdVljNFlsNHVHWTYxT25YbGtUR282S0hlc1pfV0Z5dHlVQ2JfVmk0bjZrV3JNNkpEUGdRRWVpQWlMUHlSbk1jeUpla1JCc2hSR2tSNG9VNHA3RFV4NFpHaXpJWkNPbzF6dU8xQ0xZaV9FaEVaUnBvRmpibjRqTnA5QU1PR1hVNVA0U2NTTUJBM1psTUEzM1R3UnNTYjZBdUZFdEtCWm5HbXd2dlVfZw?oc=5",
       "pubDate": "2026-09-10T07:00:00+00:00",
-      "source": "kompas.id",
+      "source": "Kompas.id",
       "description": "Dugaan Kekerasan Seksual Pelatih Renang di Sleman: ”Child Grooming” hingga Trauma Korban",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4495,7 +4522,7 @@
       "title": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRwQWtzUVA4RFVTV3dQNUdVLW1JVVVNQ0YwbkVoU3dHaThZekNJRnVpMGF1ek5pQTlYUWZmZDFQSy1ZSUdmd2s4MVZnenFXdEhsd0JVWTBGS0YxU2RHZlMzQUNRNVl5QlI2alo3djVtUEpXODdORWJ2WGoxYWVCeVJUTFlyZGFQNk9OVTl6QkpsdzFDa3ZMZWpUbjh4cXRkUG9uUzdEcFEzMTFhR2Jn?oc=5",
       "pubDate": "2026-06-11T07:00:00+00:00",
-      "source": "bphn.go.id",
+      "source": "Badan Pembinaan Hukum Nasional",
       "description": "Melalui SEKATA #21, BPHN Dorong Kolaborasi Cegah Kekerasan Seksual terhadap Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -5413,7 +5440,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "Mahkamah Konstitusi RI",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -5476,7 +5503,7 @@
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0pVaXdwMnpPMThWOXRhMTdZRWtHTW04RjlHMWJnSFUwMmR2WlFZOXZacXV2akowUFR5ZWprZklBYzZFc1g2dmUtcE9VMUVvSU9YMUUtbE5ZbWxZYkJ4OGMwRU83ZTNCX0pmRnBOcFRJNC1nakdEbzQzbnpacm1lSDRVZzY3VVBkbWRXanJvSkg2WjRMaUE?oc=5",
       "pubDate": "2025-12-17T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "Mahkamah Konstitusi RI",
       "description": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
