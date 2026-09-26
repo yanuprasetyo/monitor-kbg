@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T21:01:39.532040+00:00",
-  "total": 639,
+  "updated_at": "2026-09-26T03:11:49.789078+00:00",
+  "total": 640,
   "stats": {
     "tpks": 180,
-    "kekerasan_seksual": 291,
+    "kekerasan_seksual": 292,
     "kbg": 68,
     "kbgo": 100
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Menteri PPPA Kecam Kekerasan Seksual di Sekolah Internasional Tangsel",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb19GUlJNdzBJbUh4QmluZ193OF9QMzhlTHV5M1M4X0RXNUVFMU1YbmRiaVZ3Z3IwdHVRdlBMM1k3NHAxZkhoMHNIM1JIQW92YTU3U2lXWEt6WnRCX0NZNkgwSFlZdFNBQktMUkd5Zm1LSHFXRE1pYWRUa0hWNW5DT3pJVVBOaS1Oelg2UnFOQWRodHhWb3ZScnhDYzJzdm95UmpidUFTT1E4a1ZqYndSUi1NRnE2cDFLb0tQVlNWclpLWVozandnOHNFcFN1UdIB0wFBVV95cUxPcWpqUXp4U09GZ2d2T1Z4UzNDbGlVQU43YmdpSWRZT1lrSUpWRUZoaDNRbENBUHYzcjl5aXROX294T1ZjbEluNkViOGdSTjV2eENvTFVDQU5aQmJoMWhFdUNpaWU3THB1OGN5MmNUdWRuYUJMOTdoSmY3aXBiSndiQ0E5VHhObDNxSDdYeVZaNm9tSUtaU2h1YzVMYWdUWEV3d0R4OF81SXRBa1Z6NEVzWThjWV8xMWxnUnM0UlVNYnlqVThmVWpKZUJwcjc0MGhJRTlV?oc=5",
+      "pubDate": "2026-09-25T21:00:55+00:00",
+      "source": "CNN Indonesia",
+      "description": "Menteri PPPA Kecam Kekerasan Seksual di Sekolah Internasional Tangsel",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Polda Banten Tangani Laporan Dugaan Kekerasan Seksual ASN di Lingkungan Pemkab Tangerang",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHpxZ3A5WDY4MmEtSVlWNWJJU3cwaVpHYzkxWmk0TU5lZU1tbVd2OTVFYTVQWXlvZWpud3NQaElmSnEyZzNMWWpMbmI2MVBEWnlhcWtiaDlmQ2xQRHhHYXdjRTk1SWdpYnB2Ti1ubTRzNlRRS2ZSZnBQNVdUODkxcmpPNlJVUkI4U29qdXpnNHZqcnFxb1ozSlYwVFV3TE9FeEhpUnRlaC1sc0Vj?oc=5",
@@ -56,9 +65,9 @@
     },
     {
       "title": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmhZVTNXNDduWC1uZE9hRWhXajc1dmE5S2Y2TDE5dmlwdGQ3UXRpcm80bkV4WEFPSzlGRnZiMEtTRUdJQ1JweFRscF9paHFSYXdyQmliSXRUUmhBSFRsQTE0bXppaXEwRV9OcXJVRUtGaG9WVktXSTY5NVBNOXZsSUxSak9yUGZiVGoyS2t4bjVkeXY4V18ySTI2NkozQlZNS0Zfa3Rfb3FPWkxzMl96di1jcjJUT1RCRmFvS0lxamtOMTM0Yk1pdWZaMUkwdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzhmdHBFTzFJXy1FeGd2N3NseUVhNThkUVQtS1VocjdMUWU4dXhDQV8yV3l1dTFWM0RIdXo3UlJvUUhLbjdJMVhzUVhsbXpmWEVnMmdwdUllX3dmNmdYeDA3X3pzdlZKc3pPTjlTdnh2Uk1CUmFHbzB5MEpNU1pJWmtlUmRxWk5WQjVqM1FTelkxVVRycG42U0R3Y0dtcnFlcF90NWliaDRTSzA?oc=5",
       "pubDate": "2026-09-25T10:53:41+00:00",
-      "source": "Kompas.id",
+      "source": "kompas.id",
       "description": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -4243,7 +4252,7 @@
       "title": "Penyekapan perempuan di Bandung alarm bahaya femisida",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFFobkRhcnF5bWlhVFF0NUJRRHVaOXJVNG9yNy1tMTY4eXFLNS12Z19ZaEdwcFgzaG5UUjdRaDVyN0pua3RPMy1tc1VIR2tWUkVfZmlRaVdIU2t6Z1BMWEpEd0dPU2RTVGV0R2R3SlpZMkxvR1lJWGc5Yl9oYmVlUDVMeFJQdkNkZVNYQnp3ajNyU2RsUGZGc0otUQ?oc=5",
       "pubDate": "2026-06-22T07:00:00+00:00",
-      "source": "Alinea.ID",
+      "source": "alinea.id",
       "description": "Penyekapan perempuan di Bandung alarm bahaya femisida",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -5203,6 +5212,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWxOZ1F6Z0x4UmQxbVJWVGxlQ0d4Z1hMS0tCNmNxTzJ3U18zUmFCVzNXX1B3cHZ6akRrc3NJM05FNkdNOEhZSm53bTJLTHV1a3Z4cWJwdU5ONVZBVmg0ZWRHM0FxNV9fa3NScDRPR2NVcXpnUDd0SGhpSzIyVlphTzVZaXlTSXptRWdKUm1ySGVRN2J2d2ZQYTBzZFZoMFJJcTFEUmYtYTFXZWVfLW90X0E0cy1hNUd3SC0teg?oc=5",
+      "pubDate": "2026-03-03T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Dukung Ketegasan Menpora Erick, Ketua Umum NOC Indonesia Kawal In",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXZsZFZVNlVFZGVRTnRpQVktSVpxNFpmQy1nanlsTVB1QTd0bzFLNHlsemw3OUY3SWE2ZkZtcHlLdUplczljTFpEbmhUVXl3Qy0ydmpTNG5OZlppYnhVc3dPNFdCZ1MwRDZkUlFoTUhnNVBuU2lQc2hNcVFodmFuSXA1V3VNcVN1MzdQcTZlTGM3aU5oa05Ca19EUkEyZ3pUN3hXdnpwWQ?oc=5",
       "pubDate": "2026-03-03T08:00:00+00:00",
@@ -5226,15 +5244,6 @@
       "pubDate": "2026-03-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Implementasi UU TPKS Harus Utamakan Perlindungan Korban, Bukan Mediasi Damai",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWxOZ1F6Z0x4UmQxbVJWVGxlQ0d4Z1hMS0tCNmNxTzJ3U18zUmFCVzNXX1B3cHZ6akRrc3NJM05FNkdNOEhZSm53bTJLTHV1a3Z4cWJwdU5ONVZBVmg0ZWRHM0FxNV9fa3NScDRPR2NVcXpnUDd0SGhpSzIyVlphTzVZaXlTSXptRWdKUm1ySGVRN2J2d2ZQYTBzZFZoMFJJcTFEUmYtYTFXZWVfLW90X0E0cy1hNUd3SC0teg?oc=5",
-      "pubDate": "2026-03-02T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
