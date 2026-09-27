@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-26T20:34:36.604556+00:00",
-  "total": 646,
+  "updated_at": "2026-09-27T03:18:57.077041+00:00",
+  "total": 649,
   "stats": {
-    "tpks": 180,
-    "kekerasan_seksual": 294,
-    "kbg": 72,
+    "tpks": 181,
+    "kekerasan_seksual": 295,
+    "kbg": 73,
     "kbgo": 100
   },
   "new_this_fetch": 60,
@@ -28,6 +28,15 @@
   ],
   "articles": [
     {
+      "title": "Wartawan Diajak Lebih Peka Saat Liput Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVjd5MkNjbG9Ydm9LSlJWMTNiVzdSOWFud1MtLXAyRnpiNnVNeXVFVlFHQWJCeUZ4c2F2N1pKZXVDcTVWMHZ1S2tnYUtBTGhXNHVGUmFTUl9KTng2LWVuZDMxQ2JHckx4Z2RkWjBNQjVEVGhwVjFMbHpNenA3QlRqZnpZel92OWpmOEdlQkNSdm9DZC13amtEUEUyOGlzY1BXQjlKY1JUcVNSSlU?oc=5",
+      "pubDate": "2026-09-26T22:07:20+00:00",
+      "source": "RRI.co.id",
+      "description": "Wartawan Diajak Lebih Peka Saat Liput Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Gender",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0o2WnhVb3dRcTRJcWtqTlFMUWxCdVNCaVY2N1hGT3Vta0hHalhNRWpmcmRqcnBEQ09QdEZNaWFPQmptdnBROHdpT2piUkg2VXNXaDlaYU0tU3VlWlpfbm5XLTRJZ25vQzZ6amo2WTQ5aEJCNnVpRmNkMXlQdnFoTzBsOVVvRWdLOTVCbS1Rd3VmMC1yV09JbExTME5jSnNONEUwVFlxTVY5SWxIclN6Y21WNVDSAbQBQVVfeXFMTl9KNlp4VW93UXE0SXFrak5RTFFsQnVTQmlWNjdYRk91bWtIR2pYTUVqZnJkanJwRENPUHRGTWlhT0JqbXZwUTh3aU9qYlJINlVzV2g5WmFNLVN1ZVpaX25uVy00SWdub0M2empqNlk0OWhCQjZ1aUZjZDF5UHZxaE8wbDlVb0VnSzk1Qm0tUXd1ZjAtcldPSWxMUzBOY0pzTjRFMFRZcU1WOUlsSHJTemNtVjVQ?oc=5",
       "pubDate": "2026-09-26T16:23:00+00:00",
@@ -35,6 +44,15 @@
       "description": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Cegah Kekerasan Seksual, Kemenag Lombok Timur Bakal Sidak Pesantren Berkala",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGl1aUFtcHpGaHp4ZXotLWdabzZTUHc3enNaNk1lMWhTRHVxX0t4ZnNVMV9MRGRiVGdUWmFhMVZTQVZwTEdBUWdNUjFJbzA0M0VGZFkxOUNDZ3gwYjFVakdueEVZZTV6aWRDaHFzR0lGcy03bXM2b3hyR1FJazA5WWo5cUJ0WmlrZUdYWmpSdERPaVVianpaXzFfYUktdG1Jb2c5dVZocWREQzBJcHJRUzZ2YWI1U2k4LUt0UmVKaHlLZw?oc=5",
+      "pubDate": "2026-09-26T14:07:00+00:00",
+      "source": "khazanah.republika.co.id",
+      "description": "Cegah Kekerasan Seksual, Kemenag Lombok Timur Bakal Sidak Pesantren Berkala",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Pemuda 21 Tahun di Berau Ditangkap atas Dugaan Kekerasan Seksual terhadap Anak",
@@ -56,7 +74,7 @@
     },
     {
       "title": "Jurnalis Diingatkan Cegah Reviktimisasi Korban Kekerasan Berbasis Gender",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMkVqSjFzWE5oSDg0YXJ6YTBWZElfQVNnOFVjTGJtamd4akNfaWJybnJDaElIYS1RMlN6cktyMlA0MktHVER2VWFLelVEdm1faTNSNDhMakFvajBzSzU0NEhVTzZlRTF0Rkk3Z2NxMWEwRFVGSHBPZmotSVZpSGZEdXpfaTVJQUJFRWVSYXBuclduOHk5SmQ4S1JySUR1MlNtb09qWGxscXNKbWFqUmRobzA4eGZ0V0RycERsdHM1c0RYbTJtTGhQNkZzbS3SAa8BQVVfeXFMUGJ3dkstLXhWM3hsOWNpSTgxeVRUOWpKaUc0dU43QlNPa2xZVWRvSGNuTG16TlJ3RGlFOG9vOHgwR1FjdGJxZ0Y5VE5zanJYSWFPU3g3WjNMWkIwajY1SENXWEhuY0MzSkhVSmcwcnIzNzRrOTJLVUVJSFJGT21nenlvM3BMelp6cm9fM1MyZlZTUzJ4ek1qQjVFRE5yb09EZjNReks4ZllGWXBBVHFHQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXVIaEdLYndiVzJjYTNULXI2Ym43aXpGV0owMW1jREpWTGpyb0N1VDlYWG4yMFByXzBZOTRXNF9IZFFuOFZJZGpXc2l4N2RuUW9HNDRlYTE5YXIydXp1a2x2ZXM0Sk1vQl95cnpGbTUwV1ZrWHNGbDJLNHFVY1h4UUpZTW52RWFKdG9TNkFkTFh4aUJoOG9Dbzg2WDdsbXltRDhTS3pkQ21ZZ9IBrwFBVV95cUxQYnd2Sy0teFYzeGw5Y2lJODF5VFQ5akppRzR1TjdCU09rbFlVZG9IY25MbXpOUndEaUU4b284eDBHUWN0YnFnRjlUTnNqclhJYU9TeDdaM0xaQjBqNjVIQ1dYSG5jQzNKSFVKZzBycjM3NGs5MktVRUlIUkZPbWd6eW8zcEx6Wnpyb18zUzJmVlNTMnh6TWpCNUVETnJvT0RmM1F6SzhmWUZZcEFUcUdB?oc=5",
       "pubDate": "2026-09-26T09:10:00+00:00",
       "source": "Espos.id",
       "description": "Jurnalis Diingatkan Cegah Reviktimisasi Korban Kekerasan Berbasis Gender",
@@ -112,7 +130,7 @@
       "title": "Satgas NTT Peduli Kepri waspadai KBGO Dalam beberapa waktu",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSEd3U2FDeXZjRjhodmRuZzRwWmNnSGJsSktOczhCQkI2UG41Z19aY3pJYWNGcXpJbjJSQ2MwTzVBVmNZZTZ6bE1oLXZHaUtJNnFTbWY1cEZDQkpvb3QyWEdFSG4taHJNc2VxSUNfSVFoQWo5MmIzOGVKSDM4QWd1Mzhya01XbFZfT2VYYXozQUtub183dEE?oc=5",
       "pubDate": "2026-09-25T14:19:45+00:00",
-      "source": "teropongpublik.co.id",
+      "source": "Teropong Publik",
       "description": "Satgas NTT Peduli Kepri waspadai KBGO Dalam beberapa waktu",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -3010,7 +3028,7 @@
       "title": "Kemenko PMK Perkuat Peran Perempuan dalam Pengurangan Risiko Bencana hingga Pemulihan Pascabencana",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1RBQWtJUjJFZE9HaENjN19McFFoMm5QeHlHanV6Sy1pTGhkc0NjcXN1Zm1PQlppc0d1SFBmTGkwdTRFdlpESHdYSzJORDNLSS13MkhfQnhjVlFvbnZiVUd2c2UyZUc2UTdTVUQxZU94cWNBSmZwYTBUZ0ZwOThDdU1xZzF6aGVQeG1aSF9wQ2ZDTVZLbTNpeXowLWZDRjZyUHJ1TlBoZU5rODdwTmIxLUxFWWd3Y2l4clhiN2l2SW1yMEt4UWc?oc=5",
       "pubDate": "2026-07-21T07:00:00+00:00",
-      "source": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+      "source": "kemenkopmk.go.id",
       "description": "Kemenko PMK Perkuat Peran Perempuan dalam Pengurangan Risiko Bencana hingga Pemulihan Pascabencana",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -5098,7 +5116,7 @@
       "title": "Kasus Mahasiswa UI Cerminan Nyata Kekerasan Berbasis Gender Online di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbURHUkN4ZUptWkYzZWxUQ255M3BybnBkOFJXemJQZ1RDOHVvbEN3Tk5nY3pYUU1EcjJiQkEydGsyUThxM1BkeTZHVlI3VjhaZWZWZGpxNnRWWHExOXpsSVl0ZjRCVDhOOTVWX0dYNklZZTl3cmlEZm5jNGdIM0RJWDQ3UV92TVZoWHJVM3BUR1k1TVJOM2pHUExRYzZYU1pOVVJXbUgtbFpfbHJUQXUyeV8wWkVZRmpYRFFLUG9HOGhYU1Q4TGfSAcsBQVVfeXFMT2QwMzdCQW9uYkJKNktTUG4tdUpycXhjaHdkYy1wR2JvUVh5OTlxLXNQMzFSLXhzUDduQUhOc2lxbUtid2N3bzBneVR4emU4aGJydEg0ZEF3bDNVdVluTFVyYlE1UW9YdWFuVGt5ZDBDQUxVQ3NDNlVqU3hGRmhxUXcwVlNQQjFSekpHTzdBbFVyYUFjRjdRU0habEpFVGZvajRiV1NrWjdxa0J5c0lLLU5NekZjTUluT0RHR0ZfOUQxS0dBOWFJLU5zY2c?oc=5",
       "pubDate": "2026-04-15T07:00:00+00:00",
-      "source": "Suara Surabaya",
+      "source": "suarasurabaya.net",
       "description": "Kasus Mahasiswa UI Cerminan Nyata Kekerasan Berbasis Gender Online di Indonesia",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -5438,9 +5456,9 @@
     },
     {
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjg1eWs2WU9rU19wUnRsUVBGVUVpSDdPemRuTnlhUFpLdkxUSVIwTmpNZjNVQTZkNlRHdVFwcVlaZy1Kckl4eElMN2llb2Z6NVpzT3M1OHlfQjh2bjJEaFpUME9fZm9sN2VpLVlWTm51SWpkQXdydmJBQmM0dEtuQ2FHSGdtTVNORnlscWpyUTR5ZWdnc080aQ?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi RI",
+      "source": "Mahkamah Konstitusi",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -5453,6 +5471,15 @@
       "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
+      "pubDate": "2026-02-02T08:00:00+00:00",
+      "source": "Mahkamah Konstitusi RI",
+      "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "RESENSI BUKU: Ketika Kekerasan Seksual di Ruang Digital Merembet ke Fisik",
@@ -5503,7 +5530,7 @@
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0pVaXdwMnpPMThWOXRhMTdZRWtHTW04RjlHMWJnSFUwMmR2WlFZOXZacXV2akowUFR5ZWprZklBYzZFc1g2dmUtcE9VMUVvSU9YMUUtbE5ZbWxZYkJ4OGMwRU83ZTNCX0pmRnBOcFRJNC1nakdEbzQzbnpacm1lSDRVZzY3VVBkbWRXanJvSkg2WjRMaUE?oc=5",
       "pubDate": "2025-12-17T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi RI",
+      "source": "Mahkamah Konstitusi",
       "description": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
