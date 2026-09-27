@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-27T11:16:34.575407+00:00",
-  "total": 650,
+  "updated_at": "2026-09-27T16:16:32.403240+00:00",
+  "total": 652,
   "stats": {
-    "tpks": 182,
-    "kekerasan_seksual": 295,
+    "tpks": 183,
+    "kekerasan_seksual": 296,
     "kbg": 73,
     "kbgo": 100
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bedah Buku “Perawan” Masyarakat Berani Bersuara Lawan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUWZPeHUyQTVzcmhqdmRGcHR0Q09mM1BIQVNCNmJ6amVTaUtDc0lsSW9pX1VSMWlWLUQ4NGVaRjZ4UUtwQTBTVzIxcXpROFpTaFlLdkZ2QWR2ZC0teTEtRG45OU5aN0Y2a2U4cF8tUlpNbENLVmc2a2pzeE94OXJaT2lXU3dPNXVQR2RORHZrcnRmRElMd0ktc3N5MGJtTjBST011aVF0WHlSZw?oc=5",
+      "pubDate": "2026-09-27T13:10:04+00:00",
+      "source": "Suara Indonesia News",
+      "description": "Bedah Buku “Perawan” Masyarakat Berani Bersuara Lawan Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Polda Banten Tangani Laporan Dugaan Kekerasan Seksual Fisik di Lingkungan Pemkab Tangerang",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenc1N2I5UVFDWHVCdm8yQ1h3cG1wTTlzT1RKcGRaenA4ekNrVnlTbDg3aG5CT0JlV3c2bkVrN2tpLThucHV5a3RRcnRSeTNPSkNjbFYzMjREa2FLUTBpR0pjRG5UdXVxUDRwNkc3dWJWOE5GT1g2WDJMM0ZUQ2FWcTBRNkwzNGt2dHhHUHI2OFJPZjJfSDRLLVFoN0xCV3dQOG5XZGpPN3FpMkFjMjBUR2o1YjR5Qm9IWXo1NVVQSE8yMk0?oc=5",
@@ -94,7 +103,7 @@
       "title": "Jurnalis Diminta Berperspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaC1lOFp6R0xYMlVLUkN5dGZWWG9NSGRWX3lEQWdqWDROeTZPaVN1M0RtNFR4RGowa1BMSDNvQVhWX2pUZlE3aFdJMkpybVdRazRZSVhITmpCNUxWWVlBQ3g0ME5yejJ3NjV6dzBhOE5kY2dhbkwtdEJrVDhwTDhqT0IxYmhPeXlTRERxQXp2WE5iNzRNNnVyRS1aQ3M5VGpDckpRemE1ZVNWWGEtQThWRHZMN2JWcE3SAbcBQVVfeXFMT2gtZThaekdMWDJVS1JDeXRmVlhvTUhkVl95REFnalg0Tnk2T2lTdTNEbTRUeERqMGtQTEgzb0FYVl9qVGZRN2hXSTJKcm1XUWs0WUlYSE5qQjVMVllZQUN4NDBOcnoydzY1encwYThOZGNnYW5MLXRCa1Q4cEw4ak9CMWJoT3l5U0REcUF6dlhOYjc0TTZ1ckUtWkNzOVRqQ3JKUXphNWVTVlhhLUE4VkR2TDdiVnBN?oc=5",
       "pubDate": "2026-09-26T07:41:00+00:00",
-      "source": "pantura.inews.id",
+      "source": "iNews.ID",
       "description": "Jurnalis Diminta Berperspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -159,6 +168,15 @@
       "pubDate": "2026-09-25T07:38:51+00:00",
       "source": "ANTARA News Bengkulu",
       "description": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komisi XIII DPR: Pembebasan bersyarat Bechi tak sesuai UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWxjbG50NHdNRVo4T2d1S3ExanB2TkV6czBzbTVmN214aVpXeWp2RVlBb2I1bFFsakhUWGFzeTlfanpfMzFPX2RTR3BXbzVkWXpZcGs5Z2pNYVYzb2c5SlAtdGRlWGc2cVd2MVp2dzIta0NONWVuTGZwX2JLSzE0Rk5HNUpKZHJHSzBuTjFNTl80YXZHU3ZHcmxraVd3TUhCcGlPcWVB0gGoAUFVX3lxTE80VFRmUmd1Q21jYTU2dFhDRUdOUVhDa0pwQm00anRVdmdELWhIbkJCSnVjZWJwNGVjbFNELXdPV0c0WFRkUmgzOC1HR0RXdU1NbUE4VkNhUDdZVGRRdUNKcmlRMUpYZ3lkMFFScHNKRDZwaTNsMVR4RTQ2NDRVSFFRZ01BLWVHVE16el9veVpzMzJ4VHN2dmxLcjFGMjJvclowbnZQMXFiLQ?oc=5",
+      "pubDate": "2026-09-25T07:15:44+00:00",
+      "source": "ANTARA News",
+      "description": "Komisi XIII DPR: Pembebasan bersyarat Bechi tak sesuai UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -1048,7 +1066,7 @@
       "title": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNczU1bEQxdWlvWFRlMzZub3dYckk0aUZNS25qRHN0eTAtX3YtUm9aUFhyekNNVFFEOE10Q0lxZHV2a3d6Z2RVM2NQeWdQQUk0N2VLRVJiQndKWFUzSXhac1MxMWxvQkVwSjIxSUF3c2V4cEgzdHJvZm5BNW9Fd09yZkpjaXFUcl9ibTRPazBhZzZSTFA3N0dzM1l5WW02b1VtbGhvSXFpLTB1VW9QTFlqS09aemhqSDNmZ2F5Rg?oc=5",
       "pubDate": "2026-08-31T07:00:00+00:00",
-      "source": "aktual.com",
+      "source": "Aktual.com",
       "description": "Kekerasan Berbasis Gender Online Makin Marak, Unas Hadirkan PSG-PHA untuk Lindungi Perempuan dan Anak",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -3037,7 +3055,7 @@
       "title": "Kemenko PMK Perkuat Peran Perempuan dalam Pengurangan Risiko Bencana hingga Pemulihan Pascabencana",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1RBQWtJUjJFZE9HaENjN19McFFoMm5QeHlHanV6Sy1pTGhkc0NjcXN1Zm1PQlppc0d1SFBmTGkwdTRFdlpESHdYSzJORDNLSS13MkhfQnhjVlFvbnZiVUd2c2UyZUc2UTdTVUQxZU94cWNBSmZwYTBUZ0ZwOThDdU1xZzF6aGVQeG1aSF9wQ2ZDTVZLbTNpeXowLWZDRjZyUHJ1TlBoZU5rODdwTmIxLUxFWWd3Y2l4clhiN2l2SW1yMEt4UWc?oc=5",
       "pubDate": "2026-07-21T07:00:00+00:00",
-      "source": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+      "source": "kemenkopmk.go.id",
       "description": "Kemenko PMK Perkuat Peran Perempuan dalam Pengurangan Risiko Bencana hingga Pemulihan Pascabencana",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -5467,7 +5485,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjg1eWs2WU9rU19wUnRsUVBGVUVpSDdPemRuTnlhUFpLdkxUSVIwTmpNZjNVQTZkNlRHdVFwcVlaZy1Kckl4eElMN2llb2Z6NVpzT3M1OHlfQjh2bjJEaFpUME9fZm9sN2VpLVlWTm51SWpkQXdydmJBQmM0dEtuQ2FHSGdtTVNORnlscWpyUTR5ZWdnc080aQ?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "mkri.id",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -5539,7 +5557,7 @@
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0pVaXdwMnpPMThWOXRhMTdZRWtHTW04RjlHMWJnSFUwMmR2WlFZOXZacXV2akowUFR5ZWprZklBYzZFc1g2dmUtcE9VMUVvSU9YMUUtbE5ZbWxZYkJ4OGMwRU83ZTNCX0pmRnBOcFRJNC1nakdEbzQzbnpacm1lSDRVZzY3VVBkbWRXanJvSkg2WjRMaUE?oc=5",
       "pubDate": "2025-12-17T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "mkri.id",
       "description": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
