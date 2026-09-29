@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-29T12:00:19.889362+00:00",
-  "total": 675,
+  "updated_at": "2026-09-29T21:46:44.488306+00:00",
+  "total": 682,
   "stats": {
-    "tpks": 187,
+    "tpks": 193,
     "kekerasan_seksual": 304,
-    "kbg": 76,
+    "kbg": 77,
     "kbgo": 108
   },
-  "new_this_fetch": 60,
+  "new_this_fetch": 45,
   "keywords": [
     {
       "id": "tpks",
@@ -27,6 +27,60 @@
     }
   ],
   "articles": [
+    {
+      "title": "LBH Padang Desak Polisi Sumbar Gunakan UU TPKS dalam Penanganan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFpyN0ZfbFdQTndyY3FJa1FSVmtKTmFlbGRjNFhZbmF6Mno3RE01a1dTajA0ZUNseDk0RHZpTENPYzFibDBYUi1QczYydjcyLXJLeWo3eFpyNHBMZFBZZTRYajRzekpkVjY3NTZRcjBFMHlvUEFBY1dIWm5Mbkd6Q251SENuVUhKdDllU1ZVQk5WdUNEMmJ6UkRKUnFQZkZNNk5IV3dhSlFZUQ?oc=5",
+      "pubDate": "2026-09-29T16:48:04+00:00",
+      "source": "LPM Suara Kampus",
+      "description": "LBH Padang Desak Polisi Sumbar Gunakan UU TPKS dalam Penanganan Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "KY Ungkap Hakim di Indonesia Masih Minim Ikut Pelatihan UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3VjYlhxVTlXc1JSRzJOVGlRSElTOGFiWjh6MURRZDE5TmZaNEVJbnNkcWNMbVlXOThFMVJHbXQtY3hyVjBYNHBhZkcyaXFDU3QtcUhVSDg2WlhWWEhWcWVtSlBXWHk4dFM5eVVFU2tWa0ZkMkllZlBxdTQtV1JremN4S0FOQjdqRjRnWGVmVExtR0hrZlA2OVlWVTdZUGlQM1JPOHJLam1jb0to0gGyAUFVX3lxTE1mUV9kNUZ1T01HenlVZmdDaW9ZSlZaVXFhTFllSFpaT2EybXN3eXZabWxKZUk4ZDJhMENsWnFKeF9BZTZaWXFIblZXaVV6RWNlejVVN0xtMS1Va0t6MWwtWEd6bjlYVG9xUzRoeXRKSTdfNGdWR3EzVjJZMk9wX3VzU2dWRXBjemVJYk9DUUhpV2pQbDhNMk14d0V4cGNsS05tS1ZGVlN2S2staFlaSmplZFE?oc=5",
+      "pubDate": "2026-09-29T16:20:23+00:00",
+      "source": "detikcom",
+      "description": "KY Ungkap Hakim di Indonesia Masih Minim Ikut Pelatihan UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Keadilan Restoratif:Pemulihan Mental Anak Korban Akibat Kekerasan Seksual Halaman 1",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2hONEZwSWNob2ZjYlZXMWNSN3M4NC1CTE1ZdVdBTjVWV0dFeDZEMVVaVmgzS3RObmxkSHZqWFNzb1pTbmpleS1mbFdmanJSYmhscVpwZDNka1lkc2FTbjNvb1pRRkVkcUgyWGZfdFZoSEc4NXlzUEh5NG9pT3JEdWRwRlVXM0EzbkJRbjF6bTNZNWxzQkRJakhmU2l3OGE0UUVDY3ZwTVFsRFA0eFZGeDE1S1dBaVlGQ1E0OE1tenBlZFgyemtrX1R4aUFrWUZGUGtuNQ?oc=5",
+      "pubDate": "2026-09-29T15:54:45+00:00",
+      "source": "Kompasiana.com",
+      "description": "Keadilan Restoratif:Pemulihan Mental Anak Korban Akibat Kekerasan Seksual Halaman 1",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "KY: Baru 39 Hakim di Indonesia Dilatih Khusus Tangani Perkara TPKS",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlBNUElDZVlHZF9FRFVUaHBNbTQ3eHItZjVWVjFsVy1UM1VmX3luX0dCRHdqQmljSGVORS1RbjBsM041WnZONzlsZXBZWGowTnd1dkh3UkxIZVdqbHhtS3YzekJTSGNpdVF6MV9IQlRxWkFybHFoRlZ5Y3AwWkg5UzZtQnduYW9zSlE5OHNhUm5GeWJ0NzQ3aVlkV0twUnRtWWlPZWR3MGJYZVRqengtRGZ5NEhEckU?oc=5",
+      "pubDate": "2026-09-29T15:51:00+00:00",
+      "source": "Kompas.com",
+      "description": "KY: Baru 39 Hakim di Indonesia Dilatih Khusus Tangani Perkara TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Wakil Ketua KY RI Buka Workshop Peranan Masyarakat Awasi Implementasi UU Tindak Pidana Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWRBa0tuNkFiNUhBMkNMOUJtcGo5RW43eXAzUmFOMlREYjBMdjh5ZS1WVnlrTkN3MzJxT0o1YlM2UXloUko1RVI2UEJaMG4wWXh2dmptcTltOGpMTXAtMVU0T04tVjdjaTRoTmRsak8wZy14UWh5akw5ekNBSzRHNS0teDFoTzg?oc=5",
+      "pubDate": "2026-09-29T12:10:00+00:00",
+      "source": "metro-online.co",
+      "description": "Wakil Ketua KY RI Buka Workshop Peranan Masyarakat Awasi Implementasi UU Tindak Pidana Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "5 Tuntutan LBH Padang ke Polda Sumbar, dari UU TPKS hingga Perlindungan Korban",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3UzU1I0cFV2MFNIdUw4QlJ1dUMzOUZMS3QyQ3NERFVMSTZWWFFWTXBlaVZZSThCTjYwNVBTX0t3czVWbHNnLU1nYTI3c2VmQjJNS2ZzVWxCWndyeDUtWS1BZWxlUVdJX3dIQWZpeGozb0V2ZkxNX3NMeng4LUVNb2FNX21hLVR4UkloZTFoZEhMWHU0ZmcyT2Yxblhfdw?oc=5",
+      "pubDate": "2026-09-29T12:05:00+00:00",
+      "source": "Langgam.id",
+      "description": "5 Tuntutan LBH Padang ke Polda Sumbar, dari UU TPKS hingga Perlindungan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Kasus Kekerasan Seksual Dinilai Lambat, LBH Padang Desak Kapolda Sumbar Evaluasi",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWNGUXhnRkNOZU43dmU2V2NxeWVSMENDVmFTdkl5am5aRm1oVFJXS3dNbUlBMXVxak4zdFpRX0Y0cVVJSTRPTTNNanpjMnZXM1JEUjA5LUYtRWdOczdaWmJ6RjBzZmVhbFVRZDMwZVhOZzlyM1V2WjJXZk1LZnVRcE1Bd0VtUGpFbDZiRTVWdllaZnBKNjg5bjNKRFpVOEdH?oc=5",
@@ -85,7 +139,7 @@
       "title": "Hotel Santika Premiere Ambon Tingkatkan Kesadaran Karyawan tentang Pencegahan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWk5TDVaT3c0V3hCUlZFM0lFVm9WaWJYREJDSE5aNHRVM0FzS3Nkc2Q4ZTFMY0lHQW44ZlhobElESUtMNGhKZUE1TDZwTk1jeGJIZEl1LV9ZUWxxUDVMY1lmTFFuMS00MkJtUXBLOTVFdDFjZGtEZVk2SE1TSkdicUlHbF8xdmF4YTR3QXpxbmt0UVdBTDNEdVYzTXFleG54Y2d5aVotRWpTcXh0M1ZDaXR4UnAzM05yNlkzd0lzMXdrZHZz?oc=5",
       "pubDate": "2026-09-29T07:35:35+00:00",
-      "source": "Koreri",
+      "source": "koreri.com",
       "description": "Hotel Santika Premiere Ambon Tingkatkan Kesadaran Karyawan tentang Pencegahan Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -152,6 +206,15 @@
       "description": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanU5cHhtSkVpN1NWeE93bEZCRlZUUUVaWm1SOEpud0xaUklKZXJmaFhpQzA5eGVzcVR5Sy1Pa2psdC14R3ZxVW9GTFZlS1Q5TVMzYkhXMURxQ3p6WWp0dE1nQUFSOUxBMTVNRUZyN2FIQjNUUjl1Z3QyNkZOWnlUaEhtdklfZEVhbDJzd20zV1JDelZ0RDF2NEFwTEhod3dF?oc=5",
+      "pubDate": "2026-09-28T18:49:00+00:00",
+      "source": "RRI.co.id",
+      "description": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Regulasi Layanan Kesehatan bagi Korban Kekerasan Seksual yang Hamil Belum Diketahui Masyarakat Luas",
@@ -380,7 +443,7 @@
     },
     {
       "title": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpd9IBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmN4b1dOeE9RcWthdU00enpqcExueHA4OU1yU3M2cl83bnNvdWE1cVBUbm53eldqRjU1UGRDbFJJWDdqdHdSX05STnJVenVJcVNNSE9WM0NkVmtlUGI2V0g2bUFTRGsyQmZONU1rYzNzOVhTdGNXRnhmd0tvR25jcVlFb3hwZVlmM04wUkpidElVSWlrTzBRRlRXOHBmZV9McGp1Z1NVRWxLcWtZMXV1cERlWGFrZE1DSTlQZtIBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
       "pubDate": "2026-09-25T07:38:51+00:00",
       "source": "ANTARA News Bengkulu",
       "description": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
@@ -679,7 +742,7 @@
       "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
       "pubDate": "2026-09-21T10:07:31+00:00",
-      "source": "kalbar.antaranews.com",
+      "source": "ANTARA News",
       "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -2263,7 +2326,7 @@
       "title": "Analisis Putusan, Instrumen Monitoring Implementasi UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnlRcDQzbVQ0YjRfeXJseHpGeUJoM2V3VVBOVVJ4UlVJTUtfZGFVdkpETjBDYVNrNTA3d2FDeU5jRk9VaDJTRGRka0hFbFRidHRzR3lDb2RzMmxuLXo1c1h2UjI3UVdHYmdSMzNwblVzXzRZMFJUM0VLZkFTYjlfUklULU1vMzRJZlBmY3JtREdHZ3kwaDFyOWZJOHFBVzVjODFHNnpOTTNGVDBTRWlBWm1uMUpDUTdqZXc?oc=5",
       "pubDate": "2026-08-06T07:00:00+00:00",
-      "source": "Komisi Yudisial",
+      "source": "komisiyudisial.go.id",
       "description": "Analisis Putusan, Instrumen Monitoring Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -4240,20 +4303,20 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUUZTUFRqMXZkUzZVWjZNR2Z3aWdDNEdrbXFrcHc4WVlxTGJDeEpRdTB4d1BCQWt3V0xfc0o3N0tnVG5KWnJzMi11UEc5WkpyMUJ4Um1yc2drWGJMXzZlN0l2LUd1YUJWY1NqZjNQNmlDMlRXVWVIcV95UWt3YkpacVVFanZITjF3TDhOS0htNDFCTmVadEZRVTVmWHZXQjBGQ0F6VjJ0eE43VHpvT3EyS1NwZmFreVU2c1pKVnQ1cHBlTnpNeWJUTVk4Zk5oTXBDb1RqTUhxdXlHWHp6eGNzZmpXT0ZTTWlOdGtXVWFvZUdEdElHRzJTMkpyYkRHdGNRaHNRa3Vyb29JREVWS19GclI5Nm14bEpWU3k3MHVn?oc=5",
-      "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdFk0WkE3TFc3MXJranZaSzJac2FyTTZJZ0pyMWpGd3F0Zmoyc092ZUtxcWFfVHZ6ZHVIMDB6ZENxeGxCMFlNdXhkR1hNTUhoZGNEdzlGMkxqWHFUNGl2SjRwY2xEQzFyVTMwTDdyUDdGWk1PcjRIajJUUG42X0dFY3c3M24zcEkwaUZJRVlqZkotMzdtOVJmN09HMW9qT3FFalFoTUhfend2cmpJSXQ2cHNMV3NlTktfNk1tVVhrUVQtR2dYd0xnVFNPeTUyV3M4T2c?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
       "source": "Bimakini",
       "description": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUUZTUFRqMXZkUzZVWjZNR2Z3aWdDNEdrbXFrcHc4WVlxTGJDeEpRdTB4d1BCQWt3V0xfc0o3N0tnVG5KWnJzMi11UEc5WkpyMUJ4Um1yc2drWGJMXzZlN0l2LUd1YUJWY1NqZjNQNmlDMlRXVWVIcV95UWt3YkpacVVFanZITjF3TDhOS0htNDFCTmVadEZRVTVmWHZXQjBGQ0F6VjJ0eE43VHpvT3EyS1NwZmFreVU2c1pKVnQ1cHBlTnpNeWJUTVk4Zk5oTXBDb1RqTUhxdXlHWHp6eGNzZmpXT0ZTTWlOdGtXVWFvZUdEdElHRzJTMkpyYkRHdGNRaHNRa3Vyb29JREVWS19GclI5Nm14bEpWU3k3MHVn?oc=5",
+      "pubDate": "2026-06-26T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
@@ -5692,7 +5755,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjg1eWs2WU9rU19wUnRsUVBGVUVpSDdPemRuTnlhUFpLdkxUSVIwTmpNZjNVQTZkNlRHdVFwcVlaZy1Kckl4eElMN2llb2Z6NVpzT3M1OHlfQjh2bjJEaFpUME9fZm9sN2VpLVlWTm51SWpkQXdydmJBQmM0dEtuQ2FHSGdtTVNORnlscWpyUTR5ZWdnc080aQ?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
