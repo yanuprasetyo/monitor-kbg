@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-02T03:45:57.057006+00:00",
-  "total": 703,
+  "updated_at": "2026-10-02T11:46:39.659531+00:00",
+  "total": 705,
   "stats": {
-    "tpks": 195,
-    "kekerasan_seksual": 310,
+    "tpks": 196,
+    "kekerasan_seksual": 311,
     "kbg": 81,
     "kbgo": 117
   },
@@ -31,7 +31,7 @@
       "title": "Siri’ Mandar Jangan Jadi Alasan Bungkam Korban Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0RVbWpjRUJPNjN4SjhXbk5lMHQyaUxHc3lNS3k4eExlSFF1ZHZYWDNHV2hEN09nRXlScEJyYnJWZm1IZW5ZRlA2Wk1QVmhoMHkzbkZybldVMW9mOG5KaHBONnRTamM1YzRFa2F5em5hMUdzcWxldzVWUXdZNnBwM0MtQmFtdw?oc=5",
       "pubDate": "2026-10-02T03:02:39+00:00",
-      "source": "Editorial9.com",
+      "source": "editorial9.com",
       "description": "Siri’ Mandar Jangan Jadi Alasan Bungkam Korban Kekerasan",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -49,7 +49,7 @@
       "title": "Rakor Multistakeholder di Luwu Perkuat Sinergi Cegah Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMlJobkdiME9ZQ2lnTS1CSFB3RXVST2dUTDdmQVRiYndoV2Y4UnczdkpyeUFWXzc4VDZXZUpGNUNXN1kzV3lYVk9VcDR1N3FVTDFqSWxRRjg5MjhrMWdWOWhpSXBwOFY3bjd6VHBkM3ktUW1Bbm1aVm84X0Z5RkpkaURYc0ItamRtMHVoRUJ6M2xnd0VZTlNYYjJWeGlPWDcxR1R2cWxZWmNZMmhLdURVQWVybw?oc=5",
       "pubDate": "2026-10-01T10:22:41+00:00",
-      "source": "Pemkab Luwu",
+      "source": "mediacenter.luwukab.go.id",
       "description": "Rakor Multistakeholder di Luwu Perkuat Sinergi Cegah Kekerasan Berbasis Gender",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -89,6 +89,15 @@
       "description": "Sosialisasi Pencegahan Kekerasan Seksual di Lingkungan KPU",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "KY Ajak Masyarakat Kawal Implementasi UU TPKS di Persidangan",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFIxb01NU2gyYkJfVktkZURuNjVwYUV0Um5wVV80Qk8wc0RuakhLaFJZU0NvVmFBUkhxdkNqaklRbHkyMjBYQ3BVckhCTmJNdnp3dmtWQ1N3NnlTZktUb3B5T3owdkFBcUZnVU82Y0pVa3NMZEJuMlFwWGt5a2tkMGdndGU1TXJVaDV4N3JoZk5vdVg3RU9KTVdXTHpsSHdqUDJoOXloMVloenozOXlVMFdMYUYyUGVmRGF0VA?oc=5",
+      "pubDate": "2026-09-30T12:55:00+00:00",
+      "source": "Komisi Yudisial",
+      "description": "KY Ajak Masyarakat Kawal Implementasi UU TPKS di Persidangan",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Dorong Efektivitas Implementasi UU TPKS, KY Perkuat Sinergi dengan Masyarakat Sipil di Medan",
@@ -319,7 +328,7 @@
       "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
       "pubDate": "2026-09-29T09:22:00+00:00",
-      "source": "yogyakarta.kompas.com",
+      "source": "Kompas.com",
       "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -454,7 +463,7 @@
       "title": "Heboh Dugaan Pelecehan Seks di Grup Chat Mahasiswa FT UGM",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUVyZWNMMVhfMEpLOFRlUmFobnFjOTZFQlJhLVU0cXJEbEs3RU9wTHJ0czhXNUdSUldfM0RWaTNyRDg3SDhMbkF1WU56Q2lXcHFLUDk3Y3JDbEUzeUhzTlhfYkt2ay1vNUMycjZXOWprekRyMmFEc1M0N0h2R051eVo1dkllZzJzMHJsZnY2MjhOMUh2X2l1a2FZZkIweGxqVnltUtIBqgFBVV95cUxQdlRkWm1KbkZwWHRXSmN4a2FXNjlzLU1fcGNWcDJRMVpqMnhuOWszUWVhdDRUZVZsR0wzOTVKYWo0V1ppTmpueUhHQms3SlF1ZktVZlRDai1LenowZ21ZZEVRTjQ4d3ZwbXU3U2dRN2l5bHhhMzA5MGtKMFZKb0tMLVBKYU1UN3RNUHVCeng3XzI2bVF2Q2tNRDMxZkR6ZHpUNF93U0FrYnJvdw?oc=5",
       "pubDate": "2026-09-28T12:37:15+00:00",
-      "source": "detik.com",
+      "source": "detikcom",
       "description": "Heboh Dugaan Pelecehan Seks di Grup Chat Mahasiswa FT UGM",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -463,7 +472,7 @@
       "title": "Komnas Perempuan: UU TPKS Atur Komprehensif Hak Korban Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGFDR29STjBHSkNuWXdKQ1dYV19WbG9md3pveEVsQ0gxZE56VnVpa3Z1bUR0ald0V2pFT3pGUXRSZUdoQ1dtLTJpRS03djZ3eTBEZnBFdHN2TF82aUdJQkNuVnN5dExHODZYWWRTV0FkQnQ3NGc5Nnowa1lHc3p3a2F0SExDV0twQjhtcXcyVEhHWHRVVWZEbjBWOVllUlU?oc=5",
       "pubDate": "2026-09-28T10:45:00+00:00",
-      "source": "RRI.co.id",
+      "source": "rri.co.id",
       "description": "Komnas Perempuan: UU TPKS Atur Komprehensif Hak Korban Kekerasan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -526,7 +535,7 @@
       "title": "Wartawan Diajak Lebih Peka Saat Liput Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVjd5MkNjbG9Ydm9LSlJWMTNiVzdSOWFud1MtLXAyRnpiNnVNeXVFVlFHQWJCeUZ4c2F2N1pKZXVDcTVWMHZ1S2tnYUtBTGhXNHVGUmFTUl9KTng2LWVuZDMxQ2JHckx4Z2RkWjBNQjVEVGhwVjFMbHpNenA3QlRqZnpZel92OWpmOEdlQkNSdm9DZC13amtEUEUyOGlzY1BXQjlKY1JUcVNSSlU?oc=5",
       "pubDate": "2026-09-26T17:04:00+00:00",
-      "source": "RRI.co.id",
+      "source": "rri.co.id",
       "description": "Wartawan Diajak Lebih Peka Saat Liput Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -937,15 +946,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
-      "pubDate": "2026-09-21T10:07:31+00:00",
-      "source": "ANTARA News",
-      "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Namanya Masuk SOI, Bos Son Ga Terduga Pelaku Kekerasan Seksual Bebas Keluar-Masuk Indonesia - memorandum.disway.id",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ0JRdk9Hb2NMMTFsODkxNWJnOWlQeEhRdjRvUHJ2SDB6NGphS2dCNGxwY0ZHdjFZbm9XQzBmcmh3U01haUNCSDhJbjRmNTRZQ2lqUC1ZaUFWcGZDVjROal80eDc3Rmd3TUJpcEw1dzFZQWVhSUVWOU9GY3RLMGtJeGxRQXNnTEF2dzc1NmFtaUQ0NU5aVGNEMXB3RlhpbFQzSF9NdGtqOXVBZXZoN1czdzFOMlFYTmFGbzMtVTBLVjRfaWRJMm9NNWRHMVdDWWw1Uk5HaUNycXVkREZrajRZ0gHKAUFVX3lxTFBQSE4xdWZldkZqYkN6c1QxLW4zb25RWnVndWEwY1h6cld2dHdMM3NDRXgtM0pLVlozR2lWRUtjQlF6cmVQcnBkZmN2WXFGa2lic0NEa1YzS0c3b28zbzlCMFpaaHJXRVRCUHlJdEl2NUZzNERUSWJqNWd1SmtQWHBKNVI4MElMTmZub0FVY2YxR2h3TTg3Z05lTWtmVmlrckgyT2RxdGhNMVdhN2pCNWxzRTg4ZkVWS3E4eGJaQXkxOEZPZ3R6VnNRRnc?oc=5",
       "pubDate": "2026-09-21T08:03:00+00:00",
@@ -962,6 +962,15 @@
       "description": "Oknum Polresta Kendari Diduga Intimidasi Korban Pemerkosaan dan Langgar UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
+      "pubDate": "2026-09-21T07:00:00+00:00",
+      "source": "ANTARA News",
+      "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
@@ -2460,7 +2469,7 @@
     {
       "title": "Kekerasan Seksual Perempuan Lansia, Potret Degradasi Moral dan Matinya Empati di Masyarakat",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnAtMU14NDhpRmNfN2d4b1RRWjJEcjRacXMyRU9JdGRhVHF6UVBfcnR2aGkzQnltVmtXbGdNR0xUNVZSQjQ1UTE0Tnd6TDlyZVNoRGlLTmowZnlNbmgxaW5qamo1Nno2UVdyN2wwQUFOTmZxa0VXS3VKdHBIMTJBVEJCT3h0RmFUaXZuM2JhZTVBMVBLb2ZNZXRydjJCckY0WXQ5b3ZKTFBnV3hUa2hudEhGdzFocXVfTGU1enc4aklQREU?oc=5",
-      "pubDate": "2026-08-08T07:23:00+00:00",
+      "pubDate": "2026-08-08T07:00:00+00:00",
       "source": "Kompas.id",
       "description": "Kekerasan Seksual Perempuan Lansia, Potret Degradasi Moral dan Matinya Empati di Masyarakat",
       "keyword_id": "kekerasan_seksual",
@@ -3516,6 +3525,15 @@
       "pubDate": "2026-07-21T10:44:57+00:00",
       "source": "republika.co.id",
       "description": "PBNU Dorong Pendidikan Kesehatan Reproduksi untuk Lindungi Santri dari Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Penelitian Doktor FISIP UI Perkuat Perspektif Kriminologi tentang Pencegahan Kekerasan Seksual terhadap Anak",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTU9PWktsNzNSMWpZMlFURU1hSnppRkNQdEJzLXY0U2RrSW9POGIzM3JBNmVaWHJzV3gyT0FLYk5wY0hTaVVYSWw5MXV4aXRrRUNDNEV2UWpteWpLdzFRRG1lZXhIZTk1bWdDYnFyT1JYLWwzcDhLcmNrUmlFZEZvNmR5dGpiN01VSHhUSlJTaXc4YlR6ZlZBRTdQUHFORUQ1bTdGQ2JTR1lkX2FmaVd5ek1zZmRLS0pSeUNBZ2Rwc1VwSVJqTFJoNkpwLXk?oc=5",
+      "pubDate": "2026-07-21T07:00:00+00:00",
+      "source": "fisip.ui.ac.id",
+      "description": "Penelitian Doktor FISIP UI Perkuat Perspektif Kriminologi tentang Pencegahan Kekerasan Seksual terhadap Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -6187,7 +6205,7 @@
       "title": "Peringatan 16 HAKTP, BEM FH Gandeng Komnas Perempuan Soroti Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjRXb1lPVFNXcl9GNWlON2t1NVBFejlIemtWdTJrdl9jMUZSNjJXYXVGMnJVOVV6TmF5S0ZOWGI0RHV0b1dpd2tjZFh5eDNYaDJRUmlISWRtMUdUQlFUa1lxWWw3c0llZFRBUk9XS3FXbHlQSWdEeUtYaElDTjZNUXdhbDY0R1haeUVsQWpSYThWMHVKZXpzeW14MEV3cnhYempCR29aZDI?oc=5",
       "pubDate": "2025-10-20T07:00:00+00:00",
-      "source": "Universitas Airlangga Official Website",
+      "source": "Universitas Airlangga",
       "description": "Peringatan 16 HAKTP, BEM FH Gandeng Komnas Perempuan Soroti Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
