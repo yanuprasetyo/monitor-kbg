@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-01T22:15:45.978372+00:00",
-  "total": 702,
+  "updated_at": "2026-10-02T03:45:57.057006+00:00",
+  "total": 703,
   "stats": {
     "tpks": 195,
     "kekerasan_seksual": 310,
-    "kbg": 79,
-    "kbgo": 118
+    "kbg": 81,
+    "kbgo": 117
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Siri’ Mandar Jangan Jadi Alasan Bungkam Korban Kekerasan",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0RVbWpjRUJPNjN4SjhXbk5lMHQyaUxHc3lNS3k4eExlSFF1ZHZYWDNHV2hEN09nRXlScEJyYnJWZm1IZW5ZRlA2Wk1QVmhoMHkzbkZybldVMW9mOG5KaHBONnRTamM1YzRFa2F5em5hMUdzcWxldzVWUXdZNnBwM0MtQmFtdw?oc=5",
+      "pubDate": "2026-10-02T03:02:39+00:00",
+      "source": "Editorial9.com",
+      "description": "Siri’ Mandar Jangan Jadi Alasan Bungkam Korban Kekerasan",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
     {
       "title": "Polres Pamekasan Tetapkan Dua Tersangka Kasus Kekerasan Seksual terhadap Penyandang Disabilitas",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYVltZm1Ib0R1N3UtaWttWFFJTUVkU1FJMEttMHNwdmI5SnMwNVJ5MnFzVU1ac212b2NoOFhFb3JFbEVVRDRLNkZhMENxZHZHSlFnRlJXYmtQb3ZEbE5ZTTNMUU1uWS1SOWRpZ0c1bE5vSHo4Vnh2VGN4MU1TVXRyVk5sbGM0Q3BoZ1ZTZXJHcFg3MmRPVjJ6OFRiYnJlUXRZdF83Z0c0RHBxNldlS1BqN3NiaGMxWkdYc3Y0eWl2OXllUkd4RVpiaWtBdjNYVkpUejEwcWoyZVo0UW1fR2hR?oc=5",
@@ -157,7 +166,7 @@
       "title": "10 Mahasiswa FT UGM Dinonaktifkan Sementara Diduga Terlibat KBGO",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUwxS0dCaFpjZ1lLQmZqdHQ2elBVT3BwTHE0eXpIZkxnSndqbGFyM2pCUkxSLXZPdE1NelRlYjllZmZ1d3BoSUl1c1hYWjZVZ2sxU0p0Yi0yZjJVcXotWHBtLTV3MTZPWWM1OEcwb3hJRWdsTUJCYzR5WG5lOG91SDFqWkFoNFF3OHhhZGZXTQ?oc=5",
       "pubDate": "2026-09-30T02:52:00+00:00",
-      "source": "tirto.id",
+      "source": "Tirto.id",
       "description": "10 Mahasiswa FT UGM Dinonaktifkan Sementara Diduga Terlibat KBGO",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -211,7 +220,7 @@
       "title": "KY Ungkap Hakim di Indonesia Masih Minim Ikut Pelatihan UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3VjYlhxVTlXc1JSRzJOVGlRSElTOGFiWjh6MURRZDE5TmZaNEVJbnNkcWNMbVlXOThFMVJHbXQtY3hyVjBYNHBhZkcyaXFDU3QtcUhVSDg2WlhWWEhWcWVtSlBXWHk4dFM5eVVFU2tWa0ZkMkllZlBxdTQtV1JremN4S0FOQjdqRjRnWGVmVExtR0hrZlA2OVlWVTdZUGlQM1JPOHJLam1jb0to0gGyAUFVX3lxTE1mUV9kNUZ1T01HenlVZmdDaW9ZSlZaVXFhTFllSFpaT2EybXN3eXZabWxKZUk4ZDJhMENsWnFKeF9BZTZaWXFIblZXaVV6RWNlejVVN0xtMS1Va0t6MWwtWEd6bjlYVG9xUzRoeXRKSTdfNGdWR3EzVjJZMk9wX3VzU2dWRXBjemVJYk9DUUhpV2pQbDhNMk14d0V4cGNsS05tS1ZGVlN2S2staFlaSmplZFE?oc=5",
       "pubDate": "2026-09-29T16:20:23+00:00",
-      "source": "detikcom",
+      "source": "detik.com",
       "description": "KY Ungkap Hakim di Indonesia Masih Minim Ikut Pelatihan UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -220,7 +229,7 @@
       "title": "Keadilan Restoratif:Pemulihan Mental Anak Korban Akibat Kekerasan Seksual Halaman 1",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2hONEZwSWNob2ZjYlZXMWNSN3M4NC1CTE1ZdVdBTjVWV0dFeDZEMVVaVmgzS3RObmxkSHZqWFNzb1pTbmpleS1mbFdmanJSYmhscVpwZDNka1lkc2FTbjNvb1pRRkVkcUgyWGZfdFZoSEc4NXlzUEh5NG9pT3JEdWRwRlVXM0EzbkJRbjF6bTNZNWxzQkRJakhmU2l3OGE0UUVDY3ZwTVFsRFA0eFZGeDE1S1dBaVlGQ1E0OE1tenBlZFgyemtrX1R4aUFrWUZGUGtuNQ?oc=5",
       "pubDate": "2026-09-29T15:54:45+00:00",
-      "source": "Kompasiana.com",
+      "source": "kompasiana.com",
       "description": "Keadilan Restoratif:Pemulihan Mental Anak Korban Akibat Kekerasan Seksual Halaman 1",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -310,7 +319,7 @@
       "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
       "pubDate": "2026-09-29T09:22:00+00:00",
-      "source": "Kompas.com",
+      "source": "yogyakarta.kompas.com",
       "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -344,7 +353,7 @@
     },
     {
       "title": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU05Eei1zck5tM0ZiMFkxenhPZ2x4LXk0UWh2WEpWNGJlRGx6Vl94NFFCLTRUZDZyX2dpb0RLXzNsUGlfNnNjRFdqZFNsdGR0QXZjVVZrXy1XSzQycjJ1clpBQV9Jc0Z5dXloaWI4dktJeEpHd29lcnZic3JxbklhazQwLU1EbXNUMjI4T005Q2hJdmF3QTVZc0lQV1VTS0tSVWJHaERsYVZNS2RPckdWUUNtSmdBd0JHSWfSAboBQVVfeXFMUFNORHotc3JObTNGYjBZMXp4T2dseC15NFFodlhKVjRiZURselZfeDRRQi00VGQ2cl9naW9ES18zbFBpXzZzY0RXamRTbHRkdEF2Y1VWa18tV0s0MnIydXJaQUFfSXNGeXV5aGliOHZLSXhKR3dvZXJ2YnNycW5JYWs0MC1NRG1zVDIyOE9NOUNoSXZhd0E1WXNJUFdVU0tLUlViR2hEbGFWTUtkT3JHVlFDbUpnQXdCR0ln?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVE9wM3R2c19odW9hc2N2V182MEZzTEQ2RThiWjlxNFdjMzlxWl9QLUwyQ0dGM3VScVBRdWhveWIwd3hTWVlVTzJqbGk1RVd0bDVoVUxNRWhXRFlVTEVzNk5iaTFJNXlwX0RNNWh4ZkQtWDV3aU1VQ1ZWd0FGV0RNWEZYdTJfcVJmZzVuT2t6V21LU25LT3B4Rk1tVi1XRTJkN0lESkhMclhXdm5rQzJBdjBnYlRaVHFGeHfSAboBQVVfeXFMUFNORHotc3JObTNGYjBZMXp4T2dseC15NFFodlhKVjRiZURselZfeDRRQi00VGQ2cl9naW9ES18zbFBpXzZzY0RXamRTbHRkdEF2Y1VWa18tV0s0MnIydXJaQUFfSXNGeXV5aGliOHZLSXhKR3dvZXJ2YnNycW5JYWs0MC1NRG1zVDIyOE9NOUNoSXZhd0E1WXNJUFdVU0tLUlViR2hEbGFWTUtkT3JHVlFDbUpnQXdCR0ln?oc=5",
       "pubDate": "2026-09-29T05:39:21+00:00",
       "source": "Suara.com",
       "description": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
@@ -445,7 +454,7 @@
       "title": "Heboh Dugaan Pelecehan Seks di Grup Chat Mahasiswa FT UGM",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUVyZWNMMVhfMEpLOFRlUmFobnFjOTZFQlJhLVU0cXJEbEs3RU9wTHJ0czhXNUdSUldfM0RWaTNyRDg3SDhMbkF1WU56Q2lXcHFLUDk3Y3JDbEUzeUhzTlhfYkt2ay1vNUMycjZXOWprekRyMmFEc1M0N0h2R051eVo1dkllZzJzMHJsZnY2MjhOMUh2X2l1a2FZZkIweGxqVnltUtIBqgFBVV95cUxQdlRkWm1KbkZwWHRXSmN4a2FXNjlzLU1fcGNWcDJRMVpqMnhuOWszUWVhdDRUZVZsR0wzOTVKYWo0V1ppTmpueUhHQms3SlF1ZktVZlRDai1LenowZ21ZZEVRTjQ4d3ZwbXU3U2dRN2l5bHhhMzA5MGtKMFZKb0tMLVBKYU1UN3RNUHVCeng3XzI2bVF2Q2tNRDMxZkR6ZHpUNF93U0FrYnJvdw?oc=5",
       "pubDate": "2026-09-28T12:37:15+00:00",
-      "source": "detikcom",
+      "source": "detik.com",
       "description": "Heboh Dugaan Pelecehan Seks di Grup Chat Mahasiswa FT UGM",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -472,7 +481,7 @@
       "title": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0M5WEtHMWdpdnZCZDdodWFvUElnYXQ4Umo2Q3dBTWUwSDkzaTduREJfT0FfUWljWVVMdHgzaWNWeUQ4WTBCN1Y4YlRYNTA1RW1ORkkyNmlVV21Yenl6bkZLalR0N29wTlNCNGZnbHZnVFVrRWJ6MDNlWjd4cHFvb3BWRWZMeHJzZEtYR0NDdzd5VnhWRXNIWHQzOEtnUUZyanJFbFlHdWhKbUkxVGt4VVNOSXlYMEo3aW5LVlU4ajJCUC1t?oc=5",
       "pubDate": "2026-09-27T23:40:53+00:00",
-      "source": "iNews.ID",
+      "source": "semarang.inews.id",
       "description": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -483,15 +492,6 @@
       "pubDate": "2026-09-27T17:03:51+00:00",
       "source": "Media Indonesia",
       "description": "Barang Bukti Jadi Dalih Berbelitnya Penanganan Kasus Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcU0taVh1aTJIcnJxcTlMQk11X1pVYk11RlFDLXg2ZTd2cnZBRmtvMXZFLUJ0QUZ1V3hWYkhLRVhIdnNtdXJ6bjBSYmtHS0ZvSzFpa3RuYlo4ZmhibmlxOTVn0gFnQVVfeXFMT3hkRkx5bWNSNV9uZ1QyWDdhdUV6VV83dzBobENKRkQxTDl3UlhxekNUZDliRGV6Ymg0MGdzaXhKRWh2YjUtS1JqdUVvblpJZ0E1ZGlTQS1XZTJVSlI3QU5hbWtMUWk2OA?oc=5",
-      "pubDate": "2026-09-27T14:26:18+00:00",
-      "source": "BBC",
-      "description": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -611,6 +611,15 @@
       "description": "Polda Banten Tangani Laporan Dugaan Kekerasan Seksual ASN di Lingkungan Pemkab Tangerang",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcU0taVh1aTJIcnJxcTlMQk11X1pVYk11RlFDLXg2ZTd2cnZBRmtvMXZFLUJ0QUZ1V3hWYkhLRVhIdnNtdXJ6bjBSYmtHS0ZvSzFpa3RuYlo4ZmhibmlxOTVn0gFnQVVfeXFMT3hkRkx5bWNSNV9uZ1QyWDdhdUV6VV83dzBobENKRkQxTDl3UlhxekNUZDliRGV6Ymg0MGdzaXhKRWh2YjUtS1JqdUVvblpJZ0E1ZGlTQS1XZTJVSlI3QU5hbWtMUWk2OA?oc=5",
+      "pubDate": "2026-09-25T14:26:37+00:00",
+      "source": "BBC",
+      "description": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Satgas NTT Peduli Kepri waspadai KBGO Dalam beberapa waktu",
@@ -1246,7 +1255,7 @@
       "title": "Korban Bencana NTT, Belum Aman dari Ancaman Kekerasan Seksual!",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQblMzQWY0OGl0N2JpSGxwYXhSTC1pRWR0cHFQR0Z2NHRQUjdMMmpabjhzYTlYdlI2dmtSVmk5VnBPb1VyangwLXV5Sk0xdnJKVXVMWUlCVzNSNU5NTVFEY255bjcxNkl2VjhBQVBWQ2F2OEd5RWhOTjhjOW9TSVJDc0E5a2w5MHJrWVBRNE9zMnJJSUxPWktRWWtsbXJDUXN6WGc?oc=5",
       "pubDate": "2026-09-14T07:00:00+00:00",
-      "source": "theindonesianinstitute.com",
+      "source": "The Indonesian Institute",
       "description": "Korban Bencana NTT, Belum Aman dari Ancaman Kekerasan Seksual!",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -1903,7 +1912,7 @@
       "title": "Initiative! Mengoptimalkan “Temporary Special Measures” dalam Penanganan Kekerasan Seksual di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUHNXRHZrcmo2MUswZVd4cG9vdHJ2M1lrOWJEd0RNMEdFVkNhR1NQdDRPVHAzMWFHRE9tODJ4RjZPN1JBZlZYcFJKYnZVWUxXcWdvai1EYS1KNEswSm12MWxVdnRkam93VjR1Q2plWlItTU5sdGNELWU3ZnZVYklKQjlCOUhzMDQ3RUMzcHZUNFBGS3BJZ3BrLTJIR3F1ZzJKZEVMMEJYNkhuNmNJUjIyNVlOVm9DckVDT2pMUmF4b2RNZjlVVmdqNzFZVkd1T2FqZkZWbzU4VQ?oc=5",
       "pubDate": "2026-08-20T07:00:00+00:00",
-      "source": "theindonesianinstitute.com",
+      "source": "The Indonesian Institute",
       "description": "Initiative! Mengoptimalkan “Temporary Special Measures” dalam Penanganan Kekerasan Seksual di Indonesia",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -5928,8 +5937,8 @@
       "pubDate": "2026-02-06T08:00:00+00:00",
       "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
