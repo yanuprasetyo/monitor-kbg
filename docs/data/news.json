@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-02T17:19:33.943461+00:00",
-  "total": 708,
+  "updated_at": "2026-10-02T21:44:37.917256+00:00",
+  "total": 709,
   "stats": {
-    "tpks": 197,
-    "kekerasan_seksual": 312,
+    "tpks": 196,
+    "kekerasan_seksual": 314,
     "kbg": 81,
     "kbgo": 118
   },
@@ -33,8 +33,8 @@
       "pubDate": "2026-10-02T15:25:15+00:00",
       "source": "Medcom.id",
       "description": "Alasan Kamila Andini Sempat Berhenti Tulis Skenario Empat Musim Pertiwi",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Ormawa PIK R CAKRA UNS Halaman 1",
@@ -44,6 +44,15 @@
       "description": "Ormawa PIK R CAKRA UNS Halaman 1",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Guru ICM Tersangka Kasus Pelecehan Seksual Anak Resmi Ditahan",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOXNJWmNFUGZrYV9FUkw4QkR5THZhX1pYTUR6NjFLSVpiM3ZEMGdwaFlnWUo0WUFRZldORkRPcTdZbGN0aUF0bVFYREpiTHN5dDFCN1NOWVVfZUZYTXRtdmd3M0R0WVRCZ2Y1RFltTHVCdVY4dHpHMktuenRYU0w1M2Z5eWJLdERzcW1oeHV0TWZacUgwTmM3Y0lVaU1wU3FqX1BLVXE3Zi16YUxOaEpXVW9VRnZKajdoeVlKcW9USG1QbDjSAcgBQVVfeXFMT3g4YUhlMzRnMkoyeVJVNFFiRXBySmFqUEtaVXlKM2xraGR0Si1DZE0wMzFyM04yTnEwMjNtOHp4N2hRS3MwLWJkRnozRXROd1lERVVyd1d1QzNubjE4ZURhTHpjM0F4Z2M5djlUeERzYk81RXFZUEpaV2pwUnZvYjNYbDlIR1JfclR6b3NWeGc1U2JMSDlDejQyQWU0alBSeFdQN2JnQlBtY2pIRDRSNzV2ZGlmYzRrUllxTVNRSGxLdVBWUHBkMmw?oc=5",
+      "pubDate": "2026-10-02T14:02:54+00:00",
+      "source": "CNN Indonesia",
+      "description": "Guru ICM Tersangka Kasus Pelecehan Seksual Anak Resmi Ditahan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Siri’ Mandar Jangan Jadi Alasan Bungkam Korban Kekerasan",
@@ -283,7 +292,7 @@
       "title": "FT UGM Nonaktifkan Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU1Zoc3FiLUZEcTRHekJhVXRLcDlWRTBnVE1La2tXNXVXX0FUNTR1UUhTaFYxM3Fld3pLRXBSckZVOF85OHF5SVBDWTY5d25DNHp4WHRzWW53bHQ4Wm9EWGlzR3hmY01PVE5Tb09WVktxNTN5R29wbk9xM2ZyMXRlNVBQRlBTOHlmdUdJMlF0aEk2Y2d3VUlBbEpDXzVNaEp3LTBzTjdfb3FocThVT3ZLTS1DLXI4MkJLb21tSQ?oc=5",
       "pubDate": "2026-09-29T15:28:55+00:00",
-      "source": "mediaindonesia.com",
+      "source": "Media Indonesia",
       "description": "FT UGM Nonaktifkan Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -517,7 +526,7 @@
       "title": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0M5WEtHMWdpdnZCZDdodWFvUElnYXQ4Umo2Q3dBTWUwSDkzaTduREJfT0FfUWljWVVMdHgzaWNWeUQ4WTBCN1Y4YlRYNTA1RW1ORkkyNmlVV21Yenl6bkZLalR0N29wTlNCNGZnbHZnVFVrRWJ6MDNlWjd4cHFvb3BWRWZMeHJzZEtYR0NDdzd5VnhWRXNIWHQzOEtnUUZyanJFbFlHdWhKbUkxVGt4VVNOSXlYMEo3aW5LVlU4ajJCUC1t?oc=5",
       "pubDate": "2026-09-27T23:40:53+00:00",
-      "source": "semarang.inews.id",
+      "source": "iNews.ID",
       "description": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -1291,7 +1300,7 @@
       "title": "Korban Bencana NTT, Belum Aman dari Ancaman Kekerasan Seksual!",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQblMzQWY0OGl0N2JpSGxwYXhSTC1pRWR0cHFQR0Z2NHRQUjdMMmpabjhzYTlYdlI2dmtSVmk5VnBPb1VyangwLXV5Sk0xdnJKVXVMWUlCVzNSNU5NTVFEY255bjcxNkl2VjhBQVBWQ2F2OEd5RWhOTjhjOW9TSVJDc0E5a2w5MHJrWVBRNE9zMnJJSUxPWktRWWtsbXJDUXN6WGc?oc=5",
       "pubDate": "2026-09-14T07:00:00+00:00",
-      "source": "theindonesianinstitute.com",
+      "source": "The Indonesian Institute",
       "description": "Korban Bencana NTT, Belum Aman dari Ancaman Kekerasan Seksual!",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -1948,7 +1957,7 @@
       "title": "Initiative! Mengoptimalkan “Temporary Special Measures” dalam Penanganan Kekerasan Seksual di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUHNXRHZrcmo2MUswZVd4cG9vdHJ2M1lrOWJEd0RNMEdFVkNhR1NQdDRPVHAzMWFHRE9tODJ4RjZPN1JBZlZYcFJKYnZVWUxXcWdvai1EYS1KNEswSm12MWxVdnRkam93VjR1Q2plWlItTU5sdGNELWU3ZnZVYklKQjlCOUhzMDQ3RUMzcHZUNFBGS3BJZ3BrLTJIR3F1ZzJKZEVMMEJYNkhuNmNJUjIyNVlOVm9DckVDT2pMUmF4b2RNZjlVVmdqNzFZVkd1T2FqZkZWbzU4VQ?oc=5",
       "pubDate": "2026-08-20T07:00:00+00:00",
-      "source": "theindonesianinstitute.com",
+      "source": "The Indonesian Institute",
       "description": "Initiative! Mengoptimalkan “Temporary Special Measures” dalam Penanganan Kekerasan Seksual di Indonesia",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -3556,15 +3565,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Penelitian Doktor FISIP UI Perkuat Perspektif Kriminologi tentang Pencegahan Kekerasan Seksual terhadap Anak",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTU9PWktsNzNSMWpZMlFURU1hSnppRkNQdEJzLXY0U2RrSW9POGIzM3JBNmVaWHJzV3gyT0FLYk5wY0hTaVVYSWw5MXV4aXRrRUNDNEV2UWpteWpLdzFRRG1lZXhIZTk1bWdDYnFyT1JYLWwzcDhLcmNrUmlFZEZvNmR5dGpiN01VSHhUSlJTaXc4YlR6ZlZBRTdQUHFORUQ1bTdGQ2JTR1lkX2FmaVd5ek1zZmRLS0pSeUNBZ2Rwc1VwSVJqTFJoNkpwLXk?oc=5",
-      "pubDate": "2026-07-21T07:00:00+00:00",
-      "source": "fisip.ui.ac.id",
-      "description": "Penelitian Doktor FISIP UI Perkuat Perspektif Kriminologi tentang Pencegahan Kekerasan Seksual terhadap Anak",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Kemenko PMK Perkuat Peran Perempuan dalam Pengurangan Risiko Bencana hingga Pemulihan Pascabencana",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1RBQWtJUjJFZE9HaENjN19McFFoMm5QeHlHanV6Sy1pTGhkc0NjcXN1Zm1PQlppc0d1SFBmTGkwdTRFdlpESHdYSzJORDNLSS13MkhfQnhjVlFvbnZiVUd2c2UyZUc2UTdTVUQxZU94cWNBSmZwYTBUZ0ZwOThDdU1xZzF6aGVQeG1aSF9wQ2ZDTVZLbTNpeXowLWZDRjZyUHJ1TlBoZU5rODdwTmIxLUxFWWd3Y2l4clhiN2l2SW1yMEt4UWc?oc=5",
       "pubDate": "2026-07-21T07:00:00+00:00",
@@ -3572,6 +3572,15 @@
       "description": "Kemenko PMK Perkuat Peran Perempuan dalam Pengurangan Risiko Bencana hingga Pemulihan Pascabencana",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Penelitian Doktor FISIP UI Perkuat Perspektif Kriminologi tentang Pencegahan Kekerasan Seksual terhadap Anak",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTU9PWktsNzNSMWpZMlFURU1hSnppRkNQdEJzLXY0U2RrSW9POGIzM3JBNmVaWHJzV3gyT0FLYk5wY0hTaVVYSWw5MXV4aXRrRUNDNEV2UWpteWpLdzFRRG1lZXhIZTk1bWdDYnFyT1JYLWwzcDhLcmNrUmlFZEZvNmR5dGpiN01VSHhUSlJTaXc4YlR6ZlZBRTdQUHFORUQ1bTdGQ2JTR1lkX2FmaVd5ek1zZmRLS0pSeUNBZ2Rwc1VwSVJqTFJoNkpwLXk?oc=5",
+      "pubDate": "2026-07-21T07:00:00+00:00",
+      "source": "fisip.ui.ac.id",
+      "description": "Penelitian Doktor FISIP UI Perkuat Perspektif Kriminologi tentang Pencegahan Kekerasan Seksual terhadap Anak",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "10 Provinsi Kasus Kekerasan Berbasis Gender Online Terbanyak di Indonesia 2026, Jabar Tertinggi",
