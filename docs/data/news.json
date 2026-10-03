@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-03T15:36:48.876750+00:00",
-  "total": 714,
+  "updated_at": "2026-10-03T20:31:15.561443+00:00",
+  "total": 715,
   "stats": {
     "tpks": 199,
-    "kekerasan_seksual": 315,
+    "kekerasan_seksual": 316,
     "kbg": 81,
     "kbgo": 119
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "ICM Dukung Proses Hukum Kasus Kekerasan Seksual dan Perkuat Perlindungan Siswa",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTFqTWdNblAyZWxkVFViU1NlZ3hyWnE2QlNmeVlrUEp2LUVlaFdPU2VFR291UlFQc2JnOWRHQXNwdGVDNlRWbE5tbS1iOXg1cElnWGxjelZvSkVRdElVUGF0UUVLQXV5dlFxZnlpeTUwT285aGdLTC1FemExbV9rM240NTlDVG8xWllmYWdGbVMtVHVxZWk3c2xCWGlOUHNwdEkxeDFIN2dsRDM3aC1PeEFWOHNFejIyZk1XRi1qVQ?oc=5",
+      "pubDate": "2026-10-03T14:17:32+00:00",
+      "source": "Media Indonesia",
+      "description": "ICM Dukung Proses Hukum Kasus Kekerasan Seksual dan Perkuat Perlindungan Siswa",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Prihatin dengan Maraknya Kekerasan terhadap Perempuan dan Anak di Solok Selatan, Mario Syahjohan Minta Jadi Perhatian",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMkd0RjR1NWNnZGhsMzlBLTlUNURNRlJJeVVCS2JZaGpCeWw1d0tpeXc0NDZQbjZzSE9YRFBuUmFPZmIwWW1tNDBkQzRQb1dQX21rS3FUQVVDYWw4ald3M2w0M2I1OWN6a1BtZ3dudHRCQXBsbzBFYWs4b3FwLTdlVzFOYkc4YnItMXVLVW1pajA5ZnZwSTZvX0RvVHdOSzhoZjlNSUJwSFo3c1M4NDN1bVNYSzdCdXhlUGozVjRVRGg2Q2lZTmxkUWgxX2EzbHpReVlDTVdR?oc=5",
@@ -247,7 +256,7 @@
       "title": "10 Mahasiswa FT UGM Dinonaktifkan Sementara Diduga Terlibat KBGO",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUwxS0dCaFpjZ1lLQmZqdHQ2elBVT3BwTHE0eXpIZkxnSndqbGFyM2pCUkxSLXZPdE1NelRlYjllZmZ1d3BoSUl1c1hYWjZVZ2sxU0p0Yi0yZjJVcXotWHBtLTV3MTZPWWM1OEcwb3hJRWdsTUJCYzR5WG5lOG91SDFqWkFoNFF3OHhhZGZXTQ?oc=5",
       "pubDate": "2026-09-30T02:52:00+00:00",
-      "source": "Tirto.id",
+      "source": "tirto.id",
       "description": "10 Mahasiswa FT UGM Dinonaktifkan Sementara Diduga Terlibat KBGO",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -274,7 +283,7 @@
       "title": "Dugaan Percakapan Bermuatan Cabul di Grup Chat Libatkan Sejumlah Mahasiswa UGM - kumparan.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTRXSHRIaklId25VVUlPeTJOMjVHVGlYNWhPclNrbXBsUFY2MF9VRWZ0dVljODMtdEZNaUhod01XOEdGUFBNZE1XM2hTNHJxMDdUMmhobjZpZTM1S0dPUW1Gd0tlZGZLTUdGMjRpM2Qtdk5FbmdXR1otU2xUTy0xckpwazZUdlJ6LUZGRUlERTYtTDJDbW1lU1FSYkRvaGhVaFB3MDdKcnh3MHo0YzZ5Vy1PZmx0SEs0QlRCMlp3N3VuUdIBygFBVV95cUxONXNQdkkwRzcwR3c2ZUU5TlZ6ZFdtTU9HVDNfTjk2cmVuTWtUVmtZeXZ3X3FHdmo1MFdBYUVnRFlNSVBKTVNEbUV2S0llNzRPRVNHY08zTC1xSXVKcGxlcVpFX1o0ZUQzMjczR3RLX3hTUXp2eEpwS1FwSWVwZC1Bb2Q2a3RxNlJ5YkJ5WWJBdER0TjMydDUwc21tb2U5azJlbVZ2YURxeTlVbm9ZRUdHSF81aU9wY1pwcDZEUzQ0N0xBelhZMXd3QWxB?oc=5",
       "pubDate": "2026-09-29T20:31:00+00:00",
-      "source": "kumparan.com",
+      "source": "Kumparan.com",
       "description": "Dugaan Percakapan Bermuatan Cabul di Grup Chat Libatkan Sejumlah Mahasiswa UGM - kumparan.com",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -3613,7 +3622,7 @@
       "title": "Kemenko PMK Perkuat Peran Perempuan dalam Pengurangan Risiko Bencana hingga Pemulihan Pascabencana",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1RBQWtJUjJFZE9HaENjN19McFFoMm5QeHlHanV6Sy1pTGhkc0NjcXN1Zm1PQlppc0d1SFBmTGkwdTRFdlpESHdYSzJORDNLSS13MkhfQnhjVlFvbnZiVUd2c2UyZUc2UTdTVUQxZU94cWNBSmZwYTBUZ0ZwOThDdU1xZzF6aGVQeG1aSF9wQ2ZDTVZLbTNpeXowLWZDRjZyUHJ1TlBoZU5rODdwTmIxLUxFWWd3Y2l4clhiN2l2SW1yMEt4UWc?oc=5",
       "pubDate": "2026-07-21T07:00:00+00:00",
-      "source": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+      "source": "kemenkopmk.go.id",
       "description": "Kemenko PMK Perkuat Peran Perempuan dalam Pengurangan Risiko Bencana hingga Pemulihan Pascabencana",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
