@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-03T03:30:35.734307+00:00",
-  "total": 711,
+  "updated_at": "2026-10-03T11:00:02.941791+00:00",
+  "total": 714,
   "stats": {
-    "tpks": 197,
+    "tpks": 199,
     "kekerasan_seksual": 315,
     "kbg": 81,
-    "kbgo": 118
+    "kbgo": 119
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,6 +28,24 @@
   ],
   "articles": [
     {
+      "title": "Prihatin dengan Maraknya Kekerasan terhadap Perempuan dan Anak di Solok Selatan, Mario Syahjohan Minta Jadi Perhatian",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMkd0RjR1NWNnZGhsMzlBLTlUNURNRlJJeVVCS2JZaGpCeWw1d0tpeXc0NDZQbjZzSE9YRFBuUmFPZmIwWW1tNDBkQzRQb1dQX21rS3FUQVVDYWw4ald3M2w0M2I1OWN6a1BtZ3dudHRCQXBsbzBFYWs4b3FwLTdlVzFOYkc4YnItMXVLVW1pajA5ZnZwSTZvX0RvVHdOSzhoZjlNSUJwSFo3c1M4NDN1bVNYSzdCdXhlUGozVjRVRGg2Q2lZTmxkUWgxX2EzbHpReVlDTVdR?oc=5",
+      "pubDate": "2026-10-03T09:09:14+00:00",
+      "source": "Khazminang.id",
+      "description": "Prihatin dengan Maraknya Kekerasan terhadap Perempuan dan Anak di Solok Selatan, Mario Syahjohan Minta Jadi Perhatian",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Marak Kekerasan Perempuan dan Anak di Solok Selatan, Anggota DPRD Sumbar Mario Syahjohan Desak Penegakan UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd0FlNlVDVi14STdTcG9OQWRJVXdGTjRack1wTzF2b2NBTXRGbDVXbm8wVmNmTHRtY0NrRXBWYlNVcVJ0TC1sSkJXbnIxTnU5bVE3djJMc1JacGc5Y2lmbWlXMzRISllXOGt0dU9QRG5oLW5QLW5ZOHBHTFZKeHV6SE1fYkVjNy1XQ1NlbWhTbktOcXUzbDkzR3J5UnFtQVRJQlktcURxTFBRWHRJdWo3Vk91Q0dVRmZEMHFGRzY3SFNyY0NPc0w2MkFlQi1hZw?oc=5",
+      "pubDate": "2026-10-03T07:30:06+00:00",
+      "source": "Sakato.co.id",
+      "description": "Marak Kekerasan Perempuan dan Anak di Solok Selatan, Anggota DPRD Sumbar Mario Syahjohan Desak Penegakan UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Dirjen Pesantren: Kekerasan Seksual Perlu Dibenahi dari Hulu",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQanVMSzVWa3NpSmk4dVdLT3ZGcmNOX2FzUjhfczM5X0dsWWJFNkZmcWxJZUdLSDlJT2R5azRFSjl6UDJMRlMyLWRUeGZJQjBmNWQ3UDM3cjZhMC1RcllZaFk0SHFEYVVOZVNFbFRoUThOd3pYUW8zcVpUakpZUndfUkFxNHZ2b1FUZXJqaVRlM3dBekdRUUdnbndiWjNmVlNMUUtJQ0trdl94NkYzUGc?oc=5",
       "pubDate": "2026-10-02T22:45:10+00:00",
@@ -44,6 +62,15 @@
       "description": "Alasan Kamila Andini Sempat Berhenti Tulis Skenario Empat Musim Pertiwi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Ormawa PIK R CAKRA UNS Berkolaborasi dengan Forum anak dalam edukasi KBGO Halaman all",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekNPOFBVdUpHblNaMFdsMzRsaG1pcndFV3UwYWluT2hRTTRmQ2FOQVVqNjdOLTFMeGJJbC14cUhGV2ZPX05HUm05VVpYTWlJZ1d1SDljR1RjYW9YT3NXSWJQdGFkZmMtUGVqUm80V0dvTENnUzdUV3NBSkJSdlJ2VGM2cWhyZ2w0MTJFT2ZjSjNvdDlxLWkyaU9Hb2c?oc=5",
+      "pubDate": "2026-10-02T14:09:21+00:00",
+      "source": "Kompasiana.com",
+      "description": "Ormawa PIK R CAKRA UNS Berkolaborasi dengan Forum anak dalam edukasi KBGO Halaman all",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Ormawa PIK R CAKRA UNS Halaman 1",
@@ -247,7 +274,7 @@
       "title": "Dugaan Percakapan Bermuatan Cabul di Grup Chat Libatkan Sejumlah Mahasiswa UGM - kumparan.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTRXSHRIaklId25VVUlPeTJOMjVHVGlYNWhPclNrbXBsUFY2MF9VRWZ0dVljODMtdEZNaUhod01XOEdGUFBNZE1XM2hTNHJxMDdUMmhobjZpZTM1S0dPUW1Gd0tlZGZLTUdGMjRpM2Qtdk5FbmdXR1otU2xUTy0xckpwazZUdlJ6LUZGRUlERTYtTDJDbW1lU1FSYkRvaGhVaFB3MDdKcnh3MHo0YzZ5Vy1PZmx0SEs0QlRCMlp3N3VuUdIBygFBVV95cUxONXNQdkkwRzcwR3c2ZUU5TlZ6ZFdtTU9HVDNfTjk2cmVuTWtUVmtZeXZ3X3FHdmo1MFdBYUVnRFlNSVBKTVNEbUV2S0llNzRPRVNHY08zTC1xSXVKcGxlcVpFX1o0ZUQzMjczR3RLX3hTUXp2eEpwS1FwSWVwZC1Bb2Q2a3RxNlJ5YkJ5WWJBdER0TjMydDUwc21tb2U5azJlbVZ2YURxeTlVbm9ZRUdHSF81aU9wY1pwcDZEUzQ0N0xBelhZMXd3QWxB?oc=5",
       "pubDate": "2026-09-29T20:31:00+00:00",
-      "source": "kumparan.com",
+      "source": "Kumparan.com",
       "description": "Dugaan Percakapan Bermuatan Cabul di Grup Chat Libatkan Sejumlah Mahasiswa UGM - kumparan.com",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -310,7 +337,7 @@
       "title": "UGM Nonaktifan 10 Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1VmVS1HUHVVWmFtY0g1emlGRVlBeEFZRmZDWVBaRmFyVURvem5hSXFTSTctOVQxdjMyZUJKUVQ2cWNvMFJYWURDSlNMX2NxMGxuT2IxeVZRWUlUeG84ZmoxT19OeXJlZ3lNTDdCT0VwdGVrd21tdzRoSUppVmx5ZVVndFpSR09sdWdhUjNIc1pnaU9YeGQ5Q0NPOVhDQUlOZDFrT001U0NJUU9UM244a1BtUUpwVmxfLUMzdkE1RQ?oc=5",
       "pubDate": "2026-09-29T14:57:41+00:00",
-      "source": "jogjapolitan.harianjogja.com",
+      "source": "Harianjogja.com",
       "description": "UGM Nonaktifan 10 Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -346,7 +373,7 @@
       "title": "Indonesia Darurat Kekerasan Seksual terhadap Anak: Pelaku Dibebaskan hingga Dibebaskan Lebih Awal",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUy0tREpOVDFZZHBVaVg0ZUdmbmJFQWpyYThIRktoVmhmUmhCZHJtNEpucFFvYUZKLVFfWFJ0bVdKSkNHNmtnM21LT3FrWEpYa1RsT0FfbENLS1g1NDAtMlZMdXZvUDRqSVlHRzlfb0kyZTBhR2twaWNpR1NNYjE4RVdoTE1KbER4aDMtUE9ZS0VGTUZlRVNQYXlYWnNpWWpuSEJkaFlUN1dTMV9wcGpWZERnZVBUTU15MG1kcGJDaHhEb3JYMTJQSUJULTJqOFRkNWMw0gHYAUFVX3lxTFBQNjhaZDZRaWRRYkpkQVdMdERNelc1RnVVNjMxVzBWd0poUWctUFBVbDRvQnhiakp5b3FlZjA5TFRkbFpqMDdGSExvMVNWcFJ0UFZXTWtULTlGaDZ4ZUtFMW5URjlFclR2SFRSOXVldWthZHRCVEQ2bUpJUlBYTndrMVZ0TWRqRlphM1FCdDBndkxGTEwtcjVmcDVXTGNaZEViaTV6RmpvSDFRcjlUZHRGUmxaM1pWSUJobFh2QUJqb3lPSkEzQzRNejNITlp4UzJMVk43SGxqUQ?oc=5",
       "pubDate": "2026-09-29T11:00:00+00:00",
-      "source": "Beautynesia",
+      "source": "beautynesia.id",
       "description": "Indonesia Darurat Kekerasan Seksual terhadap Anak: Pelaku Dibebaskan hingga Dibebaskan Lebih Awal",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2578,7 +2605,7 @@
       "title": "Implementasi UU TPKS Masih Terkendala, KY Susun Instrumen Analisis Putusan",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2JMUW9TTXdWOENMb3VuYkZqQ3psV2ZwQklnbGJIb2dYOFZIMzh4MzF2elpscXJhYTR2QWNKY3pFYld0Z0lwckFLN0dMMy1fb3d1cW51SUZpLXh5eUV4eWVmNnZrcTVYQzFWa2NPVGpieHB4QXlQLW9iMkZldGtlRG40bTRvaWpYSVhCUGpZTTNUaGhQcW1ZQ0VZa0RHU0trcGJPY2pOSEhBV1gzLXczWER1dXVoZmNfTW85NlVuajN6R3RZVDY4?oc=5",
       "pubDate": "2026-08-06T07:00:00+00:00",
-      "source": "Hukumonline",
+      "source": "hukumonline.com",
       "description": "Implementasi UU TPKS Masih Terkendala, KY Susun Instrumen Analisis Putusan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -6124,7 +6151,7 @@
       "title": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNl80Vk5HTGV0RW5rcnNpWmxKa04td0EtVFhLWlQxMzVzYmFBMnp1U2MxM3BfdXNFdllqWWRQam1tX3Jwbzk1T1pBVk12LTIwVzZ4RlpYLVk3SDJtMGxzdnBxazY1RVJWN3o5eG9NNEVmZDdldW41R21lN0EtUFU5a0VrbEM2bWstYWVveWJsZ0FPd1FPZ2F2ZlJkbGN2RjRHVFBId1k2d2R3VzN6MDRYNzBDcS1ONzJ1RXg5VVNFenFkQzVndHBXWXRXWjJGY0pBMUVZbUZkenA?oc=5",
       "pubDate": "2025-12-09T08:00:00+00:00",
-      "source": "Hukumonline",
+      "source": "hukumonline.com",
       "description": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
