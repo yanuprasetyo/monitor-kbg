@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-04T16:20:49.087107+00:00",
-  "total": 716,
+  "updated_at": "2026-10-04T20:48:06.141840+00:00",
+  "total": 717,
   "stats": {
     "tpks": 199,
     "kekerasan_seksual": 317,
-    "kbg": 81,
+    "kbg": 82,
     "kbgo": 119
   },
   "new_this_fetch": 60,
@@ -418,7 +418,7 @@
       "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
       "pubDate": "2026-09-29T09:22:00+00:00",
-      "source": "Kompas.com",
+      "source": "yogyakarta.kompas.com",
       "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -596,7 +596,7 @@
     },
     {
       "title": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnlFU0VlQ1A3M2FHYWxLTW5OX2g3d0lVNkhzdHdpa1F4dU5hbm15RUdmYXA5cUZpdWpDSktPZWptWmtnWVVCYnhhcHRxeWNZUUFlNXd6cV9XNWJEcXJxWTlJQUZFZzlyNE9NdjljUjQ0bW40T3lvMUhGWU1ZcWNnUllodEI0RjhoTUJMdmdPU1Z5VlctYjhFTlhQRlhjTWZqYkxsT3NvZmdBczdxVm82dXhYcEJGdnV3bUVfdThR0gG-AUFVX3lxTE5aeUVTRWVDUDczYUdhbEtNbk5faDd3SVU2SHN0d2lrUXh1TmFubXlFR2ZhcDlxRml1akNKS09lam1aa2dZVUJieGFwdHF5Y1lRQWU1d3pxX1c1YkRxcnFZOUlBRkVnOXI0T012OWNSNDRtbjRPeW8xSEZZTVlxY2dSWWh0QjRGOGhNQkx2Z09TVnlWVy1iOEVOWFBGWGNNZmpiTGxPc29mZ0FzN3FWbzZ1eFhwQkZ2dXdtRV91OFE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbml0TXIxal9KdTlCajJYVzNrdl9PRmRuVzdMUTRtaV9VX3hPWVR3YjFHSUtPZFJRaFY3ZXhQT0pMVGsxekkwRWZpMG1IU3NSanVIWnNheEhlZFh0bXI3MjQxY2FPdDNfaWluSUlUMVIyeVlnM0JhU3d3UU9DeUJaeG5FWkJpVDBIUlM3OGJMbi11YzVlQk1ESlZRUTBDc1Yzek9VUkFRbEFtS2FiZUtzRTFWVTNxS2gxRDFUcUdPTFHSAcYBQVVfeXFMUE12SFBXNkpZUW81RTFYb3Z6NEVrNm1jbmRhTDREX0hvVGxXTGJnTkdWc1pjZUU2ZEVDRm9acGQzVF9aRVVKejZOYXl5VzFQT1VjbVNJN2lxV2ZtRlFORGR1Y1RpcWRuVXp2N0dFbWhYbUNkdG0wa29JT1ZjVUlfSDAtTFVBT3I3RFIxa3UyVmF0amVJeXJaRWt1X0pzcHp5SUZ5TlJKTXVtMUlmSTlQR1dtRTd1NzJmbGhPSG1tT3A2eFZmdHVR?oc=5",
       "pubDate": "2026-09-27T14:17:00+00:00",
       "source": "iNews.ID",
       "description": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
@@ -681,6 +681,15 @@
       "pubDate": "2026-09-26T07:41:00+00:00",
       "source": "iNews.ID",
       "description": "Jurnalis Diminta Berperspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Jurnalis Diminta Tak Sekadar Mengejar Berita, Peliputan KBG Harus Berperspektif Korban - Suara Merdeka",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmc2S2ZGVTRBTjVFX0IzRVh2RjhfQmhJSlBfdjI0WEJVeFpoUHVPWTJQOXJ4NTBEWUJFbUFDLWp1MnJSRWRYNm1pSE1fWTRLSDJramtuRUVoVVpWSjRZdXJUZ2dpTDR3VTZpdm9ZeGk1RFlIdEcweGhxWEhaZVNySVVScDlrUmVDeHRFdWZoQ0taV1EyMlhIc2hMa1JwWUVaQk5IbE80LW1Sb3Q1UXh1WVd0dnNDNEpFSFQxYlFpblNfVVZqaF9BTmp2WDhnZzNlb0xSLVhwOHZNTnp1VHlJ0gHkAUFVX3lxTFBNSFRvSkNDX2g1WWhMcmtQY2UzV1pQLUE1S0FnSmV5LTg5ZFBpVHlQX3VNN09IMlFnM1VSYVVEMWdFYUpjNGZQVFVFVXdPSFhQT0VtNWJQenk0ZHhYSGpfSEVVQUJWOEczQkd0VGpvdDd0VmkzZmJIZ0ppcllnZEhqdDFVN0ttUGpUdmNNWGVsaTc5QlRsRWxia2ZER29OZmQtVDdnVnNYOHRVR3FCVGt1RmNfS2g2UlZCXzNfWTB6QzJrLWRUUDlya3JjSlNhWEZCcnBfTV9TTlZUVEkxRThIU0hiQQ?oc=5",
+      "pubDate": "2026-09-26T03:53:41+00:00",
+      "source": "Suara Merdeka",
+      "description": "Jurnalis Diminta Tak Sekadar Mengejar Berita, Peliputan KBG Harus Berperspektif Korban - Suara Merdeka",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
@@ -6070,7 +6079,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjg1eWs2WU9rU19wUnRsUVBGVUVpSDdPemRuTnlhUFpLdkxUSVIwTmpNZjNVQTZkNlRHdVFwcVlaZy1Kckl4eElMN2llb2Z6NVpzT3M1OHlfQjh2bjJEaFpUME9fZm9sN2VpLVlWTm51SWpkQXdydmJBQmM0dEtuQ2FHSGdtTVNORnlscWpyUTR5ZWdnc080aQ?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "mkri.id",
+      "source": "Mahkamah Konstitusi RI",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
