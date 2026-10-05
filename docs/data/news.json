@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-04T20:48:06.141840+00:00",
-  "total": 717,
+  "updated_at": "2026-10-05T03:43:50.113870+00:00",
+  "total": 719,
   "stats": {
-    "tpks": 199,
+    "tpks": 200,
     "kekerasan_seksual": 317,
     "kbg": 82,
-    "kbgo": 119
+    "kbgo": 120
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -30,11 +30,29 @@
     {
       "title": "Kekerasan: Kasus Cornell kembali soroti sistem yang 'membingungkan' untuk melaporkan kekerasan di kampus",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zeHNQSHBXbHBOWExkTTFpSlY2b0U0ZjdfbUJOTXpYUHpYNGNZQk92b3B2TmFKU2tuc1AxUFhFYm5idVJYZmZNanVqekFMX1RQWXhqOTBuZ2NTbkVaTHU5VVp30gFnQVVfeXFMTVpHaEg0Ung2OGRzUWZhb19sRzVMWXpfYzQtdWNwQVlKSzQ1QmVXY0ZDQXdGS1A5elBtYzkyWFR4WG5GUVc2MUpwa0NGYUdnOTRsLUtiOHJPRExLWC1mcmEycm8xX1NwVQ?oc=5",
-      "pubDate": "2026-10-04T03:22:30+00:00",
-      "source": "BBC",
+      "pubDate": "2026-10-05T00:45:39+00:00",
+      "source": "bbc.com",
       "description": "Kekerasan: Kasus Cornell kembali soroti sistem yang 'membingungkan' untuk melaporkan kekerasan di kampus",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUw1NWllcGlpNU5TbGNpZkIzVUdmN19QRFh5Q1dJMFlIS1dISjkzYnp2amR2ZTlfOVdsdmJCaHFJRXAtMGtHVVVVcEZJZlVUekJwWDBBTTNjUnltOHRoVldaWTBJOWhIdWNTNmZQUjlDczUxSHpva2VTajlvTjNjSWN5b2Mya285UGtZWnd3a0lPOG1aR1ZIUENlQWMwVGZJN0lFbUtMbGVaTFXSAasBQVVfeXFMTUVMNTVpZXBpaTVOU2xjaWZCM1VHZjdfUERYeUNXSTBZSEtXSEo5M2J6dmpkdmU5XzlXbHZiQmhxSUVwLTBrR1VVVXBGSWZVVHpCcFgwQU0zY1J5bTh0aFZXWlkwSTloSHVjUzZmUFI5Q3M1MUh6b2tlU2o5b04zY0ljeW9jMmtvOVBrWVp3d2tJTzhtWkdWSFBDZUFjMFRmSTdJRW1LTGxlWkxV?oc=5",
+      "pubDate": "2026-10-05T00:39:36+00:00",
+      "source": "ANTARA News",
+      "description": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal pelecehan seksual digital dan cara melaporkannya",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmt5ajNqOEFURlJQVExSWGN1MksyQ0RuaGo1Y0VIbkQwNlpJVkhqdi0xWS1oMGswMUtaR01ySmhqQ3BKWHB2eEpTV1hXZDBuRlp4RmE5TFZQRWdORE9iMjFmbFBDMVkydnhFdGxKcXgzWjNMM2VXaXo4aUVTa1RRUWZycEQybk5TYVB5eG5rSGlmS3ZKelRqQ0RqQWw4Mm1w0gGjAUFVX3lxTE9ORTRCUmVlNzdxNnpVV1hzTkotZFZGZ2lybVB1NFgwOXJyMU1aMV9hRXNQek9zNTFIaFlra05zM1NYRW84MV9NMXlCOFAxZVJMankzdkFFbl9kWTVaRU51aFNTZklWSmhQS0M1ZmxBLXFNUG5RS0s2enJpazM1clctdkNLaGtlMkliR2hQRURCZnU3NGVNMGV0ZC1YSkJvZXNoRG8?oc=5",
+      "pubDate": "2026-10-04T23:45:53+00:00",
+      "source": "ANTARA News",
+      "description": "Mengenal pelecehan seksual digital dan cara melaporkannya",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "ICM Dukung Proses Hukum Kasus Kekerasan Seksual dan Perkuat Perlindungan Siswa",
@@ -103,7 +121,7 @@
       "title": "Guru ICM Tersangka Kasus Pelecehan Seksual Anak Resmi Ditahan",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOXNJWmNFUGZrYV9FUkw4QkR5THZhX1pYTUR6NjFLSVpiM3ZEMGdwaFlnWUo0WUFRZldORkRPcTdZbGN0aUF0bVFYREpiTHN5dDFCN1NOWVVfZUZYTXRtdmd3M0R0WVRCZ2Y1RFltTHVCdVY4dHpHMktuenRYU0w1M2Z5eWJLdERzcW1oeHV0TWZacUgwTmM3Y0lVaU1wU3FqX1BLVXE3Zi16YUxOaEpXVW9VRnZKajdoeVlKcW9USG1QbDjSAcgBQVVfeXFMT3g4YUhlMzRnMkoyeVJVNFFiRXBySmFqUEtaVXlKM2xraGR0Si1DZE0wMzFyM04yTnEwMjNtOHp4N2hRS3MwLWJkRnozRXROd1lERVVyd1d1QzNubjE4ZURhTHpjM0F4Z2M5djlUeERzYk81RXFZUEpaV2pwUnZvYjNYbDlIR1JfclR6b3NWeGc1U2JMSDlDejQyQWU0alBSeFdQN2JnQlBtY2pIRDRSNzV2ZGlmYzRrUllxTVNRSGxLdVBWUHBkMmw?oc=5",
       "pubDate": "2026-10-02T14:02:54+00:00",
-      "source": "CNN Indonesia",
+      "source": "cnnindonesia.com",
       "description": "Guru ICM Tersangka Kasus Pelecehan Seksual Anak Resmi Ditahan",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -211,7 +229,7 @@
       "title": "Dugaan Kekerasan Seksual, 10 Mahasiswa Fakultas Teknik UGM Dinonaktifkan",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVFEdE5VQ0s2dHJpRWxhaUxMTFF1Qi1qRGVEcmgtQTNGQW4yaGVoWGY1M0NqejdvbTEwQWc3bWZ1QnRmaGYwWEE3Sl9YeVJ4X2hYTGZodlZtZGU1ME1adXQwQU1uWUVqSXc4VFNZNlRRbzJPaER4eTZicG94WC1YT0stTmhwZ2ptamU1MERGM3BPeFJHQXdZNmRoOW84bmZHOUR3dFRJLW9CYUFpbms2WFAtOA?oc=5",
       "pubDate": "2026-09-30T06:58:32+00:00",
-      "source": "MetroTVNews.com",
+      "source": "metrotvnews.com",
       "description": "Dugaan Kekerasan Seksual, 10 Mahasiswa Fakultas Teknik UGM Dinonaktifkan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -418,7 +436,7 @@
       "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
       "pubDate": "2026-09-29T09:22:00+00:00",
-      "source": "yogyakarta.kompas.com",
+      "source": "Kompas.com",
       "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -499,7 +517,7 @@
       "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
       "pubDate": "2026-09-28T23:46:43+00:00",
-      "source": "BBC",
+      "source": "bbc.com",
       "description": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -760,7 +778,7 @@
       "title": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcU0taVh1aTJIcnJxcTlMQk11X1pVYk11RlFDLXg2ZTd2cnZBRmtvMXZFLUJ0QUZ1V3hWYkhLRVhIdnNtdXJ6bjBSYmtHS0ZvSzFpa3RuYlo4ZmhibmlxOTVn0gFnQVVfeXFMT3hkRkx5bWNSNV9uZ1QyWDdhdUV6VV83dzBobENKRkQxTDl3UlhxekNUZDliRGV6Ymg0MGdzaXhKRWh2YjUtS1JqdUVvblpJZ0E1ZGlTQS1XZTJVSlI3QU5hbWtMUWk2OA?oc=5",
       "pubDate": "2026-09-25T07:00:00+00:00",
-      "source": "BBC",
+      "source": "bbc.com",
       "description": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -985,7 +1003,7 @@
       "title": "Inggris bentuk pengadilan khusus untuk kasus kekerasan seksual – 'Demi keadilan bagi korban'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtbk9aNERFVlkzLXVLcHdrTVlfNE5wTW52UFdXd3A3Yk9oYUVfejlCRHZKaUJIeVo3RVk2TXZPb2s5RFFmTG5yLUdtQ1VaXzRzYVlMY2l1Slc2QVBkVEZySU1R0gFnQVVfeXFMT1p3M2d3VWtqLU5Vako2QWR2a09pMXBNNHA3YXpRV21LUThFazQ1OUVzMnh2T29iTzJIMnZuN1czeTBVeFN6eXI4SWxZanV0Q3lyekdnd0l4cWZvSDFtMngyT3FrajFBNA?oc=5",
       "pubDate": "2026-09-22T07:00:00+00:00",
-      "source": "BBC",
+      "source": "bbc.com",
       "description": "Inggris bentuk pengadilan khusus untuk kasus kekerasan seksual – 'Demi keadilan bagi korban'",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -2632,7 +2650,7 @@
       "title": "Implementasi UU TPKS Masih Terkendala, KY Susun Instrumen Analisis Putusan",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2JMUW9TTXdWOENMb3VuYkZqQ3psV2ZwQklnbGJIb2dYOFZIMzh4MzF2elpscXJhYTR2QWNKY3pFYld0Z0lwckFLN0dMMy1fb3d1cW51SUZpLXh5eUV4eWVmNnZrcTVYQzFWa2NPVGpieHB4QXlQLW9iMkZldGtlRG40bTRvaWpYSVhCUGpZTTNUaGhQcW1ZQ0VZa0RHU0trcGJPY2pOSEhBV1gzLXczWER1dXVoZmNfTW85NlVuajN6R3RZVDY4?oc=5",
       "pubDate": "2026-08-06T07:00:00+00:00",
-      "source": "Hukumonline",
+      "source": "hukumonline.com",
       "description": "Implementasi UU TPKS Masih Terkendala, KY Susun Instrumen Analisis Putusan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -5926,7 +5944,7 @@
       "title": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWxOZ1F6Z0x4UmQxbVJWVGxlQ0d4Z1hMS0tCNmNxTzJ3U18zUmFCVzNXX1B3cHZ6akRrc3NJM05FNkdNOEhZSm53bTJLTHV1a3Z4cWJwdU5ONVZBVmg0ZWRHM0FxNV9fa3NScDRPR2NVcXpnUDd0SGhpSzIyVlphTzVZaXlTSXptRWdKUm1ySGVRN2J2d2ZQYTBzZFZoMFJJcTFEUmYtYTFXZWVfLW90X0E0cy1hNUd3SC0teg?oc=5",
       "pubDate": "2026-03-02T08:00:00+00:00",
-      "source": "Hukumonline",
+      "source": "hukumonline.com",
       "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -6178,7 +6196,7 @@
       "title": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNl80Vk5HTGV0RW5rcnNpWmxKa04td0EtVFhLWlQxMzVzYmFBMnp1U2MxM3BfdXNFdllqWWRQam1tX3Jwbzk1T1pBVk12LTIwVzZ4RlpYLVk3SDJtMGxzdnBxazY1RVJWN3o5eG9NNEVmZDdldW41R21lN0EtUFU5a0VrbEM2bWstYWVveWJsZ0FPd1FPZ2F2ZlJkbGN2RjRHVFBId1k2d2R3VzN6MDRYNzBDcS1ONzJ1RXg5VVNFenFkQzVndHBXWXRXWjJGY0pBMUVZbUZkenA?oc=5",
       "pubDate": "2025-12-09T08:00:00+00:00",
-      "source": "Hukumonline",
+      "source": "hukumonline.com",
       "description": "Perjalanan Instrumen Hukum dan Penanganan Kekerasan Berbasis Gender Online di Indonesia",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
