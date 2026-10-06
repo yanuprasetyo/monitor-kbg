@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-06T04:31:47.662938+00:00",
-  "total": 729,
+  "updated_at": "2026-10-06T12:38:42.287286+00:00",
+  "total": 731,
   "stats": {
     "tpks": 202,
-    "kekerasan_seksual": 324,
-    "kbg": 82,
-    "kbgo": 121
+    "kekerasan_seksual": 326,
+    "kbg": 81,
+    "kbgo": 122
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Hukum: Eks pimpinan pesantren di Lombok Tengah jadi tersangka kasus dugaan kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ILU9aVTdvLXQtM2RBMko2b3ZCWERzY1dIRW5iRlItdnlPaWhpSVRweGw1QmFidndKTHhwNHRCNGNrVlRYekpOaENIQzBWSTBQY2xYSDNRWmlpRHhuVzlZMGRR0gFnQVVfeXFMTlZWc0ZqelZqRy1zaGF5UkpGRExCeF9PSmNSUVJ3NW4xa1BKQ0lJc2w4ZTlfZG5hdFg2QmlnUDhRWFJBQ2puUmZ3LUU0cFFtQVhxU3FEY2xNcjRBZlo0M29KWVRzRnlwTQ?oc=5",
+      "pubDate": "2026-10-06T10:32:10+00:00",
+      "source": "BBC",
+      "description": "Hukum: Eks pimpinan pesantren di Lombok Tengah jadi tersangka kasus dugaan kekerasan seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "FSGI Catat 100 Kasus Kekerasan di Sekolah, 60 Kasus Seksual",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMEluUVFyZ0xtb3FQZ21OWEF1Qk5LbWswSy1lUjh3MHhyb3cyLTRFSDQ1MVJCVGRKOGNXb0RPZmdvTVl4ZU1mS19pR0dqLUZWdEgwN1FnSkxWd3VPcTRhakpBd1plQjlyMVVfOXVGdEdHNFJjRHRfN2pKUkVhd3fSAX5BVV95cUxPU1Ayb0lkejljNzVoSXE3aXV5ckxNdTlwUktoZGItcHJ4VG9VRnRSY01XN1VQa2JfV013eF9yMklXTThGT1R6a2NCVlJPMFoyTFF6SFVjWEFieG5OVC1fWjlUQTZLaDFQdW5tb2JYc0tUMDdrQXd6ZU5YNUVWUGc?oc=5",
+      "pubDate": "2026-10-06T07:33:07+00:00",
+      "source": "merahputih.com",
+      "description": "FSGI Catat 100 Kasus Kekerasan di Sekolah, 60 Kasus Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "KEKERASAN SEKSUAL ANAK: Polrestabes Surabaya Amankan Pria 65 Tahun, Korban Berusia 12 Tahun",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORllWbTFxSnd6Z3BVZUUtZ3hySDhNUUI0VHlGSFA5WlFabUFCaHR2RmVRQ2JMWmRVTTUzWjBMUzFRX0NmVTlHeVE0N09tdDRPcEhwU1dyc21ISkRzN2UyRFJDQmhCalFuVW84OVQ1UjY2eUQyUDlUX2RDbWw3ZGUxdjFLTFlUb2hoekdxWl9jQUNaUUlYbGtkaFY2OW9tWUtvVm9tSDF1V0lYVFhkT29aRnpLQXR1VXd2T1BUZVJfMUtVSkZvT2xJME4yVmg?oc=5",
@@ -103,7 +121,7 @@
       "title": "FSGI Catat 100 Kasus Kekerasan di Satuan Pendidikan, 60 Persen Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWDJ5OXAzZ3VDS2o1dWFwMVhINUVVUjNBbUsxSVk0UGlKNU5TT3NBOGRoMVFmaTBYcVRuZGZEVXBkR09nekoxcDJPRERiZWFRYlRoeHZ5TUJqMndveS1wckpLa3RKMUtBSXliTE15dDhIT0ZDZWJiWXluQ0JSUy1JQ3pwa0Q1UF9zZXd0OFRDNkNZRU1vRFFQa05BRk9LUkpmQXJUeTIweXJTcFY2akVRTWozYTFOR0VpeEw2NjBFTlFSN09G?oc=5",
       "pubDate": "2026-10-05T03:58:00+00:00",
-      "source": "TIMES Indonesia",
+      "source": "timesindonesia.co.id",
       "description": "FSGI Catat 100 Kasus Kekerasan di Satuan Pendidikan, 60 Persen Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
@@ -166,7 +184,7 @@
       "title": "Marak Kekerasan Perempuan dan Anak di Solok Selatan, Anggota DPRD Sumbar Mario Syahjohan Desak Penegakan UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd0FlNlVDVi14STdTcG9OQWRJVXdGTjRack1wTzF2b2NBTXRGbDVXbm8wVmNmTHRtY0NrRXBWYlNVcVJ0TC1sSkJXbnIxTnU5bVE3djJMc1JacGc5Y2lmbWlXMzRISllXOGt0dU9QRG5oLW5QLW5ZOHBHTFZKeHV6SE1fYkVjNy1XQ1NlbWhTbktOcXUzbDkzR3J5UnFtQVRJQlktcURxTFBRWHRJdWo3Vk91Q0dVRmZEMHFGRzY3SFNyY0NPc0w2MkFlQi1hZw?oc=5",
       "pubDate": "2026-10-03T07:30:06+00:00",
-      "source": "Sakato.co.id",
+      "source": "sakato.co.id",
       "description": "Marak Kekerasan Perempuan dan Anak di Solok Selatan, Anggota DPRD Sumbar Mario Syahjohan Desak Penegakan UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -1180,15 +1198,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
-      "pubDate": "2026-09-21T07:00:00+00:00",
-      "source": "ANTARA News",
-      "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkotaGlDVlRKVEVmcUw4NTVJaHdGakFGcFZHcjZ0ektNTHN0eDBJb3pJSHVzUFhsMjIwMmZMRXFPWGtkV3Juay1DR293MVpJaTZZa2ZyQlhNcGVLSXV4eWcwWEpqVHpHTlZPSzNKQnpBN3NiYVRrRTF4djNEdmZqd0xlVVB0YkwxeUZ0YW1teEFaa1RxUkZ3TG5nR2pOX3BrNVZIUGgweURSLTRORGc?oc=5",
       "pubDate": "2026-09-21T07:00:00+00:00",
@@ -1196,6 +1205,15 @@
       "description": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
+      "pubDate": "2026-09-21T07:00:00+00:00",
+      "source": "ANTARA News",
+      "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Anak kiai Jombang yang dihukum penjara, diam-diam bebas lebih awal, temuan BBC",
@@ -2632,7 +2650,7 @@
       "title": "PN Sampang Tetapkan Restitusi Rp21,4 Juta untuk Anak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGYzdGI5OFprRWR3VW8zUWdxRUMwSWg1UHhyTktJUDFHSnJ6eVVGMXkwYnZaRXk1TGEwWUNhVnRnRVF6TG5FUXNoTHhLWmNjQklWUno4VzRtNFppR0RfUTBHTFFGQ05TSUFTaU9zV2VWdEQtbnV2SmxjU3pvSWJNUWtKZEN1OS16djB5OWZoQ0NLVV9OczlUVDk2NnZuUVVZdmJyX25jWVA1emd4TFdEUzlwWQ?oc=5",
       "pubDate": "2026-08-10T07:00:00+00:00",
-      "source": "Dandapala Digital",
+      "source": "dandapala.com",
       "description": "PN Sampang Tetapkan Restitusi Rp21,4 Juta untuk Anak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -2749,7 +2767,7 @@
       "title": "Analisis Putusan, Instrumen Monitoring Implementasi UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnlRcDQzbVQ0YjRfeXJseHpGeUJoM2V3VVBOVVJ4UlVJTUtfZGFVdkpETjBDYVNrNTA3d2FDeU5jRk9VaDJTRGRka0hFbFRidHRzR3lDb2RzMmxuLXo1c1h2UjI3UVdHYmdSMzNwblVzXzRZMFJUM0VLZkFTYjlfUklULU1vMzRJZlBmY3JtREdHZ3kwaDFyOWZJOHFBVzVjODFHNnpOTTNGVDBTRWlBWm1uMUpDUTdqZXc?oc=5",
       "pubDate": "2026-08-06T07:00:00+00:00",
-      "source": "Komisi Yudisial",
+      "source": "komisiyudisial.go.id",
       "description": "Analisis Putusan, Instrumen Monitoring Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -2947,7 +2965,7 @@
       "title": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQld2QlByUVFienVoRWwzZFdyME43bVdSbU5PLUZqQ1J3ampOSTNmOVRnYjlMR0Q5VGhTRFE1Z0dPMUFfTW4yWml1YVhUVDdVV1kxcGtRX1V0R01oZkF2b09MaGlZb3ZKZTZjUkdjbXlXcUJ2T1c1TUotM0dTd2NVS2w4V284R1FhSlJ2UWVqS3lCT1lSbHNPZU5QWV9qYzZ3UFpBc3BtQlI2bzhzV2p6VjZQUFdUZ2J5T0FfLUI5LTF2aDJsWkxXSnF0ZmVhWnREUTRIRGp1N085c0VC?oc=5",
       "pubDate": "2026-08-03T07:00:00+00:00",
-      "source": "Komisi Yudisial",
+      "source": "komisiyudisial.go.id",
       "description": "CHA Nirwana: Perkara Kekerasan Seksual Tak Bisa Diselesaikan di Luar Proses Peradilan",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -3406,7 +3424,7 @@
       "title": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42T1dsQ1A2bnFOMmNjdFN0Z3M4aV9uTDBXeDdYOEYyQkJYcjRGZS1ZSE1Tc2hPLW9uRjlSa3k4LXk0by1paGxxVFpnNGRBcE9vTmFxaGotczJQd0FLYTZweWEwVUpNeVBxWng2Q3RhbUVuWDJROExCdE4yTQ?oc=5",
       "pubDate": "2026-07-24T07:00:00+00:00",
-      "source": "safenet.or.id",
+      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
       "description": "Kelindan Gender, Hak Digital, dan Keamanan Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
@@ -6171,8 +6189,8 @@
       "pubDate": "2026-02-06T08:00:00+00:00",
       "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
