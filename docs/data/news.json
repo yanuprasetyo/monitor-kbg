@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-07T03:57:44.610118+00:00",
-  "total": 733,
+  "updated_at": "2026-10-07T12:31:55.346623+00:00",
+  "total": 737,
   "stats": {
-    "tpks": 202,
-    "kekerasan_seksual": 328,
+    "tpks": 203,
+    "kekerasan_seksual": 331,
     "kbg": 81,
     "kbgo": 122
   },
@@ -27,6 +27,42 @@
     }
   ],
   "articles": [
+    {
+      "title": "STAIN Meulaboh Serahkan Penanganan Dugaan Kekerasan Seksual ke Itjen Kemenag",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlF2ejRwSDdQcTVqZWVBaUcxU3FTelBYZnV4OWNsM29pY21HUXFtMDhTTVljaE1XM1FDXzJSem1Jc3hvN0RXRnExOVJVd0Zrb2htZ0ZYcHBFTnlCZU1DMkl1YTc3ZU1WMXJUX3JUNjBIbi1Fc21nT0FmWUZBdnhQZFpvWi1vY3k2Vl9fYWctcVROblNyRjB5WFNPNWxESzJjdDZjSGU0SE9kRXFGTlNRRTVTSWhHUWc?oc=5",
+      "pubDate": "2026-10-07T11:23:42+00:00",
+      "source": "acehnews.id",
+      "description": "STAIN Meulaboh Serahkan Penanganan Dugaan Kekerasan Seksual ke Itjen Kemenag",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "DPR desak kementerian terkait evaluasi pembebasan bersyarat anak kiai Jombang dalam kasus kekerasan seksual di pesantren – 'Tidak ada keistimewaan hukum, walau dia anak kiai'",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ycE02YVBJSVlrTDhFYkZESDFqR1NEd0lqUlBWajdUcFM0TUpUYmZET2hHVnlTTWlGY0ZiNkNxcWVBVGdIMy15cVJBRFhiZGx0SndlZ3M3WUdtS3NEckhKZkV30gFnQVVfeXFMTnpsYTcyUmlTTVI1bF9HOUd3SEU1cWxNMjZkS1FfQ180ZWktdXU2ZDJ2M1ZrRXdDV01lYmtWWU1FYkxCb19GblFRVy11cWYxN3JIR0JZaHpSR042WmJSN2hsd3NReUlmOA?oc=5",
+      "pubDate": "2026-10-07T10:34:57+00:00",
+      "source": "BBC",
+      "description": "DPR desak kementerian terkait evaluasi pembebasan bersyarat anak kiai Jombang dalam kasus kekerasan seksual di pesantren – 'Tidak ada keistimewaan hukum, walau dia anak kiai'",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Korban Kekerasan di Sektor Pendidikan Capai 1.055 orang, 60% Kasus Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVllOWdzUEczOEFmRGFXMkNZOWJTS0h1NVVtWWhtbGZ4b0hrMndoMHhySlNwRDZtTC10U0ZsalJ6YzV1RnN3b0Q5NWFCVzlsN2FRWnk4MWpGOENLRlk5NGVhYXQwNEJJMzVtaDdDbnZhdzBacVRSWEhsOTA2VThWU0ZxVFpkZmo0ME5kcXVrcW1ra05zZUkxZjM1WjM4RHJSa0hEeTdGTDd5T1ZXcjQ4TWlwd2lxREVqZU15VGJkcjdEQWM?oc=5",
+      "pubDate": "2026-10-07T04:28:23+00:00",
+      "source": "Media Indonesia",
+      "description": "Korban Kekerasan di Sektor Pendidikan Capai 1.055 orang, 60% Kasus Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pastikan UU TPKS Efektif Selesaikan Kasus Kekerasan Seksual di Lombok",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3lrLTROcTR4WF9UeGo3SFh6cVJmRUVvN3JWRDZqUjZOakxxaXVfajliaWFidFAxVUdEUjFmbmdFYVc0WGVXTlBWQm5POElFdXNhYlNCMmtRTUpkU2ZueEo4TGFqLUtYTEtULWFOZ2JaeEdnaERJZ01XeVVXWURXOU1kZEk0ZlFPR2hzclp3amlPNlNZaWdOU191X1drQmtR?oc=5",
+      "pubDate": "2026-10-07T00:52:40+00:00",
+      "source": "Fraksi Nasdem",
+      "description": "Pastikan UU TPKS Efektif Selesaikan Kasus Kekerasan Seksual di Lombok",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Unusa Komitmen Cegah Bullying dan Kekerasan Seksual di Kampus - Suara Merdeka Surabaya",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2l1LWhoS2V5cGdlTzR1Y3lQZjlIajM3Sm5WWHdsd01UOExyMjZpcWRpU0lPRFB0TVNlQVRDaGh2TEQ2cWloYV9YOVk5U0ZEaFBsdEZKYnZCU0tBZENncFEyMFJNalY5LUMxLUN4eU9wdzhHNWFxQVZad3dhbC1IbEZ6ZWdsbTJlWGx0NTVhMi1oVENMUmo0RENveVJlYnZCR055WmFpOWV3X2NBdXYtRVRLTWVXdHc3SG1v0gHAAUFVX3lxTFA1Y24yeUNGeGtYQVk5THdVWjJyQ0VCLTZTZkpiX0FURU41Y0hMclpDUW0tWnBFSEtSVVEycXhXcHBud0JVWi1PbF9rQVhzV2xFcGRDWjFBczNzblFTcHEwQ0lPTVlDb2VmaUtiYmJqSUM1aFgzTktQWXdJNmw3LUhtREljbUh4bHJvYXJXR1pSZFNzOHhjdTlLRWZXTUt6YnRyT2FBSWZMdThNODNDbjJJNFV5SnNZc0t1U0RsQ2VfMA?oc=5",
@@ -67,7 +103,7 @@
       "title": "KEKERASAN SEKSUAL ANAK: Polrestabes Surabaya Amankan Pria 65 Tahun, Korban Berusia 12 Tahun",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORllWbTFxSnd6Z3BVZUUtZ3hySDhNUUI0VHlGSFA5WlFabUFCaHR2RmVRQ2JMWmRVTTUzWjBMUzFRX0NmVTlHeVE0N09tdDRPcEhwU1dyc21ISkRzN2UyRFJDQmhCalFuVW84OVQ1UjY2eUQyUDlUX2RDbWw3ZGUxdjFLTFlUb2hoekdxWl9jQUNaUUlYbGtkaFY2OW9tWUtvVm9tSDF1V0lYVFhkT29aRnpLQXR1VXd2T1BUZVJfMUtVSkZvT2xJME4yVmg?oc=5",
       "pubDate": "2026-10-05T15:14:14+00:00",
-      "source": "nusantaraabadinews.com",
+      "source": "Nusantara Abadi News",
       "description": "KEKERASAN SEKSUAL ANAK: Polrestabes Surabaya Amankan Pria 65 Tahun, Korban Berusia 12 Tahun",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
@@ -164,7 +200,7 @@
     },
     {
       "title": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUw1NWllcGlpNU5TbGNpZkIzVUdmN19QRFh5Q1dJMFlIS1dISjkzYnp2amR2ZTlfOVdsdmJCaHFJRXAtMGtHVVVVcEZJZlVUekJwWDBBTTNjUnltOHRoVldaWTBJOWhIdWNTNmZQUjlDczUxSHpva2VTajlvTjNjSWN5b2Mya285UGtZWnd3a0lPOG1aR1ZIUENlQWMwVGZJN0lFbUtMbGVaTFXSAasBQVVfeXFMTUVMNTVpZXBpaTVOU2xjaWZCM1VHZjdfUERYeUNXSTBZSEtXSEo5M2J6dmpkdmU5XzlXbHZiQmhxSUVwLTBrR1VVVXBGSWZVVHpCcFgwQU0zY1J5bTh0aFZXWlkwSTloSHVjUzZmUFI5Q3M1MUh6b2tlU2o5b04zY0ljeW9jMmtvOVBrWVp3d2tJTzhtWkdWSFBDZUFjMFRmSTdJRW1LTGxlWkxV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGQta3lVQXM4UUhQLWhXSkZvQVdXbWNLWmZ2QnFrSXBocW56SzRXX1dWal9LdkoxMW9ONmYyc0FqVXBCNEtGbElRNkRUY1hodjVYYnFtbkZPdGlxMTF5U2tCcUpjd1FLaTFZNzNCYzFoWmhSUXBnSTIzSWtpMk5vR3V4Tzh4eGE3RGpBX0wzOFVMbWUxeEFPV2dab1JJUVB3NGJTQWhoR2XSAasBQVVfeXFMTUVMNTVpZXBpaTVOU2xjaWZCM1VHZjdfUERYeUNXSTBZSEtXSEo5M2J6dmpkdmU5XzlXbHZiQmhxSUVwLTBrR1VVVXBGSWZVVHpCcFgwQU0zY1J5bTh0aFZXWlkwSTloSHVjUzZmUFI5Q3M1MUh6b2tlU2o5b04zY0ljeW9jMmtvOVBrWVp3d2tJTzhtWkdWSFBDZUFjMFRmSTdJRW1LTGxlWkxV?oc=5",
       "pubDate": "2026-10-05T00:39:36+00:00",
       "source": "ANTARA News",
       "description": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
@@ -740,7 +776,7 @@
     },
     {
       "title": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbml0TXIxal9KdTlCajJYVzNrdl9PRmRuVzdMUTRtaV9VX3hPWVR3YjFHSUtPZFJRaFY3ZXhQT0pMVGsxekkwRWZpMG1IU3NSanVIWnNheEhlZFh0bXI3MjQxY2FPdDNfaWluSUlUMVIyeVlnM0JhU3d3UU9DeUJaeG5FWkJpVDBIUlM3OGJMbi11YzVlQk1ESlZRUTBDc1Yzek9VUkFRbEFtS2FiZUtzRTFWVTNxS2gxRDFUcUdPTFHSAcYBQVVfeXFMUE12SFBXNkpZUW81RTFYb3Z6NEVrNm1jbmRhTDREX0hvVGxXTGJnTkdWc1pjZUU2ZEVDRm9acGQzVF9aRVVKejZOYXl5VzFQT1VjbVNJN2lxV2ZtRlFORGR1Y1RpcWRuVXp2N0dFbWhYbUNkdG0wa29JT1ZjVUlfSDAtTFVBT3I3RFIxa3UyVmF0amVJeXJaRWt1X0pzcHp5SUZ5TlJKTXVtMUlmSTlQR1dtRTd1NzJmbGhPSG1tT3A2eFZmdHVR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnlFU0VlQ1A3M2FHYWxLTW5OX2g3d0lVNkhzdHdpa1F4dU5hbm15RUdmYXA5cUZpdWpDSktPZWptWmtnWVVCYnhhcHRxeWNZUUFlNXd6cV9XNWJEcXJxWTlJQUZFZzlyNE9NdjljUjQ0bW40T3lvMUhGWU1ZcWNnUllodEI0RjhoTUJMdmdPU1Z5VlctYjhFTlhQRlhjTWZqYkxsT3NvZmdBczdxVm82dXhYcEJGdnV3bUVfdThR0gG-AUFVX3lxTE5aeUVTRWVDUDczYUdhbEtNbk5faDd3SVU2SHN0d2lrUXh1TmFubXlFR2ZhcDlxRml1akNKS09lam1aa2dZVUJieGFwdHF5Y1lRQWU1d3pxX1c1YkRxcnFZOUlBRkVnOXI0T012OWNSNDRtbjRPeW8xSEZZTVlxY2dSWWh0QjRGOGhNQkx2Z09TVnlWVy1iOEVOWFBGWGNNZmpiTGxPc29mZ0FzN3FWbzZ1eFhwQkZ2dXdtRV91OFE?oc=5",
       "pubDate": "2026-09-27T14:17:00+00:00",
       "source": "iNews.ID",
       "description": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
@@ -883,20 +919,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmN4b1dOeE9RcWthdU00enpqcExueHA4OU1yU3M2cl83bnNvdWE1cVBUbm53eldqRjU1UGRDbFJJWDdqdHdSX05STnJVenVJcVNNSE9WM0NkVmtlUGI2V0g2bUFTRGsyQmZONU1rYzNzOVhTdGNXRnhmd0tvR25jcVlFb3hwZVlmM04wUkpidElVSWlrTzBRRlRXOHBmZV9McGp1Z1NVRWxLcWtZMXV1cERlWGFrZE1DSTlQZtIBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
-      "pubDate": "2026-09-25T07:38:51+00:00",
-      "source": "ANTARA News Bengkulu",
-      "description": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Komisi XIII DPR: Pembebasan bersyarat Bechi tak sesuai UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWxjbG50NHdNRVo4T2d1S3ExanB2TkV6czBzbTVmN214aVpXeWp2RVlBb2I1bFFsakhUWGFzeTlfanpfMzFPX2RTR3BXbzVkWXpZcGs5Z2pNYVYzb2c5SlAtdGRlWGc2cVd2MVp2dzIta0NONWVuTGZwX2JLSzE0Rk5HNUpKZHJHSzBuTjFNTl80YXZHU3ZHcmxraVd3TUhCcGlPcWVB0gGoAUFVX3lxTE80VFRmUmd1Q21jYTU2dFhDRUdOUVhDa0pwQm00anRVdmdELWhIbkJCSnVjZWJwNGVjbFNELXdPV0c0WFRkUmgzOC1HR0RXdU1NbUE4VkNhUDdZVGRRdUNKcmlRMUpYZ3lkMFFScHNKRDZwaTNsMVR4RTQ2NDRVSFFRZ01BLWVHVE16el9veVpzMzJ4VHN2dmxLcjFGMjJvclowbnZQMXFiLQ?oc=5",
       "pubDate": "2026-09-25T07:15:44+00:00",
       "source": "ANTARA News",
       "description": "Komisi XIII DPR: Pembebasan bersyarat Bechi tak sesuai UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmN4b1dOeE9RcWthdU00enpqcExueHA4OU1yU3M2cl83bnNvdWE1cVBUbm53eldqRjU1UGRDbFJJWDdqdHdSX05STnJVenVJcVNNSE9WM0NkVmtlUGI2V0g2bUFTRGsyQmZONU1rYzNzOVhTdGNXRnhmd0tvR25jcVlFb3hwZVlmM04wUkpidElVSWlrTzBRRlRXOHBmZV9McGp1Z1NVRWxLcWtZMXV1cERlWGFrZE1DSTlQZtIBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
+      "pubDate": "2026-09-25T07:00:00+00:00",
+      "source": "ANTARA News Bengkulu",
+      "description": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -1000,15 +1036,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9odWM5Mk5hTmF3dTE3NWktNzljYWlzZWE2a1VFZHFvSEdxV0NibTJzN2JTNndSUXNsYmk0dWYtdWNuYW93NUJOc01Gb3BGWlZHMjMxOWE0a0ZydWV2cE1QUVNR0gFnQVVfeXFMTnNHczRlQ09uZEZDQU9RcjZ6bVVQRzJ0TmxnZWNFTE1BNzRCcGE4VjB3cWdlMmlsX1o5aTZtQzYzMGFSVnF6QnoxNVZYNDhMZmJJS3V1b2hkaEY4VW1GYVJLVXRBYzVYSQ?oc=5",
-      "pubDate": "2026-09-23T09:25:52+00:00",
-      "source": "BBC",
-      "description": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzFCR3U3ZmpLRS1tYUt2U3RFbWl4WW5KNHR0OW50aEwtRW1yYXFiLU1BeDNvOXJZM2JOaHUtTmNVOWo3WHktWDJuT0FyZXBZbGtZMzZfVmNCOGtjNGRwTDB1b0hmbHh0WUFPdkFHS2xvNlhJSHFrSEoxcVJhN0xuLTUyWWlaSDd3cTMwSmxGX2RLSVYxbDZGZDZkRk50ZkszTTAyRVlmQU90NktnMUJtV3MwejFRYXphUzIzcUhXLTBDbUFo?oc=5",
       "pubDate": "2026-09-23T09:17:24+00:00",
@@ -1034,6 +1061,15 @@
       "description": "Pelaku Kekerasan Seksual Mas Bechi Bebas Bersyarat, MUI: Mencederai Rasa Keadilan Korban",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9odWM5Mk5hTmF3dTE3NWktNzljYWlzZWE2a1VFZHFvSEdxV0NibTJzN2JTNndSUXNsYmk0dWYtdWNuYW93NUJOc01Gb3BGWlZHMjMxOWE0a0ZydWV2cE1QUVNR0gFnQVVfeXFMTnNHczRlQ09uZEZDQU9RcjZ6bVVQRzJ0TmxnZWNFTE1BNzRCcGE4VjB3cWdlMmlsX1o5aTZtQzYzMGFSVnF6QnoxNVZYNDhMZmJJS3V1b2hkaEY4VW1GYVJLVXRBYzVYSQ?oc=5",
+      "pubDate": "2026-09-23T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Dinas PPPA Tapteng, Kementerian PPPA dan Yayasan Pulih Gelar Sosialisasi",
