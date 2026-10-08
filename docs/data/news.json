@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-08T04:10:47.271757+00:00",
-  "total": 738,
+  "updated_at": "2026-10-08T12:41:39.428345+00:00",
+  "total": 741,
   "stats": {
     "tpks": 204,
-    "kekerasan_seksual": 331,
+    "kekerasan_seksual": 334,
     "kbg": 81,
     "kbgo": 122
   },
@@ -28,22 +28,49 @@
   ],
   "articles": [
     {
+      "title": "Putusan Bebas Terdakwa Kekerasan Seksual Cederai Hak Korban",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXdJQ0JaeE51eFhDUlVXRXZxbWEyYm5GX0NhcUFBSmFqaHV3TnFYbWl0Q1hnOGR5MHprV01PUUs4eGxrRkRBS2xxb2JLVGNFbWlCRFRmMkxvUVVnSVlBbjBMaGdWTklzbmxYVlhaX1NWSEJsc21wa2VkSms5Zkw3Q0ZOckVfMzk3cDd3Mnp6RFJlYWN3bjlEWi1LMEJxSFoyRlZBTmV3?oc=5",
+      "pubDate": "2026-10-08T11:31:41+00:00",
+      "source": "Mediaindonesia.com",
+      "description": "Putusan Bebas Terdakwa Kekerasan Seksual Cederai Hak Korban",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Hukum: Bechi kembali dipenjara – Pembebasan bersyarat dicabut",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ycE02YVBJSVlrTDhFYkZESDFqR1NEd0lqUlBWajdUcFM0TUpUYmZET2hHVnlTTWlGY0ZiNkNxcWVBVGdIMy15cVJBRFhiZGx0SndlZ3M3WUdtS3NEckhKZkV30gFnQVVfeXFMTnpsYTcyUmlTTVI1bF9HOUd3SEU1cWxNMjZkS1FfQ180ZWktdXU2ZDJ2M1ZrRXdDV01lYmtWWU1FYkxCb19GblFRVy11cWYxN3JIR0JZaHpSR042WmJSN2hsd3NReUlmOA?oc=5",
+      "pubDate": "2026-10-08T09:10:07+00:00",
+      "source": "BBC",
+      "description": "Hukum: Bechi kembali dipenjara – Pembebasan bersyarat dicabut",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Bechi Terpidana Kekerasan Seksual Kembali Dibui, Masuk Sel Khusus",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbjdVRmlud295N29qaEZVRkpMMVY5UEE4UVh0SUt2d2k5WXc1Q3JldEctbmtnMjJmUGg2dzdCSkJfeHduTVRXbEcxUFlqMHBUOGk0OWFjODFpdGJlVzU1T3Y5MHBrNGNhZ2VjOHhIYmV4RWFsNUMyaFBOaWxKTVN2X1FwYXc0U0U5WVkwcXRSUy1ELXp0SlZEREJPY2kzVTRzMWgyYTRpU3lhNTRWSmFWZFNUellxTUNmTXNmSlVsQU9oNlpGdnMw0gHMAUFVX3lxTE1Ma3QyVWZzU292TVEwM29OMHVuNE1zaHpPVFQ5akJVUkpBS0JQY2ZiQUdYdl9uTC1qLTNoS0JjMDViMWFkQnN1Qm8xT3lxZWNZalVGMEhySVZndThvWE9ZbE9VUE5JbWJpVnBTSjFRWDkyZmh0MEI0aU1iMmI2a0Y3MWU5WTFlNVBXRVBHOU1Fa3h5aFZJd0M2aXpvY3FkZGZodFNPLUg2djlKS1dVc2Y4TDJyN2pfaHEzSUE0RHRrdWNOZmkwWFBCRHN2MQ?oc=5",
+      "pubDate": "2026-10-08T09:09:42+00:00",
+      "source": "CNN Indonesia",
+      "description": "Bechi Terpidana Kekerasan Seksual Kembali Dibui, Masuk Sel Khusus",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Bebas Bersyarat Bechi Terpidana Kekerasan Seksual Dicabut",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHhGWGQ2ckJoVG5XaG1MbDJhNHdIdE4zR1FNOHYzQm5TcHBMSGNWTmZzZzdLMVFHeld2TGdXQnpWaUxjcTd4Z3BKaF9jVEkzX3lDd09nb0JiZENpUnNNb3Z6UEFuQlBlVC1KbzdHRjR4MFpTY2JEalZHWi1HM1ZXUFU4SHBkaGk4Y0tVcDE4c0hNT1BQZzAtem1PdW5QTnQ0Q3VrYlNhMTVGbDFZckVkYy1iX1dVTjNRTW5FRXpR0gHDAUFVX3lxTE84RmhqSXp2LTdIRkY3eGtIZFJIWjJ6NWcxWTYtSmVqS0Z2Yzc4V18zdU1wNGNxckg4UTRBZWhwdlZLR19IUWpBTmpuZEdlRnRDWmJrOUpZUXhWajFHanUwTjc3NG5iN2ZWczI5cmpEc3ZGWnJYYnVudndlWkNacGdtdk56Y0VkLWNJcFpsRGZ0Nk1rcUhaQXBBaHpEcWFGem9xcUx5a2xtM0ZkcEhIY0tGM2pVaGhUd3E4YVptN1RzX0lYWQ?oc=5",
+      "pubDate": "2026-10-08T08:32:32+00:00",
+      "source": "CNN Indonesia",
+      "description": "Bebas Bersyarat Bechi Terpidana Kekerasan Seksual Dicabut",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Pastikan UU TPKS Efektif Selesaikan Kasus Kekerasan Seksual di Lombok",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV25IMXRXZzh0MDd2aGdxdXZZQTR5enlJaFJvMTBuTVJSUXpBR1l3MDhENzRyaWQ1OUFwSWJrTlg0dkdOcXNZZUdBemhFREJvUlM0UjZUUEhWNlBrMmlsdjNnZm44RnlMM1BqemFtZnZ4dEo2LTE5aWk0QTFWY3Vyb183MlBSVWhBejVKSWVZalNJVFhDQlItTHRTR2FYZHoybjE0TmY2Z0o?oc=5",
-      "pubDate": "2026-10-08T00:51:16+00:00",
+      "pubDate": "2026-10-08T00:51:35+00:00",
       "source": "Partai NasDem",
       "description": "Pastikan UU TPKS Efektif Selesaikan Kasus Kekerasan Seksual di Lombok",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Pembebasan bersyarat terpidana kasus kekerasan seksual di pesantren 'wajib dicabut', kata Menteri Pemasyarakatan",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ycE02YVBJSVlrTDhFYkZESDFqR1NEd0lqUlBWajdUcFM0TUpUYmZET2hHVnlTTWlGY0ZiNkNxcWVBVGdIMy15cVJBRFhiZGx0SndlZ3M3WUdtS3NEckhKZkV30gFnQVVfeXFMTnpsYTcyUmlTTVI1bF9HOUd3SEU1cWxNMjZkS1FfQ180ZWktdXU2ZDJ2M1ZrRXdDV01lYmtWWU1FYkxCb19GblFRVy11cWYxN3JIR0JZaHpSR042WmJSN2hsd3NReUlmOA?oc=5",
-      "pubDate": "2026-10-07T17:10:35+00:00",
-      "source": "BBC",
-      "description": "Pembebasan bersyarat terpidana kasus kekerasan seksual di pesantren 'wajib dicabut', kata Menteri Pemasyarakatan",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "STAIN Meulaboh Serahkan Penanganan Dugaan Kekerasan Seksual ke Itjen Kemenag",
@@ -136,20 +163,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzlZQlNMdVVZQ0pvUktobmRKX3NBeUpCeWFCVVFGSFV2TDdqbzdZel9vM3pHSENXclpCRjVyUFdZcThYQVVqSDFER3c4bTNzMWRzUFIyLWNJWlo4d1lIMHNvSnlHX0hvbFNGWVhzWWZfZnp2dnlic2pOY3VuWkc5Y2dIR2h3YUxfTl9WNGFsUEZ1UQ?oc=5",
+      "pubDate": "2026-10-05T11:36:38+00:00",
+      "source": "Prohealth.id",
+      "description": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "VIDEO: Kasus Kekerasan Seksual di Kampus Elite Jadi Sorotan",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGtDRHBaYXlkVFNXSXVBSF9YWnBfakxCTndPSlk0T1NDNDlwTXpPQzhIQ1V6VFZTVEhQNmdQTlFjaWJUVlY2VWtSLTJDTmRPNEZpdXAxeUJaRVEzLXpGVUhWVmxNWC1oY2kzeVVPX3NJNlI1MmhlTXBUbWVrQjRTRFVnU1BiLXpySDhEb0hqUzhhNGk1UndxOVJUSGtVU2pLZ1JhVHJSZlg5N3JNLTBIUmFaNWs3Q2F4?oc=5",
       "pubDate": "2026-10-05T09:15:40+00:00",
       "source": "CNN Indonesia",
       "description": "VIDEO: Kasus Kekerasan Seksual di Kampus Elite Jadi Sorotan",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzlZQlNMdVVZQ0pvUktobmRKX3NBeUpCeWFCVVFGSFV2TDdqbzdZel9vM3pHSENXclpCRjVyUFdZcThYQVVqSDFER3c4bTNzMWRzUFIyLWNJWlo4d1lIMHNvSnlHX0hvbFNGWVhzWWZfZnp2dnlic2pOY3VuWkc5Y2dIR2h3YUxfTl9WNGFsUEZ1UQ?oc=5",
-      "pubDate": "2026-10-05T09:13:51+00:00",
-      "source": "Prohealth.id",
-      "description": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -604,15 +631,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
-      "pubDate": "2026-09-29T09:22:00+00:00",
-      "source": "Kompas.com",
-      "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTFLOWxoNUdzR1lIZ1o4eFYzTEVBN2stR1ByUW13M0ttUXJsUDRGaUtibTFJMGlPLTJnWWZQaEhoZlZhSG12cnBnaFU0LWh0XzhkNUJqaFBPZ0paTFlZSk5EdDN3eDVqSEVWWU1FVVVlbXhnUUxnRUtqUm5lWG0xVEtQY0NZSzU5ZmRxbVpnRGJMYzlDNklUaTYzaDA?oc=5",
       "pubDate": "2026-09-29T08:19:00+00:00",
@@ -656,6 +674,15 @@
       "description": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Kompas.com",
+      "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
@@ -6266,7 +6293,7 @@
     },
     {
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjg1eWs2WU9rU19wUnRsUVBGVUVpSDdPemRuTnlhUFpLdkxUSVIwTmpNZjNVQTZkNlRHdVFwcVlaZy1Kckl4eElMN2llb2Z6NVpzT3M1OHlfQjh2bjJEaFpUME9fZm9sN2VpLVlWTm51SWpkQXdydmJBQmM0dEtuQ2FHSGdtTVNORnlscWpyUTR5ZWdnc080aQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
       "source": "Mahkamah Konstitusi RI",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
