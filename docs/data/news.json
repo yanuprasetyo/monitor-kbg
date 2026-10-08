@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-08T12:41:39.428345+00:00",
-  "total": 741,
+  "updated_at": "2026-10-08T22:46:34.063434+00:00",
+  "total": 742,
   "stats": {
     "tpks": 204,
-    "kekerasan_seksual": 334,
+    "kekerasan_seksual": 335,
     "kbg": 81,
     "kbgo": 122
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Alasan Bechi Terpidana Kekerasan Seksual Dijebloskan ke Sel Khusus",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNmx2U0NsWXJBU3FnN0ZDSnVmZUJ5RmtTcndkRzNzR0JmXy0zdXhScVRrb0tjTmpQOUZqZG42amdvUnpQakFsUWJLb2x6R20zTkVOMURlX0pDTnhHNGZkaEwzNGowd0hkQklDSU9NcTNkS3M3TE1OQnR3NGtTdDBqLVRfaTUybkRrWDhjcFZ4d2gzcVFGUVRmLXhEdUItY0NONXFYRUl4c1FMME1NSldTT2h5ZEVhUFA3bnpycEdJUDhBdGtUTWZmQUtB0gHPAUFVX3lxTFBBRUg2TTdUc3BnMGhaeXpKcTBzTDNwbzBfeTRFdTJRX1BmWENXQmhxTGRfTlN6VVZOYWNGSjVkczVxR3lmWkhuS2J6QVl1VGFlWmVka0VnbmRCYkdJZlp1ZVdJNGZNZWZTQld6b3FrVzdTWDF2X1I1Q0RHMDhpX3hpaEFQWjVlaVA5ZDdiSjNTajJibDE4QTRPdGh0ZkE2MS1KNlU1d1dnLXFqa2l5eUI0QjItUW1tYmpTMTFjWjJ2YmYwUV9oVDRzUTZmckJ1cw?oc=5",
+      "pubDate": "2026-10-08T13:52:28+00:00",
+      "source": "CNN Indonesia",
+      "description": "Alasan Bechi Terpidana Kekerasan Seksual Dijebloskan ke Sel Khusus",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Putusan Bebas Terdakwa Kekerasan Seksual Cederai Hak Korban",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXdJQ0JaeE51eFhDUlVXRXZxbWEyYm5GX0NhcUFBSmFqaHV3TnFYbWl0Q1hnOGR5MHprV01PUUs4eGxrRkRBS2xxb2JLVGNFbWlCRFRmMkxvUVVnSVlBbjBMaGdWTklzbmxYVlhaX1NWSEJsc21wa2VkSms5Zkw3Q0ZOckVfMzk3cDd3Mnp6RFJlYWN3bjlEWi1LMEJxSFoyRlZBTmV3?oc=5",
@@ -658,6 +667,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Mempertanyakan Urgensi Pembebasan Bersyarat Pelaku Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTRxdWhldUpJTDU3czFpcVBndVNDRjdtYzNveFhyYzBoMWZBblFYemZNb3cwd3o2cEdxYTI4RFNsa1l1YmVBbTEwQzh4ZHdkVHNmNGN0UEw2RWpCeWFaSmFXV0lYRWFmWUx1NmRWTjRpSHFVclk4bGkxYjlVMFF0Uy00cTcyM1k1cFlPbDd0SXQyRmxnNHE1akN3?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Mempertanyakan Urgensi Pembebasan Bersyarat Pelaku Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -719,15 +737,6 @@
       "description": "Chat Cabul Mahasiswa FT UGM Masih Diusut, UGM Siap Beri Sanksi",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Mempertanyakan Urgensi Pembebasan Bersyarat Pelaku Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTRxdWhldUpJTDU3czFpcVBndVNDRjdtYzNveFhyYzBoMWZBblFYemZNb3cwd3o2cEdxYTI4RFNsa1l1YmVBbTEwQzh4ZHdkVHNmNGN0UEw2RWpCeWFaSmFXV0lYRWFmWUx1NmRWTjRpSHFVclk4bGkxYjlVMFF0Uy00cTcyM1k1cFlPbDd0SXQyRmxnNHE1akN3?oc=5",
-      "pubDate": "2026-09-29T01:30:16+00:00",
-      "source": "Kompas.id",
-      "description": "Mempertanyakan Urgensi Pembebasan Bersyarat Pelaku Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "Belasan korban baru berani bersuara setelah investigasi BBC",
@@ -2784,8 +2793,8 @@
     {
       "title": "Isu Kekerasan Berbasis Gender Disampaikan Dalam Rakor SPLP FSPMI Bekasi",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVZaQnhVZlZlc1dTSDFPUXhkNEZQZExTZy1BMHZYaWcxR2MxUS1LeUkyTjh2aTQ4YkZHQjZYU0tIaXlwVEczWWNjZkpiSmg3VFVhZDZXaGtFcnMyWXQwcnlwYVdUM3dnSUFtWlVXd2h2dW5VcXRSUnp2SFJnTUM1emVnZllUdDIxd01PemtwaFN5TVZKZmN3ZmZ4RFBRTUJTallmWHFKUTNBdw?oc=5",
-      "pubDate": "2026-08-08T10:04:23+00:00",
-      "source": "koranperdjoeangan.com",
+      "pubDate": "2026-08-08T07:00:00+00:00",
+      "source": "Koran Perdjoeangan",
       "description": "Isu Kekerasan Berbasis Gender Disampaikan Dalam Rakor SPLP FSPMI Bekasi",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
