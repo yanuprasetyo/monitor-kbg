@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-07T22:34:22.982358+00:00",
-  "total": 737,
+  "updated_at": "2026-10-08T04:10:47.271757+00:00",
+  "total": 738,
   "stats": {
-    "tpks": 203,
+    "tpks": 204,
     "kekerasan_seksual": 331,
     "kbg": 81,
     "kbgo": 122
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Pastikan UU TPKS Efektif Selesaikan Kasus Kekerasan Seksual di Lombok",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV25IMXRXZzh0MDd2aGdxdXZZQTR5enlJaFJvMTBuTVJSUXpBR1l3MDhENzRyaWQ1OUFwSWJrTlg0dkdOcXNZZUdBemhFREJvUlM0UjZUUEhWNlBrMmlsdjNnZm44RnlMM1BqemFtZnZ4dEo2LTE5aWk0QTFWY3Vyb183MlBSVWhBejVKSWVZalNJVFhDQlItTHRTR2FYZHoybjE0TmY2Z0o?oc=5",
+      "pubDate": "2026-10-08T00:51:16+00:00",
+      "source": "Partai NasDem",
+      "description": "Pastikan UU TPKS Efektif Selesaikan Kasus Kekerasan Seksual di Lombok",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Pembebasan bersyarat terpidana kasus kekerasan seksual di pesantren 'wajib dicabut', kata Menteri Pemasyarakatan",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ycE02YVBJSVlrTDhFYkZESDFqR1NEd0lqUlBWajdUcFM0TUpUYmZET2hHVnlTTWlGY0ZiNkNxcWVBVGdIMy15cVJBRFhiZGx0SndlZ3M3WUdtS3NEckhKZkV30gFnQVVfeXFMTnpsYTcyUmlTTVI1bF9HOUd3SEU1cWxNMjZkS1FfQ180ZWktdXU2ZDJ2M1ZrRXdDV01lYmtWWU1FYkxCb19GblFRVy11cWYxN3JIR0JZaHpSR042WmJSN2hsd3NReUlmOA?oc=5",
@@ -928,15 +937,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmN4b1dOeE9RcWthdU00enpqcExueHA4OU1yU3M2cl83bnNvdWE1cVBUbm53eldqRjU1UGRDbFJJWDdqdHdSX05STnJVenVJcVNNSE9WM0NkVmtlUGI2V0g2bUFTRGsyQmZONU1rYzNzOVhTdGNXRnhmd0tvR25jcVlFb3hwZVlmM04wUkpidElVSWlrTzBRRlRXOHBmZV9McGp1Z1NVRWxLcWtZMXV1cERlWGFrZE1DSTlQZtIBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
-      "pubDate": "2026-09-25T07:00:00+00:00",
-      "source": "ANTARA News Bengkulu",
-      "description": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcU0taVh1aTJIcnJxcTlMQk11X1pVYk11RlFDLXg2ZTd2cnZBRmtvMXZFLUJ0QUZ1V3hWYkhLRVhIdnNtdXJ6bjBSYmtHS0ZvSzFpa3RuYlo4ZmhibmlxOTVn0gFnQVVfeXFMT3hkRkx5bWNSNV9uZ1QyWDdhdUV6VV83dzBobENKRkQxTDl3UlhxekNUZDliRGV6Ymg0MGdzaXhKRWh2YjUtS1JqdUVvblpJZ0E1ZGlTQS1XZTJVSlI3QU5hbWtMUWk2OA?oc=5",
       "pubDate": "2026-09-25T07:00:00+00:00",
@@ -944,6 +944,15 @@
       "description": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmN4b1dOeE9RcWthdU00enpqcExueHA4OU1yU3M2cl83bnNvdWE1cVBUbm53eldqRjU1UGRDbFJJWDdqdHdSX05STnJVenVJcVNNSE9WM0NkVmtlUGI2V0g2bUFTRGsyQmZONU1rYzNzOVhTdGNXRnhmd0tvR25jcVlFb3hwZVlmM04wUkpidElVSWlrTzBRRlRXOHBmZV9McGp1Z1NVRWxLcWtZMXV1cERlWGFrZE1DSTlQZtIBwgFBVV95cUxPTFF2b24yZjRTQVFrbkRXdWJFWWdBS2ROV0tmTzlENzJhXy1wWVZYZE1Rd21vanZpYTBjVkZoT0lpQ3czZ1I3aHBKenFBM3RzbTctLTYtbURuWnlpblZiSVpxeUR2MjRnbWJlM0N0elIzR3A5WThyWDFjb0JTRHlKOFo2aEJSX3NvUXNsc0V3LUc3NVZiNzJFZ0VKczR0MUNFMVVlcXhhNldBRDF6aDBnTGhNS0U1azlqNTJGWUlBRDdpdw?oc=5",
+      "pubDate": "2026-09-25T07:00:00+00:00",
+      "source": "ANTARA News Bengkulu",
+      "description": "DPR: Pembebasan bersyarat pelaku kekerasan seksual Bechi tak sesuai UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kasus Kekerasan Seksual Tuan Guru di NTB terhadap Santriwati",
