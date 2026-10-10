@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-09T22:09:32.955282+00:00",
-  "total": 748,
+  "updated_at": "2026-10-10T04:01:10.502215+00:00",
+  "total": 749,
   "stats": {
-    "tpks": 204,
+    "tpks": 205,
     "kekerasan_seksual": 341,
     "kbg": 81,
     "kbgo": 122
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ahmad Basarah Desak Audit Sistem Pendidikan untuk Cegah Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUld2VkVrNkE4QzRjLWlWa2pLTGoxTnJXZXJuQWFUa1pfMUhPQWVHdXdHWVo1ZjVqSkkxaTNFeVNxU01iOHYzOWZSbGFwbzVRSW9Na1ZSLWd6YTB4RWp1VGtYYVEzdThVSFctc0NrUEdhUWZOY0EzTGJTQjd0a18wVjlzVFBrbmhnOGJUTFotWWxRejJ4WVVQTG9SWWx1Z2Myc2xIdEF0QXg5X3lhNGZKLWtmZURsSFlrODEzRg?oc=5",
+      "pubDate": "2026-10-10T01:00:00+00:00",
+      "source": "TIMES Indonesia",
+      "description": "Ahmad Basarah Desak Audit Sistem Pendidikan untuk Cegah Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Skandal Kekerasan Seksual Pesantren Bekasi: 10 Anak Lebih Jadi Korban Sejak 2023!",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbkhCMjRNa0tSN00zb0s0WlNONHJseDY0cmYzdVFtQXZ5X0VoZG1INlZKMlA1cDJxSHZzblI5MFJHT2R6d0dGZTFMbmd2VWRGbWpnaGc3dUxCVzZLWHR3VVllRmIyQVdPNUZRYUVQcjlCUTNuV3M5TkgzVTRTVFdmaW04alBkN2l5QWN4V1pkZVFKUHV4ejl5NUtxTE9XWG1pTm1KOUExZGxLQ0VvMTVJV2RpTVJGeVh0dms3UWs5NG43M0pDU2p1ZVJNYlHSAcsBQVVfeXFMTnRVY2lOajJXZzlDbU9ySVdDRmNscThQcy13c3NkZ1NIWlRHV1ZHb1NBdlQwQThkQklVTkRYXy1oZF9rU1RseGdqMTh4QWh6dFBRX1V4andGLVNUbEVxQXdNYjhKdTdwbzFDdENhLVJmTXQ3U1JjQ3lQbWNod0steDRqd0hsaDVqd0NydjljUDZfdVdkLXp6WHBSUWZVM1FNZ2FwRVVTa19Ra1lrNlZwMU5TNy1YMGwzZGNHWHJjMkV0QnhmeTFDclhPUk0?oc=5",
@@ -633,7 +642,7 @@
     {
       "title": "UGM Nonaktifan 10 Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1VmVS1HUHVVWmFtY0g1emlGRVlBeEFZRmZDWVBaRmFyVURvem5hSXFTSTctOVQxdjMyZUJKUVQ2cWNvMFJYWURDSlNMX2NxMGxuT2IxeVZRWUlUeG84ZmoxT19OeXJlZ3lNTDdCT0VwdGVrd21tdzRoSUppVmx5ZVVndFpSR09sdWdhUjNIc1pnaU9YeGQ5Q0NPOVhDQUlOZDFrT001U0NJUU9UM244a1BtUUpwVmxfLUMzdkE1RQ?oc=5",
-      "pubDate": "2026-09-29T14:57:41+00:00",
+      "pubDate": "2026-09-29T14:57:00+00:00",
       "source": "Harianjogja.com",
       "description": "UGM Nonaktifan 10 Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
@@ -730,15 +739,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanU5cHhtSkVpN1NWeE93bEZCRlZUUUVaWm1SOEpud0xaUklKZXJmaFhpQzA5eGVzcVR5Sy1Pa2psdC14R3ZxVW9GTFZlS1Q5TVMzYkhXMURxQ3p6WWp0dE1nQUFSOUxBMTVNRUZyN2FIQjNUUjl1Z3QyNkZOWnlUaEhtdklfZEVhbDJzd20zV1JDelZ0RDF2NEFwTEhod3dF?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "RRI.co.id",
-      "description": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTFLOWxoNUdzR1lIZ1o4eFYzTEVBN2stR1ByUW13M0ttUXJsUDRGaUtibTFJMGlPLTJnWWZQaEhoZlZhSG12cnBnaFU0LWh0XzhkNUJqaFBPZ0paTFlZSk5EdDN3eDVqSEVWWU1FVVVlbXhnUUxnRUtqUm5lWG0xVEtQY0NZSzU5ZmRxbVpnRGJMYzlDNklUaTYzaDA?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -755,6 +755,15 @@
       "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanU5cHhtSkVpN1NWeE93bEZCRlZUUUVaWm1SOEpud0xaUklKZXJmaFhpQzA5eGVzcVR5Sy1Pa2psdC14R3ZxVW9GTFZlS1Q5TVMzYkhXMURxQ3p6WWp0dE1nQUFSOUxBMTVNRUZyN2FIQjNUUjl1Z3QyNkZOWnlUaEhtdklfZEVhbDJzd20zV1JDelZ0RDF2NEFwTEhod3dF?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "RRI.co.id",
+      "description": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
@@ -4848,8 +4857,8 @@
       "pubDate": "2026-06-27T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Polisi: Ahmad Al Misry Berkewarganegaraan Ganda",
@@ -6202,20 +6211,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWxOZ1F6Z0x4UmQxbVJWVGxlQ0d4Z1hMS0tCNmNxTzJ3U18zUmFCVzNXX1B3cHZ6akRrc3NJM05FNkdNOEhZSm53bTJLTHV1a3Z4cWJwdU5ONVZBVmg0ZWRHM0FxNV9fa3NScDRPR2NVcXpnUDd0SGhpSzIyVlphTzVZaXlTSXptRWdKUm1ySGVRN2J2d2ZQYTBzZFZoMFJJcTFEUmYtYTFXZWVfLW90X0E0cy1hNUd3SC0teg?oc=5",
-      "pubDate": "2026-03-02T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Implementasi UU TPKS Harus Utamakan Perlindungan Korban, Bukan Mediasi Damai",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMzNzWHVGNnkxeFJXczVQMl9ZNVFuaXZqaExJZ09iZTJqQUZCUGR6ci1RZDVqMDQyUjFweHppRWdhbGdUTTJYNmJSSVFDaFplNGlZQ19qa3QycVk3NkdlSk9NVEdOSTBSTDRGM0lKNEZvZ1NrcV9VV01Hcm5OZjlmUkUycjIwdkQzVU92MmF2U3B2b1RoalZxOEdhUlJUMmpiamswTmlwZnRmX0x0cDZWUE9NUEZpYlg2ZHhyRGxBWXNUeWRCY3RKWGt3?oc=5",
       "pubDate": "2026-03-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Implementasi UU TPKS Harus Utamakan Perlindungan Korban, Bukan Mediasi Damai",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWxOZ1F6Z0x4UmQxbVJWVGxlQ0d4Z1hMS0tCNmNxTzJ3U18zUmFCVzNXX1B3cHZ6akRrc3NJM05FNkdNOEhZSm53bTJLTHV1a3Z4cWJwdU5ONVZBVmg0ZWRHM0FxNV9fa3NScDRPR2NVcXpnUDd0SGhpSzIyVlphTzVZaXlTSXptRWdKUm1ySGVRN2J2d2ZQYTBzZFZoMFJJcTFEUmYtYTFXZWVfLW90X0E0cy1hNUd3SC0teg?oc=5",
+      "pubDate": "2026-03-02T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -6355,15 +6364,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGIzalRIcFBZQmZmWHF1WDlTNmtqY2hyOEtwQWFZS2J2OW5TMGFaSWFBVkNaV05rQ093MW10WkdyU2JibmxuOTRQbDZxTGhzTlEtNXRrby1POVF5dTFQdUxjNmpDTnJJbDZPVXBoVUE0RXBUblJCMmRMLXJBdFdmWk8wWjVxMFlsc0ZFLS1Hdzd2RDlLTlk4QlhTZGF0WUZlbjY2cWliaWRIVTBpemh5emhPZHo0S2hTYlJzOHZ3V0cxckxhZVBuZnlVN3JUX0pUTXZxQjd2U0xFNHg5bE9SOFh2ZlkxQUdwTFpONQ?oc=5",
-      "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
@@ -6371,6 +6371,15 @@
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGIzalRIcFBZQmZmWHF1WDlTNmtqY2hyOEtwQWFZS2J2OW5TMGFaSWFBVkNaV05rQ093MW10WkdyU2JibmxuOTRQbDZxTGhzTlEtNXRrby1POVF5dTFQdUxjNmpDTnJJbDZPVXBoVUE0RXBUblJCMmRMLXJBdFdmWk8wWjVxMFlsc0ZFLS1Hdzd2RDlLTlk4QlhTZGF0WUZlbjY2cWliaWRIVTBpemh5emhPZHo0S2hTYlJzOHZ3V0cxckxhZVBuZnlVN3JUX0pUTXZxQjd2U0xFNHg5bE9SOFh2ZlkxQUdwTFpONQ?oc=5",
+      "pubDate": "2026-02-02T08:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Tegaskan Child Grooming sebagai Kekerasan Berbasis Gender dalam RDP Komisi XIII DPR RI",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "RESENSI BUKU: Ketika Kekerasan Seksual di Ruang Digital Merembet ke Fisik",
