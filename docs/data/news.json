@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-10T04:01:10.502215+00:00",
-  "total": 749,
+  "updated_at": "2026-10-10T11:47:40.451888+00:00",
+  "total": 751,
   "stats": {
     "tpks": 205,
-    "kekerasan_seksual": 341,
+    "kekerasan_seksual": 343,
     "kbg": 81,
     "kbgo": 122
   },
@@ -91,6 +91,15 @@
       "keyword_label": "UU TPKS"
     },
     {
+      "title": "Pemberitaan Kekerasan Seksual, Lembaga Penyiaran (LP) Wajib “Comply” P3SPS",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRi1LZkhhektvdzdaT0hGeFZOSnhvSWZldlFOeFFseDRaejdsdzRBZlVkZnNzTncycUJZa0tEa255blhValJVS2dUTU5qeENpZzZTLWpoOXJkd3N2OXhBdlp4Y1d2S2RTUDRMRDJnWFZOcUNrUjNERzUyWDlQXzFrcHhmaDBHSkVBUzhPUTM1N1pGclZTQkxXd0hXcHBudw?oc=5",
+      "pubDate": "2026-10-08T21:05:00+00:00",
+      "source": "Majalah ICT",
+      "description": "Pemberitaan Kekerasan Seksual, Lembaga Penyiaran (LP) Wajib “Comply” P3SPS",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Alasan Bechi Terpidana Kekerasan Seksual Dijebloskan ke Sel Khusus",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNmx2U0NsWXJBU3FnN0ZDSnVmZUJ5RmtTcndkRzNzR0JmXy0zdXhScVRrb0tjTmpQOUZqZG42amdvUnpQakFsUWJLb2x6R20zTkVOMURlX0pDTnhHNGZkaEwzNGowd0hkQklDSU9NcTNkS3M3TE1OQnR3NGtTdDBqLVRfaTUybkRrWDhjcFZ4d2gzcVFGUVRmLXhEdUItY0NONXFYRUl4c1FMME1NSldTT2h5ZEVhUFA3bnpycEdJUDhBdGtUTWZmQUtB0gHPAUFVX3lxTFBBRUg2TTdUc3BnMGhaeXpKcTBzTDNwbzBfeTRFdTJRX1BmWENXQmhxTGRfTlN6VVZOYWNGSjVkczVxR3lmWkhuS2J6QVl1VGFlWmVka0VnbmRCYkdJZlp1ZVdJNGZNZWZTQld6b3FrVzdTWDF2X1I1Q0RHMDhpX3hpaEFQWjVlaVA5ZDdiSjNTajJibDE4QTRPdGh0ZkE2MS1KNlU1d1dnLXFqa2l5eUI0QjItUW1tYmpTMTFjWjJ2YmYwUV9oVDRzUTZmckJ1cw?oc=5",
       "pubDate": "2026-10-08T13:52:28+00:00",
@@ -150,6 +159,15 @@
       "pubDate": "2026-10-07T11:23:42+00:00",
       "source": "acehnews.id",
       "description": "STAIN Meulaboh Serahkan Penanganan Dugaan Kekerasan Seksual ke Itjen Kemenag",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kasus Cornell 7 harus jadi alasan kita mengevaluasi strategi pencegahan kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDZnc2MwbklQaTY5THNTRjFIZkJJd3VtSF9iczhjQnctNWtCeFFzSWltWWl5Zzg4aXpLYlFGWTJXeHFZell6TmdWWXVPYzVmREhZbWY3RWdkdVNsTkNueTF5TmpJWkhFbGhoYnF2VDNVTzBiUUcyLU1wbl9iSDhHelBzcFZ3dTVTM3FNSmt6UlhXUG9lcjBNNTlYWHphZG1VYTZQV0x1c0t4NFRyeTNkc0xCeWoyQy0wZkVKZktDdURxUQ?oc=5",
+      "pubDate": "2026-10-07T06:09:04+00:00",
+      "source": "The Conversation",
+      "description": "Kasus Cornell 7 harus jadi alasan kita mengevaluasi strategi pencegahan kekerasan seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -595,15 +613,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWU9yclNPbGU4SmcyM1VuX21rVTlXU09aaUthaUtpMndPcHd4RGF0RTA2QTU5b3NVNkREazZNZ0NxTXdOemlEQnpKc3VYSXQ0T1FiYm1zVEpUYXBRYzBFSzNFaENLdTlDMzlHTURBTzBpMWVRSmpGWk1zX0VUX3BCSTJWUDF3T21xcGV0d0Rfek9XN3Y5X25TaEVSZ2JWTWNRaDA3RE9wb3R1RWlZQlpv0gG0AUFVX3lxTE5sSVR0YjB6b00yWU9yY2FDYm9rcHdmQUpHY3FILWJQdWhMbHRtU0EtM3BVdHpLdnBGNExWMmJVZmh5T000NmZ6YVd1RWFVamRCcDYtcTZpZzVkRnRWRTcyOVAtdnl6SUtjZ29qWFBSMmxaenhMRlpJU2g1SE8wV3dhejQzTjAxOUxhUl9BSG5ia2NEaDFfNlNWUUtjX3NYOVlmX185bnRGcWpzb2RwUmkyeDAzSA?oc=5",
-      "pubDate": "2026-09-29T16:45:00+00:00",
-      "source": "Espos.id",
-      "description": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "KY Ungkap Hakim di Indonesia Masih Minim Ikut Pelatihan UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3VjYlhxVTlXc1JSRzJOVGlRSElTOGFiWjh6MURRZDE5TmZaNEVJbnNkcWNMbVlXOThFMVJHbXQtY3hyVjBYNHBhZkcyaXFDU3QtcUhVSDg2WlhWWEhWcWVtSlBXWHk4dFM5eVVFU2tWa0ZkMkllZlBxdTQtV1JremN4S0FOQjdqRjRnWGVmVExtR0hrZlA2OVlWVTdZUGlQM1JPOHJLam1jb0to0gGyAUFVX3lxTE1mUV9kNUZ1T01HenlVZmdDaW9ZSlZaVXFhTFllSFpaT2EybXN3eXZabWxKZUk4ZDJhMENsWnFKeF9BZTZaWXFIblZXaVV6RWNlejVVN0xtMS1Va0t6MWwtWEd6bjlYVG9xUzRoeXRKSTdfNGdWR3EzVjJZMk9wX3VzU2dWRXBjemVJYk9DUUhpV2pQbDhNMk14d0V4cGNsS05tS1ZGVlN2S2staFlaSmplZFE?oc=5",
       "pubDate": "2026-09-29T16:20:23+00:00",
@@ -744,6 +753,15 @@
       "pubDate": "2026-09-29T07:00:00+00:00",
       "source": "Universitas Gadjah Mada",
       "description": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWU9yclNPbGU4SmcyM1VuX21rVTlXU09aaUthaUtpMndPcHd4RGF0RTA2QTU5b3NVNkREazZNZ0NxTXdOemlEQnpKc3VYSXQ0T1FiYm1zVEpUYXBRYzBFSzNFaENLdTlDMzlHTURBTzBpMWVRSmpGWk1zX0VUX3BCSTJWUDF3T21xcGV0d0Rfek9XN3Y5X25TaEVSZ2JWTWNRaDA3RE9wb3R1RWlZQlpv0gG0AUFVX3lxTE5sSVR0YjB6b00yWU9yY2FDYm9rcHdmQUpHY3FILWJQdWhMbHRtU0EtM3BVdHpLdnBGNExWMmJVZmh5T000NmZ6YVd1RWFVamRCcDYtcTZpZzVkRnRWRTcyOVAtdnl6SUtjZ29qWFBSMmxaenhMRlpJU2g1SE8wV3dhejQzTjAxOUxhUl9BSG5ia2NEaDFfNlNWUUtjX3NYOVlmX185bnRGcWpzb2RwUmkyeDAzSA?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Espos.id",
+      "description": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
