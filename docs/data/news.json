@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-10T11:47:40.451888+00:00",
+  "updated_at": "2026-10-10T16:50:53.135700+00:00",
   "total": 751,
   "stats": {
-    "tpks": 205,
-    "kekerasan_seksual": 343,
+    "tpks": 206,
+    "kekerasan_seksual": 342,
     "kbg": 81,
     "kbgo": 122
   },
@@ -199,15 +199,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Hukum: Eks pimpinan pesantren di Lombok Tengah jadi tersangka kasus dugaan kekerasan seksual",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ILU9aVTdvLXQtM2RBMko2b3ZCWERzY1dIRW5iRlItdnlPaWhpSVRweGw1QmFidndKTHhwNHRCNGNrVlRYekpOaENIQzBWSTBQY2xYSDNRWmlpRHhuVzlZMGRR0gFnQVVfeXFMTlZWc0ZqelZqRy1zaGF5UkpGRExCeF9PSmNSUVJ3NW4xa1BKQ0lJc2w4ZTlfZG5hdFg2QmlnUDhRWFJBQ2puUmZ3LUU0cFFtQVhxU3FEY2xNcjRBZlo0M29KWVRzRnlwTQ?oc=5",
-      "pubDate": "2026-10-06T10:32:10+00:00",
-      "source": "BBC",
-      "description": "Hukum: Eks pimpinan pesantren di Lombok Tengah jadi tersangka kasus dugaan kekerasan seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Ayah di Probolinggo Diduga Cabuli Anak Kandung selama 5 Tahun",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFVnNzBZZmttRFJkcDhVRkdVREZmX2JjWHFOdDFaSG00VDZTWnJLQ1AxS1NCX0JqS3h5b21hbFF3NHJtMDhfSDNtY2ZKdUNGNmJFdGczYVRoVmJBQkdvYWhXNnNCSmdDVkVnSWVEdWZoUFo3UzdQY2tSMUlndkNWODdvWmlKU1pVMTFidWZwdzZFUFBTeFg5QzFDVkEycEFfSlBuUVZ0STY?oc=5",
       "pubDate": "2026-10-06T08:50:02+00:00",
@@ -222,6 +213,15 @@
       "pubDate": "2026-10-06T07:33:07+00:00",
       "source": "MerahPutih",
       "description": "FSGI Catat 100 Kasus Kekerasan di Sekolah, 60 Kasus Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Hukum: Eks pimpinan pesantren di NTB resmi ditahan atas tuduhan melakukan kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ILU9aVTdvLXQtM2RBMko2b3ZCWERzY1dIRW5iRlItdnlPaWhpSVRweGw1QmFidndKTHhwNHRCNGNrVlRYekpOaENIQzBWSTBQY2xYSDNRWmlpRHhuVzlZMGRR0gFnQVVfeXFMTlZWc0ZqelZqRy1zaGF5UkpGRExCeF9PSmNSUVJ3NW4xa1BKQ0lJc2w4ZTlfZG5hdFg2QmlnUDhRWFJBQ2puUmZ3LUU0cFFtQVhxU3FEY2xNcjRBZlo0M29KWVRzRnlwTQ?oc=5",
+      "pubDate": "2026-10-06T07:04:14+00:00",
+      "source": "BBC",
+      "description": "Hukum: Eks pimpinan pesantren di NTB resmi ditahan atas tuduhan melakukan kekerasan seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -5937,8 +5937,8 @@
       "pubDate": "2026-04-17T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Lagu 'Erika' di ITB dan pengakuan penyintas kekerasan seksual",
