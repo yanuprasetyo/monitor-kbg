@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-11T03:36:21.293193+00:00",
+  "updated_at": "2026-10-11T11:59:45.840737+00:00",
   "total": 751,
   "stats": {
-    "tpks": 206,
-    "kekerasan_seksual": 342,
+    "tpks": 205,
+    "kekerasan_seksual": 343,
     "kbg": 81,
     "kbgo": 122
   },
@@ -748,6 +748,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanU5cHhtSkVpN1NWeE93bEZCRlZUUUVaWm1SOEpud0xaUklKZXJmaFhpQzA5eGVzcVR5Sy1Pa2psdC14R3ZxVW9GTFZlS1Q5TVMzYkhXMURxQ3p6WWp0dE1nQUFSOUxBMTVNRUZyN2FIQjNUUjl1Z3QyNkZOWnlUaEhtdklfZEVhbDJzd20zV1JDelZ0RDF2NEFwTEhod3dF?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "RRI.co.id",
+      "description": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTFLOWxoNUdzR1lIZ1o4eFYzTEVBN2stR1ByUW13M0ttUXJsUDRGaUtibTFJMGlPLTJnWWZQaEhoZlZhSG12cnBnaFU0LWh0XzhkNUJqaFBPZ0paTFlZSk5EdDN3eDVqSEVWWU1FVVVlbXhnUUxnRUtqUm5lWG0xVEtQY0NZSzU5ZmRxbVpnRGJMYzlDNklUaTYzaDA?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -773,15 +782,6 @@
       "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanU5cHhtSkVpN1NWeE93bEZCRlZUUUVaWm1SOEpud0xaUklKZXJmaFhpQzA5eGVzcVR5Sy1Pa2psdC14R3ZxVW9GTFZlS1Q5TVMzYkhXMURxQ3p6WWp0dE1nQUFSOUxBMTVNRUZyN2FIQjNUUjl1Z3QyNkZOWnlUaEhtdklfZEVhbDJzd20zV1JDelZ0RDF2NEFwTEhod3dF?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "RRI.co.id",
-      "description": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
@@ -1117,6 +1117,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Pimpinan pesantren diduga lakukan kekerasan seksual, ratusan santri Ponpes Abul Barokat Wannafahat NTB dijemput orang tuanya – 'Kami khawatir karena anak saya perempuan'",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Gdnl5TmVEWFdGWkpBZS1LYk1KSXFiOWZkNXZmUm9sUWRJTHpORncxNWxLVmVDSDRBbGpaYldNeGx1UERONWtBOVlZcC1SOWJucHNSUEdkZlVrRGsxYlJHQ3Rn0gFnQVVfeXFMUFlVa2MtcHFyZkFSSzA5SFFENEtaekxMZFZnZXdPQ1JwY25QYW85bnJBYlNsbktmLTE1RzNlSmNzV0UtNWNZVWZhbTc5ZEM3U00wUmNFOG83dVNCTDlkeW9VU1MzdGRVVQ?oc=5",
+      "pubDate": "2026-09-24T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Pimpinan pesantren diduga lakukan kekerasan seksual, ratusan santri Ponpes Abul Barokat Wannafahat NTB dijemput orang tuanya – 'Kami khawatir karena anak saya perempuan'",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Stop Reviktimisasi Korban Kekerasan Seksual oleh Aparat Penegak Hukum: Propam Polresta Kendari Harus Tindak Personelnya",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODBFalJpeHFKcFB4N1JKZTE4R19jd0ZUc2xCb0M5aGhuUUZWU3k5N0h4WnVZMl9kNW5ETjMwcUZlQXR5OVJyTmJyOFJ1RGgxNjczZzZtVXRZWkl3dU5BNkNqNTRMM0ZvU0k0WTk0WU1zZXUya0tSaVpzTFJNVVdXc2ZJWjFsQm5Zc1NOQ2JIMjBWVWVVWU1HUS12Z0gzdE14Tno0WHJ6RG1yN21WVS1tOUxR?oc=5",
       "pubDate": "2026-09-24T07:00:00+00:00",
@@ -1203,8 +1212,8 @@
       "pubDate": "2026-09-23T07:00:00+00:00",
       "source": "BBC",
       "description": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Dinas PPPA Tapteng, Kementerian PPPA dan Yayasan Pulih Gelar Sosialisasi",
@@ -1232,15 +1241,6 @@
       "description": "Kunci Istri dan Anak di Apartemen, Pria 43 Tahun di Surabaya Diduga Cabuli Anak Tirinya",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Pimpinan pesantren diduga lakukan kekerasan seksual, ratusan santri Ponpes Abul Barokat Wannafahat NTB dijemput orang tuanya – 'Kami khawatir karena anak saya perempuan'",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Gdnl5TmVEWFdGWkpBZS1LYk1KSXFiOWZkNXZmUm9sUWRJTHpORncxNWxLVmVDSDRBbGpaYldNeGx1UERONWtBOVlZcC1SOWJucHNSUEdkZlVrRGsxYlJHQ3Rn0gFnQVVfeXFMUFlVa2MtcHFyZkFSSzA5SFFENEtaekxMZFZnZXdPQ1JwY25QYW85bnJBYlNsbktmLTE1RzNlSmNzV0UtNWNZVWZhbTc5ZEM3U00wUmNFOG83dVNCTDlkeW9VU1MzdGRVVQ?oc=5",
-      "pubDate": "2026-09-22T13:36:35+00:00",
-      "source": "BBC",
-      "description": "Pimpinan pesantren diduga lakukan kekerasan seksual, ratusan santri Ponpes Abul Barokat Wannafahat NTB dijemput orang tuanya – 'Kami khawatir karena anak saya perempuan'",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "ISI Yogyakarta Nonaktifkan Dosen AWF Terkait Dugaan Kekerasan Seksual",
@@ -4933,20 +4933,20 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUUZTUFRqMXZkUzZVWjZNR2Z3aWdDNEdrbXFrcHc4WVlxTGJDeEpRdTB4d1BCQWt3V0xfc0o3N0tnVG5KWnJzMi11UEc5WkpyMUJ4Um1yc2drWGJMXzZlN0l2LUd1YUJWY1NqZjNQNmlDMlRXVWVIcV95UWt3YkpacVVFanZITjF3TDhOS0htNDFCTmVadEZRVTVmWHZXQjBGQ0F6VjJ0eE43VHpvT3EyS1NwZmFreVU2c1pKVnQ1cHBlTnpNeWJUTVk4Zk5oTXBDb1RqTUhxdXlHWHp6eGNzZmpXT0ZTTWlOdGtXVWFvZUdEdElHRzJTMkpyYkRHdGNRaHNRa3Vyb29JREVWS19GclI5Nm14bEpWU3k3MHVn?oc=5",
-      "pubDate": "2026-06-26T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdFk0WkE3TFc3MXJranZaSzJac2FyTTZJZ0pyMWpGd3F0Zmoyc092ZUtxcWFfVHZ6ZHVIMDB6ZENxeGxCMFlNdXhkR1hNTUhoZGNEdzlGMkxqWHFUNGl2SjRwY2xEQzFyVTMwTDdyUDdGWk1PcjRIajJUUG42X0dFY3c3M24zcEkwaUZJRVlqZkotMzdtOVJmN09HMW9qT3FFalFoTUhfend2cmpJSXQ2cHNMV3NlTktfNk1tVVhrUVQtR2dYd0xnVFNPeTUyV3M4T2c?oc=5",
       "pubDate": "2026-06-26T07:00:00+00:00",
       "source": "Bimakini",
       "description": "Kasus Kekerasan Berbasis Gender Meningkat dan TPPO di NTB Tertinggi, Penanganan Harus Terapkan Pendekatan GEDSI",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUUZTUFRqMXZkUzZVWjZNR2Z3aWdDNEdrbXFrcHc4WVlxTGJDeEpRdTB4d1BCQWt3V0xfc0o3N0tnVG5KWnJzMi11UEc5WkpyMUJ4Um1yc2drWGJMXzZlN0l2LUd1YUJWY1NqZjNQNmlDMlRXVWVIcV95UWt3YkpacVVFanZITjF3TDhOS0htNDFCTmVadEZRVTVmWHZXQjBGQ0F6VjJ0eE43VHpvT3EyS1NwZmFreVU2c1pKVnQ1cHBlTnpNeWJUTVk4Zk5oTXBDb1RqTUhxdXlHWHp6eGNzZmpXT0ZTTWlOdGtXVWFvZUdEdElHRzJTMkpyYkRHdGNRaHNRa3Vyb29JREVWS19GclI5Nm14bEpWU3k3MHVn?oc=5",
+      "pubDate": "2026-06-26T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Komnas Perempuan Jajaki Kolaborasi dengan Institut KAPAL Perempuan dan Yayasan Plan International Indonesia dalam Program Voice for Equality",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
@@ -6175,11 +6175,11 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
+      "title": "Dorong Dunia Kerja Aman bagi Perempuan",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdVJfRW5iSTI4Ynp2VHJILTdzeHNiVTI3VGRhWXZJcGxReDFsUzR5d0JLTU9OOV9EbWd4elVqRkVLQ2J0RExjMG14Rm5STm9ibjlwX1E3SmVTa1hMa2t3LXFnanQxbXJrY1laakpTZXh1TzVHUjl2emV0RjZHeFBMQ2x5alEwck1xZTdqaERyakxNNTJLNlNIRlp3RXpXNWdfdmp0Z0M3RHpjYkZUOEZPaWsteGRTYU5CNGMyYjRneWtsc1o4MnVwTlVCUUx1d3psTE5PaDJFOXhhcUFUMGlkOEVaeURYQlB3RVVYbkRsaDJMQ0NzcFFWQjZUdjRyTU9fMHlndkRqOU53akhvc2xfag?oc=5",
       "pubDate": "2026-03-10T07:00:00+00:00",
       "source": "Komnas Perempuan",
-      "description": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
+      "description": "Dorong Dunia Kerja Aman bagi Perempuan",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
