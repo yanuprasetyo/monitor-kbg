@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-11T21:23:56.433501+00:00",
-  "total": 753,
+  "updated_at": "2026-10-12T04:00:25.941655+00:00",
+  "total": 755,
   "stats": {
-    "tpks": 205,
-    "kekerasan_seksual": 345,
+    "tpks": 206,
+    "kekerasan_seksual": 346,
     "kbg": 81,
     "kbgo": 122
   },
@@ -28,11 +28,20 @@
   ],
   "articles": [
     {
-      "title": "Sisi Gelap Keadilan bagi Laki-Laki Korban Kekerasan Seksual",
+      "title": "Kasus Onyo Jadi Perhatian, Ini Bunyi Pasal Pelecehan Seksual dan Sanksinya",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWnQ0SE5EbjNNVno2NFZHN3ZtYkJDemhydEhCeTJmaDJyR0NqZDdYQXZZOU0wTlA3TDBIblNBOHl6T1BSTnlCWHpaU2djbkI5UXZVMEJoYm94QjZiRGJMTERNajlOMHAxbFRIWWlNZTd3TzdzbHBLcGd2b0pPb2VlWl9XTUFpY2I5Y0EzX0NqRTdPSjlmak1idjRxQkM?oc=5",
+      "pubDate": "2026-10-12T01:00:00+00:00",
+      "source": "Inilah.com",
+      "description": "Kasus Onyo Jadi Perhatian, Ini Bunyi Pasal Pelecehan Seksual dan Sanksinya",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Sisi Gelap Keadilan Bagi Laki-Laki Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTZQTmI4dUVtVGNqTHo1dS11N3RrNG55dEc0WHFNelZSajJfX1A3V1JCRHpVNF9hUHlpeDRaOW1TMnNIczliX3NnUDJIOU5aaHZYc1VzSTQtUk5pbGVhOFdQdWt2dERSZ1RqRGxSSV9tQ01SRjRzREk5bUZlTlFsbFpmME5jUDVIaUxhbWNySUMwMXBXMnQ5MnZkT3hzRXJHTV82bFItWktiT3NLWjJtZmVHbG50UjNPdXZYQXZFcS1KNUtsYWc4?oc=5",
       "pubDate": "2026-10-11T16:26:35+00:00",
       "source": "Kompasiana.com",
-      "description": "Sisi Gelap Keadilan bagi Laki-Laki Korban Kekerasan Seksual",
+      "description": "Sisi Gelap Keadilan Bagi Laki-Laki Korban Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -82,20 +91,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Bebas bersyarat dicabut: Terpidana kasus kekerasan seksual, Bechi, kembali dipenjara",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fZHBMTTkyUDNoeUdzSDVEZzlTbTlZbmI3MDNaZl9vbXhmVzFsaWRxMVV1WEYzd3MwWGUyMndsSVRTckhWSWtoTW9idy1PSDVmaG42Q1FCX1VZc3Q4YTZoU1Nn?oc=5",
-      "pubDate": "2026-10-09T00:35:43+00:00",
-      "source": "BBC",
-      "description": "Bebas bersyarat dicabut: Terpidana kasus kekerasan seksual, Bechi, kembali dipenjara",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Bebas bersyarat dicabut, Bechi kembali dipenjara",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fZHBMTTkyUDNoeUdzSDVEZzlTbTlZbmI3MDNaZl9vbXhmVzFsaWRxMVV1WEYzd3MwWGUyMndsSVRTckhWSWtoTW9idy1PSDVmaG42Q1FCX1VZc3Q4YTZoU1Nn0gFnQVVfeXFMUHo4cWFIMXhaQWd3N1JrWnduRUx2VVVOOXhiSmllY1B6MzVyNHVkQ2ozQTVUa0M3S25FZGdvSHRGRmhhbm9TNTQyLUhHTnhyNVRwNlFaMjRXMmpFR1RqbWFDbDAwbmlZdw?oc=5",
       "pubDate": "2026-10-09T00:35:43+00:00",
       "source": "BBC",
       "description": "Bebas bersyarat dicabut, Bechi kembali dipenjara",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Bebas bersyarat dicabut: Terpidana kasus kekerasan seksual, Bechi, kembali dipenjara",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fZHBMTTkyUDNoeUdzSDVEZzlTbTlZbmI3MDNaZl9vbXhmVzFsaWRxMVV1WEYzd3MwWGUyMndsSVRTckhWSWtoTW9idy1PSDVmaG42Q1FCX1VZc3Q4YTZoU1Nn?oc=5",
+      "pubDate": "2026-10-09T00:35:43+00:00",
+      "source": "BBC",
+      "description": "Bebas bersyarat dicabut: Terpidana kasus kekerasan seksual, Bechi, kembali dipenjara",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -746,6 +755,15 @@
       "description": "10 Mahasiswa FT UGM Dinonaktifkan, Diduga Lakukan Pelecehan di Grup Chat - Sinar Harapan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDFjcHhrTVpWQWJWMFloNU41ZmxXMEZpcmZXdnRPNnd5NkJSY0E0NTA2dXJqeVBUbEhmejNtWF9XUUlGbXFGaVhSZ0dHQ0JYSHZhZ1hYWC14YjNuOGtNYURfVjZxVXlrU0prdk0xWjdPbTZEN2hWREJmN1lsSUluUWZiMEZpc0U3dHh1ZXRB?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "www.uinjkt.ac.id",
+      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
@@ -5955,8 +5973,8 @@
       "pubDate": "2026-04-17T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Lagu 'Erika' di ITB dan pengakuan penyintas kekerasan seksual",
