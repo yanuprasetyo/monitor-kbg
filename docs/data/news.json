@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-14T21:13:51.292852+00:00",
-  "total": 767,
+  "updated_at": "2026-10-15T02:54:34.301012+00:00",
+  "total": 768,
   "stats": {
-    "tpks": 211,
+    "tpks": 212,
     "kekerasan_seksual": 351,
     "kbg": 81,
     "kbgo": 124
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Wabup Rahmat: Kekerasan Seksual Bukan Aib, Korban Wajib Dilindungi",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZk1RRTQ3MnF3ZWxDTzV3U3RtaTkzVXhIYkF1WjJEOXFQUURyZl9MWjV5ZmNtcGljRzFRZkJTSXVlZ1ZLUDR3dzdNYTlqX1p4SzlNa2lDWUN6aUhYaGxqNXlldjNyRGhqRGhyWXo4NHBJQjItUnJRNFhHcW1ZRlBSU1JWNDFuenFramVqS1J3Wnhsb2U3blBKMF9BUjFUVnQzV213UXFzUQ?oc=5",
+      "pubDate": "2026-10-14T23:58:17+00:00",
+      "source": "Lintas Sumbar",
+      "description": "Wabup Rahmat: Kekerasan Seksual Bukan Aib, Korban Wajib Dilindungi",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Kuasa Hukum Bantah Dugaan Kekerasan Seksual dan Aborsi Bos Ziarah Hati, Sebut Laporan Masih Tahap Penyelidikan",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW0zTTdxNlBEOWdqREFLcW9pMVJnR3N0RWJkTm5MRGFiY2d2MGVSam9RNDVwRGlZS1pOS2tHcGhTUlVRdThxajViWF9OdGotOFdwX1h2d2dYMTN5ZEpwLXpVS0YtOVJaZVNPNi1fNEctR0hlZnVRRFFJbDR4YjdiRU5Ga2QxZXh5V1U2Y0huV3ZpV0FXaTV2SXEtTTBQeVo5Y2V1bU5CVFNEQXFWRUdmWldwSVBBQ0NXa19feDUyakRacndvN191VnhzWF8zQQ?oc=5",
@@ -847,15 +856,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDFjcHhrTVpWQWJWMFloNU41ZmxXMEZpcmZXdnRPNnd5NkJSY0E0NTA2dXJqeVBUbEhmejNtWF9XUUlGbXFGaVhSZ0dHQ0JYSHZhZ1hYWC14YjNuOGtNYURfVjZxVXlrU0prdk0xWjdPbTZEN2hWREJmN1lsSUluUWZiMEZpc0U3dHh1ZXRB?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "www.uinjkt.ac.id",
-      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Indonesia Darurat Kekerasan Seksual terhadap Anak: Pelaku Dibebaskan hingga Dibebaskan Lebih Awal",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUy0tREpOVDFZZHBVaVg0ZUdmbmJFQWpyYThIRktoVmhmUmhCZHJtNEpucFFvYUZKLVFfWFJ0bVdKSkNHNmtnM21LT3FrWEpYa1RsT0FfbENLS1g1NDAtMlZMdXZvUDRqSVlHRzlfb0kyZTBhR2twaWNpR1NNYjE4RVdoTE1KbER4aDMtUE9ZS0VGTUZlRVNQYXlYWnNpWWpuSEJkaFlUN1dTMV9wcGpWZERnZVBUTU15MG1kcGJDaHhEb3JYMTJQSUJULTJqOFRkNWMw0gHYAUFVX3lxTFBQNjhaZDZRaWRRYkpkQVdMdERNelc1RnVVNjMxVzBWd0poUWctUFBVbDRvQnhiakp5b3FlZjA5TFRkbFpqMDdGSExvMVNWcFJ0UFZXTWtULTlGaDZ4ZUtFMW5URjlFclR2SFRSOXVldWthZHRCVEQ2bUpJUlBYTndrMVZ0TWRqRlphM1FCdDBndkxGTEwtcjVmcDVXTGNaZEViaTV6RmpvSDFRcjlUZHRGUmxaM1pWSUJobFh2QUJqb3lPSkEzQzRNejNITlp4UzJMVk43SGxqUQ?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -890,6 +890,15 @@
       "description": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDFjcHhrTVpWQWJWMFloNU41ZmxXMEZpcmZXdnRPNnd5NkJSY0E0NTA2dXJqeVBUbEhmejNtWF9XUUlGbXFGaVhSZ0dHQ0JYSHZhZ1hYWC14YjNuOGtNYURfVjZxVXlrU0prdk0xWjdPbTZEN2hWREJmN1lsSUluUWZiMEZpc0U3dHh1ZXRB?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "www.uinjkt.ac.id",
+      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
@@ -6655,7 +6664,7 @@
       "title": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkdHZFVMMXc4cXRGUWk2ZlN1R3VQNEZsR3lwZ3NYdkRtZ1gtM1hYNXJZMWxCemxldG1aSUFjdkxYM2lJOTU1Nk5UNThVWlJiLUp5X2xabU9GVmxMcnlGSi0xeVFUWDR0cUpnQ2p6ZFFCQlpzQnpvNlBvT3EyYU51aFRSZ25jSmV0YURVWTl6SXF1ZVJzaExKWU4xV0FJUUp5WVE?oc=5",
       "pubDate": "2025-12-08T08:00:00+00:00",
-      "source": "unpar.ac.id",
+      "source": "Universitas Katolik Parahyangan",
       "description": "Satgas PPKS UNPAR Luncurkan Panduan Pencegahan Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
