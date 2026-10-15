@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-15T16:11:17.527890+00:00",
-  "total": 770,
+  "updated_at": "2026-10-15T20:52:08.335509+00:00",
+  "total": 771,
   "stats": {
     "tpks": 212,
     "kekerasan_seksual": 352,
     "kbg": 82,
-    "kbgo": 124
+    "kbgo": 125
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -694,20 +694,20 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Isi Chat Grup Cabul Terbongkar, 10 Mahasiswa UGM Dinonaktifkan",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHEyM1Y1T0pfVEhob0FPandXUG5JLS01a0dDc0pBdmxUZ3M5X0duN184N25jelJGZ1ZIMlJmbU9UcmxHSlFGbVpFRDltQm9QcnA0NEZmTUNjWDUyOTMyenFaZGJDdzBObmtiUUM5QlcyS1NWZUNYYTEtN1hralNyMW1YUG1VUDJzQVpTTG5ZLTBFU1ZURHc?oc=5",
-      "pubDate": "2026-09-30T07:00:00+00:00",
-      "source": "AFU.id",
-      "description": "Isi Chat Grup Cabul Terbongkar, 10 Mahasiswa UGM Dinonaktifkan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Dugaan Kekerasan Seksual, 10 Mahasiswa Fakultas Teknik UGM Dinonaktifkan",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVFEdE5VQ0s2dHJpRWxhaUxMTFF1Qi1qRGVEcmgtQTNGQW4yaGVoWGY1M0NqejdvbTEwQWc3bWZ1QnRmaGYwWEE3Sl9YeVJ4X2hYTGZodlZtZGU1ME1adXQwQU1uWUVqSXc4VFNZNlRRbzJPaER4eTZicG94WC1YT0stTmhwZ2ptamU1MERGM3BPeFJHQXdZNmRoOW84bmZHOUR3dFRJLW9CYUFpbms2WFAtOA?oc=5",
       "pubDate": "2026-09-30T07:00:00+00:00",
       "source": "MetroTVNews.com",
       "description": "Dugaan Kekerasan Seksual, 10 Mahasiswa Fakultas Teknik UGM Dinonaktifkan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Isi Chat Grup Cabul Terbongkar, 10 Mahasiswa UGM Dinonaktifkan",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHEyM1Y1T0pfVEhob0FPandXUG5JLS01a0dDc0pBdmxUZ3M5X0duN184N25jelJGZ1ZIMlJmbU9UcmxHSlFGbVpFRDltQm9QcnA0NEZmTUNjWDUyOTMyenFaZGJDdzBObmtiUUM5QlcyS1NWZUNYYTEtN1hralNyMW1YUG1VUDJzQVpTTG5ZLTBFU1ZURHc?oc=5",
+      "pubDate": "2026-09-30T07:00:00+00:00",
+      "source": "AFU.id",
+      "description": "Isi Chat Grup Cabul Terbongkar, 10 Mahasiswa UGM Dinonaktifkan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -911,10 +911,37 @@
     },
     {
       "title": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWU9yclNPbGU4SmcyM1VuX21rVTlXU09aaUthaUtpMndPcHd4RGF0RTA2QTU5b3NVNkREazZNZ0NxTXdOemlEQnpKc3VYSXQ0T1FiYm1zVEpUYXBRYzBFSzNFaENLdTlDMzlHTURBTzBpMWVRSmpGWk1zX0VUX3BCSTJWUDF3T21xcGV0d0Rfek9XN3Y5X25TaEVSZ2JWTWNRaDA3RE9wb3R1RWlZQlpv0gG0AUFVX3lxTE5sSVR0YjB6b00yWU9yY2FDYm9rcHdmQUpHY3FILWJQdWhMbHRtU0EtM3BVdHpLdnBGNExWMmJVZmh5T000NmZ6YVd1RWFVamRCcDYtcTZpZzVkRnRWRTcyOVAtdnl6SUtjZ29qWFBSMmxaenhMRlpJU2g1SE8wV3dhejQzTjAxOUxhUl9BSG5ia2NEaDFfNlNWUUtjX3NYOVlmX185bnRGcWpzb2RwUmkyeDAzSA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2tnMnhHdmtCY1l4SWM3WmlBaXRxa0VWRzVvTGdfSXg1Sm1HeUF2WVZDN0g4cE5LeDVjMWlTcVl3WDNURUFTMmI2ZW9RR1dYUUN2Wl9fUE8xcGpldk9oNlRtZWpXc1dGbEFFYlJ5bzYtRFR0SXJLZmtqa0YwM1lNbVRvckJkSGRGeWdsdzJsQXRoREFkMzN5Z2htZWtNT2lFdnRFOWw3akNsM1NnaEHSAbQBQVVfeXFMTmxJVHRiMHpvTTJZT3JjYUNib2twd2ZBSkdjcUgtYlB1aExsdG1TQS0zcFV0ekt2cEY0TFYyYlVmaHlPTTQ2ZnphV3VFYVVqZEJwNi1xNmlnNWRGdFZFNzI5UC12eXpJS2Nnb2pYUFIybFp6eExGWklTaDVITzBXd2F6NDNOMDE5TGFSX0FIbmJrY0RoMV82U1ZRS2Nfc1g5WWZfXzludEZxanNvZHBSaTJ4MDNI?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
       "source": "Espos.id",
       "description": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Kompas.com",
+      "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVE9wM3R2c19odW9hc2N2V182MEZzTEQ2RThiWjlxNFdjMzlxWl9QLUwyQ0dGM3VScVBRdWhveWIwd3hTWVlVTzJqbGk1RVd0bDVoVUxNRWhXRFlVTEVzNk5iaTFJNXlwX0RNNWh4ZkQtWDV3aU1VQ1ZWd0FGV0RNWEZYdTJfcVJmZzVuT2t6V21LU25LT3B4Rk1tVi1XRTJkN0lESkhMclhXdm5rQzJBdjBnYlRaVHFGeHfSAboBQVVfeXFMUFNORHotc3JObTNGYjBZMXp4T2dseC15NFFodlhKVjRiZURselZfeDRRQi00VGQ2cl9naW9ES18zbFBpXzZzY0RXamRTbHRkdEF2Y1VWa18tV0s0MnIydXJaQUFfSXNGeXV5aGliOHZLSXhKR3dvZXJ2YnNycW5JYWs0MC1NRG1zVDIyOE9NOUNoSXZhd0E1WXNJUFdVU0tLUlViR2hEbGFWTUtkT3JHVlFDbUpnQXdCR0ln?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Suara.com",
+      "description": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "FT UGM Nonaktifkan Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU1Zoc3FiLUZEcTRHekJhVXRLcDlWRTBnVE1La2tXNXVXX0FUNTR1UUhTaFYxM3Fld3pLRXBSckZVOF85OHF5SVBDWTY5d25DNHp4WHRzWW53bHQ4Wm9EWGlzR3hmY01PVE5Tb09WVktxNTN5R29wbk9xM2ZyMXRlNVBQRlBTOHlmdUdJMlF0aEk2Y2d3VUlBbEpDXzVNaEp3LTBzTjdfb3FocThVT3ZLTS1DLXI4MkJLb21tSQ?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Media Indonesia",
+      "description": "FT UGM Nonaktifkan Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -935,33 +962,6 @@
       "description": "Agam Perkuat Perlindungan Perempuan dan Anak saat Bencana",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "Kompas.com",
-      "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "FT UGM Nonaktifkan Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU1Zoc3FiLUZEcTRHekJhVXRLcDlWRTBnVE1La2tXNXVXX0FUNTR1UUhTaFYxM3Fld3pLRXBSckZVOF85OHF5SVBDWTY5d25DNHp4WHRzWW53bHQ4Wm9EWGlzR3hmY01PVE5Tb09WVktxNTN5R29wbk9xM2ZyMXRlNVBQRlBTOHlmdUdJMlF0aEk2Y2d3VUlBbEpDXzVNaEp3LTBzTjdfb3FocThVT3ZLTS1DLXI4MkJLb21tSQ?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "Media Indonesia",
-      "description": "FT UGM Nonaktifkan Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVE9wM3R2c19odW9hc2N2V182MEZzTEQ2RThiWjlxNFdjMzlxWl9QLUwyQ0dGM3VScVBRdWhveWIwd3hTWVlVTzJqbGk1RVd0bDVoVUxNRWhXRFlVTEVzNk5iaTFJNXlwX0RNNWh4ZkQtWDV3aU1VQ1ZWd0FGV0RNWEZYdTJfcVJmZzVuT2t6V21LU25LT3B4Rk1tVi1XRTJkN0lESkhMclhXdm5rQzJBdjBnYlRaVHFGeHfSAboBQVVfeXFMUFNORHotc3JObTNGYjBZMXp4T2dseC15NFFodlhKVjRiZURselZfeDRRQi00VGQ2cl9naW9ES18zbFBpXzZzY0RXamRTbHRkdEF2Y1VWa18tV0s0MnIydXJaQUFfSXNGeXV5aGliOHZLSXhKR3dvZXJ2YnNycW5JYWs0MC1NRG1zVDIyOE9NOUNoSXZhd0E1WXNJUFdVU0tLUlViR2hEbGFWTUtkT3JHVlFDbUpnQXdCR0ln?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "Suara.com",
-      "description": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "KPAI Minta Dugaan Kekerasan Seksual di ICM Tidak Berhenti di Internal Sekolah",
@@ -1036,6 +1036,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Heboh Dugaan Pelecehan Seks di Grup Chat Mahasiswa FT UGM",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUVyZWNMMVhfMEpLOFRlUmFobnFjOTZFQlJhLVU0cXJEbEs3RU9wTHJ0czhXNUdSUldfM0RWaTNyRDg3SDhMbkF1WU56Q2lXcHFLUDk3Y3JDbEUzeUhzTlhfYkt2ay1vNUMycjZXOWprekRyMmFEc1M0N0h2R051eVo1dkllZzJzMHJsZnY2MjhOMUh2X2l1a2FZZkIweGxqVnltUtIBqgFBVV95cUxQdlRkWm1KbkZwWHRXSmN4a2FXNjlzLU1fcGNWcDJRMVpqMnhuOWszUWVhdDRUZVZsR0wzOTVKYWo0V1ppTmpueUhHQms3SlF1ZktVZlRDai1LenowZ21ZZEVRTjQ4d3ZwbXU3U2dRN2l5bHhhMzA5MGtKMFZKb0tMLVBKYU1UN3RNUHVCeng3XzI2bVF2Q2tNRDMxZkR6ZHpUNF93U0FrYnJvdw?oc=5",
+      "pubDate": "2026-09-28T07:00:00+00:00",
+      "source": "detikcom",
+      "description": "Heboh Dugaan Pelecehan Seks di Grup Chat Mahasiswa FT UGM",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Regulasi Layanan Kesehatan bagi Korban Kekerasan Seksual yang Hamil Belum Diketahui Masyarakat Luas",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXlLYW9GRkJ6SndyUXZHVjBDSkJrS1VFZVB6UlBtWnUzRlY4SFo5Z1lyS0dYT3lic0QyZDRkV0JBb2laWklqNnZtOTBObUxYRVpNT3JKRnRwcDMyZmZCdnNnLTNwUEs2eFN4T0lyQ013a0NnVHExTEhMOElzTkEzYWkySWZ1aUwxdUVON3ZpREJGMm5RWklDTU0tWkdKaDZXZG9PYUdiVmFhMWxGM2VFYU5PVF9TUDFZSVFDR1JB?oc=5",
       "pubDate": "2026-09-28T07:00:00+00:00",
@@ -1045,11 +1054,11 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Heboh Dugaan Pelecehan Seks di Grup Chat Mahasiswa FT UGM",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUVyZWNMMVhfMEpLOFRlUmFobnFjOTZFQlJhLVU0cXJEbEs3RU9wTHJ0czhXNUdSUldfM0RWaTNyRDg3SDhMbkF1WU56Q2lXcHFLUDk3Y3JDbEUzeUhzTlhfYkt2ay1vNUMycjZXOWprekRyMmFEc1M0N0h2R051eVo1dkllZzJzMHJsZnY2MjhOMUh2X2l1a2FZZkIweGxqVnltUtIBqgFBVV95cUxQdlRkWm1KbkZwWHRXSmN4a2FXNjlzLU1fcGNWcDJRMVpqMnhuOWszUWVhdDRUZVZsR0wzOTVKYWo0V1ppTmpueUhHQms3SlF1ZktVZlRDai1LenowZ21ZZEVRTjQ4d3ZwbXU3U2dRN2l5bHhhMzA5MGtKMFZKb0tMLVBKYU1UN3RNUHVCeng3XzI2bVF2Q2tNRDMxZkR6ZHpUNF93U0FrYnJvdw?oc=5",
-      "pubDate": "2026-09-28T07:00:00+00:00",
-      "source": "detikcom",
-      "description": "Heboh Dugaan Pelecehan Seks di Grup Chat Mahasiswa FT UGM",
+      "title": "KBGO: Perempuan dalam Bayang Kekerasan Digital Halaman all",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORndDYzdXd1psZW9Qd01sQkszSm9XWDRRaFFSWVhENXoxV0xUb2tMR3dXZGtHcVBYZjlBdjR3YTgxSjFtWExuWldaWG5FRTBaeExDLVN3b3p1NGlOTUprdDd2U2RpcENaUVNqSGVIVTBnRk9XMUFQZGlnaUN5Rno2SnUyTVpLUEFPNTRrekVQZU5XblVYMzlkVVFxZkdIb1J2cE5NeEh1RlZJRDdOTlNGbW9HclNBay1EcmszUnB4STFuS2FjY3FJ?oc=5",
+      "pubDate": "2026-09-28T05:48:31+00:00",
+      "source": "Kompasiana.com",
+      "description": "KBGO: Perempuan dalam Bayang Kekerasan Digital Halaman all",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
