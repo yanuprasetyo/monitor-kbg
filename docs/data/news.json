@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-15T20:52:08.335509+00:00",
-  "total": 771,
+  "updated_at": "2026-10-16T02:52:18.969999+00:00",
+  "total": 772,
   "stats": {
-    "tpks": 212,
+    "tpks": 213,
     "kekerasan_seksual": 352,
     "kbg": 82,
     "kbgo": 125
@@ -71,6 +71,15 @@
       "description": "Cegah Bullying Sejak Dini, Bhabinkamtibmas Desa Singakerta Edukasi Siswa SDN 3 Singakerta Soal Perundungan dan Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Wabup Rahmat: Kekerasan Seksual Bukan Aib, Korban Wajib Dilindungi",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekZzOFFGNS03cE52ZGdkMUktbGFHcE5MM05TQS1CTVZ5NzRlQXd6MmY2a0lsbUppeUdHa3Q2UExHeUxnMjgwRUpYVFlDZkRRNmZBUVB5X0JsZVNlLVlBWWgxVDZZWWZ5cXo2SWtIR1o4ZU95QWZrc0I4VFV2UUJUWm1SQV9CSW9xQVlndmtueExqdW5vUFpfTGFqNGY3azdSSi1sM19zUkxJTXE0NkJFM2NQYi0?oc=5",
+      "pubDate": "2026-10-14T07:00:00+00:00",
+      "source": "Pemkab Padang Pariaman",
+      "description": "Wabup Rahmat: Kekerasan Seksual Bukan Aib, Korban Wajib Dilindungi",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Polisi usut alat bukti 3 laporan kekerasan seksual di Ponpes Bekasi",
@@ -424,6 +433,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1dvbm90dkRRT3JJTlRGQ0hqTXhVUFBtb1pMZW1HRWkxT1RSOHNzWlM5Y2RNMzNwRUJGeG1XbUhlOE1hcks0QlAwbVR2MWVhNUk4SHFPLUkxX0d4eUFhaEY1amVVLV9pZ00wNU9rTmh5TFNhTHRjNERVZEtDT0VmUmZNaWc?oc=5",
+      "pubDate": "2026-10-05T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "FSGI Catat 100 Kasus Kekerasan di Sekolah Sepanjang 2026, Mayoritas Seksual",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVBQMl9Lb3V1bGt5d1E4Q2V2bzFqWlY5MnNoeDBsQnR4cEQ1cDVZQkFFWmpsOHJmQzBDY0lsWFdCZ1VlR0hvZmRqTzdOeXlvTjQyZzhZby1wcHhsY0s5c293VTY2MTIxNHk4MURpT2ZOM21QWFlJSmRObkZBV0NIV2NUVV9TWVhCd0VyUGd3b1BPN2Y4UDRjTGdEckdaT3VGdVdZeUtJVl9uQXZaQ2tqajRfMGQzeF9mVUE?oc=5",
       "pubDate": "2026-10-05T06:22:45+00:00",
@@ -438,15 +456,6 @@
       "pubDate": "2026-10-05T04:57:27+00:00",
       "source": "Suara.com",
       "description": "FSGI Catat 100 Kasus Kekerasan di Sekolah hingga September 2026, 60 Persen Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
-      "title": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1dvbm90dkRRT3JJTlRGQ0hqTXhVUFBtb1pMZW1HRWkxT1RSOHNzWlM5Y2RNMzNwRUJGeG1XbUhlOE1hcks0QlAwbVR2MWVhNUk4SHFPLUkxX0d4eUFhaEY1amVVLV9pZ00wNU9rTmh5TFNhTHRjNERVZEtDT0VmUmZNaWc?oc=5",
-      "pubDate": "2026-10-05T04:51:22+00:00",
-      "source": "Kompas.id",
-      "description": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
