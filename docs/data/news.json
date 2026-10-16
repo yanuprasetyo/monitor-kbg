@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-16T15:58:02.072954+00:00",
-  "total": 778,
+  "updated_at": "2026-10-16T20:25:55.003960+00:00",
+  "total": 779,
   "stats": {
     "tpks": 213,
-    "kekerasan_seksual": 355,
+    "kekerasan_seksual": 356,
     "kbg": 82,
     "kbgo": 128
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Dugaan Kekerasan Seksual terhadap Anak di Banyuwangi, TRC PPA Desak Aparat Tindak Lanjuti Laporan",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYTdyOWV4WVVWbjM0UlIxZDR4RHVmUEdsdUd2dDJWdzRfTmx0OC1rLXF1MHpoVnRSaVZXVkpkSGlobUtILXMzQW5pd2duSVZBa3ctN1pDOXo5a0pCbU9MWVZyTlR1T3Y5dmRfd18zRlBMUkdoZE9JZW1Nem0yUnNjRzdvckFBWE1qRmFSTXVMNnM2Q2Fta3Y5bDRaYWFfOE5EUE80SXUwQk00QnhhajBNOFhIc0JDcWVKakc2Z2dobHVtR25wTW80VQ?oc=5",
+      "pubDate": "2026-10-16T14:03:29+00:00",
+      "source": "Suara Indonesia News",
+      "description": "Dugaan Kekerasan Seksual terhadap Anak di Banyuwangi, TRC PPA Desak Aparat Tindak Lanjuti Laporan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Polres Metro Bekasi Kota Amankan Terduga Pelaku Pelecehan Seksual terhadap Siswi yang Viral",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYWVIc1JBU2pxYnFuR3FpREZZZkcwcENVME1FanZHazRBam0xTzVLcUVmbkdLdVc1RDVOOTJ2T3JLVldjQUNpd0lRQWpvRG5qY2RjZDZYWnpsaUJXRTkxb3FLOFJrcmNzeVhJQlhVd042RTByTEd0S2N5X0lNVTNidVJMV2RMZHhKVWNFb2g2ZHQxLUtWRG5qOGx5eTllaTMtQy05dUJwempiSEhSbkdnYXlQWmtWUGdhdTJBM1U3QjZTNlNHVURuV0JQUVpWNHZYRFlDV3hDR3Z3UGo0S0E?oc=5",
@@ -919,11 +928,11 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Mempertanyakan Urgensi Pembebasan Bersyarat Pelaku Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTRxdWhldUpJTDU3czFpcVBndVNDRjdtYzNveFhyYzBoMWZBblFYemZNb3cwd3o2cEdxYTI4RFNsa1l1YmVBbTEwQzh4ZHdkVHNmNGN0UEw2RWpCeWFaSmFXV0lYRWFmWUx1NmRWTjRpSHFVclk4bGkxYjlVMFF0Uy00cTcyM1k1cFlPbDd0SXQyRmxnNHE1akN3?oc=5",
+      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Mempertanyakan Urgensi Pembebasan Bersyarat Pelaku Kekerasan Seksual",
+      "source": "uinjkt.ac.id",
+      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -973,11 +982,11 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
+      "title": "Mempertanyakan Urgensi Pembebasan Bersyarat Pelaku Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTRxdWhldUpJTDU3czFpcVBndVNDRjdtYzNveFhyYzBoMWZBblFYemZNb3cwd3o2cEdxYTI4RFNsa1l1YmVBbTEwQzh4ZHdkVHNmNGN0UEw2RWpCeWFaSmFXV0lYRWFmWUx1NmRWTjRpSHFVclk4bGkxYjlVMFF0Uy00cTcyM1k1cFlPbDd0SXQyRmxnNHE1akN3?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "uinjkt.ac.id",
-      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "source": "Kompas.id",
+      "description": "Mempertanyakan Urgensi Pembebasan Bersyarat Pelaku Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -1423,20 +1432,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9odWM5Mk5hTmF3dTE3NWktNzljYWlzZWE2a1VFZHFvSEdxV0NibTJzN2JTNndSUXNsYmk0dWYtdWNuYW93NUJOc01Gb3BGWlZHMjMxOWE0a0ZydWV2cE1QUVNR0gFnQVVfeXFMTnNHczRlQ09uZEZDQU9RcjZ6bVVQRzJ0TmxnZWNFTE1BNzRCcGE4VjB3cWdlMmlsX1o5aTZtQzYzMGFSVnF6QnoxNVZYNDhMZmJJS3V1b2hkaEY4VW1GYVJLVXRBYzVYSQ?oc=5",
-      "pubDate": "2026-09-23T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXd1aUhuUFA2NzVncFZ3MXltUWdKeExFejJ5NnJwODNHX3ZFNXBTbjhZQ05FdngyTXdmSmpDUTVwNkl5ZVh3RTRiblZ0MHVGbXliWTVPcHRySGVWQjZXYUpUOFZFMW9mSmtmVzNZM1dwMEZneTZVbFZKZVpwcmdqN2pxMmFRcjdvZzVrYmdjY1k2TktBQ2pESmdwZkg2ZVlHb1Zuc2psV2UtWFZsbHg0VXB4SXfSAboBQVVfeXFMTWNWWGEtMTJJNTdEQ254Qng2MC02YUNmNHRtNGVzeERycE5uSGRDNTdXb3I5cEU5QzRyQXA5R0dFUGZZYTZsNVZ4YUR4aXFxZC03WkV6cW9yMmRYSmQtWjJJeWpEQ3ozeHp5cUdyZ0xvRVhDU1NkU2dfLVhBcXlzU0ppVjdXaU9FM24zczJWZWJxZ0ZJQm9mSDZ0d2xCdm1kZHNBYkJCNmsxYWR6dTJjSGhqWWFNTzA4a0tn?oc=5",
       "pubDate": "2026-09-23T07:00:00+00:00",
       "source": "detikNews",
       "description": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9odWM5Mk5hTmF3dTE3NWktNzljYWlzZWE2a1VFZHFvSEdxV0NibTJzN2JTNndSUXNsYmk0dWYtdWNuYW93NUJOc01Gb3BGWlZHMjMxOWE0a0ZydWV2cE1QUVNR0gFnQVVfeXFMTnNHczRlQ09uZEZDQU9RcjZ6bVVQRzJ0TmxnZWNFTE1BNzRCcGE4VjB3cWdlMmlsX1o5aTZtQzYzMGFSVnF6QnoxNVZYNDhMZmJJS3V1b2hkaEY4VW1GYVJLVXRBYzVYSQ?oc=5",
+      "pubDate": "2026-09-23T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
