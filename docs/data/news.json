@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-17T10:02:50.908377+00:00",
-  "total": 779,
+  "updated_at": "2026-10-17T14:51:24.372456+00:00",
+  "total": 780,
   "stats": {
-    "tpks": 213,
+    "tpks": 214,
     "kekerasan_seksual": 356,
     "kbg": 82,
     "kbgo": 128
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Lagi! RUU Tindak Pidana Kekerasan Seksual Batal Terealisasi",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTFhaOWdwcEh6RXlNUjhIMmpUM0RyWF9zWnpzd1BIN2MtVnBIa3E4VVpTZExmZ1c0UmVxWS1tVVNNaFBhei1hLUV0dXpaSUZGZkFrY21qeDBUNzhDek9KMERhckpFZWREY2NiMGR6WUlQVF9CeFFoM2ZLWnFIX2l0MmJ3azJSSWFpVktkeUVUaHhrRkdPdWdoRnB30gGfAUFVX3lxTE14MDZUd0hKQmJjWkxrWHhZanhuaG9WT08xQ2t6eVFOOURwZ3kzRlZuTUx2bXZLb3JFQUR3V0h5Rm5ZSkh0bEx2bWNVeGp3LW50WHNyQzNjakJ4V01OdzhRd2tYSHBKcWdLUHBWNjg0ZzVRc2FsMEdiWk4wclY2TTVMeVFnU215eVkzOVdnOVN5b2Y4WmJoWnNsNHZhVmxnOA?oc=5",
+      "pubDate": "2026-10-16T21:33:36+00:00",
+      "source": "NU Online",
+      "description": "Lagi! RUU Tindak Pidana Kekerasan Seksual Batal Terealisasi",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Dugaan Kekerasan Seksual terhadap Anak di Banyuwangi, TRC PPA Desak Aparat Tindak Lanjuti Laporan",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYTdyOWV4WVVWbjM0UlIxZDR4RHVmUEdsdUd2dDJWdzRfTmx0OC1rLXF1MHpoVnRSaVZXVkpkSGlobUtILXMzQW5pd2duSVZBa3ctN1pDOXo5a0pCbU9MWVZyTlR1T3Y5dmRfd18zRlBMUkdoZE9JZW1Nem0yUnNjRzdvckFBWE1qRmFSTXVMNnM2Q2Fta3Y5bDRaYWFfOE5EUE80SXUwQk00QnhhajBNOFhIc0JDcWVKakc2Z2dobHVtR25wTW80VQ?oc=5",
@@ -478,15 +487,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1dvbm90dkRRT3JJTlRGQ0hqTXhVUFBtb1pMZW1HRWkxT1RSOHNzWlM5Y2RNMzNwRUJGeG1XbUhlOE1hcks0QlAwbVR2MWVhNUk4SHFPLUkxX0d4eUFhaEY1amVVLV9pZ00wNU9rTmh5TFNhTHRjNERVZEtDT0VmUmZNaWc?oc=5",
-      "pubDate": "2026-10-05T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGQta3lVQXM4UUhQLWhXSkZvQVdXbWNLWmZ2QnFrSXBocW56SzRXX1dWal9LdkoxMW9ONmYyc0FqVXBCNEtGbElRNkRUY1hodjVYYnFtbkZPdGlxMTF5U2tCcUpjd1FLaTFZNzNCYzFoWmhSUXBnSTIzSWtpMk5vR3V4Tzh4eGE3RGpBX0wzOFVMbWUxeEFPV2dab1JJUVB3NGJTQWhoR2XSAasBQVVfeXFMTUVMNTVpZXBpaTVOU2xjaWZCM1VHZjdfUERYeUNXSTBZSEtXSEo5M2J6dmpkdmU5XzlXbHZiQmhxSUVwLTBrR1VVVXBGSWZVVHpCcFgwQU0zY1J5bTh0aFZXWlkwSTloSHVjUzZmUFI5Q3M1MUh6b2tlU2o5b04zY0ljeW9jMmtvOVBrWVp3d2tJTzhtWkdWSFBDZUFjMFRmSTdJRW1LTGxlWkxV?oc=5",
       "pubDate": "2026-10-05T07:00:00+00:00",
@@ -494,6 +494,15 @@
       "description": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1dvbm90dkRRT3JJTlRGQ0hqTXhVUFBtb1pMZW1HRWkxT1RSOHNzWlM5Y2RNMzNwRUJGeG1XbUhlOE1hcks0QlAwbVR2MWVhNUk4SHFPLUkxX0d4eUFhaEY1amVVLV9pZ00wNU9rTmh5TFNhTHRjNERVZEtDT0VmUmZNaWc?oc=5",
+      "pubDate": "2026-10-05T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "FSGI Catat 100 Kasus Kekerasan di Sekolah Sepanjang 2026, Mayoritas Seksual",
@@ -937,15 +946,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Indonesia Darurat Kekerasan Seksual terhadap Anak: Pelaku Dibebaskan hingga Dibebaskan Lebih Awal",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUy0tREpOVDFZZHBVaVg0ZUdmbmJFQWpyYThIRktoVmhmUmhCZHJtNEpucFFvYUZKLVFfWFJ0bVdKSkNHNmtnM21LT3FrWEpYa1RsT0FfbENLS1g1NDAtMlZMdXZvUDRqSVlHRzlfb0kyZTBhR2twaWNpR1NNYjE4RVdoTE1KbER4aDMtUE9ZS0VGTUZlRVNQYXlYWnNpWWpuSEJkaFlUN1dTMV9wcGpWZERnZVBUTU15MG1kcGJDaHhEb3JYMTJQSUJULTJqOFRkNWMw0gHYAUFVX3lxTFBQNjhaZDZRaWRRYkpkQVdMdERNelc1RnVVNjMxVzBWd0poUWctUFBVbDRvQnhiakp5b3FlZjA5TFRkbFpqMDdGSExvMVNWcFJ0UFZXTWtULTlGaDZ4ZUtFMW5URjlFclR2SFRSOXVldWthZHRCVEQ2bUpJUlBYTndrMVZ0TWRqRlphM1FCdDBndkxGTEwtcjVmcDVXTGNaZEViaTV6RmpvSDFRcjlUZHRGUmxaM1pWSUJobFh2QUJqb3lPSkEzQzRNejNITlp4UzJMVk43SGxqUQ?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "Beautynesia",
-      "description": "Indonesia Darurat Kekerasan Seksual terhadap Anak: Pelaku Dibebaskan hingga Dibebaskan Lebih Awal",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTFLOWxoNUdzR1lIZ1o4eFYzTEVBN2stR1ByUW13M0ttUXJsUDRGaUtibTFJMGlPLTJnWWZQaEhoZlZhSG12cnBnaFU0LWh0XzhkNUJqaFBPZ0paTFlZSk5EdDN3eDVqSEVWWU1FVVVlbXhnUUxnRUtqUm5lWG0xVEtQY0NZSzU5ZmRxbVpnRGJMYzlDNklUaTYzaDA?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -973,20 +973,29 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVE9wM3R2c19odW9hc2N2V182MEZzTEQ2RThiWjlxNFdjMzlxWl9QLUwyQ0dGM3VScVBRdWhveWIwd3hTWVlVTzJqbGk1RVd0bDVoVUxNRWhXRFlVTEVzNk5iaTFJNXlwX0RNNWh4ZkQtWDV3aU1VQ1ZWd0FGV0RNWEZYdTJfcVJmZzVuT2t6V21LU25LT3B4Rk1tVi1XRTJkN0lESkhMclhXdm5rQzJBdjBnYlRaVHFGeHfSAboBQVVfeXFMUFNORHotc3JObTNGYjBZMXp4T2dseC15NFFodlhKVjRiZURselZfeDRRQi00VGQ2cl9naW9ES18zbFBpXzZzY0RXamRTbHRkdEF2Y1VWa18tV0s0MnIydXJaQUFfSXNGeXV5aGliOHZLSXhKR3dvZXJ2YnNycW5JYWs0MC1NRG1zVDIyOE9NOUNoSXZhd0E1WXNJUFdVU0tLUlViR2hEbGFWTUtkT3JHVlFDbUpnQXdCR0ln?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "Suara.com",
-      "description": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "FT UGM Nonaktifkan Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU1Zoc3FiLUZEcTRHekJhVXRLcDlWRTBnVE1La2tXNXVXX0FUNTR1UUhTaFYxM3Fld3pLRXBSckZVOF85OHF5SVBDWTY5d25DNHp4WHRzWW53bHQ4Wm9EWGlzR3hmY01PVE5Tb09WVktxNTN5R29wbk9xM2ZyMXRlNVBQRlBTOHlmdUdJMlF0aEk2Y2d3VUlBbEpDXzVNaEp3LTBzTjdfb3FocThVT3ZLTS1DLXI4MkJLb21tSQ?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
       "source": "Media Indonesia",
       "description": "FT UGM Nonaktifkan Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Indonesia Darurat Kekerasan Seksual terhadap Anak: Pelaku Dibebaskan hingga Dibebaskan Lebih Awal",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUy0tREpOVDFZZHBVaVg0ZUdmbmJFQWpyYThIRktoVmhmUmhCZHJtNEpucFFvYUZKLVFfWFJ0bVdKSkNHNmtnM21LT3FrWEpYa1RsT0FfbENLS1g1NDAtMlZMdXZvUDRqSVlHRzlfb0kyZTBhR2twaWNpR1NNYjE4RVdoTE1KbER4aDMtUE9ZS0VGTUZlRVNQYXlYWnNpWWpuSEJkaFlUN1dTMV9wcGpWZERnZVBUTU15MG1kcGJDaHhEb3JYMTJQSUJULTJqOFRkNWMw0gHYAUFVX3lxTFBQNjhaZDZRaWRRYkpkQVdMdERNelc1RnVVNjMxVzBWd0poUWctUFBVbDRvQnhiakp5b3FlZjA5TFRkbFpqMDdGSExvMVNWcFJ0UFZXTWtULTlGaDZ4ZUtFMW5URjlFclR2SFRSOXVldWthZHRCVEQ2bUpJUlBYTndrMVZ0TWRqRlphM1FCdDBndkxGTEwtcjVmcDVXTGNaZEViaTV6RmpvSDFRcjlUZHRGUmxaM1pWSUJobFh2QUJqb3lPSkEzQzRNejNITlp4UzJMVk43SGxqUQ?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Beautynesia",
+      "description": "Indonesia Darurat Kekerasan Seksual terhadap Anak: Pelaku Dibebaskan hingga Dibebaskan Lebih Awal",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVE9wM3R2c19odW9hc2N2V182MEZzTEQ2RThiWjlxNFdjMzlxWl9QLUwyQ0dGM3VScVBRdWhveWIwd3hTWVlVTzJqbGk1RVd0bDVoVUxNRWhXRFlVTEVzNk5iaTFJNXlwX0RNNWh4ZkQtWDV3aU1VQ1ZWd0FGV0RNWEZYdTJfcVJmZzVuT2t6V21LU25LT3B4Rk1tVi1XRTJkN0lESkhMclhXdm5rQzJBdjBnYlRaVHFGeHfSAboBQVVfeXFMUFNORHotc3JObTNGYjBZMXp4T2dseC15NFFodlhKVjRiZURselZfeDRRQi00VGQ2cl9naW9ES18zbFBpXzZzY0RXamRTbHRkdEF2Y1VWa18tV0s0MnIydXJaQUFfSXNGeXV5aGliOHZLSXhKR3dvZXJ2YnNycW5JYWs0MC1NRG1zVDIyOE9NOUNoSXZhd0E1WXNJUFdVU0tLUlViR2hEbGFWTUtkT3JHVlFDbUpnQXdCR0ln?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Suara.com",
+      "description": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -1164,7 +1173,7 @@
     {
       "title": "Wartawan Diajak Lebih Peka Saat Liput Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVjd5MkNjbG9Ydm9LSlJWMTNiVzdSOWFud1MtLXAyRnpiNnVNeXVFVlFHQWJCeUZ4c2F2N1pKZXVDcTVWMHZ1S2tnYUtBTGhXNHVGUmFTUl9KTng2LWVuZDMxQ2JHckx4Z2RkWjBNQjVEVGhwVjFMbHpNenA3QlRqZnpZel92OWpmOEdlQkNSdm9DZC13amtEUEUyOGlzY1BXQjlKY1JUcVNSSlU?oc=5",
-      "pubDate": "2026-09-26T17:04:00+00:00",
+      "pubDate": "2026-09-27T07:00:00+00:00",
       "source": "RRI.co.id",
       "description": "Wartawan Diajak Lebih Peka Saat Liput Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
@@ -1270,15 +1279,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzhmdHBFTzFJXy1FeGd2N3NseUVhNThkUVQtS1VocjdMUWU4dXhDQV8yV3l1dTFWM0RIdXo3UlJvUUhLbjdJMVhzUVhsbXpmWEVnMmdwdUllX3dmNmdYeDA3X3pzdlZKc3pPTjlTdnh2Uk1CUmFHbzB5MEpNU1pJWmtlUmRxWk5WQjVqM1FTelkxVVRycG42U0R3Y0dtcnFlcF90NWliaDRTSzA?oc=5",
-      "pubDate": "2026-09-25T10:53:41+00:00",
-      "source": "kompas.id",
-      "description": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Komisi XIII DPR: Pembebasan bersyarat Bechi tak sesuai UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWxjbG50NHdNRVo4T2d1S3ExanB2TkV6czBzbTVmN214aVpXeWp2RVlBb2I1bFFsakhUWGFzeTlfanpfMzFPX2RTR3BXbzVkWXpZcGs5Z2pNYVYzb2c5SlAtdGRlWGc2cVd2MVp2dzIta0NONWVuTGZwX2JLSzE0Rk5HNUpKZHJHSzBuTjFNTl80YXZHU3ZHcmxraVd3TUhCcGlPcWVB0gGoAUFVX3lxTE80VFRmUmd1Q21jYTU2dFhDRUdOUVhDa0pwQm00anRVdmdELWhIbkJCSnVjZWJwNGVjbFNELXdPV0c0WFRkUmgzOC1HR0RXdU1NbUE4VkNhUDdZVGRRdUNKcmlRMUpYZ3lkMFFScHNKRDZwaTNsMVR4RTQ2NDRVSFFRZ01BLWVHVE16el9veVpzMzJ4VHN2dmxLcjFGMjJvclowbnZQMXFiLQ?oc=5",
       "pubDate": "2026-09-25T07:15:44+00:00",
@@ -1286,6 +1286,15 @@
       "description": "Komisi XIII DPR: Pembebasan bersyarat Bechi tak sesuai UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzhmdHBFTzFJXy1FeGd2N3NseUVhNThkUVQtS1VocjdMUWU4dXhDQV8yV3l1dTFWM0RIdXo3UlJvUUhLbjdJMVhzUVhsbXpmWEVnMmdwdUllX3dmNmdYeDA3X3pzdlZKc3pPTjlTdnh2Uk1CUmFHbzB5MEpNU1pJWmtlUmRxWk5WQjVqM1FTelkxVVRycG42U0R3Y0dtcnFlcF90NWliaDRTSzA?oc=5",
+      "pubDate": "2026-09-25T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
@@ -1432,20 +1441,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXd1aUhuUFA2NzVncFZ3MXltUWdKeExFejJ5NnJwODNHX3ZFNXBTbjhZQ05FdngyTXdmSmpDUTVwNkl5ZVh3RTRiblZ0MHVGbXliWTVPcHRySGVWQjZXYUpUOFZFMW9mSmtmVzNZM1dwMEZneTZVbFZKZVpwcmdqN2pxMmFRcjdvZzVrYmdjY1k2TktBQ2pESmdwZkg2ZVlHb1Zuc2psV2UtWFZsbHg0VXB4SXfSAboBQVVfeXFMTWNWWGEtMTJJNTdEQ254Qng2MC02YUNmNHRtNGVzeERycE5uSGRDNTdXb3I5cEU5QzRyQXA5R0dFUGZZYTZsNVZ4YUR4aXFxZC03WkV6cW9yMmRYSmQtWjJJeWpEQ3ozeHp5cUdyZ0xvRVhDU1NkU2dfLVhBcXlzU0ppVjdXaU9FM24zczJWZWJxZ0ZJQm9mSDZ0d2xCdm1kZHNBYkJCNmsxYWR6dTJjSGhqWWFNTzA4a0tn?oc=5",
-      "pubDate": "2026-09-23T07:00:00+00:00",
-      "source": "detikNews",
-      "description": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9odWM5Mk5hTmF3dTE3NWktNzljYWlzZWE2a1VFZHFvSEdxV0NibTJzN2JTNndSUXNsYmk0dWYtdWNuYW93NUJOc01Gb3BGWlZHMjMxOWE0a0ZydWV2cE1QUVNR0gFnQVVfeXFMTnNHczRlQ09uZEZDQU9RcjZ6bVVQRzJ0TmxnZWNFTE1BNzRCcGE4VjB3cWdlMmlsX1o5aTZtQzYzMGFSVnF6QnoxNVZYNDhMZmJJS3V1b2hkaEY4VW1GYVJLVXRBYzVYSQ?oc=5",
       "pubDate": "2026-09-23T07:00:00+00:00",
       "source": "BBC",
       "description": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXd1aUhuUFA2NzVncFZ3MXltUWdKeExFejJ5NnJwODNHX3ZFNXBTbjhZQ05FdngyTXdmSmpDUTVwNkl5ZVh3RTRiblZ0MHVGbXliWTVPcHRySGVWQjZXYUpUOFZFMW9mSmtmVzNZM1dwMEZneTZVbFZKZVpwcmdqN2pxMmFRcjdvZzVrYmdjY1k2TktBQ2pESmdwZkg2ZVlHb1Zuc2psV2UtWFZsbHg0VXB4SXfSAboBQVVfeXFMTWNWWGEtMTJJNTdEQ254Qng2MC02YUNmNHRtNGVzeERycE5uSGRDNTdXb3I5cEU5QzRyQXA5R0dFUGZZYTZsNVZ4YUR4aXFxZC03WkV6cW9yMmRYSmQtWjJJeWpEQ3ozeHp5cUdyZ0xvRVhDU1NkU2dfLVhBcXlzU0ppVjdXaU9FM24zczJWZWJxZ0ZJQm9mSDZ0d2xCdm1kZHNBYkJCNmsxYWR6dTJjSGhqWWFNTzA4a0tn?oc=5",
+      "pubDate": "2026-09-23T07:00:00+00:00",
+      "source": "detikNews",
+      "description": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -6412,7 +6421,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "Unicef",
+      "source": "unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
