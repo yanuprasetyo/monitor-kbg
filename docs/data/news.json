@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-18T10:16:32.660238+00:00",
-  "total": 784,
+  "updated_at": "2026-10-18T15:16:58.992645+00:00",
+  "total": 787,
   "stats": {
-    "tpks": 216,
-    "kekerasan_seksual": 358,
+    "tpks": 217,
+    "kekerasan_seksual": 359,
     "kbg": 82,
-    "kbgo": 128
+    "kbgo": 129
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,9 +28,36 @@
   ],
   "articles": [
     {
+      "title": "Diah Pitaloka : Perlunya Penguatan Implementasi UU TPKS hingga ke Sekolah",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLS1sY2xyR0VOMXo3Nm9ldzdzZGVsVmduZ2V0TWpNd0NNTVgtZkItdDZjdDhpb3lyOU5tUHFmekEyYkZEWUV4aXZsbUl3VkJjUkJUcVVxQ085Qjh6X0UzT0xSOFB5ajR3WnlEY2xrejhWWHB3b0VDcXltSFhwczRtUXVaV0tNSGRONTZHTldBSlExUjkzTkd6LUV2LU1XMjFyUkxOMnZlOA?oc=5",
+      "pubDate": "2026-10-18T14:17:57+00:00",
+      "source": "SUARANTB.com",
+      "description": "Diah Pitaloka : Perlunya Penguatan Implementasi UU TPKS hingga ke Sekolah",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "LPSK: Perlindungan Korban Kekerasan Seksual Harus Menyeluruh",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTTRLcy1Md0h4djdWUHRiSU5IWE1BR2JCbHpDTy10UnljMGtrZlVmNDNOSWd1Q0Nucnk2U0dydW41bF9kenQ1TEtGLVRqVXhya2gzdGl5ejctME9ZLV8xUkM5ODBUVGxWeWxobG41RmZORHdxMkN5T1k4RGM5ek0yWEVJeVhmUXg0YUotYUxXMTNZUHYwY3dtY2t3?oc=5",
+      "pubDate": "2026-10-18T13:55:00+00:00",
+      "source": "RRI.co.id",
+      "description": "LPSK: Perlindungan Korban Kekerasan Seksual Harus Menyeluruh",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Ketika Perempuan Masuk Ke Politik, Mengapa Dirinya Ikut Diadili?",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmZOTEdtLW9oeHdOVGdjMGdaX0hHOWJzVHBEU0ZpcDhDYmJkM1JjdG84OHpETVFUNXRscUdtSmxQdm9HTjV6N1VQOWhBeW5RNmQ5RWVvSWxsVnhLcDRqemNMeEJfQ1dkN0R5a2lRWk01cXhYZlliNmlZQk1UNkJvcVNxSThSYzhNeU52S2NGUE51RFpKVlVacnB4NzdNVnM3b3BXSXZmSVF4SW14a3FjMXlkSGptTXhnTnhocUs1Sjk3c2hqNGc?oc=5",
+      "pubDate": "2026-10-18T12:53:01+00:00",
+      "source": "Kompasiana.com",
+      "description": "Ketika Perempuan Masuk Ke Politik, Mengapa Dirinya Ikut Diadili?",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Menteri PPPA Dorong Sinergi Lintas Lembaga untuk Perkuat Implementasi UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNEJUdGlmSTFiTzRHV2tvOUpzY1MxdzBMdXE3WnhpZUdnLXk2eERjNXZkYjc5TUxkYkpwYzlORmI1R0ZES1M0TnpFbzVXUEsxTE1DZ2ZsS0JMX3EydHljSWFHQ3RJR3NZMExBZ3RmeTZJVTJ2dnF0aVBYWlIzN3lCM3NBaXhjUHE1cU1ZTE5XSXpJSEQ4Z0FwNDRxQU5uWFRwNFpRMFRqdGNDa2dyUTFpUnQzN0p3cFZNUURTLVlaOA?oc=5",
-      "pubDate": "2026-10-18T04:18:32+00:00",
+      "pubDate": "2026-10-18T04:13:00+00:00",
       "source": "TVRI News",
       "description": "Menteri PPPA Dorong Sinergi Lintas Lembaga untuk Perkuat Implementasi UU TPKS",
       "keyword_id": "tpks",
@@ -1324,20 +1351,20 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzhmdHBFTzFJXy1FeGd2N3NseUVhNThkUVQtS1VocjdMUWU4dXhDQV8yV3l1dTFWM0RIdXo3UlJvUUhLbjdJMVhzUVhsbXpmWEVnMmdwdUllX3dmNmdYeDA3X3pzdlZKc3pPTjlTdnh2Uk1CUmFHbzB5MEpNU1pJWmtlUmRxWk5WQjVqM1FTelkxVVRycG42U0R3Y0dtcnFlcF90NWliaDRTSzA?oc=5",
-      "pubDate": "2026-09-25T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcU0taVh1aTJIcnJxcTlMQk11X1pVYk11RlFDLXg2ZTd2cnZBRmtvMXZFLUJ0QUZ1V3hWYkhLRVhIdnNtdXJ6bjBSYmtHS0ZvSzFpa3RuYlo4ZmhibmlxOTVn0gFnQVVfeXFMT3hkRkx5bWNSNV9uZ1QyWDdhdUV6VV83dzBobENKRkQxTDl3UlhxekNUZDliRGV6Ymg0MGdzaXhKRWh2YjUtS1JqdUVvblpJZ0E1ZGlTQS1XZTJVSlI3QU5hbWtMUWk2OA?oc=5",
       "pubDate": "2026-09-25T07:00:00+00:00",
       "source": "BBC",
       "description": "Hukum: Eks pimpinan pesantren di NTB yang dituduh melakukan kekerasan seksual diperiksa polisi",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzhmdHBFTzFJXy1FeGd2N3NseUVhNThkUVQtS1VocjdMUWU4dXhDQV8yV3l1dTFWM0RIdXo3UlJvUUhLbjdJMVhzUVhsbXpmWEVnMmdwdUllX3dmNmdYeDA3X3pzdlZKc3pPTjlTdnh2Uk1CUmFHbzB5MEpNU1pJWmtlUmRxWk5WQjVqM1FTelkxVVRycG42U0R3Y0dtcnFlcF90NWliaDRTSzA?oc=5",
+      "pubDate": "2026-09-25T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Guru Sekolah Swasta di Tangsel Diduga Lakukan Kekerasan Seksual pada Muridnya",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -1453,7 +1480,7 @@
       "title": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzFCR3U3ZmpLRS1tYUt2U3RFbWl4WW5KNHR0OW50aEwtRW1yYXFiLU1BeDNvOXJZM2JOaHUtTmNVOWo3WHktWDJuT0FyZXBZbGtZMzZfVmNCOGtjNGRwTDB1b0hmbHh0WUFPdkFHS2xvNlhJSHFrSEoxcVJhN0xuLTUyWWlaSDd3cTMwSmxGX2RLSVYxbDZGZDZkRk50ZkszTTAyRVlmQU90NktnMUJtV3MwejFRYXphUzIzcUhXLTBDbUFo?oc=5",
       "pubDate": "2026-09-23T09:17:24+00:00",
-      "source": "sibolgakota.go.id",
+      "source": "https://sibolgakota.go.id/",
       "description": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
@@ -5172,8 +5199,8 @@
       "pubDate": "2026-06-27T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Polisi: Ahmad Al Misry Berkewarganegaraan Ganda",
