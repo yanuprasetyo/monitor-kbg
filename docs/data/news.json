@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-19T02:58:05.060548+00:00",
-  "total": 788,
+  "updated_at": "2026-10-19T11:55:43.886020+00:00",
+  "total": 791,
   "stats": {
-    "tpks": 217,
+    "tpks": 219,
     "kekerasan_seksual": 359,
-    "kbg": 82,
+    "kbg": 83,
     "kbgo": 130
   },
   "new_this_fetch": 60,
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Tunggu Rekomendasi Medis, Kehadiran YTR Koban Taufik Hidayat Bakal Sesuai UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXpTZS1pbUdqUnZWRzVjdWEyZW1EeFVKSnYyblZYX0RjcC1yN3ZySjk2Ylp1NGFYZGZUNndLU1hLQ0M0WVY4ZGlrNDB3NVp3NjNCNnhGX3YxVnVURDB1UUU5eUR4ZDlRV3hnLThGVE5qVFo1NjZydEVITDV0azI3SjBvY0ZtOGx5b3BBdE0zYjFhZzN2S3ZFRTNJLWNBVldTMTBMRkhsTHpBM1dCeXFGdm5nQkUyQVZCNU1VNXdEMWtGcEpNLWFR?oc=5",
+      "pubDate": "2026-10-19T08:40:00+00:00",
+      "source": "Kompas.com",
+      "description": "Tunggu Rekomendasi Medis, Kehadiran YTR Koban Taufik Hidayat Bakal Sesuai UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kemen PPPA Perkuat Sinergi Lintas Lembaga untuk Implementasi UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGc2a1RmN3Nubk4xN0xfYlhmZXpqNXZoZ3dEeVJZdXU2LWNDamVFVmdMcXlLRm5BNkZjeVp2TXVVdlhHRkoxX1lhSGZVUk1lejE0RXRfZmg0bTQ1NG5IR254UXQzY0ZfMlU5S1RKaU5nVVh6QmNYUFVGWnpWaGN3VXNXU002NjA5M2hMN0ZqZVJ1YVBXSTYwcy1rbjNWeU1mT1J5WDk1bHhnaVJUcER4SUVUQkJwbjhPWF84b2gxR05RR1R0N1JMdQ?oc=5",
+      "pubDate": "2026-10-19T04:37:00+00:00",
+      "source": "InfoPublik",
+      "description": "Kemen PPPA Perkuat Sinergi Lintas Lembaga untuk Implementasi UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Diah Pitaloka : Perlunya Penguatan Implementasi UU TPKS hingga ke Sekolah",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLS1sY2xyR0VOMXo3Nm9ldzdzZGVsVmduZ2V0TWpNd0NNTVgtZkItdDZjdDhpb3lyOU5tUHFmekEyYkZEWUV4aXZsbUl3VkJjUkJUcVVxQ085Qjh6X0UzT0xSOFB5ajR3WnlEY2xrejhWWHB3b0VDcXltSFhwczRtUXVaV0tNSGRONTZHTldBSlExUjkzTkd6LUV2LU1XMjFyUkxOMnZlOA?oc=5",
@@ -143,6 +161,15 @@
       "description": "Lindungi Perempuan dan Kelompok Rentan, Pelatihan KBGO Perkuat Keamanan Digital di NTB",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "28 Tahun Komnas Perempuan di Mata Orang Muda",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0dVUW1aeHJaVkpTMmRJcGRYajJ4bXFDTExyenlpX3ZSamxUME45emE5YzNHREQ0ZlRlZDZIaFN2T1JfaDF3a3RQZ1VTSXM5OEU0MmlXT1o2c3U4VDBMZEdGZ094ckVOOFBsbFBGUHh5RHZnWmVRMFBhWFY2bF83X25NaUpHdGFZR1hMTHNnY3VlZmNqY21lMXh2SlhqQQ?oc=5",
+      "pubDate": "2026-10-15T09:23:05+00:00",
+      "source": "Komnas Perempuan",
+      "description": "28 Tahun Komnas Perempuan di Mata Orang Muda",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "28 Tahun Komnas Perempuan: Merawat Ingatan, Menyambung Perjuangan Lintas Generasi",
@@ -1027,6 +1054,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Kompas.com",
+      "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Indonesia Darurat Kekerasan Seksual terhadap Anak: Pelaku Dibebaskan hingga Dibebaskan Lebih Awal",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUy0tREpOVDFZZHBVaVg0ZUdmbmJFQWpyYThIRktoVmhmUmhCZHJtNEpucFFvYUZKLVFfWFJ0bVdKSkNHNmtnM21LT3FrWEpYa1RsT0FfbENLS1g1NDAtMlZMdXZvUDRqSVlHRzlfb0kyZTBhR2twaWNpR1NNYjE4RVdoTE1KbER4aDMtUE9ZS0VGTUZlRVNQYXlYWnNpWWpuSEJkaFlUN1dTMV9wcGpWZERnZVBUTU15MG1kcGJDaHhEb3JYMTJQSUJULTJqOFRkNWMw0gHYAUFVX3lxTFBQNjhaZDZRaWRRYkpkQVdMdERNelc1RnVVNjMxVzBWd0poUWctUFBVbDRvQnhiakp5b3FlZjA5TFRkbFpqMDdGSExvMVNWcFJ0UFZXTWtULTlGaDZ4ZUtFMW5URjlFclR2SFRSOXVldWthZHRCVEQ2bUpJUlBYTndrMVZ0TWRqRlphM1FCdDBndkxGTEwtcjVmcDVXTGNaZEViaTV6RmpvSDFRcjlUZHRGUmxaM1pWSUJobFh2QUJqb3lPSkEzQzRNejNITlp4UzJMVk43SGxqUQ?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -1041,15 +1077,6 @@
       "pubDate": "2026-09-29T07:00:00+00:00",
       "source": "Espos.id",
       "description": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "Kompas.com",
-      "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -1162,6 +1189,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0M5WEtHMWdpdnZCZDdodWFvUElnYXQ4Umo2Q3dBTWUwSDkzaTduREJfT0FfUWljWVVMdHgzaWNWeUQ4WTBCN1Y4YlRYNTA1RW1ORkkyNmlVV21Yenl6bkZLalR0N29wTlNCNGZnbHZnVFVrRWJ6MDNlWjd4cHFvb3BWRWZMeHJzZEtYR0NDdzd5VnhWRXNIWHQzOEtnUUZyanJFbFlHdWhKbUkxVGt4VVNOSXlYMEo3aW5LVlU4ajJCUC1t0gHDAUFVX3lxTFAwdGZNMFVscG50TVdNU1o0c2xiVEtnQzBtbEJHdElGWE5sclhFNVA0NjBxMlJGNjFqYnNCT3JObnFzZFN4V3NseUVOVGJzX1VWamNQYUJFckNuQy1sUF9UOHN3WlRQRmQ4WWxZNkRkUkstRDVHX3NuVllwNk9sUDVhMVowczVtU0hLV2h0S3RTOFVNNy1xM2ZSMEg0b3VTcVlVWnJfeDhJb0diYTV1Y0FZY1l4WmktS3BWQ3ZkOXNMVnpISQ?oc=5",
+      "pubDate": "2026-09-28T07:00:00+00:00",
+      "source": "iNews.ID",
+      "description": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
       "title": "Heboh Dugaan Pelecehan Seks di Grup Chat Mahasiswa FT UGM",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUVyZWNMMVhfMEpLOFRlUmFobnFjOTZFQlJhLVU0cXJEbEs3RU9wTHJ0czhXNUdSUldfM0RWaTNyRDg3SDhMbkF1WU56Q2lXcHFLUDk3Y3JDbEUzeUhzTlhfYkt2ay1vNUMycjZXOWprekRyMmFEc1M0N0h2R051eVo1dkllZzJzMHJsZnY2MjhOMUh2X2l1a2FZZkIweGxqVnltUtIBqgFBVV95cUxQdlRkWm1KbkZwWHRXSmN4a2FXNjlzLU1fcGNWcDJRMVpqMnhuOWszUWVhdDRUZVZsR0wzOTVKYWo0V1ppTmpueUhHQms3SlF1ZktVZlRDai1LenowZ21ZZEVRTjQ4d3ZwbXU3U2dRN2l5bHhhMzA5MGtKMFZKb0tMLVBKYU1UN3RNUHVCeng3XzI2bVF2Q2tNRDMxZkR6ZHpUNF93U0FrYnJvdw?oc=5",
       "pubDate": "2026-09-28T07:00:00+00:00",
@@ -1187,15 +1223,6 @@
       "description": "KBGO: Perempuan dalam Bayang Kekerasan Digital Halaman all",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0M5WEtHMWdpdnZCZDdodWFvUElnYXQ4Umo2Q3dBTWUwSDkzaTduREJfT0FfUWljWVVMdHgzaWNWeUQ4WTBCN1Y4YlRYNTA1RW1ORkkyNmlVV21Yenl6bkZLalR0N29wTlNCNGZnbHZnVFVrRWJ6MDNlWjd4cHFvb3BWRWZMeHJzZEtYR0NDdzd5VnhWRXNIWHQzOEtnUUZyanJFbFlHdWhKbUkxVGt4VVNOSXlYMEo3aW5LVlU4ajJCUC1t?oc=5",
-      "pubDate": "2026-09-27T23:40:53+00:00",
-      "source": "iNews.ID",
-      "description": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Barang Bukti Jadi Dalih Berbelitnya Penanganan Kasus Kekerasan Seksual",
