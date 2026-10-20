@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-20T16:14:53.067668+00:00",
-  "total": 799,
+  "updated_at": "2026-10-20T21:10:14.666069+00:00",
+  "total": 800,
   "stats": {
     "tpks": 218,
-    "kekerasan_seksual": 367,
+    "kekerasan_seksual": 368,
     "kbg": 84,
     "kbgo": 130
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kasus Dugaan Kekerasan Seksual terhadap 10 Santriwati, Izin Ponpes Dicabut",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWlJcVVDRExjWTJySmJIUjBMSkdjTjNoTzhPbWJaRktlVDJYX2VPWFRXaWYxYWZxUldWNUlWOE40Vm41b2dZZF9Xcm5ZVzd2amlOcVVOaWoyaEpGcHNLc2xrZkc5ZVc1bTM3NG9oOUhzS0hDdTU5ZTdhLXlENDAwdXhzU0szbnVUQl9XQXBGVkMxc0tWU0JzZUZBT0s2MER5TmhnLWhGVjJ1M25XOHFQNmk4M0l4NTJKSFdPOFBB0gHDAUFVX3lxTFBpRVUyd1R1S1h4QUJqcnc5Vnl0WjBEcVJ3ZnU0ZXRvWXE5d0ZLUWwwRk1vNEVZUGstclZONWpndW1Yb3dJUklpdWo4YkVXd1JfeUMxS2JGTHRXd1ItUWZlSVpJdXFlVXNxblJpS0lzZHpGMUs1ZjBzeUN5T2NOSEREUGFLcmRSSzEzUHJpOWZGeENidmNKVFJva2RGY1MxUW9uZTBFUU5hN0dUM1lxRkRkMkdxYy1uYnhWOVJuczhNNmhxYw?oc=5",
+      "pubDate": "2026-10-20T05:31:30+00:00",
+      "source": "detikcom",
+      "description": "Kasus Dugaan Kekerasan Seksual terhadap 10 Santriwati, Izin Ponpes Dicabut",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Karyawan SPPG Palembang Laporkan Atasan ke Polda Sumsel atas Dugaan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTZFYU1idUo0bi1CTU5MSk9NNi0zTEFfQXRHa0RobkJGd3JZU08tOF9BcDFIZDFGMktSTldhS05tUjFnVVhyTmVycEthRklTVDItMnc4Qk80TjFwemx2QWg0ZFIxY3o4RUg4ZE1DNjZXRW1OcVpkSEQ3Qmc3NVpERHNsRGdzbS1xdU5aVmdMSm1EZjl4eG1jR2w2VTlqRjF1YXd4VWVWa1JyX01LRGc?oc=5",
