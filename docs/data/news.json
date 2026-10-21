@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-20T21:10:14.666069+00:00",
-  "total": 800,
+  "updated_at": "2026-10-21T03:02:33.151742+00:00",
+  "total": 801,
   "stats": {
-    "tpks": 218,
-    "kekerasan_seksual": 368,
-    "kbg": 84,
+    "tpks": 221,
+    "kekerasan_seksual": 365,
+    "kbg": 85,
     "kbgo": 130
   },
   "new_this_fetch": 60,
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bagaimana Ketimpangan Relasi Kuasa Dapat Mendorong Terjadinya Kekerasan Berbasis Gender terhadap Perempuan?",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV19uMHEtRGtsN0kxdUtLSmEwOUpTZ2VhUUlHdlVYcHNoNmZ6VHZEZXAwVlo5TFVfX0I4UVoyalNQZFU4OVZrQjBDSXpGLW9faFJFdWVjcUhqU05NOVc2ZjRlcmNUMFpUNWRKYWtBTHNCRGtRYU1YM18waXhjdk5CeXdlZTM5dmxtVzNNNHNYTHozMUJ1NU5VeVBzSXZmTVN0UEFGRWJfUzdWOVBkS2hZQ2tPeldZREJPRkxtSmVGVU5FUkpocHJiOE5oRWNZd3VraUdtblhuM0NDOUtwa3FyLdIB5gFBVV95cUxPbzlBenJkUW8zNS05cnJ6YklnN3NlOHUwVFJfaUhQalJLUGNJeXNKSnBIMERUUTV0WHJwazVvX2ZHSF95T0RXZTdiMFdKdjJxYTlKR3ZGWE5RQ3pzaWtQWWtMQnZDOFVFSDRCRExxNGZjVGd6N1J5S1lGT2xvMTlMVDdkTXl4WGI1MEVrV0pNbXdvc0w0ZFhRenkyX3p6VmRHa1hjenJ3MVpaRGpTTlBPWU1LMEU4NVFZQjlXVFZjNEtsaUNVT09rWFBnVVp6cjNjWm9UNDlMZm4xdjFBWFlaMHgzQl9idw?oc=5",
+      "pubDate": "2026-10-21T01:30:00+00:00",
+      "source": "Beautynesia",
+      "description": "Bagaimana Ketimpangan Relasi Kuasa Dapat Mendorong Terjadinya Kekerasan Berbasis Gender terhadap Perempuan?",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
     {
       "title": "Kasus Dugaan Kekerasan Seksual terhadap 10 Santriwati, Izin Ponpes Dicabut",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWlJcVVDRExjWTJySmJIUjBMSkdjTjNoTzhPbWJaRktlVDJYX2VPWFRXaWYxYWZxUldWNUlWOE40Vm41b2dZZF9Xcm5ZVzd2amlOcVVOaWoyaEpGcHNLc2xrZkc5ZVc1bTM3NG9oOUhzS0hDdTU5ZTdhLXlENDAwdXhzU0szbnVUQl9XQXBGVkMxc0tWU0JzZUZBT0s2MER5TmhnLWhGVjJ1M25XOHFQNmk4M0l4NTJKSFdPOFBB0gHDAUFVX3lxTFBpRVUyd1R1S1h4QUJqcnc5Vnl0WjBEcVJ3ZnU0ZXRvWXE5d0ZLUWwwRk1vNEVZUGstclZONWpndW1Yb3dJUklpdWo4YkVXd1JfeUMxS2JGTHRXd1ItUWZlSVpJdXFlVXNxblJpS0lzZHpGMUs1ZjBzeUN5T2NOSEREUGFLcmRSSzEzUHJpOWZGeENidmNKVFJva2RGY1MxUW9uZTBFUU5hN0dUM1lxRkRkMkdxYy1uYnhWOVJuczhNNmhxYw?oc=5",
@@ -1045,15 +1054,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "uinjkt.ac.id",
-      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -1115,6 +1115,15 @@
       "description": "FT UGM Nonaktifkan Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "uinjkt.ac.id",
+      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Sempat Dituduh Tutupi Kasus KBGO, FT UGM Akhirnya Nonaktifkan 10 Mahasiswa",
@@ -1216,6 +1225,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Regulasi Layanan Kesehatan bagi Korban Kekerasan Seksual yang Hamil Belum Diketahui Masyarakat Luas",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXlLYW9GRkJ6SndyUXZHVjBDSkJrS1VFZVB6UlBtWnUzRlY4SFo5Z1lyS0dYT3lic0QyZDRkV0JBb2laWklqNnZtOTBObUxYRVpNT3JKRnRwcDMyZmZCdnNnLTNwUEs2eFN4T0lyQ013a0NnVHExTEhMOElzTkEzYWkySWZ1aUwxdUVON3ZpREJGMm5RWklDTU0tWkdKaDZXZG9PYUdiVmFhMWxGM2VFYU5PVF9TUDFZSVFDR1JB?oc=5",
+      "pubDate": "2026-09-28T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Regulasi Layanan Kesehatan bagi Korban Kekerasan Seksual yang Hamil Belum Diketahui Masyarakat Luas",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0M5WEtHMWdpdnZCZDdodWFvUElnYXQ4Umo2Q3dBTWUwSDkzaTduREJfT0FfUWljWVVMdHgzaWNWeUQ4WTBCN1Y4YlRYNTA1RW1ORkkyNmlVV21Yenl6bkZLalR0N29wTlNCNGZnbHZnVFVrRWJ6MDNlWjd4cHFvb3BWRWZMeHJzZEtYR0NDdzd5VnhWRXNIWHQzOEtnUUZyanJFbFlHdWhKbUkxVGt4VVNOSXlYMEo3aW5LVlU4ajJCUC1t0gHDAUFVX3lxTFAwdGZNMFVscG50TVdNU1o0c2xiVEtnQzBtbEJHdElGWE5sclhFNVA0NjBxMlJGNjFqYnNCT3JObnFzZFN4V3NseUVOVGJzX1VWamNQYUJFckNuQy1sUF9UOHN3WlRQRmQ4WWxZNkRkUkstRDVHX3NuVllwNk9sUDVhMVowczVtU0hLV2h0S3RTOFVNNy1xM2ZSMEg0b3VTcVlVWnJfeDhJb0diYTV1Y0FZY1l4WmktS3BWQ3ZkOXNMVnpISQ?oc=5",
       "pubDate": "2026-09-28T07:00:00+00:00",
@@ -1232,15 +1250,6 @@
       "description": "Heboh Dugaan Pelecehan Seks di Grup Chat Mahasiswa FT UGM",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Regulasi Layanan Kesehatan bagi Korban Kekerasan Seksual yang Hamil Belum Diketahui Masyarakat Luas",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXlLYW9GRkJ6SndyUXZHVjBDSkJrS1VFZVB6UlBtWnUzRlY4SFo5Z1lyS0dYT3lic0QyZDRkV0JBb2laWklqNnZtOTBObUxYRVpNT3JKRnRwcDMyZmZCdnNnLTNwUEs2eFN4T0lyQ013a0NnVHExTEhMOElzTkEzYWkySWZ1aUwxdUVON3ZpREJGMm5RWklDTU0tWkdKaDZXZG9PYUdiVmFhMWxGM2VFYU5PVF9TUDFZSVFDR1JB?oc=5",
-      "pubDate": "2026-09-28T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Regulasi Layanan Kesehatan bagi Korban Kekerasan Seksual yang Hamil Belum Diketahui Masyarakat Luas",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "KBGO: Perempuan dalam Bayang Kekerasan Digital Halaman all",
@@ -5262,8 +5271,8 @@
       "pubDate": "2026-06-27T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Polisi: Ahmad Al Misry Berkewarganegaraan Ganda",
@@ -6333,8 +6342,8 @@
       "pubDate": "2026-04-17T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Tak Cukup Satgas, Kampus Perlu Penguatan Kurikulum Anti Kekerasan Seksual",
@@ -6634,20 +6643,20 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Implementasi UU TPKS Harus Utamakan Perlindungan Korban, Bukan Mediasi Damai",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMzNzWHVGNnkxeFJXczVQMl9ZNVFuaXZqaExJZ09iZTJqQUZCUGR6ci1RZDVqMDQyUjFweHppRWdhbGdUTTJYNmJSSVFDaFplNGlZQ19qa3QycVk3NkdlSk9NVEdOSTBSTDRGM0lKNEZvZ1NrcV9VV01Hcm5OZjlmUkUycjIwdkQzVU92MmF2U3B2b1RoalZxOEdhUlJUMmpiamswTmlwZnRmX0x0cDZWUE9NUEZpYlg2ZHhyRGxBWXNUeWRCY3RKWGt3?oc=5",
-      "pubDate": "2026-03-02T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Implementasi UU TPKS Harus Utamakan Perlindungan Korban, Bukan Mediasi Damai",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWxOZ1F6Z0x4UmQxbVJWVGxlQ0d4Z1hMS0tCNmNxTzJ3U18zUmFCVzNXX1B3cHZ6akRrc3NJM05FNkdNOEhZSm53bTJLTHV1a3Z4cWJwdU5ONVZBVmg0ZWRHM0FxNV9fa3NScDRPR2NVcXpnUDd0SGhpSzIyVlphTzVZaXlTSXptRWdKUm1ySGVRN2J2d2ZQYTBzZFZoMFJJcTFEUmYtYTFXZWVfLW90X0E0cy1hNUd3SC0teg?oc=5",
       "pubDate": "2026-03-02T08:00:00+00:00",
       "source": "Hukumonline",
       "description": "Standardisasi Nasional Jadi Kunci Efektivitas Implementasi UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Implementasi UU TPKS Harus Utamakan Perlindungan Korban, Bukan Mediasi Damai",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMzNzWHVGNnkxeFJXczVQMl9ZNVFuaXZqaExJZ09iZTJqQUZCUGR6ci1RZDVqMDQyUjFweHppRWdhbGdUTTJYNmJSSVFDaFplNGlZQ19qa3QycVk3NkdlSk9NVEdOSTBSTDRGM0lKNEZvZ1NrcV9VV01Hcm5OZjlmUkUycjIwdkQzVU92MmF2U3B2b1RoalZxOEdhUlJUMmpiamswTmlwZnRmX0x0cDZWUE9NUEZpYlg2ZHhyRGxBWXNUeWRCY3RKWGt3?oc=5",
+      "pubDate": "2026-03-02T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Implementasi UU TPKS Harus Utamakan Perlindungan Korban, Bukan Mediasi Damai",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -6835,17 +6844,8 @@
       "title": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWm85WVB2amk0bkpreEtjYlB1b01zLVN1RjdBdUZfb1UySmFGTW5OanUtTFNxSXY0NUk5aGtYTVhCWDhfYVZRN2syWW50ZEFvaXBMVlBPVGFoVFVRMmtTN0JEVzdVZ2J1RmF0R3BZZkQtVVpwZ0w0dEV3Qjd0c2FaX3FwZFZ0cXVqN3lLWDVzOWxBTVVaRG83MHNfNFJOTjFKTWs3VzgzVnFaZw?oc=5",
       "pubDate": "2026-01-08T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "Mahkamah Konstitusi RI",
       "description": "Para Mahasiswi Perkuat Kedudukan Hukum Uji Pemulihan Korban Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
-      "pubDate": "2026-01-02T08:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -6855,6 +6855,15 @@
       "pubDate": "2026-01-02T08:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Efektivitas UU TPKS dan Pemenuhan Hak Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHhHWFU4VmhpcnRrU1FPQ1AyUlJDT2xoT2stOXBMS0xmWlIxZ1pkQ0hPaTRTcDhQa2VKZHZrQ0NSX19WOUNxVEVHb3BFTjMzemZCdXBXRjRDYzBUVkNHa2FUMnJBaXYwQkRJdUJDSWo2SEFzTTZDNnpXQXZ2OWFrZmcwOE9TaTNPVVVSMzQ1QjRSdE5JdEpkVXFxd2E1dlRCNlVxX1IyeFBPMlR5Nzc3U0JNNlB3bUxPa3BqTUF3LXNSSnBTVWFjZDhPS1R1S2JzNGFCR0oyOUMzZjQ?oc=5",
+      "pubDate": "2026-01-02T08:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Tiga Setengah Tahun Berlaku, Implementasi UU TPKS di Daerah Sulteng Dinilai Belum Efektif",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -6873,8 +6882,8 @@
       "pubDate": "2025-12-17T08:00:00+00:00",
       "source": "Mahkamah Konstitusi RI",
       "description": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Perbarui Peta Kekerasan Pengalaman Perempuan",
