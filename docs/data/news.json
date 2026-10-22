@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-22T16:30:23.053419+00:00",
-  "total": 806,
+  "updated_at": "2026-10-22T21:07:52.138985+00:00",
+  "total": 807,
   "stats": {
     "tpks": 221,
     "kekerasan_seksual": 370,
-    "kbg": 85,
-    "kbgo": 130
+    "kbg": 87,
+    "kbgo": 129
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -1792,15 +1792,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
-      "pubDate": "2026-09-21T07:00:00+00:00",
-      "source": "ANTARA News",
-      "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkotaGlDVlRKVEVmcUw4NTVJaHdGakFGcFZHcjZ0ektNTHN0eDBJb3pJSHVzUFhsMjIwMmZMRXFPWGtkV3Juay1DR293MVpJaTZZa2ZyQlhNcGVLSXV4eWcwWEpqVHpHTlZPSzNKQnpBN3NiYVRrRTF4djNEdmZqd0xlVVB0YkwxeUZ0YW1teEFaa1RxUkZ3TG5nR2pOX3BrNVZIUGgweURSLTRORGc?oc=5",
       "pubDate": "2026-09-21T07:00:00+00:00",
@@ -1808,6 +1799,15 @@
       "description": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
+      "pubDate": "2026-09-21T07:00:00+00:00",
+      "source": "ANTARA News",
+      "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Anak kiai Jombang yang dihukum penjara, diam-diam bebas lebih awal, temuan BBC",
@@ -6828,8 +6828,8 @@
       "pubDate": "2026-02-06T08:00:00+00:00",
       "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
@@ -7224,6 +7224,15 @@
       "pubDate": "2024-10-02T07:00:00+00:00",
       "source": "Jabarprov",
       "description": "Kemen PPPA - UNFPA Gelar Pertemuan Koordinasi Penanganan Kekerasan Berbasis Gender di Garut",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "CATAHU 2022: Kekerasan terhadap Perempuan di Ranah Publik dan Negara: Minimnya Perlindungan dan Pemulihan",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLVl5WlNic0RTTTJSOGY2b3hEZlBjbUowUW1oV20zY3c4SzVFYUpFaV9MSmRXdUdjeHdyN29xa1dlRlJOUm1hVmRzZUN5RUd5WkVDTjVodTJmX3ltNE0xME4tZnRFRE1MazQ4OEVuWjZXbFBGd2xOT2dKY1Z5NDhDUnprTnp2blJXUHlIR3E3VGxtdm55MEZMcDRFRG9fQUNqZmdUbEtSLU9ObXdqRG84M2oydkR3MW83a3RxXzF4TmwzTWQwWmhuMUhGM0FqNW5zbktHT19MOUZxbnl3VnU4VEQ1VmdtTjJFVUtTVQ?oc=5",
+      "pubDate": "2024-09-24T13:34:35+00:00",
+      "source": "Komnas Perempuan",
+      "description": "CATAHU 2022: Kekerasan terhadap Perempuan di Ranah Publik dan Negara: Minimnya Perlindungan dan Pemulihan",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
