@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-23T10:55:07.133346+00:00",
-  "total": 809,
+  "updated_at": "2026-10-23T16:20:10.194942+00:00",
+  "total": 810,
   "stats": {
     "tpks": 220,
-    "kekerasan_seksual": 372,
+    "kekerasan_seksual": 373,
     "kbg": 87,
     "kbgo": 130
   },
@@ -60,6 +60,15 @@
       "pubDate": "2026-10-22T11:35:00+00:00",
       "source": "Ketik",
       "description": "HSN 2026, Waspada Tindakan Kekerasan dan Perilaku Seksual Menyimpang di Kalangan Santri",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Menjemput Indonesia Emas 2045: Menjaga Ruang Aman Pesantren",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaWZiNlZFanhQS3VFYW5lSld2T3FOQjFwZ3VzOWNhMFZXMUJfbzQ1T0RhdE9hZVd4QzBLcHJiZ2xha0JUaUowMnNmbTIwOGJ3RENhM2MzZ1lvMjRUcWp3YmFRQjM2T1pJc3dSeU9lcHA5OHBsOGwwU1hmNjBSZTFRNjlFVFRlbXh1UGxSdXdHYVhWT3pCNm84?oc=5",
+      "pubDate": "2026-10-22T08:30:00+00:00",
+      "source": "Kementerian Agama",
+      "description": "Menjemput Indonesia Emas 2045: Menjaga Ruang Aman Pesantren",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
