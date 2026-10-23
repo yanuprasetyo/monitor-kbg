@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-23T03:05:28.883495+00:00",
-  "total": 807,
+  "updated_at": "2026-10-23T10:55:07.133346+00:00",
+  "total": 809,
   "stats": {
     "tpks": 220,
-    "kekerasan_seksual": 371,
+    "kekerasan_seksual": 372,
     "kbg": 87,
-    "kbgo": 129
+    "kbgo": 130
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,11 +28,29 @@
   ],
   "articles": [
     {
+      "title": "Kekerasan Digital Terhadap Anak di Gresik Mencapai 15 Kasus Tahun Lalu, Orang Tua Harus Lebih Intensif Mendampingi",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV0hPX1BiZXpwMDJ3STFSWlpDdHc4REx5NUdPT054ZzBfaWszQmFwNTVUcGpPZEM5Q0hYSlhRRUZ2ZWFabUlxWW9Sb1N3bXR0QWNjTkNGSGluMUZzRFpNSHFXT2VtNEJPN3lkRTNsVWFmenlsYUZKbHJkX1JDM0JmbGduMUxITENvYUlpT21XQ0tBNmtQOWFUR0E0WUt1amxqTU1ydFpNSWg4QWp0TVZ2NlpYRmIyQV8tNFZTb2Vka0VpcXdDV3JiQ285OUdkR1ZSQ0FMZ1RHdXR1Q1hpU3V30gHkAUFVX3lxTE00VU9hUTdMejhGV2JVdW55YUhyd1VlR3M2d1JLY2xWX3M3U1FnVFF4ZlJwWGVPdUY2ZmhOMENLcDdvVHNyRkZ3bXlGb2RuU0l5SUZsQU1rSlBINWJraUM4QVFmSWw0QkdlaWpnOXFYcVVaelQwVGNXWDJhdy1XSkQ3Zk04azFIU2Z1Uk9pVVVfSFNhQ3NrMVY0ZWxGZlVsLXh0MHJIcGk5TUxwSDZpUkZHMHVuN3VhZmJQNjNVYzB5S3hfZG5STm11T0pDX2FLb0lLODFvZm5lQy1fcnlYLTNfaGZqUA?oc=5",
+      "pubDate": "2026-10-22T21:10:00+00:00",
+      "source": "KlikJatim",
+      "description": "Kekerasan Digital Terhadap Anak di Gresik Mencapai 15 Kasus Tahun Lalu, Orang Tua Harus Lebih Intensif Mendampingi",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Akademisi Unimus berinovasi menyusun buku ajar digital cegah kekerasan di kampus",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkY5UndsS1VLUVlaVk9xWHFwZTRJZktHVVJVRENGa0NQM2FCY0JXUTVxZThKSXJmc0NWME0yOHZiYXl5RW9pVUVWamRMNTFSem5VYjFTbFExNjgwNWt5MWpRellOMzlMUzdJM21WS3NqUWM4TUgtdlloeVZlMkFlRnBfY2NMYm9HeU5MbE5sM0xDa09Bc3c2ZzdvcVplemN1T0FqV2NnVWxCUGRoOHh5V2prN29nZEg2dGtLQ1ZCUFVYUQ?oc=5",
       "pubDate": "2026-10-22T12:10:30+00:00",
       "source": "ANTARA News Jateng",
       "description": "Akademisi Unimus berinovasi menyusun buku ajar digital cegah kekerasan di kampus",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Dokter di Bandung ditangkap, diduga cabuli anak kandung berusia balita",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mdndld1IxYWpIaFlzRVVvTmJOSTQtWGpQR3AwaHh4RHpBUDh4ODNOLXlZdUFWNFRBeG1wYmJGd09va1ZKb3JhbVQyTm5TX1FMaFhjdEp0eUtsN0h0STNBRFRR0gFnQVVfeXFMTnJMTHY4ZkZmSWo3d3FrUEF1clpSQVdXNDV6RmlUbUttWGxOeF82YnVfQTBCUEU0eFlUR1NNOUNiY0NuZXdENFFoZE9LeWYtdm1GVTJZLWhxbHVxb3lXY2prSnVtZUJvNA?oc=5",
+      "pubDate": "2026-10-22T12:06:09+00:00",
+      "source": "BBC",
+      "description": "Dokter di Bandung ditangkap, diduga cabuli anak kandung berusia balita",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
@@ -775,15 +793,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Ormawa PIK R CAKRA UNS Berkolaborasi dengan Forum anak dalam edukasi KBGO Halaman all",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekNPOFBVdUpHblNaMFdsMzRsaG1pcndFV3UwYWluT2hRTTRmQ2FOQVVqNjdOLTFMeGJJbC14cUhGV2ZPX05HUm05VVpYTWlJZ1d1SDljR1RjYW9YT3NXSWJQdGFkZmMtUGVqUm80V0dvTENnUzdUV3NBSkJSdlJ2VGM2cWhyZ2w0MTJFT2ZjSjNvdDlxLWkyaU9Hb2c?oc=5",
-      "pubDate": "2026-10-02T14:09:21+00:00",
-      "source": "Kompasiana.com",
-      "description": "Ormawa PIK R CAKRA UNS Berkolaborasi dengan Forum anak dalam edukasi KBGO Halaman all",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Ormawa PIK R CAKRA UNS Halaman 1",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEx4NlNIWl9ma19mYlVFTmlCdFowa3U0Nmh0WHlKYXRkZXhRUU93QWp5QklBODV4SDRoZDBvRlRuY05zUk9ieWtiRTJ3Q0FuSlR3dWkyZDhmVVNBRWxZS2dxU1U5TV9fYXhiZ2FwQXItWXV3TWpCX3c0VVpfamd1ajJrWnU2ZnRXLWh5NVRpRl8?oc=5",
       "pubDate": "2026-10-02T14:09:21+00:00",
@@ -800,6 +809,15 @@
       "description": "Guru ICM Tersangka Kasus Pelecehan Seksual Anak Resmi Ditahan",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Ormawa PIK R CAKRA UNS Berkolaborasi dengan Forum anak dalam edukasi KBGO Halaman all",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekNPOFBVdUpHblNaMFdsMzRsaG1pcndFV3UwYWluT2hRTTRmQ2FOQVVqNjdOLTFMeGJJbC14cUhGV2ZPX05HUm05VVpYTWlJZ1d1SDljR1RjYW9YT3NXSWJQdGFkZmMtUGVqUm80V0dvTENnUzdUV3NBSkJSdlJ2VGM2cWhyZ2w0MTJFT2ZjSjNvdDlxLWkyaU9Hb2c?oc=5",
+      "pubDate": "2026-10-02T07:00:00+00:00",
+      "source": "Kompasiana.com",
+      "description": "Ormawa PIK R CAKRA UNS Berkolaborasi dengan Forum anak dalam edukasi KBGO Halaman all",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Siri’ Mandar Jangan Jadi Alasan Bungkam Korban Kekerasan",
@@ -6619,7 +6637,7 @@
       "title": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVyMjZCUUNzT0NJdlVoQ1hFT0RwTkRINGlNU1Y2UG9KU1Q4eTUyeHBfUnpHdTREWkRYTFFUVDJIc3A2YVRFSDVNR3VBYzNTOGlOSXdQV19HLVhSSWdjV01xc2tOYm1SRzhnalVMTlVLX2tSWTh5bHYwMUlVemlYUXVKay1RSC05T2RSdnJMVjM0UHdaSmFBV05YMFpvTWdsNUNYdmVoUHBCWEpLbjNMRkdRWm92XzJvYUowTlJaNUQ5UXMyRUhYbzQ0UnlfckszQzc5cVpSVTJMQmlWRkQ5THpqSQ?oc=5",
       "pubDate": "2026-03-30T07:00:00+00:00",
-      "source": "unicef",
+      "source": "Unicef",
       "description": "Evaluasi Program Pencegahan & Penanganan Kekerasan & Eksploitasi Seksual pada Anak di Ranah Daring",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
