@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-24T10:09:56.712408+00:00",
-  "total": 817,
+  "updated_at": "2026-10-24T15:16:57.417291+00:00",
+  "total": 818,
   "stats": {
-    "tpks": 220,
+    "tpks": 221,
     "kekerasan_seksual": 373,
     "kbg": 85,
     "kbgo": 139
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Empat Tahun UU TPKS, Kemen PPPA Perkuat Kolaborasi untuk Memastikan Hak Korban Terpenuhi",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdFpOU1IzdmdSVS1TaDBFZGlmUzllQm9vNDNXY2JtWUlycXg0djE4c1U0TGY4eWJnaVkzWXFnRlMyZjVxeHZpVVRWbE9jc0xZcHRtOXlSQkRESkY4aDgxeGxIZVFsRXFwczFsbk9GVzdhSEhWN2xndldDN1FWQ0xRRkNHM3E1SHR6eWJVWEVyOXE1bzlmdFNUUWJyMHY3WlBvU1dDTGVhSzNTM2lHQ3VCVVAzX1lGbV85clA5UEw4R2dxOXhqREM4OXREYWwtdw?oc=5",
+      "pubDate": "2026-10-24T06:54:54+00:00",
+      "source": "Kemen PPPA",
+      "description": "Empat Tahun UU TPKS, Kemen PPPA Perkuat Kolaborasi untuk Memastikan Hak Korban Terpenuhi",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Percepat Pemulihan Pascabencana di Sumatra dan Aceh, Kemen PPPA Perkuat Perlindungan Perempuan dan Anak",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUjdmSGotTHhqWG0yV1haaWMtTXlTd0NSdm5ubVZqeDFqOVc1TEpyUXNwVTNNWEtMRzRfTWVFT0M0M05seDRtTXlDa0RGWmQtOS1EUWVJeXdhczJnMmx6SWgyWTZveVJyZXZ1b09fRFFYdVZGNWtBdjFReVdpX184UzJtZlllUUJMa3IzSEhSLUdvWXc1TlFjRjdKQ3NtY2w2VkhiNUs1UFdKSnp0WHk5b3RSblBsZFp1WklSbFRIeGtIT0tfZUV0eWpVNzFUNFBId3hiNXFuYjM2WFp5MWt0bzdB?oc=5",
@@ -93,7 +102,7 @@
     {
       "title": "Empat Tahun UU TPKS: Restitusi Mandek, Pemulihan Korban Minim",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY0UwS2lJemFPNmlLWTAxbFZORnp3X2l1cnFNQUJGLUkxWkhnY01ZU09TdmF2Y2NHX2ZfYmNsSGd2b1kwaVNWaDh2eVdaVmVaT2ZPTDNYbWFubmdmNlJCUl9MeU9RY09FQUNIZXRPVUliQUVsMGpvOU45bWlqSk02LXctX3lXeHBJ?oc=5",
-      "pubDate": "2026-10-22T04:04:23+00:00",
+      "pubDate": "2026-10-22T04:00:00+00:00",
       "source": "Tirto.id",
       "description": "Empat Tahun UU TPKS: Restitusi Mandek, Pemulihan Korban Minim",
       "keyword_id": "tpks",
