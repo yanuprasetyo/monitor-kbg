@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-25T02:55:08.856707+00:00",
-  "total": 820,
+  "updated_at": "2026-10-25T10:35:11.529770+00:00",
+  "total": 821,
   "stats": {
-    "tpks": 222,
-    "kekerasan_seksual": 374,
+    "tpks": 221,
+    "kekerasan_seksual": 376,
     "kbg": 85,
     "kbgo": 139
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Penyalahgunaan Wewenang dan Kekerasan Seksual: Mengembalikan Fungsi Pendidikan",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU09MOE1URE1FQW1haEp1cUZVXy1XYXZzYVZ3YjJHUDcxbW1PS0s0c3FhRElHeF82RFBpVXBKd3M3OEFuTlU1MzkxYUxHYkFmNThNZV8yU1k2MmNqbklFZlMwbi1mWTBONkp0bTVXSWVDNjZwU0w2UmpaTUFnS24xR3d4WmdSSnpqd3ZLRHJ2d0pFSUpBc0JVaUxHSWxLN21taDVBWElLeXFnM1hTQ3VwT3R2bw?oc=5",
+      "pubDate": "2026-10-25T07:16:01+00:00",
+      "source": "Radar Indonesia News",
+      "description": "Penyalahgunaan Wewenang dan Kekerasan Seksual: Mengembalikan Fungsi Pendidikan",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Kasus Dugaan Kekerasan Seksual terhadap Perempuan Disabilitas di Lampung Selatan",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVBRZEVSd1JYem1FWnBDUFpUcDkxOGJQY05hYV9mUkdpVzRJbHFULWhlT0pBMUpXVW9yQzVON1NqUVZ4R3lQU0tCdDJQWU1oQzQ0bVJ0U29hcnlrcVdWV0JoZDRzVXhyQnozLV9sc1dHd3VEM2hLVUNJNTktdW1EX2ZnVVZWdzJVTUdaMllhdUFXVHRaSGhnYnhQY1FTckNzRHFTT0ZvcWJudUlDdG9EUEpIb0FvUQ?oc=5",
@@ -712,15 +721,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzlZQlNMdVVZQ0pvUktobmRKX3NBeUpCeWFCVVFGSFV2TDdqbzdZel9vM3pHSENXclpCRjVyUFdZcThYQVVqSDFER3c4bTNzMWRzUFIyLWNJWlo4d1lIMHNvSnlHX0hvbFNGWVhzWWZfZnp2dnlic2pOY3VuWkc5Y2dIR2h3YUxfTl9WNGFsUEZ1UQ?oc=5",
-      "pubDate": "2026-10-05T07:00:00+00:00",
-      "source": "Prohealth.id",
-      "description": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGQta3lVQXM4UUhQLWhXSkZvQVdXbWNLWmZ2QnFrSXBocW56SzRXX1dWal9LdkoxMW9ONmYyc0FqVXBCNEtGbElRNkRUY1hodjVYYnFtbkZPdGlxMTF5U2tCcUpjd1FLaTFZNzNCYzFoWmhSUXBnSTIzSWtpMk5vR3V4Tzh4eGE3RGpBX0wzOFVMbWUxeEFPV2dab1JJUVB3NGJTQWhoR2XSAasBQVVfeXFMTUVMNTVpZXBpaTVOU2xjaWZCM1VHZjdfUERYeUNXSTBZSEtXSEo5M2J6dmpkdmU5XzlXbHZiQmhxSUVwLTBrR1VVVXBGSWZVVHpCcFgwQU0zY1J5bTh0aFZXWlkwSTloSHVjUzZmUFI5Q3M1MUh6b2tlU2o5b04zY0ljeW9jMmtvOVBrWVp3d2tJTzhtWkdWSFBDZUFjMFRmSTdJRW1LTGxlWkxV?oc=5",
       "pubDate": "2026-10-05T07:00:00+00:00",
@@ -737,6 +737,15 @@
       "description": "Apa yang harus dilakukan jika menemukan pelecehan di grup chat?",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzlZQlNMdVVZQ0pvUktobmRKX3NBeUpCeWFCVVFGSFV2TDdqbzdZel9vM3pHSENXclpCRjVyUFdZcThYQVVqSDFER3c4bTNzMWRzUFIyLWNJWlo4d1lIMHNvSnlHX0hvbFNGWVhzWWZfZnp2dnlic2pOY3VuWkc5Y2dIR2h3YUxfTl9WNGFsUEZ1UQ?oc=5",
+      "pubDate": "2026-10-05T07:00:00+00:00",
+      "source": "Prohealth.id",
+      "description": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
@@ -1315,15 +1324,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Belasan korban baru berani bersuara setelah investigasi BBC",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJWVM1UlZEeGF2eEtUT3VRUGhRWi14clVkVW5DWnhRb1E5SVA4ajNKZXlaT0E1eWdmSXpHLWliTENQSWk0SjFETmRxSXMyNDZSZGw4eGZJanIwWXlMUXJ4UGRB0gFnQVVfeXFMT2l5RF9GRUY4V2lRUFlHS01TamhwSjZIWUJzMzdoTmQxeTdYblhZT0lvTXJOR0JVb2FERTZsYVlHRlJHUTlyV2hCZkw0NWtzcUtBM3BjblpCcld0S0ttVjZ5ck9KaG1pWQ?oc=5",
-      "pubDate": "2026-09-28T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Belasan korban baru berani bersuara setelah investigasi BBC",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0M5WEtHMWdpdnZCZDdodWFvUElnYXQ4Umo2Q3dBTWUwSDkzaTduREJfT0FfUWljWVVMdHgzaWNWeUQ4WTBCN1Y4YlRYNTA1RW1ORkkyNmlVV21Yenl6bkZLalR0N29wTlNCNGZnbHZnVFVrRWJ6MDNlWjd4cHFvb3BWRWZMeHJzZEtYR0NDdzd5VnhWRXNIWHQzOEtnUUZyanJFbFlHdWhKbUkxVGt4VVNOSXlYMEo3aW5LVlU4ajJCUC1t0gHDAUFVX3lxTFAwdGZNMFVscG50TVdNU1o0c2xiVEtnQzBtbEJHdElGWE5sclhFNVA0NjBxMlJGNjFqYnNCT3JObnFzZFN4V3NseUVOVGJzX1VWamNQYUJFckNuQy1sUF9UOHN3WlRQRmQ4WWxZNkRkUkstRDVHX3NuVllwNk9sUDVhMVowczVtU0hLV2h0S3RTOFVNNy1xM2ZSMEg0b3VTcVlVWnJfeDhJb0diYTV1Y0FZY1l4WmktS3BWQ3ZkOXNMVnpISQ?oc=5",
       "pubDate": "2026-09-28T07:00:00+00:00",
@@ -1331,6 +1331,15 @@
       "description": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Belasan korban baru berani bersuara setelah investigasi BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJWVM1UlZEeGF2eEtUT3VRUGhRWi14clVkVW5DWnhRb1E5SVA4ajNKZXlaT0E1eWdmSXpHLWliTENQSWk0SjFETmRxSXMyNDZSZGw4eGZJanIwWXlMUXJ4UGRB0gFnQVVfeXFMT2l5RF9GRUY4V2lRUFlHS01TamhwSjZIWUJzMzdoTmQxeTdYblhZT0lvTXJOR0JVb2FERTZsYVlHRlJHUTlyV2hCZkw0NWtzcUtBM3BjblpCcld0S0ttVjZ5ck9KaG1pWQ?oc=5",
+      "pubDate": "2026-09-28T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Belasan korban baru berani bersuara setelah investigasi BBC",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Regulasi Layanan Kesehatan bagi Korban Kekerasan Seksual yang Hamil Belum Diketahui Masyarakat Luas",
@@ -6468,8 +6477,8 @@
       "pubDate": "2026-04-17T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Tak Cukup Satgas, Kampus Perlu Penguatan Kurikulum Anti Kekerasan Seksual",
