@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-25T10:35:11.529770+00:00",
-  "total": 821,
+  "updated_at": "2026-10-25T15:26:53.942180+00:00",
+  "total": 822,
   "stats": {
     "tpks": 221,
-    "kekerasan_seksual": 376,
+    "kekerasan_seksual": 377,
     "kbg": 85,
     "kbgo": 139
   },
@@ -6182,6 +6182,15 @@
       "description": "‘Terkejut, Bingung, dan Takut’: Saat AI Jadi Alat Kekerasan Seksual",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Laporan Pemantauan Komnas Perempuan Terhadap Kekerasan Seksual di Lingkungan Pondok Pesantren di NTB: Upaya Penguatan Negara dalam Perlindungan Korban dan Pencegahan Kekerasan Berbasis Agama",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOR1hhZ0p1dVI0aWtXMnQ2b2l0bk5sOXh1dGtJWlFXci1wQXRvNXdHdDR5V1FyeVpqcE5Bc2JHSkRNb1ZhWm56N0xmSHh5ZnZfYy1GR19VQlVEN2VjcncyVkRiS2p1cHlKbVB5RFZYTVlHc2prOTJjdjdlRkNFd1pra0hXQkVoaXdFb29DOHVsUVhWR0VSbHVPUHp1Q3owdHNrX25WZ2xLRUhOZWlTVGFqOEVLT05PZWtUaHZsSkhIdEhiUnNMZU12c3pZaW5jTkFXVnJ2bkZKMlpXR1dqZ1JHdE13UnBCS0dPWXczOEREQ25qcWt6bHJKREpqUEppd2JOZFBDbXdUMmxiQ1JkNzh4RHE5Y0VHRi15ZE9ZS0NpUHVNemU1aDlRY01VZEhaaTZYUE05Z2d2aks4SVhnOWZ5eXFaemFYMThxWVV3VGxQUTVERm5rNTdXaG1fNmlvZnFZQzR5enV2ZHc?oc=5",
+      "pubDate": "2026-05-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Laporan Pemantauan Komnas Perempuan Terhadap Kekerasan Seksual di Lingkungan Pondok Pesantren di NTB: Upaya Penguatan Negara dalam Perlindungan Korban dan Pencegahan Kekerasan Berbasis Agama",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Marak Kekerasan Seksual di Lingkungan Pesantren, Sosiolog UGM Dorong Penguatan Sistem Pelaporan dan Pengawasan",
