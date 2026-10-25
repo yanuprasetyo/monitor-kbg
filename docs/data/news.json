@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T15:26:53.942180+00:00",
+  "updated_at": "2026-10-25T20:18:33.103087+00:00",
   "total": 822,
   "stats": {
     "tpks": 221,
@@ -316,20 +316,20 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "28 Tahun Komnas Perempuan di Mata Orang Muda",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0dVUW1aeHJaVkpTMmRJcGRYajJ4bXFDTExyenlpX3ZSamxUME45emE5YzNHREQ0ZlRlZDZIaFN2T1JfaDF3a3RQZ1VTSXM5OEU0MmlXT1o2c3U4VDBMZEdGZ094ckVOOFBsbFBGUHh5RHZnWmVRMFBhWFY2bF83X25NaUpHdGFZR1hMTHNnY3VlZmNqY21lMXh2SlhqQQ?oc=5",
-      "pubDate": "2026-10-15T09:23:05+00:00",
-      "source": "Komnas Perempuan",
-      "description": "28 Tahun Komnas Perempuan di Mata Orang Muda",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "28 Tahun Komnas Perempuan: Merawat Ingatan, Menyambung Perjuangan Lintas Generasi",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPajdaTjBaUS13WlBidkplR0YtWmF1ZEN1MDA5Tk1HQ2NIV2JzQ19QejFlUUxzQ29PYU92T3pfd3dEYTFZM05yVDJtVFNNbzI0VzZ5Um1qZzdaUEF4NDhoQ3FaN2lFbHdQZVpHZFhhaUdvVmlSb1daeDVrY3FKbFpqUFRORkloY3gzdWNIMWtTR0hXbUJURE54TV9KY0N1Y0VUYkJHMFpMVVF4cWhvSFpSOWhvWE5CbUNndlJXcmZsU1lIcmR3bEdxWmt4eXk?oc=5",
       "pubDate": "2026-10-15T08:52:54+00:00",
       "source": "Komnas Perempuan",
       "description": "28 Tahun Komnas Perempuan: Merawat Ingatan, Menyambung Perjuangan Lintas Generasi",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "28 Tahun Komnas Perempuan di Mata Orang Muda",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0dVUW1aeHJaVkpTMmRJcGRYajJ4bXFDTExyenlpX3ZSamxUME45emE5YzNHREQ0ZlRlZDZIaFN2T1JfaDF3a3RQZ1VTSXM5OEU0MmlXT1o2c3U4VDBMZEdGZ094ckVOOFBsbFBGUHh5RHZnWmVRMFBhWFY2bF83X25NaUpHdGFZR1hMTHNnY3VlZmNqY21lMXh2SlhqQQ?oc=5",
+      "pubDate": "2026-10-15T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "28 Tahun Komnas Perempuan di Mata Orang Muda",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
@@ -721,6 +721,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzlZQlNMdVVZQ0pvUktobmRKX3NBeUpCeWFCVVFGSFV2TDdqbzdZel9vM3pHSENXclpCRjVyUFdZcThYQVVqSDFER3c4bTNzMWRzUFIyLWNJWlo4d1lIMHNvSnlHX0hvbFNGWVhzWWZfZnp2dnlic2pOY3VuWkc5Y2dIR2h3YUxfTl9WNGFsUEZ1UQ?oc=5",
+      "pubDate": "2026-10-05T07:00:00+00:00",
+      "source": "Prohealth.id",
+      "description": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGQta3lVQXM4UUhQLWhXSkZvQVdXbWNLWmZ2QnFrSXBocW56SzRXX1dWal9LdkoxMW9ONmYyc0FqVXBCNEtGbElRNkRUY1hodjVYYnFtbkZPdGlxMTF5U2tCcUpjd1FLaTFZNzNCYzFoWmhSUXBnSTIzSWtpMk5vR3V4Tzh4eGE3RGpBX0wzOFVMbWUxeEFPV2dab1JJUVB3NGJTQWhoR2XSAasBQVVfeXFMTUVMNTVpZXBpaTVOU2xjaWZCM1VHZjdfUERYeUNXSTBZSEtXSEo5M2J6dmpkdmU5XzlXbHZiQmhxSUVwLTBrR1VVVXBGSWZVVHpCcFgwQU0zY1J5bTh0aFZXWlkwSTloSHVjUzZmUFI5Q3M1MUh6b2tlU2o5b04zY0ljeW9jMmtvOVBrWVp3d2tJTzhtWkdWSFBDZUFjMFRmSTdJRW1LTGxlWkxV?oc=5",
       "pubDate": "2026-10-05T07:00:00+00:00",
@@ -737,15 +746,6 @@
       "description": "Apa yang harus dilakukan jika menemukan pelecehan di grup chat?",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzlZQlNMdVVZQ0pvUktobmRKX3NBeUpCeWFCVVFGSFV2TDdqbzdZel9vM3pHSENXclpCRjVyUFdZcThYQVVqSDFER3c4bTNzMWRzUFIyLWNJWlo4d1lIMHNvSnlHX0hvbFNGWVhzWWZfZnp2dnlic2pOY3VuWkc5Y2dIR2h3YUxfTl9WNGFsUEZ1UQ?oc=5",
-      "pubDate": "2026-10-05T07:00:00+00:00",
-      "source": "Prohealth.id",
-      "description": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
@@ -7321,7 +7321,7 @@
       "title": "Perempuan Jadi Garda Depan Perlindungan Anak di Ruang Digital",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX21uMW9UNnVTQ3hqRURGOURDWV9KeDBBRlVPelluWFlCYkpwVGRnZXJlckxla2pQZjNaWERleWQteUJjaHhQUnkwSXNhZzJMcndBd0xuc0dZMTRsWWJzRk9SaXV0TmpabjBYZS1Uek5pdXMtMjA5OG5SLWpHTEwzWjh4eE9SYVc0em9reW85eEV2WmNUU1pvR09Yc1ViX2d5TzVYLTNKSFFuaE9USUo4ZmROWQ?oc=5",
       "pubDate": "2025-05-07T07:00:00+00:00",
-      "source": "Kementerian Komunikasi dan Digital",
+      "source": "Komdigi",
       "description": "Perempuan Jadi Garda Depan Perlindungan Anak di Ruang Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
