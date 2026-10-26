@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25T20:18:33.103087+00:00",
-  "total": 822,
+  "updated_at": "2026-10-26T02:53:34.025970+00:00",
+  "total": 823,
   "stats": {
     "tpks": 221,
     "kekerasan_seksual": 377,
     "kbg": 85,
-    "kbgo": 139
+    "kbgo": 140
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Putus Mata Rantai Kekerasan",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuOGhDYlJaZ0I4T01hWmMtS1AxRlkwOHprYi0yOXNhVzA2Q0tPQ0t1aEh1QXBuOFBPV0phOFdQRFh4Rm5LNEQwRTZ4YXdZWW5oMVRyT0dnT3dGRGFzOHRIV1VxX0w2OEt5R2Jjcg?oc=5",
+      "pubDate": "2026-10-25T21:48:18+00:00",
+      "source": "SUARANTB.com",
+      "description": "Putus Mata Rantai Kekerasan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
     {
       "title": "Penyalahgunaan Wewenang dan Kekerasan Seksual: Mengembalikan Fungsi Pendidikan",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU09MOE1URE1FQW1haEp1cUZVXy1XYXZzYVZ3YjJHUDcxbW1PS0s0c3FhRElHeF82RFBpVXBKd3M3OEFuTlU1MzkxYUxHYkFmNThNZV8yU1k2MmNqbklFZlMwbi1mWTBONkp0bTVXSWVDNjZwU0w2UmpaTUFnS24xR3d4WmdSSnpqd3ZLRHJ2d0pFSUpBc0JVaUxHSWxLN21taDVBWElLeXFnM1hTQ3VwT3R2bw?oc=5",
@@ -730,6 +739,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1dvbm90dkRRT3JJTlRGQ0hqTXhVUFBtb1pMZW1HRWkxT1RSOHNzWlM5Y2RNMzNwRUJGeG1XbUhlOE1hcks0QlAwbVR2MWVhNUk4SHFPLUkxX0d4eUFhaEY1amVVLV9pZ00wNU9rTmh5TFNhTHRjNERVZEtDT0VmUmZNaWc?oc=5",
+      "pubDate": "2026-10-05T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGQta3lVQXM4UUhQLWhXSkZvQVdXbWNLWmZ2QnFrSXBocW56SzRXX1dWal9LdkoxMW9ONmYyc0FqVXBCNEtGbElRNkRUY1hodjVYYnFtbkZPdGlxMTF5U2tCcUpjd1FLaTFZNzNCYzFoWmhSUXBnSTIzSWtpMk5vR3V4Tzh4eGE3RGpBX0wzOFVMbWUxeEFPV2dab1JJUVB3NGJTQWhoR2XSAasBQVVfeXFMTUVMNTVpZXBpaTVOU2xjaWZCM1VHZjdfUERYeUNXSTBZSEtXSEo5M2J6dmpkdmU5XzlXbHZiQmhxSUVwLTBrR1VVVXBGSWZVVHpCcFgwQU0zY1J5bTh0aFZXWlkwSTloSHVjUzZmUFI5Q3M1MUh6b2tlU2o5b04zY0ljeW9jMmtvOVBrWVp3d2tJTzhtWkdWSFBDZUFjMFRmSTdJRW1LTGxlWkxV?oc=5",
       "pubDate": "2026-10-05T07:00:00+00:00",
@@ -746,15 +764,6 @@
       "description": "Apa yang harus dilakukan jika menemukan pelecehan di grup chat?",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1dvbm90dkRRT3JJTlRGQ0hqTXhVUFBtb1pMZW1HRWkxT1RSOHNzWlM5Y2RNMzNwRUJGeG1XbUhlOE1hcks0QlAwbVR2MWVhNUk4SHFPLUkxX0d4eUFhaEY1amVVLV9pZ00wNU9rTmh5TFNhTHRjNERVZEtDT0VmUmZNaWc?oc=5",
-      "pubDate": "2026-10-05T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "FSGI Catat 100 Kasus Kekerasan di Sekolah Sepanjang 2026, Mayoritas Seksual",
@@ -1207,20 +1216,20 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "Kompas.com",
-      "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWU9yclNPbGU4SmcyM1VuX21rVTlXU09aaUthaUtpMndPcHd4RGF0RTA2QTU5b3NVNkREazZNZ0NxTXdOemlEQnpKc3VYSXQ0T1FiYm1zVEpUYXBRYzBFSzNFaENLdTlDMzlHTURBTzBpMWVRSmpGWk1zX0VUX3BCSTJWUDF3T21xcGV0d0Rfek9XN3Y5X25TaEVSZ2JWTWNRaDA3RE9wb3R1RWlZQlpv0gG0AUFVX3lxTE5sSVR0YjB6b00yWU9yY2FDYm9rcHdmQUpHY3FILWJQdWhMbHRtU0EtM3BVdHpLdnBGNExWMmJVZmh5T000NmZ6YVd1RWFVamRCcDYtcTZpZzVkRnRWRTcyOVAtdnl6SUtjZ29qWFBSMmxaenhMRlpJU2g1SE8wV3dhejQzTjAxOUxhUl9BSG5ia2NEaDFfNlNWUUtjX3NYOVlmX185bnRGcWpzb2RwUmkyeDAzSA?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
       "source": "Espos.id",
       "description": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkJkN09qS3ktcG9XbzRncElvNjBWUFUyM2cweGc2ZFE1a01rSWhrSC1QR2JNSFkzNklKV210bWE2RVktWEFEamUzQUM3OG5qVW9BTFVOalVac0dwZmdjN1p2YURvdjlFWXF1eGVMd3pWaTYwcl9GUVdWNzh1MC1uUnEwQTVIMWtKUlhJN1k2ZEJNUVFQeUNXZ3JtZ2tUMFhuZnhXRkRkOUtuWXpuamhFWQ?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Kompas.com",
+      "description": "Kasus KBGO, Fakultas Teknik UGM Nonaktifkan 10 Mahasiswa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -1324,15 +1333,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0M5WEtHMWdpdnZCZDdodWFvUElnYXQ4Umo2Q3dBTWUwSDkzaTduREJfT0FfUWljWVVMdHgzaWNWeUQ4WTBCN1Y4YlRYNTA1RW1ORkkyNmlVV21Yenl6bkZLalR0N29wTlNCNGZnbHZnVFVrRWJ6MDNlWjd4cHFvb3BWRWZMeHJzZEtYR0NDdzd5VnhWRXNIWHQzOEtnUUZyanJFbFlHdWhKbUkxVGt4VVNOSXlYMEo3aW5LVlU4ajJCUC1t0gHDAUFVX3lxTFAwdGZNMFVscG50TVdNU1o0c2xiVEtnQzBtbEJHdElGWE5sclhFNVA0NjBxMlJGNjFqYnNCT3JObnFzZFN4V3NseUVOVGJzX1VWamNQYUJFckNuQy1sUF9UOHN3WlRQRmQ4WWxZNkRkUkstRDVHX3NuVllwNk9sUDVhMVowczVtU0hLV2h0S3RTOFVNNy1xM2ZSMEg0b3VTcVlVWnJfeDhJb0diYTV1Y0FZY1l4WmktS3BWQ3ZkOXNMVnpISQ?oc=5",
-      "pubDate": "2026-09-28T07:00:00+00:00",
-      "source": "iNews.ID",
-      "description": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Belasan korban baru berani bersuara setelah investigasi BBC",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJWVM1UlZEeGF2eEtUT3VRUGhRWi14clVkVW5DWnhRb1E5SVA4ajNKZXlaT0E1eWdmSXpHLWliTENQSWk0SjFETmRxSXMyNDZSZGw4eGZJanIwWXlMUXJ4UGRB0gFnQVVfeXFMT2l5RF9GRUY4V2lRUFlHS01TamhwSjZIWUJzMzdoTmQxeTdYblhZT0lvTXJOR0JVb2FERTZsYVlHRlJHUTlyV2hCZkw0NWtzcUtBM3BjblpCcld0S0ttVjZ5ck9KaG1pWQ?oc=5",
       "pubDate": "2026-09-28T07:00:00+00:00",
@@ -1340,6 +1340,15 @@
       "description": "Belasan korban baru berani bersuara setelah investigasi BBC",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0M5WEtHMWdpdnZCZDdodWFvUElnYXQ4Umo2Q3dBTWUwSDkzaTduREJfT0FfUWljWVVMdHgzaWNWeUQ4WTBCN1Y4YlRYNTA1RW1ORkkyNmlVV21Yenl6bkZLalR0N29wTlNCNGZnbHZnVFVrRWJ6MDNlWjd4cHFvb3BWRWZMeHJzZEtYR0NDdzd5VnhWRXNIWHQzOEtnUUZyanJFbFlHdWhKbUkxVGt4VVNOSXlYMEo3aW5LVlU4ajJCUC1t0gHDAUFVX3lxTFAwdGZNMFVscG50TVdNU1o0c2xiVEtnQzBtbEJHdElGWE5sclhFNVA0NjBxMlJGNjFqYnNCT3JObnFzZFN4V3NseUVOVGJzX1VWamNQYUJFckNuQy1sUF9UOHN3WlRQRmQ4WWxZNkRkUkstRDVHX3NuVllwNk9sUDVhMVowczVtU0hLV2h0S3RTOFVNNy1xM2ZSMEg0b3VTcVlVWnJfeDhJb0diYTV1Y0FZY1l4WmktS3BWQ3ZkOXNMVnpISQ?oc=5",
+      "pubDate": "2026-09-28T07:00:00+00:00",
+      "source": "iNews.ID",
+      "description": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Regulasi Layanan Kesehatan bagi Korban Kekerasan Seksual yang Hamil Belum Diketahui Masyarakat Luas",
@@ -5689,15 +5698,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "CATAHU 2025: MENGUATKAN DATA, MENGATASI KERENTANAN, MENDESAK NEGARA BERSIKAP UNTUK KEADILAN KORBAN",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLW5UMzI1czdwOFJua2t5NUNkX0k1VE5rRmFLREJPVzJ1SW5qeWRYSDluMU9QMVpud0hYRHpkeFNpb01jU09rSDJQOVhLSzBiUS1GejhRNEdpSXVLOXFSOGF6UlpPWmRsVlZwV2F5ekFKTC04WVpPOE96Zm5fSnpaQ0FNdTJJMm15TkE0cVI3V1gtdDk4XzRQRlFNNFRlWWtLTzZuWTJValJoY1ptamhjcktha0o3ZmMxeTdNMXd0ZVhjeUtKQnNKLUtyZUg4d053T2dqN2pLSHNCWDdRdjVtRGl3?oc=5",
-      "pubDate": "2026-06-23T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "CATAHU 2025: MENGUATKAN DATA, MENGATASI KERENTANAN, MENDESAK NEGARA BERSIKAP UNTUK KEADILAN KORBAN",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Jumlah Kasus Masih Tinggi, Pemkab Lobar Gandeng Jaringan CSO Tekan Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSk56RnhkTFRTNVVXWDhHLTdkQlBlRkNULS1QcFU5Q3hDM093M2NGbGR6VE01b2xGNDZXaEtmNUVKb0NPLWlUenVsdmVNMEpGSUV6ZHZ0NnpnUzFkRktKWG1rbjJic1VXNW5EQzI3d242NktTQ0FrUUpHWnRwcFRvVG5xcW9DQld2bTBHOWFXWnJBdDJGd1pYTXBWYktmWTI2WDNMY0JXMDk0YUNDejFXSk1aLXFuRmI4VEdldzJYZHBWdw?oc=5",
       "pubDate": "2026-06-23T07:00:00+00:00",
@@ -5705,6 +5705,15 @@
       "description": "Jumlah Kasus Masih Tinggi, Pemkab Lobar Gandeng Jaringan CSO Tekan Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "CATAHU 2025: MENGUATKAN DATA, MENGATASI KERENTANAN, MENDESAK NEGARA BERSIKAP UNTUK KEADILAN KORBAN",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLW5UMzI1czdwOFJua2t5NUNkX0k1VE5rRmFLREJPVzJ1SW5qeWRYSDluMU9QMVpud0hYRHpkeFNpb01jU09rSDJQOVhLSzBiUS1GejhRNEdpSXVLOXFSOGF6UlpPWmRsVlZwV2F5ekFKTC04WVpPOE96Zm5fSnpaQ0FNdTJJMm15TkE0cVI3V1gtdDk4XzRQRlFNNFRlWWtLTzZuWTJValJoY1ptamhjcktha0o3ZmMxeTdNMXd0ZVhjeUtKQnNKLUtyZUg4d053T2dqN2pLSHNCWDdRdjVtRGl3?oc=5",
+      "pubDate": "2026-06-23T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "CATAHU 2025: MENGUATKAN DATA, MENGATASI KERENTANAN, MENDESAK NEGARA BERSIKAP UNTUK KEADILAN KORBAN",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "LBH Apik Desak Penyekap Wanita di Bandung Juga Dijerat UU TPKS",
