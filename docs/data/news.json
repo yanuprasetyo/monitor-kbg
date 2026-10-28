@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-28T03:42:38.358317+00:00",
-  "total": 832,
+  "updated_at": "2026-10-28T11:59:38.420372+00:00",
+  "total": 834,
   "stats": {
     "tpks": 222,
-    "kekerasan_seksual": 380,
+    "kekerasan_seksual": 382,
     "kbg": 87,
     "kbgo": 143
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Skandal Kekerasan Seksual Konglomerat AS, Alexander Bersaudara Divonis 30 Tahun Penjara",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3pfQnB1Tl8tc0YzUUExbE9DaUlqazJXMlpmbTRwaU5aenF0UmVuV3FIYWlRVU9yZ3dKOTd3bXNId2tOVlVCUDNIYlFKT3JILVRGQlZlWVZtYUZjbkVIdkxrVWpTS0xFNWQ1NWtGRUJycDRnWU1vVnlNdHdOY2xKbXBYQXhGZHpYeGo3VGotamJWWlBHMEhOOEl3ZE9sUmJCREhrQTlOOFY5MmdoSWI1ZU1tZU43VDhxa1B3c0YxLWlnRTJLbm1HdGhMUF9HRms?oc=5",
+      "pubDate": "2026-10-28T05:07:12+00:00",
+      "source": "Media Indonesia",
+      "description": "Skandal Kekerasan Seksual Konglomerat AS, Alexander Bersaudara Divonis 30 Tahun Penjara",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "DPPPA Enrekang Libatkan Sekolah, Madrasah, dan Pesantren Cegah Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52Zjd1TTlrWTlTVnFPWjdDSGM3cDMyREVXUmZZVzFYV0Nlcm4wdWl3cEItSXQzZl9qRURnQXNIbUM0Y2djdHdaRWlrZ2xJQ0dnc0pELTJscUZiRmx4Wmhua2dPb1hjQUlBdnhrcmEtOXpJX0lqY0pZQ1lrbjBXVW8?oc=5",
@@ -244,15 +253,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Buku Baru Merinci Kekerasan Seksual yang Dialami Perempuan Timor oleh Tentara Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUFwMlE0NzZsOXJVVUZGZHBSTGloVWZlZVlMQ2d0blA0MHNWbDl1NnBLVUhZd3o3UFNMeHVpT3FEMlVNVXBQSjdZSHRhanljck5TMnpzRURpdlRRTndTTXR6V3JDYUViRDN4Vkxmbzg5WmpQVDBQbS11ZzZ5YmItOHE1VkY3T0hBLWUxOEEySVE4aVktNmhtb3Z3S3hwenZlUnFoTUxIZDNRMXN4TFBVTURmREFhTGR6?oc=5",
-      "pubDate": "2026-10-20T02:14:10+00:00",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "description": "Buku Baru Merinci Kekerasan Seksual yang Dialami Perempuan Timor oleh Tentara Indonesia",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Karyawan SPPG Palembang Laporkan Atasan ke Polda Sumsel atas Dugaan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTZFYU1idUo0bi1CTU5MSk9NNi0zTEFfQXRHa0RobkJGd3JZU08tOF9BcDFIZDFGMktSTldhS05tUjFnVVhyTmVycEthRklTVDItMnc4Qk80TjFwemx2QWg0ZFIxY3o4RUg4ZE1DNjZXRW1OcVpkSEQ3Qmc3NVpERHNsRGdzbS1xdU5aVmdMSm1EZjl4eG1jR2w2VTlqRjF1YXd4VWVWa1JyX01LRGc?oc=5",
       "pubDate": "2026-10-19T15:56:00+00:00",
@@ -269,6 +269,15 @@
       "description": "Tunggu Rekomendasi Medis, Kehadiran YTR Koban Taufik Hidayat Bakal Sesuai UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Buku Baru Merinci Kekerasan Seksual yang Dialami Perempuan Timor oleh Tentara Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUFwMlE0NzZsOXJVVUZGZHBSTGloVWZlZVlMQ2d0blA0MHNWbDl1NnBLVUhZd3o3UFNMeHVpT3FEMlVNVXBQSjdZSHRhanljck5TMnpzRURpdlRRTndTTXR6V3JDYUViRDN4Vkxmbzg5WmpQVDBQbS11ZzZ5YmItOHE1VkY3T0hBLWUxOEEySVE4aVktNmhtb3Z3S3hwenZlUnFoTUxIZDNRMXN4TFBVTURmREFhTGR6?oc=5",
+      "pubDate": "2026-10-19T07:00:00+00:00",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "description": "Buku Baru Merinci Kekerasan Seksual yang Dialami Perempuan Timor oleh Tentara Indonesia",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Kemen PPPA Perkuat Sinergi Lintas Lembaga untuk Implementasi UU TPKS",
@@ -406,6 +415,15 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
+      "title": "Guru BK MA Se-DIY Bahas Kekerasan Seksual pada Remaja di AKPRIND",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjBvb1FVb2FlSlFUMVV6aWJ4dVAxWV9zazZDQ1F0VEJnOXNzRkZnZzJLWVUzWFA5OWZfal9GdHh1LWNjRV9ta3hqekF6Z3ducmZUd244MzduYm1oWnJXT2Y4ZHhiUHNDMEphMzBRSWhib1hZNlp4U0l3WGFNN05kU3RZZXVFUVk0d3BWSU5MZnBLOE85VDdOWDV0S0lhb25XbUUxbmNDMHRZcTNwQWhacl9SbThEVVViZmc4?oc=5",
+      "pubDate": "2026-10-15T07:00:00+00:00",
+      "source": "LLDIKTI Wilayah V",
+      "description": "Guru BK MA Se-DIY Bahas Kekerasan Seksual pada Remaja di AKPRIND",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "28 Tahun Komnas Perempuan di Mata Orang Muda",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0dVUW1aeHJaVkpTMmRJcGRYajJ4bXFDTExyenlpX3ZSamxUME45emE5YzNHREQ0ZlRlZDZIaFN2T1JfaDF3a3RQZ1VTSXM5OEU0MmlXT1o2c3U4VDBMZEdGZ094ckVOOFBsbFBGUHh5RHZnWmVRMFBhWFY2bF83X25NaUpHdGFZR1hMTHNnY3VlZmNqY21lMXh2SlhqQQ?oc=5",
       "pubDate": "2026-10-15T07:00:00+00:00",
@@ -413,15 +431,6 @@
       "description": "28 Tahun Komnas Perempuan di Mata Orang Muda",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
-      "title": "Guru BK MA Se-DIY Bahas Kekerasan Seksual pada Remaja di AKPRIND",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjBvb1FVb2FlSlFUMVV6aWJ4dVAxWV9zazZDQ1F0VEJnOXNzRkZnZzJLWVUzWFA5OWZfal9GdHh1LWNjRV9ta3hqekF6Z3ducmZUd244MzduYm1oWnJXT2Y4ZHhiUHNDMEphMzBRSWhib1hZNlp4U0l3WGFNN05kU3RZZXVFUVk0d3BWSU5MZnBLOE85VDdOWDV0S0lhb25XbUUxbmNDMHRZcTNwQWhacl9SbThEVVViZmc4?oc=5",
-      "pubDate": "2026-10-15T04:24:00+00:00",
-      "source": "LLDIKTI Wilayah V",
-      "description": "Guru BK MA Se-DIY Bahas Kekerasan Seksual pada Remaja di AKPRIND",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Wabup Rahmat: Kekerasan Seksual Bukan Aib, Korban Wajib Dilindungi",
@@ -802,15 +811,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGQta3lVQXM4UUhQLWhXSkZvQVdXbWNLWmZ2QnFrSXBocW56SzRXX1dWal9LdkoxMW9ONmYyc0FqVXBCNEtGbElRNkRUY1hodjVYYnFtbkZPdGlxMTF5U2tCcUpjd1FLaTFZNzNCYzFoWmhSUXBnSTIzSWtpMk5vR3V4Tzh4eGE3RGpBX0wzOFVMbWUxeEFPV2dab1JJUVB3NGJTQWhoR2XSAasBQVVfeXFMTUVMNTVpZXBpaTVOU2xjaWZCM1VHZjdfUERYeUNXSTBZSEtXSEo5M2J6dmpkdmU5XzlXbHZiQmhxSUVwLTBrR1VVVXBGSWZVVHpCcFgwQU0zY1J5bTh0aFZXWlkwSTloSHVjUzZmUFI5Q3M1MUh6b2tlU2o5b04zY0ljeW9jMmtvOVBrWVp3d2tJTzhtWkdWSFBDZUFjMFRmSTdJRW1LTGxlWkxV?oc=5",
-      "pubDate": "2026-10-05T07:00:00+00:00",
-      "source": "ANTARA News",
-      "description": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzlZQlNMdVVZQ0pvUktobmRKX3NBeUpCeWFCVVFGSFV2TDdqbzdZel9vM3pHSENXclpCRjVyUFdZcThYQVVqSDFER3c4bTNzMWRzUFIyLWNJWlo4d1lIMHNvSnlHX0hvbFNGWVhzWWZfZnp2dnlic2pOY3VuWkc5Y2dIR2h3YUxfTl9WNGFsUEZ1UQ?oc=5",
       "pubDate": "2026-10-05T07:00:00+00:00",
@@ -827,6 +827,15 @@
       "description": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGQta3lVQXM4UUhQLWhXSkZvQVdXbWNLWmZ2QnFrSXBocW56SzRXX1dWal9LdkoxMW9ONmYyc0FqVXBCNEtGbElRNkRUY1hodjVYYnFtbkZPdGlxMTF5U2tCcUpjd1FLaTFZNzNCYzFoWmhSUXBnSTIzSWtpMk5vR3V4Tzh4eGE3RGpBX0wzOFVMbWUxeEFPV2dab1JJUVB3NGJTQWhoR2XSAasBQVVfeXFMTUVMNTVpZXBpaTVOU2xjaWZCM1VHZjdfUERYeUNXSTBZSEtXSEo5M2J6dmpkdmU5XzlXbHZiQmhxSUVwLTBrR1VVVXBGSWZVVHpCcFgwQU0zY1J5bTh0aFZXWlkwSTloSHVjUzZmUFI5Q3M1MUh6b2tlU2o5b04zY0ljeW9jMmtvOVBrWVp3d2tJTzhtWkdWSFBDZUFjMFRmSTdJRW1LTGxlWkxV?oc=5",
+      "pubDate": "2026-10-05T07:00:00+00:00",
+      "source": "ANTARA News",
+      "description": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Apa yang harus dilakukan jika menemukan pelecehan di grup chat?",
@@ -1747,15 +1756,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzFCR3U3ZmpLRS1tYUt2U3RFbWl4WW5KNHR0OW50aEwtRW1yYXFiLU1BeDNvOXJZM2JOaHUtTmNVOWo3WHktWDJuT0FyZXBZbGtZMzZfVmNCOGtjNGRwTDB1b0hmbHh0WUFPdkFHS2xvNlhJSHFrSEoxcVJhN0xuLTUyWWlaSDd3cTMwSmxGX2RLSVYxbDZGZDZkRk50ZkszTTAyRVlmQU90NktnMUJtV3MwejFRYXphUzIzcUhXLTBDbUFo?oc=5",
-      "pubDate": "2026-09-23T09:17:24+00:00",
-      "source": "https://sibolgakota.go.id/",
-      "description": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Terpidana Kekerasan Seksual Santri di Jombang Bebas, Ini Tanggapan Yusril",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYV9ubUZCVUhCajM2RzVENXFFWHpoQ2JxNnNldExfcTRxMDRLdGJqNG5peU8tdDhxMFlPaHB0NWxXSkZndGQwU3pLSnl4WGhZVW9RUFdIRl93OERGeEFRcEItTkxJbWw5bDhIeXpLMmJFU0wyM2JoeEtFRTJlaVA2MXNfblBFcEtBdHMzQWdYaFlRRlVsX3ZvNHBISTJfWXdOQlE?oc=5",
       "pubDate": "2026-09-23T08:47:53+00:00",
@@ -1772,6 +1772,15 @@
       "description": "Pelaku Kekerasan Seksual Mas Bechi Bebas Bersyarat, MUI: Mencederai Rasa Keadilan Korban",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzFCR3U3ZmpLRS1tYUt2U3RFbWl4WW5KNHR0OW50aEwtRW1yYXFiLU1BeDNvOXJZM2JOaHUtTmNVOWo3WHktWDJuT0FyZXBZbGtZMzZfVmNCOGtjNGRwTDB1b0hmbHh0WUFPdkFHS2xvNlhJSHFrSEoxcVJhN0xuLTUyWWlaSDd3cTMwSmxGX2RLSVYxbDZGZDZkRk50ZkszTTAyRVlmQU90NktnMUJtV3MwejFRYXphUzIzcUhXLTBDbUFo?oc=5",
+      "pubDate": "2026-09-23T07:00:00+00:00",
+      "source": "https://sibolgakota.go.id/",
+      "description": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
@@ -5077,6 +5086,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Policy Brief Komnas Perempuan: Penundaan Keadilan dalam Tindak Pidana Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUtHMThtcVhHR1hjZ1JGbko5T1huYmg5UWpBMUc3dlVoNjZZSXJsRzhHVGd0U1J2Ti0wMkpGa0hnSk41eEpRdXE2a0cwamdDSnBnd1M5NjJtLVJMT1RNWnBtYW1NR3Y3RWxUR3ZVdmNOTHFrOTA0dXozRW5UbzhRWlFaU2hSTUZOeUZ6dnVjRXBJaFlCVkNNeGJxT0VlNHJXT3NFc1Jib2NoV1hPSnVYM00zWVp0NUhWeXk1dTBsUTRJU0NVbk5DV0llOEZJa20yeG9v?oc=5",
+      "pubDate": "2026-07-08T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Policy Brief Komnas Perempuan: Penundaan Keadilan dalam Tindak Pidana Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Pelaku Pelecehan di Pantai Padang Dijerat UU TPKS, Terancam 4 Tahun Penjara",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2RTRllLU0VBUFdSZEYtUy04eFJzSXZfaHVpbWFsaUszM0o1d1JKWVhhZE5Lbm5vVTJTbnRRWk5STC13WDliUVJmMHZQV21kVnFjMFhlMVcwWFp3dTItNHVFUDN2LVc4dk9HQ1pXVmVlX0RxN2kyN3Z2bUYyZVhnd1FmWkpIb0tyWUR6YVN1OFVzWVczblgtZVJ3?oc=5",
       "pubDate": "2026-07-07T14:09:11+00:00",
@@ -6607,15 +6625,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBHUFNVMWNZajgxaGhpemEwQnFFVDJuaHlSMjBPTkdYQXRaUkJBWU1LdlV5ZEh2VC1lWGpLMGRyeVBzMi1KYXh1cTN2MVd1NkZIWGZRRTBvRHdHSUtxTEp6dS13YzZUQ1JYYkxBZmNHcW0wektUVThlLXlhczRpTlBGdHp0bl8ySHp1amJTcnRKWi1hMzlHcTlJeFFwR0JJd3dxN0JsRzlVLXRMbE83MVgxS3RVN0V3XzFyZ1RNUDhjUEdtYzJyMWl4WlpyZ21JdkZsWUMteVBDZmk3VG1JczVkMjA?oc=5",
       "pubDate": "2026-04-16T07:00:00+00:00",
@@ -6623,6 +6632,15 @@
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-16T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
