@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-29T22:21:49.393585+00:00",
-  "total": 837,
+  "updated_at": "2026-10-30T04:04:49.508265+00:00",
+  "total": 840,
   "stats": {
     "tpks": 223,
-    "kekerasan_seksual": 383,
+    "kekerasan_seksual": 386,
     "kbg": 88,
     "kbgo": 143
   },
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kapal Perempuan Soroti Aparat Belum Terapkan UU TPKS Dalam Penanganan Kasus Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMF8yRHpEUFJZY09QYWNFSC1FUF9UbnZtdUhVQm93dEpsNS05Nm1DajhZNGIxVTV5SXhnZXhzQ3dXaFZ0MjM2Yi1UaUdUdEVDSGVtejhtQ0o5R3VWaGlSZDkzVngxczhWZl9BT3ZSc0tndFN6TEdIVlo1Ty02NlA3azF5bEd3NkNPM1I1ZGFCTEEyMUtGQjIyc190dmZVa3lVZmU1X1c1cjBCNFFRSGM5cHRFYlI3VmMxcVkwU0VMNmpyNzZJTEZkLXZqTzRKVjYxS0tlYtIB1AFBVV95cUxOTkphSlZoRkItNWN5eWkzR1JCYUV0RWFmZVUtVGJFVExsUUJCZ1FSVEFBVnRpa1E3UjRqUS1oY2J4RlJDUk42QnAtU29QSDFYQVlLRVNjV1pvZ0k1NF9CYVRIZXJ3MzhrZzZyRzFtUlV2ZEdtM3EtSFI4cC1ZcExYRWVlSHdVUUpCR0t5WDFSTFNJelJWaFBDU2x1Mk9jc01OSjZZVFZCTGE2QV8yaFhLbUtTNm9jcnZoNGRic3NpcXp4VnNKODJibUp1X0tMSlpxLWZvcA?oc=5",
+      "pubDate": "2026-10-30T03:57:11+00:00",
+      "source": "Suara.com",
+      "description": "Kapal Perempuan Soroti Aparat Belum Terapkan UU TPKS Dalam Penanganan Kasus Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "'Saya bisa bunuh, karena kau saya punya hamba' – Perbudakan di Sumba Timur, warisan kekerasan yang dibalut budaya",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02LVZRcDQwVVZDeFp0VkZXYzBrT24xYzA2Z21CR2lmSzg0OEVtTXFnWjFaeWJybUh4LWkxRi10ckdIWUVaQTljOUtDUEtTU2RZVzZBdGRGcG1CSGZZWDN6cVVn0gFnQVVfeXFMT3lWVnJhSFlOcDM0WHd5aDhMNk9VRGRBb0RfNkhBUENBYklBaVZYTGszMEFhTU1yNHI0Q1pXUGc5TFU5X3BYM3RJdkxyeTFyaXlRN1EycjRMREFOXzZ5SUJvZzF1TndIbw?oc=5",
+      "pubDate": "2026-10-30T00:14:11+00:00",
+      "source": "BBC",
+      "description": "'Saya bisa bunuh, karena kau saya punya hamba' – Perbudakan di Sumba Timur, warisan kekerasan yang dibalut budaya",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Hakim PN Fakfak Kupas Perlindungan Hukum bagi Korban Kekerasan Seksual di RRI",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUdFaGVXVWlsRHNjRUNXbGpkLS1IV2tmQTNwRW9pMDNFZTRyYlFiVFYzVjdxVHVkallUdHJOX09FRVpOd0JFeXpyclBnSktDSmRybk80b29GWEhoc3ZIQTBQUFZEbkRFWUNpT3g4MnJhb0RObVVodDdoakFpZzVmN19sNGRqNWZkd1VYaG5fMWowcnB6ald1OG40WlMwTkg0TllKQU9IZHdWOVlka3NaYjRuVlQ?oc=5",
+      "pubDate": "2026-10-29T09:15:00+00:00",
+      "source": "Dandapala Digital",
+      "description": "Hakim PN Fakfak Kupas Perlindungan Hukum bagi Korban Kekerasan Seksual di RRI",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Foto Pribadimu Bisa Jadi Senjata: Waspada Kekerasan Digital Halaman 1",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUngxX0xuSlgzV2FNSEVQdmpFcU9TZTE3N09qRnlRZk9DTjhXazhGY1k1UVVGMUxXNlJiTDF0bEpYeXNwWklwYVQtcWhTWmxqVWlhNXVhTFFKSGNJVDN2dEZjcVRNcDZEejk2S3pHZE51WFA4NkgySDE3anEzUXhvUDVyWnVTTkFxc2lacXAyMFZLMjdZMS1MT1R0aExFdFRTUVNIQnNsb1oxWTRVSjJFSHhWV2o1bUVsNFEzS1BHZlprU01iSmRPQmxCTmhhdw?oc=5",
@@ -838,6 +865,15 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
+      "title": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1dvbm90dkRRT3JJTlRGQ0hqTXhVUFBtb1pMZW1HRWkxT1RSOHNzWlM5Y2RNMzNwRUJGeG1XbUhlOE1hcks0QlAwbVR2MWVhNUk4SHFPLUkxX0d4eUFhaEY1amVVLV9pZ00wNU9rTmh5TFNhTHRjNERVZEtDT0VmUmZNaWc?oc=5",
+      "pubDate": "2026-10-05T07:00:00+00:00",
+      "source": "Kompas.id",
+      "description": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "FSGI: 100 Kasus Kekerasan di Pendidikan, Korban Mencapai 1.055 Orang",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzlZQlNMdVVZQ0pvUktobmRKX3NBeUpCeWFCVVFGSFV2TDdqbzdZel9vM3pHSENXclpCRjVyUFdZcThYQVVqSDFER3c4bTNzMWRzUFIyLWNJWlo4d1lIMHNvSnlHX0hvbFNGWVhzWWZfZnp2dnlic2pOY3VuWkc5Y2dIR2h3YUxfTl9WNGFsUEZ1UQ?oc=5",
       "pubDate": "2026-10-05T07:00:00+00:00",
@@ -854,15 +890,6 @@
       "description": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1dvbm90dkRRT3JJTlRGQ0hqTXhVUFBtb1pMZW1HRWkxT1RSOHNzWlM5Y2RNMzNwRUJGeG1XbUhlOE1hcks0QlAwbVR2MWVhNUk4SHFPLUkxX0d4eUFhaEY1amVVLV9pZ00wNU9rTmh5TFNhTHRjNERVZEtDT0VmUmZNaWc?oc=5",
-      "pubDate": "2026-10-05T07:00:00+00:00",
-      "source": "Kompas.id",
-      "description": "Mendambakan Indonesia Tanpa Kekerasan, Mungkinkah?",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Apa yang harus dilakukan jika menemukan pelecehan di grup chat?",
@@ -1288,6 +1315,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "uinjkt.ac.id",
+      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -1322,15 +1358,6 @@
       "description": "FT UGM Nonaktifkan 10 Mahasiswa Terlibat Percakapan Cabul Grup Chat",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "uinjkt.ac.id",
-      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
@@ -5532,8 +5559,8 @@
       "pubDate": "2026-06-27T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Polisi: Ahmad Al Misry Berkewarganegaraan Ganda",
@@ -6621,8 +6648,8 @@
       "pubDate": "2026-04-17T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Tak Cukup Satgas, Kampus Perlu Penguatan Kurikulum Anti Kekerasan Seksual",
