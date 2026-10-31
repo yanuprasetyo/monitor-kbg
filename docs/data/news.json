@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31T11:36:19.347495+00:00",
+  "updated_at": "2026-10-31T16:43:01.639643+00:00",
   "total": 849,
   "stats": {
     "tpks": 227,
-    "kekerasan_seksual": 390,
+    "kekerasan_seksual": 389,
     "kbg": 88,
-    "kbgo": 144
+    "kbgo": 145
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -532,15 +532,6 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "28 Tahun Komnas Perempuan di Mata Orang Muda",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0dVUW1aeHJaVkpTMmRJcGRYajJ4bXFDTExyenlpX3ZSamxUME45emE5YzNHREQ0ZlRlZDZIaFN2T1JfaDF3a3RQZ1VTSXM5OEU0MmlXT1o2c3U4VDBMZEdGZ094ckVOOFBsbFBGUHh5RHZnWmVRMFBhWFY2bF83X25NaUpHdGFZR1hMTHNnY3VlZmNqY21lMXh2SlhqQQ?oc=5",
-      "pubDate": "2026-10-15T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "28 Tahun Komnas Perempuan di Mata Orang Muda",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Guru BK MA Se-DIY Bahas Kekerasan Seksual pada Remaja di AKPRIND",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjBvb1FVb2FlSlFUMVV6aWJ4dVAxWV9zazZDQ1F0VEJnOXNzRkZnZzJLWVUzWFA5OWZfal9GdHh1LWNjRV9ta3hqekF6Z3ducmZUd244MzduYm1oWnJXT2Y4ZHhiUHNDMEphMzBRSWhib1hZNlp4U0l3WGFNN05kU3RZZXVFUVk0d3BWSU5MZnBLOE85VDdOWDV0S0lhb25XbUUxbmNDMHRZcTNwQWhacl9SbThEVVViZmc4?oc=5",
       "pubDate": "2026-10-15T07:00:00+00:00",
@@ -548,6 +539,15 @@
       "description": "Guru BK MA Se-DIY Bahas Kekerasan Seksual pada Remaja di AKPRIND",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "28 Tahun Komnas Perempuan di Mata Orang Muda",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0dVUW1aeHJaVkpTMmRJcGRYajJ4bXFDTExyenlpX3ZSamxUME45emE5YzNHREQ0ZlRlZDZIaFN2T1JfaDF3a3RQZ1VTSXM5OEU0MmlXT1o2c3U4VDBMZEdGZ094ckVOOFBsbFBGUHh5RHZnWmVRMFBhWFY2bF83X25NaUpHdGFZR1hMTHNnY3VlZmNqY21lMXh2SlhqQQ?oc=5",
+      "pubDate": "2026-10-15T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "28 Tahun Komnas Perempuan di Mata Orang Muda",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Wabup Rahmat: Kekerasan Seksual Bukan Aib, Korban Wajib Dilindungi",
@@ -6648,8 +6648,8 @@
       "pubDate": "2026-04-21T07:00:00+00:00",
       "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
