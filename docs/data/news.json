@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-31T03:48:43.014562+00:00",
-  "total": 847,
+  "updated_at": "2026-10-31T11:36:19.347495+00:00",
+  "total": 849,
   "stats": {
     "tpks": 227,
-    "kekerasan_seksual": 388,
+    "kekerasan_seksual": 390,
     "kbg": 88,
     "kbgo": 144
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Naik Sidik, Polisi Segera Periksa Betrand Peto Kasus Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbmpfV3cwUEhRQU12LUhWSjU2SDkxWEsyMzQtNkpnNXVFcWRQQzNkR3Q2eEZiWWFyaWZxVTBYbGl0SFJXa3dMMHp0WDlCdlNVTElENlNkTWEybWpTeEhiWGtNMDk2S19hY3BfN1NkYjhSRk9JYms5WHI1eHdzdGlyclU5MVgwNTlzRGhnbEU1b1NXLUdpbGRGRDNNWE1HaDl6Rmd3N3NNOFRrVGpZZ0tQbDQ1ZGVZQm8yWXdVSEptWjJ1Qng1OWlxUklJU2Q3QdIB0wFBVV95cUxNYmNVVG1Ua0s3MXJhN2VkaTJFZ1U1NlhsVk9Xb1VzUlh0NkY5Uk5wNGFCcHY5czg4eXhiUFhTd182RUE1cTFPT2ZUNXlfR3NPVF9la3VEc1hPM2VQRTdoZVJOMzRkelE4VGFtXzg4Z25DRDhwQ1hEYmNfMkpiQ3ZRMmZTalBlY3d6TUwycDFhdk4tOWZybkFQZzZmQkplcjFlWGRJel9ZRHVjdkJpNjFyaXFyNWowZW1oVUw5Ynlsd3NRRThuT0J1MkJ4U1B6cnF0ZEM0?oc=5",
+      "pubDate": "2026-10-31T07:45:35+00:00",
+      "source": "CNN Indonesia",
+      "description": "Naik Sidik, Polisi Segera Periksa Betrand Peto Kasus Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pembatasan Ruang Digital dan Kriminalisasi Warga Terus Berulang",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2dzbUdTaW8teTNfRGJ5STlrd3Y2cDB2blF2UjdHeHR4OEdXeTJLUEl4NThDZnJoSVl3TmNRUTdjSjhzOWRvUGtDS2VKTG1tY3hyOXhMX2dPY0R3MkR3RWZ2RUlMeEkySWFjQ1BEdW84aEhwVFgtRTdXTm8td2gzdm9xMjltWkp0NDlnOWN3NA?oc=5",
+      "pubDate": "2026-10-31T02:14:24+00:00",
+      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
+      "description": "Pembatasan Ruang Digital dan Kriminalisasi Warga Terus Berulang",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
     {
       "title": "Bangun Kesadaran Hukum, Mahasiswa FH USU Edukasi Siswa SMA tentang Bahaya KBGO",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTBva2ZqVzlHS2p2UmdvRml0cWhSNHBlLU9JRkd5N3VTNDdkdUpVVzZpaXlZUE1uYk92SFRSZXNMbGtmaHFZNWJtTXNFaTM1cXJlbWZYc1hMN1lRdGtzajVoNVZTb2FqOUZiU1Z0OTQ4elRIV2Vjc3c5M0tHNFl6VU5kMktySGxJR3g0Qk9feE1PSU1STlJJMDJrd1U2eFppTTFn?oc=5",
@@ -514,15 +532,6 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
-      "title": "Guru BK MA Se-DIY Bahas Kekerasan Seksual pada Remaja di AKPRIND",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjBvb1FVb2FlSlFUMVV6aWJ4dVAxWV9zazZDQ1F0VEJnOXNzRkZnZzJLWVUzWFA5OWZfal9GdHh1LWNjRV9ta3hqekF6Z3ducmZUd244MzduYm1oWnJXT2Y4ZHhiUHNDMEphMzBRSWhib1hZNlp4U0l3WGFNN05kU3RZZXVFUVk0d3BWSU5MZnBLOE85VDdOWDV0S0lhb25XbUUxbmNDMHRZcTNwQWhacl9SbThEVVViZmc4?oc=5",
-      "pubDate": "2026-10-15T07:00:00+00:00",
-      "source": "LLDIKTI Wilayah V",
-      "description": "Guru BK MA Se-DIY Bahas Kekerasan Seksual pada Remaja di AKPRIND",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "28 Tahun Komnas Perempuan di Mata Orang Muda",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0dVUW1aeHJaVkpTMmRJcGRYajJ4bXFDTExyenlpX3ZSamxUME45emE5YzNHREQ0ZlRlZDZIaFN2T1JfaDF3a3RQZ1VTSXM5OEU0MmlXT1o2c3U4VDBMZEdGZ094ckVOOFBsbFBGUHh5RHZnWmVRMFBhWFY2bF83X25NaUpHdGFZR1hMTHNnY3VlZmNqY21lMXh2SlhqQQ?oc=5",
       "pubDate": "2026-10-15T07:00:00+00:00",
@@ -530,6 +539,15 @@
       "description": "28 Tahun Komnas Perempuan di Mata Orang Muda",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Guru BK MA Se-DIY Bahas Kekerasan Seksual pada Remaja di AKPRIND",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjBvb1FVb2FlSlFUMVV6aWJ4dVAxWV9zazZDQ1F0VEJnOXNzRkZnZzJLWVUzWFA5OWZfal9GdHh1LWNjRV9ta3hqekF6Z3ducmZUd244MzduYm1oWnJXT2Y4ZHhiUHNDMEphMzBRSWhib1hZNlp4U0l3WGFNN05kU3RZZXVFUVk0d3BWSU5MZnBLOE85VDdOWDV0S0lhb25XbUUxbmNDMHRZcTNwQWhacl9SbThEVVViZmc4?oc=5",
+      "pubDate": "2026-10-15T07:00:00+00:00",
+      "source": "LLDIKTI Wilayah V",
+      "description": "Guru BK MA Se-DIY Bahas Kekerasan Seksual pada Remaja di AKPRIND",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Wabup Rahmat: Kekerasan Seksual Bukan Aib, Korban Wajib Dilindungi",
@@ -6630,8 +6648,8 @@
       "pubDate": "2026-04-21T07:00:00+00:00",
       "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
@@ -7159,7 +7177,7 @@
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUlKdFQ1MVFUTGFGMnZLU0FFakJfZy16d2huYzNGYXU4QTBEMENYQjdIWUpGU1gxcGlPVXBDNTdOaHlGWHRSclNBOGFKdDRXN19jb045bzloemlaNVZRQkRrakZDLWJrZmJGei12WWJkR1cza2lKSnhFemhEZ3dodTVJbDNRTkdNQVB0WU9uWm5Hd1k?oc=5",
       "pubDate": "2026-02-02T08:00:00+00:00",
-      "source": "Mahkamah Konstitusi",
+      "source": "Mahkamah Konstitusi RI",
       "description": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
