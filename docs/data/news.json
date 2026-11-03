@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-03T13:29:52.450177+00:00",
-  "total": 855,
+  "updated_at": "2026-11-03T22:48:57.981025+00:00",
+  "total": 856,
   "stats": {
     "tpks": 230,
-    "kekerasan_seksual": 392,
+    "kekerasan_seksual": 393,
     "kbg": 87,
     "kbgo": 146
   },
@@ -28,6 +28,15 @@
   ],
   "articles": [
     {
+      "title": "Kasus Kekerasan Seksual terhadap Anak tak Kunjung Surut",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OOUFWelBtNGhVc3pvMDYzZFVsY0pBWDNlUVEtRHFBcTBhUWpGT2hWVTU5X1NSdkFBaEtkZ0hVNC1OZ3dYbTU2STRrdXN4bXBybElNZmxCUUx4SUN6?oc=5",
+      "pubDate": "2026-11-03T17:00:00+00:00",
+      "source": "Epaper Media Indonesia",
+      "description": "Kasus Kekerasan Seksual terhadap Anak tak Kunjung Surut",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
       "title": "Dijerat UU TPKS, Kasus Dugaan Kekerasan Seksual Dosen Polinef Memasuki Babak Baru",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREpBa3VyS0JVZk50Q08yMHRBeGlHeW1CSWJyMTlnWXdSR3lBTFBubkc0blFLZXNtVTRyY0ZiTWpHOGs1TzBqdGFxOXhzR2hEck1fX3FNM0tzT19qOVhZLWpadFNFQnp5NTk0dXdGVHJ5Tkd3WmpsRjROT0pqRW9HVFpZdU1MdlhwTUxZU09WUjQ0NW84TkF1eUZuaVVwX0haNlBNOEV0amlBV3U3NV9N?oc=5",
       "pubDate": "2026-11-03T12:35:13+00:00",
@@ -38,7 +47,7 @@
     },
     {
       "title": "Menteri PPPA: Kasus Kekerasan Seksual Anak Di Boyolali Harus Ditangani Serius",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzBoNTVHNktKQzE0SldvX2VzaGUxbkNUV0xNWUVCVm0wWnVPcnNKWDF5X1V0U2MwUzJINXZqQUszUlJ6cEpkejZuRUFPLWVBZ3dZelpyMWY5c1NQZzBsSTVJU01GZHBneG1FdW00OTZxVXBqeV9EMzZwbVVoQ25UZlgzQ3JpRk5MY01EN3F6el9ZN0d5VWdGbmJHZHJRVDJwQXhVaDZqZFNKU3FvTk02SG5raGJoMjdvQllmNHNROW4tbUt6b1pwb2NUN3o?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0JTYUZhVWZRdml0ZWQxR0REdGp2U1FBUTRuSGRZUUpwZ0JUMkRIU3lwbFR5WlVKcXZBTjJrRkNWSXozZFlfYjRkdmFpQWkyOG9ycDNHMHVRTnI1ajEyMGd0RVZRdUtES1FYd0JYSkl1SkdEWVhBaVlLYkYyY3lXS3JFZFRnN05RRE1kTWJBWHdCVnEzcFJ2aHBNZUtnbjFLT3NlMm1XdTBRdk0ybDBBejFsSk5GdjN3dl8tTEwwZDJ6SkJ3RGpObg?oc=5",
       "pubDate": "2026-11-03T09:26:56+00:00",
       "source": "Kompas.id",
       "description": "Menteri PPPA: Kasus Kekerasan Seksual Anak Di Boyolali Harus Ditangani Serius",
@@ -1423,15 +1432,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "uinjkt.ac.id",
-      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -1450,20 +1450,29 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "FT UGM Nonaktifkan 10 Mahasiswa Terlibat Percakapan Cabul Grup Chat",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0h1b1FTcXFkb2U4QXVQSEpDdjR1T0JXN2tDckhCN2l2Q0xRWGZCTG43Qms2VkdTMlliM0dpa3E5RDAwcVlnRklCLWxpNEszeGVodFRvaGd0WVBNOTNUOTZHUkxhbTJMMFBtczM0eGxfbk9YNjR4X2t3MWdySWlwcmFPUWNaN05ETWVtU2Eza1czZmhtVER6SnBYeUMxSHRLMUFqLVB4a0tYT19RZXR6SFVn0gG3AUFVX3lxTE8wak5fNF9JcVdZeDNscVBDYWNERHFjYlRxRXc4ZXpUVDRra1o4N21fNXZuZDY5eFloVEJISXlXTVgwRnpENllzc01jOVp6ZDlMX0h0OGpJcURsMDNsUGxQeFlQZDRnLXRVcm9CbmdkSVozeWE1N2dMZkRQb2tYUi0xdHE3T0lwUzFFY2x5dG1vVkppdTRrZXNoMmw4TGJ1VjZDc0dTVGhlU2czVjFJdk9RRm1td0hMUQ?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "detikcom",
-      "description": "FT UGM Nonaktifkan 10 Mahasiswa Terlibat Percakapan Cabul Grup Chat",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "UGM Nonaktifan 10 Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1VmVS1HUHVVWmFtY0g1emlGRVlBeEFZRmZDWVBaRmFyVURvem5hSXFTSTctOVQxdjMyZUJKUVQ2cWNvMFJYWURDSlNMX2NxMGxuT2IxeVZRWUlUeG84ZmoxT19OeXJlZ3lNTDdCT0VwdGVrd21tdzRoSUppVmx5ZVVndFpSR09sdWdhUjNIc1pnaU9YeGQ5Q0NPOVhDQUlOZDFrT001U0NJUU9UM244a1BtUUpwVmxfLUMzdkE1RQ?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
       "source": "Harianjogja.com",
       "description": "UGM Nonaktifan 10 Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "uinjkt.ac.id",
+      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "FT UGM Nonaktifkan 10 Mahasiswa Terlibat Percakapan Cabul Grup Chat",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0h1b1FTcXFkb2U4QXVQSEpDdjR1T0JXN2tDckhCN2l2Q0xRWGZCTG43Qms2VkdTMlliM0dpa3E5RDAwcVlnRklCLWxpNEszeGVodFRvaGd0WVBNOTNUOTZHUkxhbTJMMFBtczM0eGxfbk9YNjR4X2t3MWdySWlwcmFPUWNaN05ETWVtU2Eza1czZmhtVER6SnBYeUMxSHRLMUFqLVB4a0tYT19RZXR6SFVn0gG3AUFVX3lxTE8wak5fNF9JcVdZeDNscVBDYWNERHFjYlRxRXc4ZXpUVDRra1o4N21fNXZuZDY5eFloVEJISXlXTVgwRnpENllzc01jOVp6ZDlMX0h0OGpJcURsMDNsUGxQeFlQZDRnLXRVcm9CbmdkSVozeWE1N2dMZkRQb2tYUi0xdHE3T0lwUzFFY2x5dG1vVkppdTRrZXNoMmw4TGJ1VjZDc0dTVGhlU2czVjFJdk9RRm1td0hMUQ?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "detikcom",
+      "description": "FT UGM Nonaktifkan 10 Mahasiswa Terlibat Percakapan Cabul Grup Chat",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
@@ -7012,11 +7021,11 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Dorong Dunia Kerja Aman bagi Perempuan",
+      "title": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdVJfRW5iSTI4Ynp2VHJILTdzeHNiVTI3VGRhWXZJcGxReDFsUzR5d0JLTU9OOV9EbWd4elVqRkVLQ2J0RExjMG14Rm5STm9ibjlwX1E3SmVTa1hMa2t3LXFnanQxbXJrY1laakpTZXh1TzVHUjl2emV0RjZHeFBMQ2x5alEwck1xZTdqaERyakxNNTJLNlNIRlp3RXpXNWdfdmp0Z0M3RHpjYkZUOEZPaWsteGRTYU5CNGMyYjRneWtsc1o4MnVwTlVCUUx1d3psTE5PaDJFOXhhcUFUMGlkOEVaeURYQlB3RVVYbkRsaDJMQ0NzcFFWQjZUdjRyTU9fMHlndkRqOU53akhvc2xfag?oc=5",
       "pubDate": "2026-03-10T07:00:00+00:00",
       "source": "Komnas Perempuan",
-      "description": "Dorong Dunia Kerja Aman bagi Perempuan",
+      "description": "Dorong Dunia Kerja Aman bagi Perempuan, Komnas Perempuan Perkuat Pencegahan dan Penanganan Kekerasan Seksual di Kementerian/Lembaga",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
