@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03T00:23:43.625487+00:00",
-  "total": 852,
+  "updated_at": "2026-11-03T13:29:52.450177+00:00",
+  "total": 855,
   "stats": {
     "tpks": 230,
-    "kekerasan_seksual": 390,
+    "kekerasan_seksual": 392,
     "kbg": 87,
-    "kbgo": 145
+    "kbgo": 146
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Dijerat UU TPKS, Kasus Dugaan Kekerasan Seksual Dosen Polinef Memasuki Babak Baru",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREpBa3VyS0JVZk50Q08yMHRBeGlHeW1CSWJyMTlnWXdSR3lBTFBubkc0blFLZXNtVTRyY0ZiTWpHOGs1TzBqdGFxOXhzR2hEck1fX3FNM0tzT19qOVhZLWpadFNFQnp5NTk0dXdGVHJ5Tkd3WmpsRjROT0pqRW9HVFpZdU1MdlhwTUxZU09WUjQ0NW84TkF1eUZuaVVwX0haNlBNOEV0amlBV3U3NV9N?oc=5",
+      "pubDate": "2026-11-03T12:35:13+00:00",
+      "source": "papuadalamberita.com",
+      "description": "Dijerat UU TPKS, Kasus Dugaan Kekerasan Seksual Dosen Polinef Memasuki Babak Baru",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Menteri PPPA: Kasus Kekerasan Seksual Anak Di Boyolali Harus Ditangani Serius",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzBoNTVHNktKQzE0SldvX2VzaGUxbkNUV0xNWUVCVm0wWnVPcnNKWDF5X1V0U2MwUzJINXZqQUszUlJ6cEpkejZuRUFPLWVBZ3dZelpyMWY5c1NQZzBsSTVJU01GZHBneG1FdW00OTZxVXBqeV9EMzZwbVVoQ25UZlgzQ3JpRk5MY01EN3F6el9ZN0d5VWdGbmJHZHJRVDJwQXhVaDZqZFNKU3FvTk02SG5raGJoMjdvQllmNHNROW4tbUt6b1pwb2NUN3o?oc=5",
+      "pubDate": "2026-11-03T09:26:56+00:00",
+      "source": "Kompas.id",
+      "description": "Menteri PPPA: Kasus Kekerasan Seksual Anak Di Boyolali Harus Ditangani Serius",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Tiga orang sekeluarga dituntut atas pembiusan dan kekerasan seksual PMI di Taipei",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fb3hFMjNqTllvcFp1aE9kZkxRUTJOWEx2Vl95QjRabk9sUFpWQi1vczNwajZFT2IzTTVudUhTTjJKb19KbERDUDVWYzVzbmVVb2VrNDdfNjBYRG02Q2hnQS1CNA?oc=5",
+      "pubDate": "2026-11-03T07:50:00+00:00",
+      "source": "Focus Taiwan",
+      "description": "Tiga orang sekeluarga dituntut atas pembiusan dan kekerasan seksual PMI di Taipei",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Betrand Peto Akan Kembali Diperiksa Soal Kasus Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUFJDbnhOZ2tQdUNCeUJvRG1mWEhuSXRnbHJFeFlYbVU1eHBVYnRlLWZRWTNjcTdFclZzNDdGdWZMVTM4UHNWYnNvZ090Zmt0R3Zodk1pa0I0cFdOZEVoVkJVWXk1TU9MTlQyWjhfX3hlWnFRb1h6R2ZPcU8yaVFFVnc5Sjl3Y1ROVE43ampfYVdqQ05BUmdDYXRoY1dqWEpSSXVlbWwxaU4yZHpYdUhJQXBLeE5YckJ5cFowNFFlMUsyZnJYdlg00gHMAUFVX3lxTE9pb3ZHZlZTQzJaWjktakNlZmFSYVdTTmxaRkNxWF9tZzY1bTNucFB1M2Fsd0I1NFNGTF9WcFRRUVpZMThoXzNvWGQ0cHJFdXBRVkVoZU5CS1VHTlF2WFVvZWVoVVcwS0dVV1JWY3UtME1HQzlSTVRYa0pXaUlMbklmUUYzTW5uM2ZjUUVNYXdxWFkwT3dqcEZQcktBS0Zrbjg0ZDY0WmJPRDdvMEl6WjBVZDhWb2RWbUZJSDdXcVZ6ZzROWlpDemlTWTROdA?oc=5",
@@ -1396,6 +1423,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "uinjkt.ac.id",
+      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -1412,15 +1448,6 @@
       "description": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "uinjkt.ac.id",
-      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "FT UGM Nonaktifkan 10 Mahasiswa Terlibat Percakapan Cabul Grup Chat",
@@ -6666,8 +6693,8 @@
       "pubDate": "2026-04-21T07:00:00+00:00",
       "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
@@ -6738,8 +6765,8 @@
       "pubDate": "2026-04-17T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Tak Cukup Satgas, Kampus Perlu Penguatan Kurikulum Anti Kekerasan Seksual",
@@ -7183,15 +7210,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXItS2pnLWQySjhoWGJ6aTM1Vlc2c0h4WmJ4a29JT2ZxYlFCODlXdk01cW5jMUFuUEJTLWl5X1lvTXVreHZMQXdpMlZLejk2ODF1MUtMc0Q3SDJ2ZjJ1YUFONFcxelBhMVpkYTh5dzN2TktUUFlwRjVjcE56ZjZXZlFHWnpXY1JJc0FMNk1CT2hpOVM3OFBybjJjd1N6TXNNdEhQbS0zNE80UFBZUmF6RzhvcXVPZ3lZS1dPd3VYWFNPZw?oc=5",
-      "pubDate": "2026-02-04T08:00:00+00:00",
-      "source": "Kementerian Agama",
-      "description": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Child Grooming dan Tafsir Suka sama Suka Perkara Kekerasan Seksual Anak",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0dTMm9KVFZRQTAwSzZaVkg2eDR0U3Ffb3dRelJlVks3bjRvQ3Q5cVFVemNXdkM1UVRvT3l2MkZDRDgyWjVfY2YwRG1NWm1SSXAyejEzQkVTWFI5UHU4em0wb3BOblZrR1NxMzNHV3pkWDhiRGszTjh0QjNraTlsWTdqUHpCSFJGYXRGS0hPTU9hcEd4VGtIbWdmcUowZlZET1E?oc=5",
       "pubDate": "2026-02-04T08:00:00+00:00",
@@ -7199,6 +7217,15 @@
       "description": "Child Grooming dan Tafsir Suka sama Suka Perkara Kekerasan Seksual Anak",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXItS2pnLWQySjhoWGJ6aTM1Vlc2c0h4WmJ4a29JT2ZxYlFCODlXdk01cW5jMUFuUEJTLWl5X1lvTXVreHZMQXdpMlZLejk2ODF1MUtMc0Q3SDJ2ZjJ1YUFONFcxelBhMVpkYTh5dzN2TktUUFlwRjVjcE56ZjZXZlFHWnpXY1JJc0FMNk1CT2hpOVM3OFBybjJjd1N6TXNNdEhQbS0zNE80UFBZUmF6RzhvcXVPZ3lZS1dPd3VYWFNPZw?oc=5",
+      "pubDate": "2026-02-04T08:00:00+00:00",
+      "source": "Kementerian Agama",
+      "description": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "UU TPKS Telah Memuat Pemenuhan Hak Korban Kekerasan Seksual",
