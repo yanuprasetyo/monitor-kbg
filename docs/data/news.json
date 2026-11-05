@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05T04:50:45.421264+00:00",
-  "total": 859,
+  "updated_at": "2026-11-05T13:53:38.080435+00:00",
+  "total": 863,
   "stats": {
     "tpks": 231,
-    "kekerasan_seksual": 394,
-    "kbg": 89,
+    "kekerasan_seksual": 397,
+    "kbg": 90,
     "kbgo": 145
   },
   "new_this_fetch": 60,
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "WVI: Suara anak penting jadi dasar kebijakan tangani kekerasan seksual",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV21vcGsyVG9USERlUDU1ZERqUzc5QS0tUFJHb0dYRGxfdnJ5QzdQUUxXLUYtOWNRN0FuQmdnTXNmSUFXMDVlSzhSUVNBM0RuemNLNDN4QTlOUWpWU3VTNHZVN0ctUUtqT09ZLTZsc2ZGRXE2a0s3cTNZT2lXRjBCeUJRTU00dmxySG5qMDh1RGE4T2pWMmVFUjYxNXMweEFNT0V1QVJja2NQSm1WTHl4UQ?oc=5",
+      "pubDate": "2026-11-05T12:39:39+00:00",
+      "source": "ANTARA News",
+      "description": "WVI: Suara anak penting jadi dasar kebijakan tangani kekerasan seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Kerjasama STC, Pemkab Lutim Komitmen Cegah Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0lRNko1T050M1N3SE0xVnNJN2dMODExWjlzWG5BNmNKT2FaN2N5SndWeVFTTm9wT3VJUVg1ZnM3WFh0X3lwYmNkdkdERTVTd295TktyLXI0REFIc1oxVEd5N3h4QXpCOFh6bnVDUHdVbF9EWUZiNG9qbzFDdGhNMTB5Xy1oak9CanRRcXVPMDFXaTRqbnc?oc=5",
+      "pubDate": "2026-11-05T10:58:24+00:00",
+      "source": "linisulsel.com",
+      "description": "Kerjasama STC, Pemkab Lutim Komitmen Cegah Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Polres Bontang Ungkap 4 Santriwati Diduga Jadi Korban Kekerasan Seksual di Ponpes, Usia 15-17 Tahun",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmtnNzNaZndlQVRkczh4bGZ0aVNGQkozNm1JaEZJX3AxTTFWQ3FxOGY0bVVrT25QZGZXRWk3YzlnUWktUUhfYkRhcWxsY1NaSkpobDNVdzNvNklZdEVkblJJLWRMN0lBQ3E1ZDlJdVk5STlFT0dSRzVMdlgxV3hGbUlHb1JOUW1nZ3gzclNtLUJkZjFLMmtwLXVfZ2NMM3pwQ1c3dEY4V3NzNmx1c3FkdHdvQkZoeWpBSTRxVVFOQQ?oc=5",
+      "pubDate": "2026-11-05T06:58:38+00:00",
+      "source": "Bontang Post",
+      "description": "Polres Bontang Ungkap 4 Santriwati Diduga Jadi Korban Kekerasan Seksual di Ponpes, Usia 15-17 Tahun",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Pemkab Lutim Gandeng STC Perkuat Kolaborasi Lawan Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1pUUzBEXzU3R182M2xwOG1sQ3ZoLXRvbnZaODdhdUxuNEJVbzFLVmUtLWxFNXp3b3hCYUZnOElkWGx3aDdVblVXbWFNSUpld3JjRmdXYnNYYmd1M2M4RDUwWDFEbXg5VnYzUi1WZGJjSHUwNTRCTUdGOW1tR0JXalJNbFpKTGVoMGZxZ05tUHFjajc1SXkxNW1ST3BDV0ZaVEU1TU1YMHNEaEJBdE5KSzVWRFhQS3ZqUHpzSQ?oc=5",
@@ -105,6 +132,15 @@
       "pubDate": "2026-10-31T07:45:35+00:00",
       "source": "CNN Indonesia",
       "description": "Naik Sidik, Polisi Segera Periksa Betrand Peto Kasus Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Cegah Kekerasan Berulang, UNESA Gelar Pelatnas Strategi Penanganan Kekerasan Seksual yang Diikuti Satgas se-Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWs0MV9PYXNVREU1aGRXQURKT3o2TkQ3TjNtMG5TaEp2a1hiV3M0Z1M3QjZaUXlWeDJYZ2JiWEdqWmRIMzFRUWtxRDJZQUVLUkxHWEJ1V0FiZFRKaW52dVFaT21YT2xkaXM3N2tjVWRaajBYVFNvVVFsbm5aOWNrdnJ6Q3RTNl81amhqMTh3Xzh4anJkQ2Z5T2ZZQVNJVHBPcUxKZkZLSHNaRFhHTElVTVhpZ19OYkpRSmRzbjFmMDEyOENybTNzMHEwSHpFUkxya05ESXdRNVVwcWNkdzZUY0phUFFkNHh3b3g4WGRXMjY?oc=5",
+      "pubDate": "2026-10-31T05:00:00+00:00",
+      "source": "Universitas Negeri Surabaya",
+      "description": "Cegah Kekerasan Berulang, UNESA Gelar Pelatnas Strategi Penanganan Kekerasan Seksual yang Diikuti Satgas se-Indonesia",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
     },
