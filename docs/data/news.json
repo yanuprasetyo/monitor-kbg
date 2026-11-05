@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04T23:07:23.562164+00:00",
+  "updated_at": "2026-11-05T04:50:45.421264+00:00",
   "total": 859,
   "stats": {
     "tpks": 231,
-    "kekerasan_seksual": 393,
+    "kekerasan_seksual": 394,
     "kbg": 89,
-    "kbgo": 146
+    "kbgo": 145
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -6729,8 +6729,8 @@
       "pubDate": "2026-04-21T07:00:00+00:00",
       "source": "BBC",
       "description": "Dugaan pelecehan seksual di grup percakapan digital mahasiswa UI dan IPB – 'Harus dijerat hukum demi efek jera'",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Komnas Perempuan: Jangan Tunda Urgensi Penanganan KBGO di Wilayah Kepulauan",
