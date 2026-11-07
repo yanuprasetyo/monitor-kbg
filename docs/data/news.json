@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-07T12:19:41.538600+00:00",
-  "total": 867,
+  "updated_at": "2026-11-07T21:21:50.808343+00:00",
+  "total": 869,
   "stats": {
     "tpks": 232,
-    "kekerasan_seksual": 399,
+    "kekerasan_seksual": 401,
     "kbg": 91,
     "kbgo": 145
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Jangan Biarkan Polemik Menutupi Nasib Santri Korban Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFB5bG1iOXh6Y19adDdjcDlBelFuUzdXam04c3pJdTlkUE45OTM4UHRFRWE4SkptZU16MHk0X0drQXlTTkVucThCOF91NERfWkxpZF9vYnFLbkN6aDk5Z3pqRVpiVlRHRW9laDdWOE52ZEdtNlJRaUdwUU5tSVpnRWpTZXJadFY1bHpqOHdVYkNSa1NBaTNSenpJSUh6LTd0b0Yybg?oc=5",
+      "pubDate": "2026-11-07T12:51:56+00:00",
+      "source": "Suara Indonesia News",
+      "description": "Jangan Biarkan Polemik Menutupi Nasib Santri Korban Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Polri dan KPAI Perkuat Sinergi Lindungi Anak, TPPO hingga Kekerasan Seksual Jadi Perhatian Serius",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalFBX2xPd1l4UF9wQkNxdWdPTmowQ2pRUk8tT2dwYUxmcVJlZnJ2SWVoSXZ5c1J4ZjR5U19NZWlaNUlUbHpZUHdTVlU1S0k2djRhQ1FDV2ZtaW9WSUUyODFOc09KcjE5NGhpa3RBeFlYS2hYaXk0QXBrNHJ0M2R6TEIxd1Q5ZTBkbkpDREg5TU9hRVltX1h0UkQzSGxhT3RsWmRXSm1LLUNLZ21BeFpVX2NfaV9HN2liRUFfd0RGSVZjdmNsMGx4aA?oc=5",
+      "pubDate": "2026-11-07T11:44:12+00:00",
+      "source": "Teropong Publik",
+      "description": "Polri dan KPAI Perkuat Sinergi Lindungi Anak, TPPO hingga Kekerasan Seksual Jadi Perhatian Serius",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Pejabat PLN di Kendari Diduga Intip Tetangga Mandi Ajukan Damai, Polisi Segera Gelar Perkara",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNExfSy16bmhZUG1feHZ1OTBWWEN6ajBIaXFxdG5XdkRrUHNpcVVXTnRwNzZCVXZjZ191a0lFNFI2T0hKMzFXbzFJZHpkajNJTThyUHE2M19XWW5xZ3MwWjQzMUVuMmpNd1dhOXhPNGh6dWJKUHNiZ1ZMRTh6dnA5VF9fQWhzUEQ4WF9DeUxmeVVHcWNNN1dDV3pHQlhWTTZWRG4tTlpBX1VJcTUxWGg3bDQxX3pPajDSAbwBQVVfeXFMUFpKblpqZHRLRlE3MjQ5YzVxcWJadEQxbGZpTWtBeVBNUzF0WU0yYkRmZ2dEQ0I5bFFoSlVqamROX2s0OGdZblF6X0lReDZ5aTRMZ1hwZ0dBYTY3cUF5eHhSdzZqME5EY25lODVEa0tkNXlpdm4tZjR2Z081X09uc1J5a1pVbTBuXzB6TVFGUjFyY0ZJdzBPSE5hWm1NU25ZRVhfaTFOdnVwTkIydU5ISVBSUHNqT3E4cGNuTFQ?oc=5",
@@ -352,6 +370,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Putus Mata Rantai Kekerasan",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuOGhDYlJaZ0I4T01hWmMtS1AxRlkwOHprYi0yOXNhVzA2Q0tPQ0t1aEh1QXBuOFBPV0phOFdQRFh4Rm5LNEQwRTZ4YXdZWW5oMVRyT0dnT3dGRGFzOHRIV1VxX0w2OEt5R2Jjcg?oc=5",
+      "pubDate": "2026-10-26T07:00:00+00:00",
+      "source": "SUARANTB.com",
+      "description": "Putus Mata Rantai Kekerasan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "4 Tahun UU TPKS: Mengapa Korban Masih Harus Berjuang Sendiri?",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWV6TnRFVmhxcVRhMUFaT2tMNWxwdnBrWnZyR0ZTaEFoeTZoaGRsYVRvSmgxc1pteVBfLUNZa2hHN2pZZWg0NnVuODRRcGNuWHFDY0t0RWtVWXZwY2pfcGZCQVh0MTFQMmpaZllFTXgxbDJOcnR1SnNGWlJaLVBldHZnNEtjM3p3?oc=5",
       "pubDate": "2026-10-26T07:00:00+00:00",
@@ -359,15 +386,6 @@
       "description": "4 Tahun UU TPKS: Mengapa Korban Masih Harus Berjuang Sendiri?",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
-    },
-    {
-      "title": "Putus Mata Rantai Kekerasan",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuOGhDYlJaZ0I4T01hWmMtS1AxRlkwOHprYi0yOXNhVzA2Q0tPQ0t1aEh1QXBuOFBPV0phOFdQRFh4Rm5LNEQwRTZ4YXdZWW5oMVRyT0dnT3dGRGFzOHRIV1VxX0w2OEt5R2Jjcg?oc=5",
-      "pubDate": "2026-10-25T21:48:18+00:00",
-      "source": "SUARANTB.com",
-      "description": "Putus Mata Rantai Kekerasan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Penyalahgunaan Wewenang dan Kekerasan Seksual: Mengembalikan Fungsi Pendidikan",
