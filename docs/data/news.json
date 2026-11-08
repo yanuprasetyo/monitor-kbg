@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08T04:01:42.684157+00:00",
-  "total": 869,
+  "updated_at": "2026-11-08T12:39:04.011397+00:00",
+  "total": 871,
   "stats": {
     "tpks": 232,
     "kekerasan_seksual": 401,
-    "kbg": 91,
-    "kbgo": 145
+    "kbg": 92,
+    "kbgo": 146
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,6 +28,15 @@
   ],
   "articles": [
     {
+      "title": "Festival Youth Care Soroti Kesehatan Reproduksi Remaja dan Ancaman KBGO di NTT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVpucGVEbDRWSjV1ekFfT28yemZkOWpGSlQzUzVhakdfbGVWc1JHYXdvYkZTV3FGSkd0NlNaRnlmcjVuMjN3bEZkbUNoeU9sZ1BFbE00dTJETzFhekhhQzd2QldzazNLUTY1UlBUTkVBMXU0M0I3WWgwTVRTZFRXaHRjdXBVaGVtWFpIWF9GSkNxU01DMURieFM2Y0NEUEZaVlVPcGZHZU9XZDU0RmQzTEU4dWp4THFOVG5xMXJn?oc=5",
+      "pubDate": "2026-11-08T10:43:00+00:00",
+      "source": "RRI.co.id",
+      "description": "Festival Youth Care Soroti Kesehatan Reproduksi Remaja dan Ancaman KBGO di NTT",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Jangan Biarkan Polemik Menutupi Nasib Santri Korban Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFB5bG1iOXh6Y19adDdjcDlBelFuUzdXam04c3pJdTlkUE45OTM4UHRFRWE4SkptZU16MHk0X0drQXlTTkVucThCOF91NERfWkxpZF9vYnFLbkN6aDk5Z3pqRVpiVlRHRW9laDdWOE52ZEdtNlJRaUdwUU5tSVpnRWpTZXJadFY1bHpqOHdVYkNSa1NBaTNSenpJSUh6LTd0b0Yybg?oc=5",
       "pubDate": "2026-11-07T12:51:56+00:00",
@@ -38,7 +47,7 @@
     },
     {
       "title": "Polri dan KPAI Perkuat Sinergi Lindungi Anak, TPPO hingga Kekerasan Seksual Jadi Perhatian Serius",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalFBX2xPd1l4UF9wQkNxdWdPTmowQ2pRUk8tT2dwYUxmcVJlZnJ2SWVoSXZ5c1J4ZjR5U19NZWlaNUlUbHpZUHdTVlU1S0k2djRhQ1FDV2ZtaW9WSUUyODFOc09KcjE5NGhpa3RBeFlYS2hYaXk0QXBrNHJ0M2R6TEIxd1Q5ZTBkbkpDREg5TU9hRVltX1h0UkQzSGxhT3RsWmRXSm1LLUNLZ21BeFpVX2NfaV9HN2liRUFfd0RGSVZjdmNsMGx4aA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNUQwb2FtTDU3cVUtMVFJeVlvanZMbFc1cjJoQTZlNU9IbDF3V05iYmRGb1I3RHUxNUZHOGNKU0kwZHQ3YWVyc0lyd1VOZ1RUVFBsLUtsSmlxSE96dWdvbkhFcmpBTkRicXF4MUo5eDd0U0VOY1pEYmE0cm84RGJoY2ZkNWtJWnhYNXozNWhtLWx3TjFVMURyOW5CVUpyT1FzMFd4MHNad2did1JLSGtMTWVoeng5a2YyX0tCOThHM3hYc2c?oc=5",
       "pubDate": "2026-11-07T11:44:12+00:00",
       "source": "Teropong Publik",
       "description": "Polri dan KPAI Perkuat Sinergi Lindungi Anak, TPPO hingga Kekerasan Seksual Jadi Perhatian Serius",
@@ -7739,6 +7748,15 @@
       "description": "Komnas Perempuan Dorong Peran Media dalam Penghapusan Kekerasan Seksual",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Sinergi Undana, LBH APIK NTT, dan Jakarta Feminist: Bersatu Padu Berantas Kekerasan Berbasis Gender di Kampus dan Masyarakat",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNekxPTkxHWTRNdTBUTGZpVm5qYUJpZ0FLX25jQVhlc3hDVnN6SUJKSlY1bmFVaHlqS2ZKSnQxdzV0UWM5blpoUGhfT0FQbU8xRUU1elh1TkRfZkt5ZlhWbWdsRFRubHF0b0tXYU1mekNoUU1HOV9tanl3TDVFQWlhOE1Ea0o1d1JGel9UdTdubnVMZU1vY0RZZGdZSHhxb045WFF0S0M2MVdFZnVRd1B3X2Roc0ZiZmVnejVFUjFQbUpYNlhOVnZoYXBMU2F2bHdzSnA0S2ZTOTQxSUl1NENNYTNn?oc=5",
+      "pubDate": "2025-05-09T07:00:00+00:00",
+      "source": "UNDANA KUPANG",
+      "description": "Sinergi Undana, LBH APIK NTT, dan Jakarta Feminist: Bersatu Padu Berantas Kekerasan Berbasis Gender di Kampus dan Masyarakat",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Perempuan Jadi Garda Depan Perlindungan Anak di Ruang Digital",
