@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09T04:18:13.785784+00:00",
-  "total": 871,
+  "updated_at": "2026-11-09T14:58:39.389350+00:00",
+  "total": 875,
   "stats": {
     "tpks": 232,
-    "kekerasan_seksual": 401,
+    "kekerasan_seksual": 404,
     "kbg": 92,
-    "kbgo": 146
+    "kbgo": 147
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Geger Kasus Kekerasan Seksual di Dunia Lari, Ketum KONI Tegaskan Lingkungan Atlet Harus Aman",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmxPc3ItZHNWT1NTYWJLVFo0QkFEQmpJVkVyeW5CaUVBQ0pZMHNubUhMcEltaS0wTkxQb0hzMVJtRmJJVXh4ME4wMzF1azJQdGhqaksxRi05UnJFNHNZZlloR3A4Y2kxdDlwbzNyRHlURnpQYXloMkkwY0FpMjYzd2h4T2dlRGNBMHlNVGl1Nmt3T1VodVIzYVU4WlJBNmk0WTdveHJYdjlDRFNEWEpfS2xUZw?oc=5",
+      "pubDate": "2026-11-09T14:45:31+00:00",
+      "source": "Gerakita",
+      "description": "Geger Kasus Kekerasan Seksual di Dunia Lari, Ketum KONI Tegaskan Lingkungan Atlet Harus Aman",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Sudah Diatur Hukum, Mengapa Aborsi Aman bagi Korban Kekerasan Seksual Masih Sulit?",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXVOV1ZzQV91M1kweXpDSTJVRjhKaU4zSzd6T2U2b0tuOG9tWXNGck5wRGZscVlLaXJZeWJfaWR3dFVyQnNhUkp6TkFIMlJPbXVVWDQtWVBOOTA2UUdJZUZRV2ZFRUFBNW5lak80aDAyZmR1d0VnOXRQbHhQMDh3RkRhYkxTRlRseHhKQ05PSzk3YlBoa2F6YXVsbnk3VzlUbmZsVEV5RDBCU2s3WG5xc0V0bzM?oc=5",
+      "pubDate": "2026-11-09T10:40:05+00:00",
+      "source": "kabarprima.com",
+      "description": "Sudah Diatur Hukum, Mengapa Aborsi Aman bagi Korban Kekerasan Seksual Masih Sulit?",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Budiyono Dorong Dugaan Pelecehan Seksual di Unila Diusut Tuntas",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2IxRS1Ca3VJeURWbVlhdjBJVGZVLUtBNm5wSFRQYXN6cXZMZ040blVMazF1SVBXRDNtdEZSZ2JicjFpTi1EYTYyQzBIZ1k4UnFKcE5wZEZ4dDBUZy04YXpVOERvdXVzdlhGLUZ2Q09SZ08tRG8wcDhhOVZoOEZpZnQ3bEtrbTZzQjlhbml4blNTWEwtSkN6VDM2eU5BSDRveEZn?oc=5",
+      "pubDate": "2026-11-09T05:06:25+00:00",
+      "source": "Topik Indonesia",
+      "description": "Budiyono Dorong Dugaan Pelecehan Seksual di Unila Diusut Tuntas",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Festival Youth Care Soroti Kesehatan Reproduksi Remaja dan Ancaman KBGO di NTT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVpucGVEbDRWSjV1ekFfT28yemZkOWpGSlQzUzVhakdfbGVWc1JHYXdvYkZTV3FGSkd0NlNaRnlmcjVuMjN3bEZkbUNoeU9sZ1BFbE00dTJETzFhekhhQzd2QldzazNLUTY1UlBUTkVBMXU0M0I3WWgwTVRTZFRXaHRjdXBVaGVtWFpIWF9GSkNxU01DMURieFM2Y0NEUEZaVlVPcGZHZU9XZDU0RmQzTEU4dWp4THFOVG5xMXJn?oc=5",
@@ -1774,15 +1801,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnlFU0VlQ1A3M2FHYWxLTW5OX2g3d0lVNkhzdHdpa1F4dU5hbm15RUdmYXA5cUZpdWpDSktPZWptWmtnWVVCYnhhcHRxeWNZUUFlNXd6cV9XNWJEcXJxWTlJQUZFZzlyNE9NdjljUjQ0bW40T3lvMUhGWU1ZcWNnUllodEI0RjhoTUJMdmdPU1Z5VlctYjhFTlhQRlhjTWZqYkxsT3NvZmdBczdxVm82dXhYcEJGdnV3bUVfdThR0gG-AUFVX3lxTE5aeUVTRWVDUDczYUdhbEtNbk5faDd3SVU2SHN0d2lrUXh1TmFubXlFR2ZhcDlxRml1akNKS09lam1aa2dZVUJieGFwdHF5Y1lRQWU1d3pxX1c1YkRxcnFZOUlBRkVnOXI0T012OWNSNDRtbjRPeW8xSEZZTVlxY2dSWWh0QjRGOGhNQkx2Z09TVnlWVy1iOEVOWFBGWGNNZmpiTGxPc29mZ0FzN3FWbzZ1eFhwQkZ2dXdtRV91OFE?oc=5",
-      "pubDate": "2026-09-27T14:17:00+00:00",
-      "source": "iNews.ID",
-      "description": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Bedah Buku “Perawan” Masyarakat Berani Bersuara Lawan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUWZPeHUyQTVzcmhqdmRGcHR0Q09mM1BIQVNCNmJ6amVTaUtDc0lsSW9pX1VSMWlWLUQ4NGVaRjZ4UUtwQTBTVzIxcXpROFpTaFlLdkZ2QWR2ZC0teTEtRG45OU5aN0Y2a2U4cF8tUlpNbENLVmc2a2pzeE94OXJaT2lXU3dPNXVQR2RORHZrcnRmRElMd0ktc3N5MGJtTjBST011aVF0WHlSZw?oc=5",
       "pubDate": "2026-09-27T13:10:04+00:00",
@@ -1799,6 +1817,15 @@
       "description": "Polda Banten Tangani Laporan Dugaan Kekerasan Seksual Fisik di Lingkungan Pemkab Tangerang",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnlFU0VlQ1A3M2FHYWxLTW5OX2g3d0lVNkhzdHdpa1F4dU5hbm15RUdmYXA5cUZpdWpDSktPZWptWmtnWVVCYnhhcHRxeWNZUUFlNXd6cV9XNWJEcXJxWTlJQUZFZzlyNE9NdjljUjQ0bW40T3lvMUhGWU1ZcWNnUllodEI0RjhoTUJMdmdPU1Z5VlctYjhFTlhQRlhjTWZqYkxsT3NvZmdBczdxVm82dXhYcEJGdnV3bUVfdThR0gG-AUFVX3lxTE5aeUVTRWVDUDczYUdhbEtNbk5faDd3SVU2SHN0d2lrUXh1TmFubXlFR2ZhcDlxRml1akNKS09lam1aa2dZVUJieGFwdHF5Y1lRQWU1d3pxX1c1YkRxcnFZOUlBRkVnOXI0T012OWNSNDRtbjRPeW8xSEZZTVlxY2dSWWh0QjRGOGhNQkx2Z09TVnlWVy1iOEVOWFBGWGNNZmpiTGxPc29mZ0FzN3FWbzZ1eFhwQkZ2dXdtRV91OFE?oc=5",
+      "pubDate": "2026-09-27T07:00:00+00:00",
+      "source": "iNews.ID",
+      "description": "Jurnalis Diminta Utamakan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Wartawan Diajak Lebih Peka Saat Liput Kekerasan Berbasis Gender",
@@ -7820,6 +7847,15 @@
       "description": "Mencapai Indonesia Emas 2045 Tanpa Kekerasan Berbasis Gender Online",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Workshop Stop Kekerasan Berbasis Gender Online (KBGO) dan Pameran Foto",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHR4V09ETVdDaGhBOHNJMktGbjE1VTlfbmI5OWRuTTlnUXYtSEdjVElhLVRxUWFxYUw1bHBsTE51aUJUa2R1T3pxZzZYVl96QWVyLXRvbkZSbGkwS25QakFwdV8zVlVvcXZob3pxN3EyczZLWkVaUzMwaE1DUTB0eDJqSjMyTDJGelJEekNWbjdjdFEtVWRjZHB0RHFweGZvM1JsMEhCN2JRbVdjSFF4YXpfcThSVnVk?oc=5",
+      "pubDate": "2024-07-05T07:00:00+00:00",
+      "source": "Pemerintah Provinsi Papua Barat Daya",
+      "description": "Workshop Stop Kekerasan Berbasis Gender Online (KBGO) dan Pameran Foto",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Tindak Kekerasan Berbasis Gender Online Harus segera Diatasi",
