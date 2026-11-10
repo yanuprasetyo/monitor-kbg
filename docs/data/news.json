@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10T01:05:54.548350+00:00",
-  "total": 877,
+  "updated_at": "2026-11-10T14:11:55.506738+00:00",
+  "total": 882,
   "stats": {
     "tpks": 232,
-    "kekerasan_seksual": 406,
+    "kekerasan_seksual": 410,
     "kbg": 92,
-    "kbgo": 147
+    "kbgo": 148
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,42 @@
     }
   ],
   "articles": [
+    {
+      "title": "KONI Pusat Kecam Dugaan Pelecehan Seksual Atlet Lari oleh Pelatih",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2hyeVg2NGZUdkhTMUxRczhkREtZUWlGR3Z2RGlJVG54Q01KWTdFRlZSUGFmWjU5YTBwck52dDVCcmV3Q3lTZEp5OTB2bjJGZ3U0X0JBX040b2FpeUk1ejJlYXo0Y2pQTUpZbEpmdE9hek01el9qSzZwLU9MME03ZWtUZ1dyMnZlOGdWTGVLRk0tMC1JQ1lsR2hPOGpZdlRLc1pTc0IyNmp0R2w5?oc=5",
+      "pubDate": "2026-11-10T11:44:51+00:00",
+      "source": "Media Indonesia",
+      "description": "KONI Pusat Kecam Dugaan Pelecehan Seksual Atlet Lari oleh Pelatih",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "KONI Pusat kecam aksi pelecehan seksual atlet lari",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ003ZXNrdGpUSlJfZnk3eEpKOFRUcU5TVThyS2pxOUYteWxBOFdpOUc0MzlFSE1JbWVNYkphbXIzYTVUT0hReDVYV2Fhd2FubUtmWWhMQ3JtRlFVNFNrWmlNbV8wdGFHNWJ5Q2lBVGdWbmZNUHhreGNqZHRBMnBlbmNGQUFLVTZPX1pQeGZ0MUI1SFlhVnpocNIBngFBVV95cUxNSVRaZHdFa0M5NjNKb3ZwaFk2THNwS2ItRmZwa3JKZUJNWjhQNzV1WDd5VXlwNXV4TnJXdVFTWTFSLWM5MV92dDhvaXFMWkdISkhSN1ZHYjZzSmNDVUtmZkVGOEEybjdXbmQxZTlUSTJzTmZaV1p5WHdtWE5TZlJPNkpDemFrUDUyVXgtTlVvTFE1dGN4VUlqTHJ2NFBQZw?oc=5",
+      "pubDate": "2026-11-10T11:40:33+00:00",
+      "source": "ANTARA News Jawa Barat",
+      "description": "KONI Pusat kecam aksi pelecehan seksual atlet lari",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pelecehan Atlet, KONI Pusat Kecam Dugaan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sNnB3NFkxSWVOR0RmUjhiMlZzZGs2eUp2ZVBLLS1nb1hhNUh6RDlVa3ZMUENwQUxmN3JPRExubjUyekdEWXIwZk5GS1hxb0dzZDhSSG00XzdlVW5Oa2dlYzFUbkpuRmVoMWJUSDhBRnZrUnBxbFRkeWw0bjE?oc=5",
+      "pubDate": "2026-11-10T11:39:30+00:00",
+      "source": "Radio DMS Ambon",
+      "description": "Pelecehan Atlet, KONI Pusat Kecam Dugaan Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Marciano Norman Kecam Kekerasan Seksual di Dunia Olahraga",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORFpJTmFSeF9TYXY0QlBEUkF6dVBVb2dFZ1hFMW9aNnFkbldSczVEamN0MHNBVms1ZlM5azNYYnNuMXZvYXlnN3ZqMGlBQ2EyNEVsNWQyOXdQLTh5SDJKcFpud3JDVVI0Wnc0aWdQS1MzYjBZUlBURVcySU5RcVRPREdYLVo2cFZFWnc?oc=5",
+      "pubDate": "2026-11-10T06:06:59+00:00",
+      "source": "Sudutpandang.id",
+      "description": "Marciano Norman Kecam Kekerasan Seksual di Dunia Olahraga",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Zero Tolerance! PP ALTI Pastikan Tak Ada Tempat Bagi Pelaku Kekerasan Seksual di Lari Trail",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNfRTBwQzB4RFFpRXhwNVBSQmlNYnVtWW1TT3NMcXhWYjhNVk02bk10QzVIQmhxNzBmVVI2dkxwcldtOTdkQ3o3bXdvRVJodkVLYXJNNmRob3NNOWsxdjRubGhyYmZrSk81Mkk2VmVrbzRFYV9NZDRoVmZhd2cwU3NjeU83Um12S1hkWGNkOFpOdFVFYm9qTU1WVzdORnRVSFR3SDBrMDNsVU5kWWszQ3B3?oc=5",
@@ -107,6 +143,15 @@
       "description": "Pejabat PLN di Kendari Diduga Intip Tetangga Mandi Ajukan Damai, Polisi Segera Gelar Perkara",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Women's March Jakarta Usung 9 Tuntutan, Soroti Keadilan Gender hingga Ekologis",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVEU4S0pJTTltZkI3bnVvU0NDTkxtcHNEV3RMa05kS0t3MjJXVjI2cmV3eVQxaF9VUVluczJVc1R1Ql92TGpuNzRPeU1rbVRGdDJFVl9XRG9pT3lkMnBudXdYdUlkOHRFMnBHRU1XRUo1NVJXbW8zOWdZYldCMXlOSDBJSUU2VlRoRVpXd1lVcEZkYmZQZWtyNWZMa3lEVHRwaFNqWGFuRTFocEJzckVRRHNIREpKb2xsdFpKSHRn0gHDAUFVX3lxTE9GN3U3TjFpLVNuUWU1Nk9rUVdUZ1Vya0kzVnBqWUNYZ2JYeHdVQ0gyVjhCV2NRVEp0RlY5eG0xSHFrU3JwM2JpVUo5QUtRZ0tCVHF5eHo3aERxT0pyUUJ4TWxSZURTOFNPbzlwR0gybHQzbkI0V3dlNm1XTTVHQmx4OU1fVmktQ1doaTI2QjhrYlA1MmRsSEV1RzBKOThVV3J4eGw4QkdWNXlUQnRsOGkwT09vbE8tN0VkUG8xalR3cXNVVQ?oc=5",
+      "pubDate": "2026-11-07T08:10:00+00:00",
+      "source": "NU Online Jakarta",
+      "description": "Women's March Jakarta Usung 9 Tuntutan, Soroti Keadilan Gender hingga Ekologis",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Wamenag Ancam Cabut Izin Pesantren yang Terlibat Kekerasan Seksual »",
@@ -7852,7 +7897,7 @@
       "title": "Kebutuhan Mendesak untuk Kolaborasi: memerangi Kekerasan Berbasis Gender Online",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGFzSG9na2hjRjFyc0FMY0ROQ0wyNHR5ZUJWSGpnejlxSXF3M2NYeFl2LXI0YXdzY01XWWhlVzdPY3NENkZRX1Y4ekZoa3luZ2pCVWh1S2tDMDRGV2RRdkpldFpSLUt0MmwxT1RweEVFUHllSzVFd3E2d19LcWRaMjVzS3lteFJ5Q2Npd2RCNmhYeHRFV0RfX1pYYmQyb0ZNWkp6MXlKdTcxVDNqX2VoajlrR1IySjFrOW16aS01eDY1X2pUM3c?oc=5",
       "pubDate": "2024-09-02T07:00:00+00:00",
-      "source": "UNDP",
+      "source": "United Nations Development Programme",
       "description": "Kebutuhan Mendesak untuk Kolaborasi: memerangi Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
