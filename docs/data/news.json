@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10T22:45:06.628714+00:00",
-  "total": 882,
+  "updated_at": "2026-11-11T04:23:05.258777+00:00",
+  "total": 885,
   "stats": {
     "tpks": 232,
-    "kekerasan_seksual": 410,
-    "kbg": 92,
-    "kbgo": 148
+    "kekerasan_seksual": 411,
+    "kbg": 93,
+    "kbgo": 149
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bagaimana Peran Media Meliput Kekerasan Berbasis Gender?",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONEFoa2wxOVVXRm5VbVJvQ241bnBCZUZhYW1lb3hRZGlkVUtLTEpqY2Y5SklaZTc5QS1kcXFldWRQNktCeGFVN1pBYXRuZThDTmlscnFuSm9FOHhwYzBIWmZLMXVXNGVfUmpHMFRuQUhwN0MtTGlaU0twSFB1Vmp3WC1HRQ?oc=5",
+      "pubDate": "2026-11-11T01:00:22+00:00",
+      "source": "Mubadalah.id",
+      "description": "Bagaimana Peran Media Meliput Kekerasan Berbasis Gender?",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Kampus Bukan Ruang Aman?",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85X2hjNGQ4NDN4N2JDUlExTFlaajdoMlNtWmVCWnhKb3BmY3FzcnpXYWlGUVpQUnB0THc0UTBxRVlSYi1adVdWXzlKRTBxb3BheW92aDB1VlA1Wmx2T2tObHlxQjBOelBnc3JPTGU1czQ?oc=5",
+      "pubDate": "2026-11-10T23:34:36+00:00",
+      "source": "inilampung.com",
+      "description": "Kampus Bukan Ruang Aman?",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Polisi Usut Dugaan 7 Santri Dilecehkan Pimpinan Ponpes di Jaksel",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHVPVjdzY3dHMmNreEFxRXNOdG00dUc4VjVnQXlHVTFjdi16NGtTeXpwV1J5aFdzS3l6UktLaF9CdGxNaTh6N0NrTHhLbjhrbXUxa3VfSmZaVGp0OHN4Zzg2MEFkUUJXMnVmclJlMlBaaGpESm4tSENHZERicm9nak5JdkJkVzRGMzVyZ2tLVmJoQnQyN2liQ1NnQzFyWnU2c285R2ZDaTRFaWFFMVFoMzFfTVBKLW14TExKNm9MUGxpS2RLMjVB0gHMAUFVX3lxTE9VaTA0M3V3b05Vd1lRSnlZcVJ2VHJjS2RVR042WWtFRDZmNWZOQ3RFMElyVjlXYU8yQjN5OEhMZ2tPUHJ3OWFBMEVLSVhrWTEyOHlHRjJjUmF3WTg5QlhKZ0Z4QXdWakZKMGprMjkzV3dLZ2R1WUo0dW0tbnV3LVJuY01oaHJZUVhnR0d6Rjl5aTBLNWZGMXZsNlU2U0MtUHIzSmFGUGNwS2RmdmpwdHpGSFNJcEtSenVuWjJ4eUgzNlNTMWNtMWtpSXoweA?oc=5",
+      "pubDate": "2026-11-10T20:30:03+00:00",
+      "source": "CNN Indonesia",
+      "description": "Polisi Usut Dugaan 7 Santri Dilecehkan Pimpinan Ponpes di Jaksel",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "KONI Pusat Kecam Dugaan Pelecehan Seksual Atlet Lari oleh Pelatih",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2hyeVg2NGZUdkhTMUxRczhkREtZUWlGR3Z2RGlJVG54Q01KWTdFRlZSUGFmWjU5YTBwck52dDVCcmV3Q3lTZEp5OTB2bjJGZ3U0X0JBX040b2FpeUk1ejJlYXo0Y2pQTUpZbEpmdE9hek01el9qSzZwLU9MME03ZWtUZ1dyMnZlOGdWTGVLRk0tMC1JQ1lsR2hPOGpZdlRLc1pTc0IyNmp0R2w5?oc=5",
@@ -137,7 +164,7 @@
     },
     {
       "title": "Pejabat PLN di Kendari Diduga Intip Tetangga Mandi Ajukan Damai, Polisi Segera Gelar Perkara",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNExfSy16bmhZUG1feHZ1OTBWWEN6ajBIaXFxdG5XdkRrUHNpcVVXTnRwNzZCVXZjZ191a0lFNFI2T0hKMzFXbzFJZHpkajNJTThyUHE2M19XWW5xZ3MwWjQzMUVuMmpNd1dhOXhPNGh6dWJKUHNiZ1ZMRTh6dnA5VF9fQWhzUEQ4WF9DeUxmeVVHcWNNN1dDV3pHQlhWTTZWRG4tTlpBX1VJcTUxWGg3bDQxX3pPajDSAbwBQVVfeXFMUFpKblpqZHRLRlE3MjQ5YzVxcWJadEQxbGZpTWtBeVBNUzF0WU0yYkRmZ2dEQ0I5bFFoSlVqamROX2s0OGdZblF6X0lReDZ5aTRMZ1hwZ0dBYTY3cUF5eHhSdzZqME5EY25lODVEa0tkNXlpdm4tZjR2Z081X09uc1J5a1pVbTBuXzB6TVFGUjFyY0ZJdzBPSE5hWm1NU25ZRVhfaTFOdnVwTkIydU5ISVBSUHNqT3E4cGNuTFQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNExfSy16bmhZUG1feHZ1OTBWWEN6ajBIaXFxdG5XdkRrUHNpcVVXTnRwNzZCVXZjZ191a0lFNFI2T0hKMzFXbzFJZHpkajNJTThyUHE2M19XWW5xZ3MwWjQzMUVuMmpNd1dhOXhPNGh6dWJKUHNiZ1ZMRTh6dnA5VF9fQWhzUEQ4WF9DeUxmeVVHcWNNN1dDV3pHQlhWTTZWRG4tTlpBX1VJcTUxWGg3bDQxX3pPajDSAZgDQVVfeXFMTzJiRWNxYmkzSk96cXp4UTdnOGRnYW9CbklaOGkxaWVoV2s4R21ITHpIMGM0bTJBVE54N3FEVDE2dG5kZkM3TVR6WXdNRy1sdFRXa3pWV0lnRzdEODJDQmk2b2p3NE9vSTVZaVRvSVcycHdESGpyYlRKZHUyS0xuZGxqSUlFc1dFSDduNklKaHhQQzhxSndtRzhHRjBlNW9CeW9kU1VaeUx0TFg1SzlkSnQwblg3bml6VlowMHJ6WUhVMHpyb1BscW9xb3dyZTZRZDN0R2J0d3hTelJKenB2X3dqLUxBZmdrSzRYQ3BNOVZ5WlZzUnltRHQ0eUtjWnZyanBiZUZLenVrZXlVczJESS1iY3M1UWllcHoxNUJta2RxNHM1cUw0Zm9hM1MzbFVROGxkSlNTMU5Md0VnOWV2bW9UQl95SVRFaWxqUmRleHhYTkRVQ3N0Rjk2RXVpbGdDdUhwMEx0TGxJRUUwSWExQUFoYkhUZXYxMEZrSUFmX1RTakhPQkZ4RkhaMG11TDBmRUUxWDRQb2tU?oc=5",
       "pubDate": "2026-11-07T08:33:55+00:00",
       "source": "Kendariinfo",
       "description": "Pejabat PLN di Kendari Diduga Intip Tetangga Mandi Ajukan Damai, Polisi Segera Gelar Perkara",
