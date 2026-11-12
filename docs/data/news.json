@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11T23:58:16.788592+00:00",
-  "total": 889,
+  "updated_at": "2026-11-12T06:27:01.638537+00:00",
+  "total": 890,
   "stats": {
     "tpks": 232,
     "kekerasan_seksual": 414,
     "kbg": 93,
-    "kbgo": 150
+    "kbgo": 151
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -260,6 +260,15 @@
       "description": "Polres Bontang Ungkap 4 Santriwati Diduga Jadi Korban Kekerasan Seksual di Ponpes, Usia 15-17 Tahun",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pemkab Lutim Gandeng STC Perkuat Kolaborasi Lawan Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFF3bmpnSEJoLVlTSC1hUUgwQ1hxTG9IQnFwbkozNGY3RjZuX1g3a3dLUFlMTFJUbGlVZUZhSHNSLWlXNnMzTGFVZVBDTlBabkNMMDZkbzB5WVFJQl9hLXZqVVltdnJXQXk3VVVfOU1DcXNnTzAyVk01LWszTVBHU2RPcTRIUjRRc2tuRGY1SDVkcjZidnpjQjd5REJ1bUxGX0lrYmVPVWU5N0FXcVdaT3JuOXA4aVE?oc=5",
+      "pubDate": "2026-11-04T12:30:02+00:00",
+      "source": "Rakyat Sulbar",
+      "description": "Pemkab Lutim Gandeng STC Perkuat Kolaborasi Lawan Kekerasan Berbasis Gender",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Pemkab Lutim Gandeng STC Perkuat Kolaborasi Lawan Kekerasan Berbasis Gender",
@@ -1702,15 +1711,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTFLOWxoNUdzR1lIZ1o4eFYzTEVBN2stR1ByUW13M0ttUXJsUDRGaUtibTFJMGlPLTJnWWZQaEhoZlZhSG12cnBnaFU0LWh0XzhkNUJqaFBPZ0paTFlZSk5EdDN3eDVqSEVWWU1FVVVlbXhnUUxnRUtqUm5lWG0xVEtQY0NZSzU5ZmRxbVpnRGJMYzlDNklUaTYzaDA?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "Universitas Gadjah Mada",
-      "description": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -1718,6 +1718,15 @@
       "description": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTFLOWxoNUdzR1lIZ1o4eFYzTEVBN2stR1ByUW13M0ttUXJsUDRGaUtibTFJMGlPLTJnWWZQaEhoZlZhSG12cnBnaFU0LWh0XzhkNUJqaFBPZ0paTFlZSk5EdDN3eDVqSEVWWU1FVVVlbXhnUUxnRUtqUm5lWG0xVEtQY0NZSzU5ZmRxbVpnRGJMYzlDNklUaTYzaDA?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Universitas Gadjah Mada",
+      "description": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "FT UGM Nonaktifkan 10 Mahasiswa Terlibat Percakapan Cabul Grup Chat",
