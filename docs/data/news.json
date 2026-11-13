@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-13T13:49:38.146224+00:00",
-  "total": 891,
+  "updated_at": "2026-11-13T23:10:18.828930+00:00",
+  "total": 892,
   "stats": {
-    "tpks": 232,
+    "tpks": 233,
     "kekerasan_seksual": 415,
     "kbg": 93,
     "kbgo": 151
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bupati Kupang Dilaporkan atas Pemerkosaan, Diusut dengan UU TPKS, Tak Bisa Berakhir Damai",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZy1keE81cXhHLTFrTDBsQzg0S3RkOHJ5dUhhczNRZXRYMmxUdmNOTlNqTFZsQi03amdzUi1NcktRcGN0YURLUjJEZzQyZTlHRnA3U3FlR1h3d1JQX0JWel8tUU5QLW1nU3RiV1N5QXEwYXRhbERjc1BkUURIM3U2aU5PYnZaRDNxbGZmRDlyaUhfeGI1OF94aUM0SWdkODFxaE53ZHRRVzIzS0NaLWs4QTFiM0REUEpz?oc=5",
+      "pubDate": "2026-11-13T16:20:43+00:00",
+      "source": "AFU.id",
+      "description": "Bupati Kupang Dilaporkan atas Pemerkosaan, Diusut dengan UU TPKS, Tak Bisa Berakhir Damai",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Kasus Kekerasan Seksual Di Sampang: Potret Kelam, Alarm Perlindungan Anak",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcHFod0pRVUJTUUxsMWJQLU04MWF6S0d1VnFhVVJZbTdmdjl6RlQwZkJzeVhkejl4bXQ3UERjdVV4dnZ4elpWVElhblRHS0xkUXpyZ3MtUjBzMDdlcjBIVWlyR3BkYWNNcEZncldFZUVWUG15bmlibWtQN0VrM1p1bHRpUG9rMklSdUwtNFduVXk3UGI0UlVjRXBHM2d0Qk8tWWFxQUZGcl9DR0d4cW1zZlZreEJZSVdtWjNneVowNHl6NzEtS1Q4R21hNGxadw?oc=5",
@@ -1711,15 +1720,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTFLOWxoNUdzR1lIZ1o4eFYzTEVBN2stR1ByUW13M0ttUXJsUDRGaUtibTFJMGlPLTJnWWZQaEhoZlZhSG12cnBnaFU0LWh0XzhkNUJqaFBPZ0paTFlZSk5EdDN3eDVqSEVWWU1FVVVlbXhnUUxnRUtqUm5lWG0xVEtQY0NZSzU5ZmRxbVpnRGJMYzlDNklUaTYzaDA?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -1727,6 +1727,15 @@
       "description": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "FT UGM Nonaktifkan 10 Mahasiswa Terlibat Percakapan Cabul Grup Chat",
@@ -7924,7 +7933,7 @@
       "title": "Perempuan Jadi Garda Depan Perlindungan Anak di Ruang Digital",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX21uMW9UNnVTQ3hqRURGOURDWV9KeDBBRlVPelluWFlCYkpwVGRnZXJlckxla2pQZjNaWERleWQteUJjaHhQUnkwSXNhZzJMcndBd0xuc0dZMTRsWWJzRk9SaXV0TmpabjBYZS1Uek5pdXMtMjA5OG5SLWpHTEwzWjh4eE9SYVc0em9reW85eEV2WmNUU1pvR09Yc1ViX2d5TzVYLTNKSFFuaE9USUo4ZmROWQ?oc=5",
       "pubDate": "2025-05-07T07:00:00+00:00",
-      "source": "Komdigi",
+      "source": "Kementerian Komunikasi dan Digital",
       "description": "Perempuan Jadi Garda Depan Perlindungan Anak di Ruang Digital",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
