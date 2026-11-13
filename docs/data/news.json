@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-13T04:46:47.142090+00:00",
-  "total": 890,
+  "updated_at": "2026-11-13T13:49:38.146224+00:00",
+  "total": 891,
   "stats": {
     "tpks": 232,
-    "kekerasan_seksual": 414,
+    "kekerasan_seksual": 415,
     "kbg": 93,
     "kbgo": 151
   },
@@ -8018,6 +8018,15 @@
       "description": "Kajian 21 Tahun CATAHU Komnas Perempuan: Ada Kenaikan Laporan Kasus Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Riset AJI-PR2Media: 82,6 Persen Jurnalis Perempuan Indonesia Mengalami Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakRPZC1sWUlVOXlJbk9rcnNKTkRaSFRSZHVldnVTT3c4NzRLZjFJVmtrbjUwOW1ZS2R6V1ZtXzZtWVk4Zi1SbENlc0tQTEhkallaRl9TUmMtTzQ4MU1KeGlYR1lRU1VCQi1yaV9CV0haQTVsa0xYWWZfVFAwaFFOYVlFV1ZvWmNpajVhRHdTQkVjRU9BRWc5VzZxcFZMQW83b1I5QnlVeTdZYlk2YzQyakxCYXc?oc=5",
+      "pubDate": "2023-02-14T08:00:00+00:00",
+      "source": "Aliansi Jurnalis Independen | AJI",
+      "description": "Riset AJI-PR2Media: 82,6 Persen Jurnalis Perempuan Indonesia Mengalami Kekerasan Seksual",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Website DJKN",
