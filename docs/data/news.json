@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-13T23:10:18.828930+00:00",
-  "total": 892,
+  "updated_at": "2026-11-14T04:40:48.244776+00:00",
+  "total": 894,
   "stats": {
     "tpks": 233,
-    "kekerasan_seksual": 415,
-    "kbg": 93,
+    "kekerasan_seksual": 416,
+    "kbg": 94,
     "kbgo": 151
   },
   "new_this_fetch": 60,
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Geger Kasus Kekerasan Seksual di Dunia Lari, Ketum KONI Tegaskan Lingkungan Atlet Harus Aman",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamplcmZmUHhJdzFtdVNIcUlzQ01qU1hhT1dNRmt6RnV3eHZkRGt4dkVoLVNnOWhoMkp5ZWVtX1RhYU5fUDYwZnhacGFLOXJNUnJVa1lONEFvcGV5OWtzRWNNOXFSSXctaFNweHBsYVhEX0FKci1vWFp5a0hXenZ1Tm9fYXVDMm9hams1TG9ublBON09GSGN4NzZvcHJCUGZ1eDRCZG00QTE2aGkxZHNFTmNOR21pS2FtbDk0?oc=5",
+      "pubDate": "2026-11-14T04:25:59+00:00",
+      "source": "Harian Dialog",
+      "description": "Geger Kasus Kekerasan Seksual di Dunia Lari, Ketum KONI Tegaskan Lingkungan Atlet Harus Aman",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Bupati Kupang Dilaporkan atas Pemerkosaan, Diusut dengan UU TPKS, Tak Bisa Berakhir Damai",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZy1keE81cXhHLTFrTDBsQzg0S3RkOHJ5dUhhczNRZXRYMmxUdmNOTlNqTFZsQi03amdzUi1NcktRcGN0YURLUjJEZzQyZTlHRnA3U3FlR1h3d1JQX0JWel8tUU5QLW1nU3RiV1N5QXEwYXRhbERjc1BkUURIM3U2aU5PYnZaRDNxbGZmRDlyaUhfeGI1OF94aUM0SWdkODFxaE53ZHRRVzIzS0NaLWs4QTFiM0REUEpz?oc=5",
@@ -7631,6 +7640,15 @@
       "description": "Marak KBGO di Solo, Remaja hingga Anak SD Disasar dengan Modus Iming-Iming Pulsa",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Peringatan 16 Hari Anti Kekerasan Berbasis Gender di Unpar, Seruan Keamanan Digital di Tengah Maraknya Kekerasan Daring",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWVaZGVMN0ZkT2hjdjBtN0s4TFZYV1dFUmVQRFhhblNYaDlpNkFkQWhmUVpZZExfVHNfcXpwd3lHV3dQLXJua1V4bjMxaEFnVVMxLVNfVUFZMEFfYWZDcDAwSFNGRFRhc3VLQzhSdWNjVThieUJMSm0yalhsdEdFMTUxY0p6dUpfUV84NVJISWFQQnpFVUVqQ3B0MG5EWWgtN3pLT21vRlpXOWY5Z1FreFpVakx2NEVfaE1aZU1ORlZ1clo0cV9QQ3pZVnB0QQ?oc=5",
+      "pubDate": "2025-12-11T08:00:00+00:00",
+      "source": "BandungBergerak.id",
+      "description": "Peringatan 16 Hari Anti Kekerasan Berbasis Gender di Unpar, Seruan Keamanan Digital di Tengah Maraknya Kekerasan Daring",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Peringatan 16 Hari Anti Kekerasan Berbasis Gender di Unpar, Se...",
