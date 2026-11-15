@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-14T21:54:43.881022+00:00",
-  "total": 895,
+  "updated_at": "2026-11-15T04:31:00.372157+00:00",
+  "total": 896,
   "stats": {
     "tpks": 233,
-    "kekerasan_seksual": 417,
+    "kekerasan_seksual": 418,
     "kbg": 94,
     "kbgo": 151
   },
@@ -8036,6 +8036,15 @@
       "description": "Tindak Kekerasan Berbasis Gender Online Harus segera Diatasi",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Peringatan Hari Perempuan Internasional: Memerangi Kekerasan Seksual B...",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNXlXejNIM0luSER6N2NXU2hXY1RKRHlKVU1SOVhaUFFjMzFXMDJzdExJREZFZGlqOHdLb2NmVlFNdXpxdlhiYUNDS0xOdFhMRUxDNTA3MjBJdXVId2dEN3dpUVMwQWJLQUVLdWpEbFFiZkktVGE4bWJZREt0Q2ZPVks1YS1SVklOYVhlV1ZlakFIc1VBUGd1SVNQLUp4dlNjdFRvcnRvUjRrM0EteE9NZ3VETmdETmNaenJOWHVGaExsZw?oc=5",
+      "pubDate": "2024-03-28T07:00:00+00:00",
+      "source": "Komnas HAM RI",
+      "description": "Peringatan Hari Perempuan Internasional: Memerangi Kekerasan Seksual B...",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Alumnus UNAIR Berikan Cara Menyikapi Kekerasan Berbasis Gender",
