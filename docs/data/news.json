@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-17T01:28:31.633377+00:00",
-  "total": 902,
+  "updated_at": "2026-11-17T15:24:39.929779+00:00",
+  "total": 903,
   "stats": {
     "tpks": 236,
-    "kekerasan_seksual": 420,
+    "kekerasan_seksual": 421,
     "kbg": 94,
     "kbgo": 152
   },
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kecam Kasus Dugaan Kejahatan Seksual Bupati Kupang, Berikut Tuntutan Perempuan Diaspora NTT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVll5aTE0Mk80R2ZGQ1BheUhqOXhqRGJJVnZaN09Vb0Q4V2lrZ1RrYzljNEFsczRhTzZwTUs1cGg3dHFIa0ktNWFNWE0tNjhlUzhhNjltM1ktaXdnNHdGRWVXb0J3ZFN0X3NTeXZVRjlmNHZpWUFVV2lsYVBrT3NrdWpNbzVfSmJfYnJXTTQ3bENrQkx6MkNwc0Q4NElQX0xjeDBhOHlHYU5XdTY4Mkhtc1E4S0oyTXN3N3hmSXREaHA?oc=5",
+      "pubDate": "2026-11-17T04:30:00+00:00",
+      "source": "Indonesia Satu",
+      "description": "Kecam Kasus Dugaan Kejahatan Seksual Bupati Kupang, Berikut Tuntutan Perempuan Diaspora NTT",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Komnas Perempuan dan Menteri PPPA Kawal Kasus Dugaan Pemerkosaan oleh Bupati Kupang",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXZzM21nSVFXeUY2T215a0pJOXBsZFhIV28xX0doMmJmUnJkM0xSYWNqX0dDQW1NY2JFMXFuYl9RQXluajRwVUY4ZWRhWnlwYjdlOFhUYWRUSXh5QmxsWkxZM2hyWjh4UVN1MzlOUDVuTDlkamtjZk9wb2txMWozc2ZQallwbjJpS0toUlZJYmZuYWVOZXNzQ0xnSDhFMjdxWDBLcHdNRVJuREc1WEZ0NnZSSlVzd2lOVjk5LVpFWnF6dzU5cTdqTV83bDhySDMxUlNGTw?oc=5",
@@ -7134,8 +7143,8 @@
       "pubDate": "2026-04-17T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Tak Cukup Satgas, Kampus Perlu Penguatan Kurikulum Anti Kekerasan Seksual",
