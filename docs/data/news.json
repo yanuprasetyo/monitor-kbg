@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18T00:25:33.891477+00:00",
+  "updated_at": "2026-11-18T14:58:51.422086+00:00",
   "total": 903,
   "stats": {
-    "tpks": 236,
+    "tpks": 237,
     "kekerasan_seksual": 421,
     "kbg": 94,
-    "kbgo": 152
+    "kbgo": 151
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -1801,15 +1801,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "BBC",
-      "description": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTFLOWxoNUdzR1lIZ1o4eFYzTEVBN2stR1ByUW13M0ttUXJsUDRGaUtibTFJMGlPLTJnWWZQaEhoZlZhSG12cnBnaFU0LWh0XzhkNUJqaFBPZ0paTFlZSk5EdDN3eDVqSEVWWU1FVVVlbXhnUUxnRUtqUm5lWG0xVEtQY0NZSzU5ZmRxbVpnRGJMYzlDNklUaTYzaDA?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -1817,6 +1808,15 @@
       "description": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "BBC",
+      "description": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "FT UGM Nonaktifkan 10 Mahasiswa Terlibat Percakapan Cabul Grup Chat",
@@ -6850,11 +6850,11 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Ketua PSGA UMJ Dorong Peran Kampus Lindungi Perempuan Papua - Universitas Muhammadiyah Jakarta",
+      "title": "Ketua PSGA UMJ Dorong Peran Kampus Lindungi Perempuan Papua",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelB3ZkxHYWpGczZyTV9QZWx5T3dBdGNYdXBrd3o2MDlpS0w5WDRGNU55STJqckVMN05PaEJMVGphanhqODEtSXVXeGxRX3FFWmRZWUh5MTBYSlZmN25nM1NuaDhySWF2cEk1eUwtQnhsWUwwd3JVelg0TU1ZSmw3TkNncUY0aDZXaUVrN1V4bXJIbVEzUkxEUkNFc2Zhc3Jh?oc=5",
       "pubDate": "2026-05-18T07:00:00+00:00",
-      "source": "UMJ",
-      "description": "Ketua PSGA UMJ Dorong Peran Kampus Lindungi Perempuan Papua Universitas Muhammadiyah Jakarta",
+      "source": "Universitas Muhammadiyah Jakarta",
+      "description": "Ketua PSGA UMJ Dorong Peran Kampus Lindungi Perempuan Papua",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
@@ -7683,8 +7683,8 @@
       "pubDate": "2025-12-31T08:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Refleksi Bersama 3 Tahun UU TPKS: Tantangan Implementasi Masih Nyata di Sulawesi Tengah",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Kehadiran Negara dalam Pemulihan Korban Kekerasan Seksual",
@@ -8138,7 +8138,7 @@
     },
     {
       "title": "Website DJKN",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObDdFM0Fub29LcWQzSlZpTDZnSXF5am1NN1ZzZXhCdEQ4X3l3dlJ5M2J2WjlRTU5UOUpFU2FMVDRXYWUwX05ZamJ2VDFFaUtzWU9QODlHV1p2WnBqWDZ6UlJqSUZKWDR4bUhaMUt2S1JBOG11cWswM3owY0tONUdrc1BsZDdlYWZrQ0o4RTdMdmt3dXdJSFFzcUFLMEVyWjJUZ0NERlFzcUpZVkg4Sk5kY1B3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaTUtWWw0RXhMbDFNRE5fMTAzbnlXcjRoUV93WDBDeUlkRFo5ZGlWY2ZCc3hHRTMxYWlWbk13QmVLTDFsUUVmWXI3X1RyVEhyTV9GTXlCSGlYa3FmMTloUFloN25VSnFuWlE2dmJDNDliSHNlZ2hZWFRDNVpzUFd5VkQzYjQwek9wQmNmN1M1ajcxRlpJN2tBLWNaeWtNdFdOVXVDTS1xQ3JHQVA4VFIwWVI4ZE8ydnlDdlowQ3RCZw?oc=5",
       "pubDate": "2022-08-16T07:00:00+00:00",
       "source": "Website DJKN",
       "description": "Website DJKN",
