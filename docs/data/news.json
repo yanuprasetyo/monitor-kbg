@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-18T23:49:41.099273+00:00",
-  "total": 904,
+  "updated_at": "2026-11-19T05:39:52.258445+00:00",
+  "total": 905,
   "stats": {
-    "tpks": 237,
+    "tpks": 238,
     "kekerasan_seksual": 422,
     "kbg": 94,
     "kbgo": 151
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Hukuman Sepadan Pejabat Publik Pelaku Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXBiY3ROQlJVU2lRZzEwT3BPOV9ISUJFVHhKdjJUbDVwQmlRQkFHOFdVcG5WVThaTHJ2cVcwVHlNRS05VVVMUjFEWkk4b2JWUmpoQTRzWGxNZXFvWWNsY2wxczMyMFNac2J5ZGlHRnZLQ2p1dmhCWmFicmd0NW40XzFwazZwYzNRN3Q2aWEwT2F5OUw2NU1DWGVucw?oc=5",
+      "pubDate": "2026-11-19T01:05:00+00:00",
+      "source": "Tempo.co",
+      "description": "Hukuman Sepadan Pejabat Publik Pelaku Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Penguatan Literasi Seksual, Upaya Pencegahan Kekerasan Seksual di Lingkungan Pendidikan",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZllMSUdweVRYbUpiYS0wNE1wWXFnaXVmbkJWYmJnNjRNdm9Za0VRY0xmbXQtR1A1aTNpUVpVclVxRG1iVEFaMExKQ2U1d1oyQWx4U3ZRTWV6eE1qNjNCMTBYVlBkLXdPeGRycXlqbkV2b1RZZFZ2UmM1aHdORHdSQVdWTmhZdjFHNjdwQnczZkFYTTEydGFpRE1fVUYtUXpEaW1NNkhtUWdfaTlT?oc=5",
@@ -7600,7 +7609,7 @@
       "title": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXItS2pnLWQySjhoWGJ6aTM1Vlc2c0h4WmJ4a29JT2ZxYlFCODlXdk01cW5jMUFuUEJTLWl5X1lvTXVreHZMQXdpMlZLejk2ODF1MUtMc0Q3SDJ2ZjJ1YUFONFcxelBhMVpkYTh5dzN2TktUUFlwRjVjcE56ZjZXZlFHWnpXY1JJc0FMNk1CT2hpOVM3OFBybjJjd1N6TXNNdEhQbS0zNE80UFBZUmF6RzhvcXVPZ3lZS1dPd3VYWFNPZw?oc=5",
       "pubDate": "2026-02-04T08:00:00+00:00",
-      "source": "Kementerian Agama",
+      "source": "Kementerian Agama Republik Indonesia",
       "description": "Masuk Kategori Kekerasan Seksual, Pemerintah: Jangan Anggap Biasa Praktik Perkawinan Anak",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
