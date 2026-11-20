@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-20T14:47:49.991921+00:00",
+  "updated_at": "2026-11-20T23:36:38.917285+00:00",
   "total": 909,
   "stats": {
-    "tpks": 238,
-    "kekerasan_seksual": 424,
+    "tpks": 239,
+    "kekerasan_seksual": 423,
     "kbg": 94,
     "kbgo": 153
   },
@@ -7197,8 +7197,8 @@
       "pubDate": "2026-04-17T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Modul Akademi Penghapusan Kekerasan Seksual",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Tak Cukup Satgas, Kampus Perlu Penguatan Kurikulum Anti Kekerasan Seksual",
@@ -7939,15 +7939,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Perempuan dan Anak Jadi Korban Kekerasan di Rumah Sendiri",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjN6aW42YXNOOEVoN1RqLXlZeVN3TG8wU2RtVU5DdVVKYnVnSkVSMkotVjZXVWNQbTJOZXhCcUdobnJWLXNRUllCMm9adzJDLTRyRjFNQWR1LTRyaUNiaUlKVUdhMW5NLXMtYjlwNUxEQ0c0RzRHT01FeEtqaVVwa3pDRm1XOEFXR0hFNUYxT2phTTRpTVU3VmZjcWU0UllJNFBB?oc=5",
-      "pubDate": "2025-10-20T07:00:00+00:00",
-      "source": "Pusiknas",
-      "description": "Perempuan dan Anak Jadi Korban Kekerasan di Rumah Sendiri",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Peringatan 16 HAKTP, BEM FH Gandeng Komnas Perempuan Soroti Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjRXb1lPVFNXcl9GNWlON2t1NVBFejlIemtWdTJrdl9jMUZSNjJXYXVGMnJVOVV6TmF5S0ZOWGI0RHV0b1dpd2tjZFh5eDNYaDJRUmlISWRtMUdUQlFUa1lxWWw3c0llZFRBUk9XS3FXbHlQSWdEeUtYaElDTjZNUXdhbDY0R1haeUVsQWpSYThWMHVKZXpzeW14MEV3cnhYempCR29aZDI?oc=5",
       "pubDate": "2025-10-20T07:00:00+00:00",
@@ -7955,6 +7946,15 @@
       "description": "Peringatan 16 HAKTP, BEM FH Gandeng Komnas Perempuan Soroti Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Perempuan dan Anak Jadi Korban Kekerasan di Rumah Sendiri",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjN6aW42YXNOOEVoN1RqLXlZeVN3TG8wU2RtVU5DdVVKYnVnSkVSMkotVjZXVWNQbTJOZXhCcUdobnJWLXNRUllCMm9adzJDLTRyRjFNQWR1LTRyaUNiaUlKVUdhMW5NLXMtYjlwNUxEQ0c0RzRHT01FeEtqaVVwa3pDRm1XOEFXR0hFNUYxT2phTTRpTVU3VmZjcWU0UllJNFBB?oc=5",
+      "pubDate": "2025-10-20T07:00:00+00:00",
+      "source": "Pusiknas",
+      "description": "Perempuan dan Anak Jadi Korban Kekerasan di Rumah Sendiri",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Soroti Isu Gender dalam Advokasi Hukum, BEM FH Hadirkan Praktisi dalam Webinar EDGE School",
