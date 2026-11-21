@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21T14:03:50.772216+00:00",
-  "total": 910,
+  "updated_at": "2026-11-21T22:42:32.262593+00:00",
+  "total": 911,
   "stats": {
     "tpks": 239,
-    "kekerasan_seksual": 423,
-    "kbg": 94,
-    "kbgo": 154
+    "kekerasan_seksual": 424,
+    "kbg": 95,
+    "kbgo": 153
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Polisi Sita Kasur hingga Bantal Usai Geledah Rumah Dinas Bupati Kupang",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPckhhc004cmhrcTFhVnJnbW9aYl9OQktfWk9vOXBDX25EeUNZRl9vLS1VSFhUUlZUQ21hNVZvUzFFMlNvdUl4X0R5NWZONUZhWnRMcVZEUjZXRGpxd2wzdVJwSng2YzV6a2Rld1JpS1A0a3JCU0xSZGpnMmUtbzRUQ0V5elVoY2tneXV4RUpYaDNZQVRhdGoxZFlBdE5RbjNyTTJtQjVhWnZLMUQ2TlkxSzZYdmVmMF9wM2xiZjEtY0pRalBmWmVDUlNoVlRJX2_SAdQBQVVfeXFMUDlPZnh5QUZzRkw0ZlozS3puTTE4RUVlWTdNWlBEbG9BZ1c2b19abUEwVmluRmpYbVBoM1NiVjdKTVk5aWNGVUpxWmNfc2M3TGNKNWJuUHVRUXRid1doNUZmNXZrOERsTVVHMm1XUGx0RzlmdWdPalI4eVBGTWd1VEJxNHpYTlk1WUxJSXVVaGRkUXZhOTlhX2lrVlN5eGdZOGR2NkZ4dU9iVFhSclZ5TnU2akhiSDdjc1VpaWJBWVlHZ1hHT3YzblVHcVhnTlBxWFdUZWQ?oc=5",
+      "pubDate": "2026-11-21T13:40:20+00:00",
+      "source": "CNN Indonesia",
+      "description": "Polisi Sita Kasur hingga Bantal Usai Geledah Rumah Dinas Bupati Kupang",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Mahasiswa USU Sosialisasikan Digital Citizenship dan Pencegahan KBGO di SMAN 4 Medan",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1ZSRDZYanY1RGFSRUFOdTZjMjRwZm1ydTRRdEhSODNsYzJfVzgyemI3RkZaZW12NmhlRWVsTm9nTFpqUnp4aldUN3g3SG9xMENzYlNsYk05YlVYTkZiblhEZnNmY1BXTG9QQk4xRjdMTWtpaTgxVldfZ3RYcHowR3lURmZ6RVAyejdoN01JbTR6VmJIa09lTjVnWnBuQlBwZ3VKVWF4VEhuMjdT?oc=5",
@@ -2548,15 +2557,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
-      "pubDate": "2026-09-21T07:00:00+00:00",
-      "source": "ANTARA News kalbar",
-      "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkotaGlDVlRKVEVmcUw4NTVJaHdGakFGcFZHcjZ0ektNTHN0eDBJb3pJSHVzUFhsMjIwMmZMRXFPWGtkV3Juay1DR293MVpJaTZZa2ZyQlhNcGVLSXV4eWcwWEpqVHpHTlZPSzNKQnpBN3NiYVRrRTF4djNEdmZqd0xlVVB0YkwxeUZ0YW1teEFaa1RxUkZ3TG5nR2pOX3BrNVZIUGgweURSLTRORGc?oc=5",
       "pubDate": "2026-09-21T07:00:00+00:00",
@@ -2564,6 +2564,15 @@
       "description": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
+      "pubDate": "2026-09-21T07:00:00+00:00",
+      "source": "ANTARA News kalbar",
+      "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Anak kiai Jombang yang dihukum penjara, diam-diam bebas lebih awal, temuan BBC",
@@ -8142,8 +8151,8 @@
       "pubDate": "2024-08-05T07:00:00+00:00",
       "source": "Kementerian Sekretariat Negara",
       "description": "Mencapai Indonesia Emas 2045 Tanpa Kekerasan Berbasis Gender Online",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Workshop Stop Kekerasan Berbasis Gender Online (KBGO) dan Pameran Foto",
