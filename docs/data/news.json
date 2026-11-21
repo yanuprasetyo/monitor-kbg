@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21T05:20:34.247703+00:00",
-  "total": 909,
+  "updated_at": "2026-11-21T14:03:50.772216+00:00",
+  "total": 910,
   "stats": {
     "tpks": 239,
     "kekerasan_seksual": 423,
     "kbg": 94,
-    "kbgo": 153
+    "kbgo": 154
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -38,7 +38,7 @@
     },
     {
       "title": "Cegah Kekerasan Gender di Ruang Digital, Dosen UIN Jakarta Bekali Kreator Muda dengan Literasi Sensitif Gender",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeFpWN2F0SVJ5VTdBZ0pJWEFPWFZWQnNORlFMNVNHa1RMVGdsbHV1TUV2emlKSFAzOFRVd1hZdFc1X1RQLThtYXdyNk1KRkw3c21LZ3RsdTF2MU5POGN4SmkwMndWeWZ1OGFjdGdrOUpoVHBUX01PaGdjbDZoNlBqQVVlb3Rud2U2RWs3ZGlMQ2cyMUNseUdhdE9MNnJza1BZRkY1Mnd0NDNNUm9Zc3gwX2x2TjBIVTA4QXgxSktOSTZQR1pxaHd4MDQzUU5OR2pZSHA4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGhqUGgxV0h6MEVJVzlYV3VZeHNSZUx0MU1PUk1IWE5kRWZmQmNWRGswLTdvdjYtQ3o4YzNScmpDZW5iMDNfc1ZjZDBSNF80bVIzZUNDOXpKRWMxYmRNQU44TlFTUTlzNkNCc1BxdWMxbnI5RWt2aktWNjZBck5OcEFXSnlxcm50ZzNVNUJqR0Ztam9YVnkwbGVzNVktSmZvMWtSQ3l5dTR5UVBQdzlWU194Y1hvVGxNLWV3RUNKa0ZJUk5oY1UzbGZRR3dYUQ?oc=5",
       "pubDate": "2026-11-20T05:48:07+00:00",
       "source": "UIN Jakarta",
       "description": "Cegah Kekerasan Gender di Ruang Digital, Dosen UIN Jakarta Bekali Kreator Muda dengan Literasi Sensitif Gender",
@@ -1981,15 +1981,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Relasi Kuasa dan Orang Terdekat Jadi Faktor Dominan Kekerasan Berbasis Gender",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTRObFdKckRRVTJDYnFQRmZCWXJmWXEza190aGYzTEV5UVhtOTRpSUZPUnZHZFc3ZUpmVzIwR0EyUjJpQUVVTlhFQWVKU3hqaXoxaDh0UTJzdC03R000UjNHc244SXMxSnVJd0VYU01WT0h5TXlMaHMwV01zYkFEM1VldEtPMGpuM3hJTVp3QlBCYnMwczJYWDZfMXZjUHpHMFdsaWNmdkVMR1dQTnhOdE5GMF8zYk1Xa3VqTw?oc=5",
-      "pubDate": "2026-09-28T13:48:06+00:00",
-      "source": "jatengpos.co.id",
-      "description": "Relasi Kuasa dan Orang Terdekat Jadi Faktor Dominan Kekerasan Berbasis Gender",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Komnas Perempuan: UU TPKS Atur Komprehensif Hak Korban Kekerasan",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGFDR29STjBHSkNuWXdKQ1dYV19WbG9md3pveEVsQ0gxZE56VnVpa3Z1bUR0ald0V2pFT3pGUXRSZUdoQ1dtLTJpRS03djZ3eTBEZnBFdHN2TF82aUdJQkNuVnN5dExHODZYWWRTV0FkQnQ3NGc5Nnowa1lHc3p3a2F0SExDV0twQjhtcXcyVEhHWHRVVWZEbjBWOVllUlU?oc=5",
       "pubDate": "2026-09-28T10:45:00+00:00",
@@ -2013,6 +2004,15 @@
       "pubDate": "2026-09-28T07:00:00+00:00",
       "source": "iNews.ID",
       "description": "Jurnalis Diminta Kedepankan Perspektif Korban saat Liput Kasus Kekerasan Berbasis Gender",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Relasi Kuasa dan Orang Terdekat Jadi Faktor Dominan Kekerasan Berbasis Gender",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTRObFdKckRRVTJDYnFQRmZCWXJmWXEza190aGYzTEV5UVhtOTRpSUZPUnZHZFc3ZUpmVzIwR0EyUjJpQUVVTlhFQWVKU3hqaXoxaDh0UTJzdC03R000UjNHc244SXMxSnVJd0VYU01WT0h5TXlMaHMwV01zYkFEM1VldEtPMGpuM3hJTVp3QlBCYnMwczJYWDZfMXZjUHpHMFdsaWNmdkVMR1dQTnhOdE5GMF8zYk1Xa3VqTw?oc=5",
+      "pubDate": "2026-09-28T07:00:00+00:00",
+      "source": "jatengpos.co.id",
+      "description": "Relasi Kuasa dan Orang Terdekat Jadi Faktor Dominan Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
     },
@@ -2548,15 +2548,6 @@
       "keyword_label": "UU TPKS"
     },
     {
-      "title": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkotaGlDVlRKVEVmcUw4NTVJaHdGakFGcFZHcjZ0ektNTHN0eDBJb3pJSHVzUFhsMjIwMmZMRXFPWGtkV3Juay1DR293MVpJaTZZa2ZyQlhNcGVLSXV4eWcwWEpqVHpHTlZPSzNKQnpBN3NiYVRrRTF4djNEdmZqd0xlVVB0YkwxeUZ0YW1teEFaa1RxUkZ3TG5nR2pOX3BrNVZIUGgweURSLTRORGc?oc=5",
-      "pubDate": "2026-09-21T07:00:00+00:00",
-      "source": "Komnas Perempuan",
-      "description": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVFGR2Nrd0pvUkd5c0hwYXlxdnBzUEVwUHhxZEg1NWVPM1RNSUF3cFpMdlFLTm9vT1JFUGU2bGJ6cUV4djJqbVNUOUdnNE1jWmFLR2R2bTlfWTR1UWN6Z1FldG44RUNBY19GaGtZemkzSlhCZEJTY0ZpbENsTUxhWEl5dlJBb3liam9HN1hiai13cWZuWEppdERjSlJQTWMy0gGmAUFVX3lxTE1ERFdJNlZWYjhNY1VKTVFkcm5kU2l3QWlpNTFnYzh1UndUanViS21vTXRVYnFLcHRkdTFtWXNjT3Ixa0RSOEZ6QktGTVBXZVMtTzluakN6WnB5dGRHakplT1FreTZpOTNZajdIRGdGME9vd3B1VnljaUItZFE2WXVrNmJ1MHlNSDhkem1JcmhJSHhiS3hJX3h1R3g0MFpBNkxvZGFDT2c?oc=5",
       "pubDate": "2026-09-21T07:00:00+00:00",
@@ -2564,6 +2555,15 @@
       "description": "Bengkayang perkuat pencegahan kekerasan berbasis gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkotaGlDVlRKVEVmcUw4NTVJaHdGakFGcFZHcjZ0ektNTHN0eDBJb3pJSHVzUFhsMjIwMmZMRXFPWGtkV3Juay1DR293MVpJaTZZa2ZyQlhNcGVLSXV4eWcwWEpqVHpHTlZPSzNKQnpBN3NiYVRrRTF4djNEdmZqd0xlVVB0YkwxeUZ0YW1teEFaa1RxUkZ3TG5nR2pOX3BrNVZIUGgweURSLTRORGc?oc=5",
+      "pubDate": "2026-09-21T07:00:00+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Soroti Lapisan Hambatan Korban KBGO di Wilayah Kepulauan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Anak kiai Jombang yang dihukum penjara, diam-diam bebas lebih awal, temuan BBC",
@@ -2888,6 +2888,15 @@
       "description": "Polisi Ungkap Dugaan Kekerasan Seksual Betrand Peto Terjadi di SCBD",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Bencana Menghancurkan Rumah, Kekerasan Menghancurkan Rasa Aman",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkltUEJqRFdRVE1OajJ2RmExd1B6NHR3NE5nSjRVT2hnRGQ2dFpZSV81NTlGeXBtOG12QmdqeC0xQnNXSHJYSUVUZUFOWDFtc0ZIXzI5Y2pFMnBZOExLNlJIcjFWRlN4TEY1SndtanA1SklUXzd3MUZvME9GYzRhdmxNbjZzS045eTc2M2lR?oc=5",
+      "pubDate": "2026-09-13T07:00:00+00:00",
+      "source": "suara usu",
+      "description": "Bencana Menghancurkan Rumah, Kekerasan Menghancurkan Rasa Aman",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Betrand Peto Dilaporkan ke Polisi Terkait Dugaan Kekerasan Seksual",
@@ -8133,8 +8142,8 @@
       "pubDate": "2024-08-05T07:00:00+00:00",
       "source": "Kementerian Sekretariat Negara",
       "description": "Mencapai Indonesia Emas 2045 Tanpa Kekerasan Berbasis Gender Online",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "Workshop Stop Kekerasan Berbasis Gender Online (KBGO) dan Pameran Foto",
