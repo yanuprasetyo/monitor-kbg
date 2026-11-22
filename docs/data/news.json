@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-22T13:56:44.583151+00:00",
-  "total": 913,
+  "updated_at": "2026-11-22T23:08:08.450146+00:00",
+  "total": 914,
   "stats": {
-    "tpks": 239,
+    "tpks": 240,
     "kekerasan_seksual": 426,
     "kbg": 95,
     "kbgo": 153
@@ -87,6 +87,15 @@
       "pubDate": "2026-11-19T01:05:00+00:00",
       "source": "Tempo.co",
       "description": "Hukuman Sepadan Pejabat Publik Pelaku Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Dari Bupati, Anggota DPRD Hingga Kapolsek Dilaporkan Atas Dugaan Kekerasan Seksual, Bagaimana Tindakan Hukumnya?",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVpKbkxJOGVXQVhkS2V2R1RkeXFIRHZoWk1zOFZaV2ctelY2aGhxMHFIbmtwSE5MRkxIa0xBTTZWYlVkdWJhN2ZQdnNEUWl1WTZ6MVNnRjRWTEt3V0ctMkVvOTN1V3hLcXBQSHZUbVBJZzYtZmFXTXFwWEdOTjVKWlpSUEN2V3lCSTV0OWRBRFF3VU9SQnEyWVYwdGphMW9vT2VveGZialh4QjkyRG9RUWp6d1Z2NGlnaS1PV3Q2RmNtREU4Q00xMlRvcUxkSldtcGF2ZE9R?oc=5",
+      "pubDate": "2026-11-19T00:52:22+00:00",
+      "source": "Konde.co",
+      "description": "Dari Bupati, Anggota DPRD Hingga Kapolsek Dilaporkan Atas Dugaan Kekerasan Seksual, Bagaimana Tindakan Hukumnya?",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
