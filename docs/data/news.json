@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-21T22:42:32.262593+00:00",
-  "total": 911,
+  "updated_at": "2026-11-22T04:46:21.305345+00:00",
+  "total": 913,
   "stats": {
     "tpks": 239,
-    "kekerasan_seksual": 424,
+    "kekerasan_seksual": 426,
     "kbg": 95,
     "kbgo": 153
   },
@@ -27,6 +27,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fadli Zon Kecam Kekerasan Seksual Mei 1998 Usai Dikritik di FFI",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc2U0LXFaS0o1dDVWbVdNaHlvZlYtbW1sbjhsSTJWN3NudW1FZ2lKcEVUOWhoX3hGdUV6N1M5d3cyZ1FqNWhvcFNqbm1sZ3RBY1Y2QzBNSzBEQ2Z4c3dFdGtvTGd3cjRMdlZDUVln?oc=5",
+      "pubDate": "2026-11-21T23:54:00+00:00",
+      "source": "Demokratis.co.id",
+      "description": "Fadli Zon Kecam Kekerasan Seksual Mei 1998 Usai Dikritik di FFI",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Fadli Zon Tegaskan Kecam Kekerasan Seksual Mei 1998",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WU2E4X0xEU1lPd2w4SHU0RWpsb2hpcl9zRmROak1PU21ETmFscXVjdGQ4VW1ta29Ua3RRa3MyWDJWWC1aX1BHX1ppTEk1NjgxdHk0OVFwSDFkaFdQREhycw?oc=5",
+      "pubDate": "2026-11-21T23:53:00+00:00",
+      "source": "Peradaban.id",
+      "description": "Fadli Zon Tegaskan Kecam Kekerasan Seksual Mei 1998",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
     {
       "title": "Polisi Sita Kasur hingga Bantal Usai Geledah Rumah Dinas Bupati Kupang",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPckhhc004cmhrcTFhVnJnbW9aYl9OQktfWk9vOXBDX25EeUNZRl9vLS1VSFhUUlZUQ21hNVZvUzFFMlNvdUl4X0R5NWZONUZhWnRMcVZEUjZXRGpxd2wzdVJwSng2YzV6a2Rld1JpS1A0a3JCU0xSZGpnMmUtbzRUQ0V5elVoY2tneXV4RUpYaDNZQVRhdGoxZFlBdE5RbjNyTTJtQjVhWnZLMUQ2TlkxSzZYdmVmMF9wM2xiZjEtY0pRalBmWmVDUlNoVlRJX2_SAdQBQVVfeXFMUDlPZnh5QUZzRkw0ZlozS3puTTE4RUVlWTdNWlBEbG9BZ1c2b19abUEwVmluRmpYbVBoM1NiVjdKTVk5aWNGVUpxWmNfc2M3TGNKNWJuUHVRUXRid1doNUZmNXZrOERsTVVHMm1XUGx0RzlmdWdPalI4eVBGTWd1VEJxNHpYTlk1WUxJSXVVaGRkUXZhOTlhX2lrVlN5eGdZOGR2NkZ4dU9iVFhSclZ5TnU2akhiSDdjc1VpaWJBWVlHZ1hHT3YzblVHcVhnTlBxWFdUZWQ?oc=5",
@@ -7957,15 +7975,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Perempuan dan Anak Jadi Korban Kekerasan di Rumah Sendiri",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjN6aW42YXNOOEVoN1RqLXlZeVN3TG8wU2RtVU5DdVVKYnVnSkVSMkotVjZXVWNQbTJOZXhCcUdobnJWLXNRUllCMm9adzJDLTRyRjFNQWR1LTRyaUNiaUlKVUdhMW5NLXMtYjlwNUxEQ0c0RzRHT01FeEtqaVVwa3pDRm1XOEFXR0hFNUYxT2phTTRpTVU3VmZjcWU0UllJNFBB?oc=5",
-      "pubDate": "2025-10-20T07:00:00+00:00",
-      "source": "Pusiknas",
-      "description": "Perempuan dan Anak Jadi Korban Kekerasan di Rumah Sendiri",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
-    },
-    {
       "title": "Peringatan 16 HAKTP, BEM FH Gandeng Komnas Perempuan Soroti Kekerasan Berbasis Gender",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjRXb1lPVFNXcl9GNWlON2t1NVBFejlIemtWdTJrdl9jMUZSNjJXYXVGMnJVOVV6TmF5S0ZOWGI0RHV0b1dpd2tjZFh5eDNYaDJRUmlISWRtMUdUQlFUa1lxWWw3c0llZFRBUk9XS3FXbHlQSWdEeUtYaElDTjZNUXdhbDY0R1haeUVsQWpSYThWMHVKZXpzeW14MEV3cnhYempCR29aZDI?oc=5",
       "pubDate": "2025-10-20T07:00:00+00:00",
@@ -7973,6 +7982,15 @@
       "description": "Peringatan 16 HAKTP, BEM FH Gandeng Komnas Perempuan Soroti Kekerasan Berbasis Gender",
       "keyword_id": "kbg",
       "keyword_label": "Kekerasan Berbasis Gender"
+    },
+    {
+      "title": "Perempuan dan Anak Jadi Korban Kekerasan di Rumah Sendiri",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjN6aW42YXNOOEVoN1RqLXlZeVN3TG8wU2RtVU5DdVVKYnVnSkVSMkotVjZXVWNQbTJOZXhCcUdobnJWLXNRUllCMm9adzJDLTRyRjFNQWR1LTRyaUNiaUlKVUdhMW5NLXMtYjlwNUxEQ0c0RzRHT01FeEtqaVVwa3pDRm1XOEFXR0hFNUYxT2phTTRpTVU3VmZjcWU0UllJNFBB?oc=5",
+      "pubDate": "2025-10-20T07:00:00+00:00",
+      "source": "Pusiknas",
+      "description": "Perempuan dan Anak Jadi Korban Kekerasan di Rumah Sendiri",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Soroti Isu Gender dalam Advokasi Hukum, BEM FH Hadirkan Praktisi dalam Webinar EDGE School",
