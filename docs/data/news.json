@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-22T23:08:08.450146+00:00",
-  "total": 914,
+  "updated_at": "2026-11-23T05:25:19.762294+00:00",
+  "total": 915,
   "stats": {
-    "tpks": 240,
+    "tpks": 241,
     "kekerasan_seksual": 426,
     "kbg": 95,
     "kbgo": 153
@@ -27,6 +27,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Perlindungan Perempuan Jadi Prioritas, Pemerintah Perluas Layanan dan Perkuat UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVEZmM0o2Z1pGSFZxZ1BFV1drd3FyTzhMYjRqdWp0X1VPeWJpTExTeWQ3aHBHa09HYkxuNHZHZ3VsVUJiSy1FVUQ0VGJWWkI2dFBFOURqOGlZWEVRWnBFSG1QcWZkVUpfNFdCdU8wWHZqUU14cVpibEVUc0U2bU80ak43M3ZSTmVXXzM1blJNQVBZNF9JWktPQXVwdE00aXRjVk0tc2FkZXlYYmtoUUtPaTl3MWNOaXhNOTJRYTd6Q3JaRERlb3B0WXBJR3I4SUs5cXVZS2xaZw?oc=5",
+      "pubDate": "2026-11-23T02:39:07+00:00",
+      "source": "beritanasionalupdate.com",
+      "description": "Perlindungan Perempuan Jadi Prioritas, Pemerintah Perluas Layanan dan Perkuat UU TPKS",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Fadli Zon Kecam Kekerasan Seksual Mei 1998 Usai Dikritik di FFI",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc2U0LXFaS0o1dDVWbVdNaHlvZlYtbW1sbjhsSTJWN3NudW1FZ2lKcEVUOWhoX3hGdUV6N1M5d3cyZ1FqNWhvcFNqbm1sZ3RBY1Y2QzBNSzBEQ2Z4c3dFdGtvTGd3cjRMdlZDUVln?oc=5",
