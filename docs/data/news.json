@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-23T17:11:53.332813+00:00",
-  "total": 918,
+  "updated_at": "2026-11-24T03:43:56.260947+00:00",
+  "total": 920,
   "stats": {
-    "tpks": 242,
+    "tpks": 244,
     "kekerasan_seksual": 428,
     "kbg": 95,
     "kbgo": 153
@@ -101,7 +101,7 @@
     },
     {
       "title": "Cegah Kekerasan Gender di Ruang Digital, Dosen UIN Jakarta Bekali Kreator Muda dengan Literasi Sensitif Gender",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeFpWN2F0SVJ5VTdBZ0pJWEFPWFZWQnNORlFMNVNHa1RMVGdsbHV1TUV2emlKSFAzOFRVd1hZdFc1X1RQLThtYXdyNk1KRkw3c21LZ3RsdTF2MU5POGN4SmkwMndWeWZ1OGFjdGdrOUpoVHBUX01PaGdjbDZoNlBqQVVlb3Rud2U2RWs3ZGlMQ2cyMUNseUdhdE9MNnJza1BZRkY1Mnd0NDNNUm9Zc3gwX2x2TjBIVTA4QXgxSktOSTZQR1pxaHd4MDQzUU5OR2pZSHA4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGhqUGgxV0h6MEVJVzlYV3VZeHNSZUx0MU1PUk1IWE5kRWZmQmNWRGswLTdvdjYtQ3o4YzNScmpDZW5iMDNfc1ZjZDBSNF80bVIzZUNDOXpKRWMxYmRNQU44TlFTUTlzNkNCc1BxdWMxbnI5RWt2aktWNjZBck5OcEFXSnlxcm50ZzNVNUJqR0Ztam9YVnkwbGVzNVktSmZvMWtSQ3l5dTR5UVBQdzlWU194Y1hvVGxNLWV3RUNKa0ZJUk5oY1UzbGZRR3dYUQ?oc=5",
       "pubDate": "2026-11-20T05:48:07+00:00",
       "source": "UIN Jakarta",
       "description": "Cegah Kekerasan Gender di Ruang Digital, Dosen UIN Jakarta Bekali Kreator Muda dengan Literasi Sensitif Gender",
@@ -132,6 +132,15 @@
       "pubDate": "2026-11-19T00:52:22+00:00",
       "source": "Konde.co",
       "description": "Dari Bupati, Anggota DPRD Hingga Kapolsek Dilaporkan Atas Dugaan Kekerasan Seksual, Bagaimana Tindakan Hukumnya?",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Partai Perindo Desak Usut Tuntas Dugaan Kekerasan Seksual Bupati Kupang, Pastikan Perlindungan Korban",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNWIyaWFKcUJtWTJZLWdWQmhoSF9XVi1WRndMQ3U0bW4tLUFvNW4wWTRTVTVtNXM0TF93bXh3T0hoS3ZkbThqNkRiZGNVRkJhaXVlU3IyNWNHOUxfRHUwVVhmYVhuNXhSWFIzUXJpbzVsMTV4S182UThuNERfU1k1c2VhTEItUFgycUtSbUk4Yld2ZGR4SnVQTUN5WHRWNVU3OXhvc0hORXlFTTU3XzlXVnl1b2hzeWlOaVYtUVJvMlRXY3BkalhCTUN2Ui01dw?oc=5",
+      "pubDate": "2026-11-18T10:48:44+00:00",
+      "source": "Partai Perindo",
+      "description": "Partai Perindo Desak Usut Tuntas Dugaan Kekerasan Seksual Bupati Kupang, Pastikan Perlindungan Korban",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -233,6 +242,15 @@
       "description": "Bupati Kupang Dilaporkan atas Pemerkosaan, Diusut dengan UU TPKS, Tak Bisa Berakhir Damai",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Menteri PPPA: Kekerasan Seksual Ancam Ketahanan Nasional dan Masa Depan Bangsa",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWJsLUJiYWlfaGJpbHE0Q05oTFA3UjVOTzM3NEUzdXhkY2VkcTJMbDdzLVBGUWdDLW1wZXFqUkFfYzZvWGpUdm05MmFsV2YwVXhUcVk0dkJzTFVKZTY1bkV1UFB6dmRoSFZlSmNwUEZERzZnNUJfQ0d2VHRXVXZYZXVKTHRLN1NlbEUwX2NpelkwSlhVMldmS19kdmxSRjZCdG9MbnFsM2Q4NE5IdU5KbkRVRlI2bW1KbzlUSW5QMlQ?oc=5",
+      "pubDate": "2026-11-13T08:00:00+00:00",
+      "source": "Kemen PPPA",
+      "description": "Menteri PPPA: Kekerasan Seksual Ancam Ketahanan Nasional dan Masa Depan Bangsa",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Kasus Kekerasan Seksual Di Sampang: Potret Kelam, Alarm Perlindungan Anak",
@@ -1918,6 +1936,15 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
+      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "uinjkt.ac.id",
+      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR1JwNVVacl9yaEtuRmZDZXVzQUlzb0JCV1RQZ001aWY4RGdKSXMyZ2Y1U2FWN0hqT3M3SzFQWXg5S0JlT2l3MUJwVWFJcG1TZjZnbnJqRVBpV2VIUENsOEN30gFnQVVfeXFMTlRwQVY1WmNDaXg5RllOeG14WUpXYlA1Ymstdm9Sbkdvd3N0OFd0Q2pMTFN3TUgzZ1dlbUh2WVBvS2dxekd5WFN4azNqckphbU1vQTMxajdZQ3hTRnlZc2d2d0N2Ymgyaw?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -1952,15 +1979,6 @@
       "description": "UGM Nonaktifan 10 Mahasiswa Terduga Pelaku Kekerasan Berbasis Gender Online",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "uinjkt.ac.id",
-      "description": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
     },
     {
       "title": "10 Mahasiswa UGM Pelaku Kekerasan Berbasis Gender Online Bakal Dinonaktifkan",
@@ -2359,15 +2377,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Stop Reviktimisasi Korban Kekerasan Seksual oleh Aparat Penegak Hukum: Propam Polresta Kendari Harus Tindak Personelnya",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODBFalJpeHFKcFB4N1JKZTE4R19jd0ZUc2xCb0M5aGhuUUZWU3k5N0h4WnVZMl9kNW5ETjMwcUZlQXR5OVJyTmJyOFJ1RGgxNjczZzZtVXRZWkl3dU5BNkNqNTRMM0ZvU0k0WTk0WU1zZXUya0tSaVpzTFJNVVdXc2ZJWjFsQm5Zc1NOQ2JIMjBWVWVVWU1HUS12Z0gzdE14Tno0WHJ6RG1yN21WVS1tOUxR?oc=5",
-      "pubDate": "2026-09-24T07:00:00+00:00",
-      "source": "icjr.or.id",
-      "description": "Stop Reviktimisasi Korban Kekerasan Seksual oleh Aparat Penegak Hukum: Propam Polresta Kendari Harus Tindak Personelnya",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
-    },
-    {
       "title": "Pimpinan pesantren diduga lakukan kekerasan seksual, ratusan santri Ponpes Abul Barokat Wannafahat NTB dijemput orang tuanya – 'Kami khawatir karena anak saya perempuan'",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Gdnl5TmVEWFdGWkpBZS1LYk1KSXFiOWZkNXZmUm9sUWRJTHpORncxNWxLVmVDSDRBbGpaYldNeGx1UERONWtBOVlZcC1SOWJucHNSUEdkZlVrRGsxYlJHQ3Rn0gFnQVVfeXFMUFlVa2MtcHFyZkFSSzA5SFFENEtaekxMZFZnZXdPQ1JwY25QYW85bnJBYlNsbktmLTE1RzNlSmNzV0UtNWNZVWZhbTc5ZEM3U00wUmNFOG83dVNCTDlkeW9VU1MzdGRVVQ?oc=5",
       "pubDate": "2026-09-24T07:00:00+00:00",
@@ -2375,6 +2384,15 @@
       "description": "Pimpinan pesantren diduga lakukan kekerasan seksual, ratusan santri Ponpes Abul Barokat Wannafahat NTB dijemput orang tuanya – 'Kami khawatir karena anak saya perempuan'",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Stop Reviktimisasi Korban Kekerasan Seksual oleh Aparat Penegak Hukum: Propam Polresta Kendari Harus Tindak Personelnya",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODBFalJpeHFKcFB4N1JKZTE4R19jd0ZUc2xCb0M5aGhuUUZWU3k5N0h4WnVZMl9kNW5ETjMwcUZlQXR5OVJyTmJyOFJ1RGgxNjczZzZtVXRZWkl3dU5BNkNqNTRMM0ZvU0k0WTk0WU1zZXUya0tSaVpzTFJNVVdXc2ZJWjFsQm5Zc1NOQ2JIMjBWVWVVWU1HUS12Z0gzdE14Tno0WHJ6RG1yN21WVS1tOUxR?oc=5",
+      "pubDate": "2026-09-24T07:00:00+00:00",
+      "source": "icjr.or.id",
+      "description": "Stop Reviktimisasi Korban Kekerasan Seksual oleh Aparat Penegak Hukum: Propam Polresta Kendari Harus Tindak Personelnya",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Rieke: Kawal Korban Kekerasan Seksual DPR Bukan Intervensi Proses Hukum",
@@ -2431,15 +2449,6 @@
       "keyword_label": "Kekerasan Seksual"
     },
     {
-      "title": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzFCR3U3ZmpLRS1tYUt2U3RFbWl4WW5KNHR0OW50aEwtRW1yYXFiLU1BeDNvOXJZM2JOaHUtTmNVOWo3WHktWDJuT0FyZXBZbGtZMzZfVmNCOGtjNGRwTDB1b0hmbHh0WUFPdkFHS2xvNlhJSHFrSEoxcVJhN0xuLTUyWWlaSDd3cTMwSmxGX2RLSVYxbDZGZDZkRk50ZkszTTAyRVlmQU90NktnMUJtV3MwejFRYXphUzIzcUhXLTBDbUFo?oc=5",
-      "pubDate": "2026-09-23T07:00:00+00:00",
-      "source": "https://sibolgakota.go.id/",
-      "description": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
-      "keyword_id": "kbg",
-      "keyword_label": "Kekerasan Berbasis Gender"
-    },
-    {
       "title": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9odWM5Mk5hTmF3dTE3NWktNzljYWlzZWE2a1VFZHFvSEdxV0NibTJzN2JTNndSUXNsYmk0dWYtdWNuYW93NUJOc01Gb3BGWlZHMjMxOWE0a0ZydWV2cE1QUVNR0gFnQVVfeXFMTnNHczRlQ09uZEZDQU9RcjZ6bVVQRzJ0TmxnZWNFTE1BNzRCcGE4VjB3cWdlMmlsX1o5aTZtQzYzMGFSVnF6QnoxNVZYNDhMZmJJS3V1b2hkaEY4VW1GYVJLVXRBYzVYSQ?oc=5",
       "pubDate": "2026-09-23T07:00:00+00:00",
@@ -2447,6 +2456,15 @@
       "description": "Vonis bebas tak bisa lagi digugat ke tingkat banding dan kasasi, siapa yang diuntungkan?",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzFCR3U3ZmpLRS1tYUt2U3RFbWl4WW5KNHR0OW50aEwtRW1yYXFiLU1BeDNvOXJZM2JOaHUtTmNVOWo3WHktWDJuT0FyZXBZbGtZMzZfVmNCOGtjNGRwTDB1b0hmbHh0WUFPdkFHS2xvNlhJSHFrSEoxcVJhN0xuLTUyWWlaSDd3cTMwSmxGX2RLSVYxbDZGZDZkRk50ZkszTTAyRVlmQU90NktnMUJtV3MwejFRYXphUzIzcUhXLTBDbUFo?oc=5",
+      "pubDate": "2026-09-23T07:00:00+00:00",
+      "source": "https://sibolgakota.go.id/",
+      "description": "Pemko Sibolga Buka Pertemuan Subklaster PP KBG PP, Perkuat Perlindungan Kelompok Rentan Pascabencana",
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Dosen ISI Jogja Dinonaktifkan Buntut Dugaan Kekerasan Seksual ke Mahasiswi",
@@ -7273,6 +7291,15 @@
       "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
+      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
+      "pubDate": "2026-04-17T07:00:00+00:00",
+      "source": "Hukumonline",
+      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
       "title": "Modul Akademi Penghapusan Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlpiNm01SEJzemppMEdGRm9RcEtHREVVTEJKaC1CLUxNM2c2bTZLbHJESWFvYXlpUXhzUEdtcVRuM3hOa0ZuRlhRb1dCcjBtSVdldTJZRjZDZDZKRzhXNkZjNDNuOXZJWks3VzlCMVNCUmw4XzRqcmRSYUg3SGtwSnNhYUZGd1FOemIwYlJ5T2hhc3RRR0FSRDI5YkgwQWt6Z1ZMSnpHU3Z2TmphQTM0SQ?oc=5",
       "pubDate": "2026-04-17T07:00:00+00:00",
@@ -7316,15 +7343,6 @@
       "description": "Kemkomdigi Ketatkan Pengawasan Platform Digital untuk Tangan",
       "keyword_id": "kbgo",
       "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
-      "title": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWx1YzRnTjVua0pEOEQyYjliWjM2YnVmZnVsb1owWmN6a2t1OHRRNUtPZEhEclNjeUFUcTFxTTBySF93SGpYZXZrdS1mQWVJclV1cktEdGN4S0RqOHpUeGJqSU8xS2RtZGhLRFA4ekd2cjNZODV2ME9FeUQ1dkFIZVFuNGRLX3M?oc=5",
-      "pubDate": "2026-04-16T07:00:00+00:00",
-      "source": "Hukumonline",
-      "description": "Mengenal Bentuk-Bentuk Pelecehan Seksual Nonfisik",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Komnas Perempuan: Kampus Bukan Ruang Impunitas",
