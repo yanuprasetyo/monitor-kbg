@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27T01:25:42.992886+00:00",
-  "total": 952,
+  "updated_at": "2026-11-27T16:00:23.275473+00:00",
+  "total": 958,
   "stats": {
-    "tpks": 259,
-    "kekerasan_seksual": 440,
+    "tpks": 262,
+    "kekerasan_seksual": 441,
     "kbg": 96,
-    "kbgo": 157
+    "kbgo": 159
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -28,9 +28,54 @@
   ],
   "articles": [
     {
+      "title": "Urgensi Aturan Turunan UU TPKS Bagi Perlindungan Korban",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzNUSGxINW9FTkswaDJiVy1EVjlPWXFjZ3diZkFQSzBLY0tTQUNtVGFCRFVnbWJiNjZia0lZNERCZzZJdFd4cGpEZTVRWlpaQ3BUU1pJb3NUeFdxWjlEeXg4RDFsODI0cjlFbGdYRGhFRmJiQVBtUlNHV282ZzFMWFJTT2J1WE1lU1VZ?oc=5",
+      "pubDate": "2026-11-27T13:54:55+00:00",
+      "source": "Magdalene.co",
+      "description": "Urgensi Aturan Turunan UU TPKS Bagi Perlindungan Korban",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Peluncuran Kajian Situasi Penanganan KBGO di Wilayah Kepulauan",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1VpNkNwbTFkWGZWU3dLQU80UHgwR0RTYWF0VXdzLWxDNWlyZzFUSk9sZHVLRFYtNi12a0Q0U1ZEaVJvdnU4MlBhWnJlcHA2clhtTXU3ZjUyVGtMejc0Z2lQdHFxNW5qYWEtdGJkWWlpS0o4eDR2d2JTQ2NyT2xHekhYMzkwTTBTXzk2eUY0dlhkS1VPWG5UWjNzOGdISWlRbE42VG41ZXQ1QWhIbDBWVnRnLTRzZw?oc=5",
+      "pubDate": "2026-11-27T12:01:28+00:00",
+      "source": "Komnas Perempuan",
+      "description": "Peluncuran Kajian Situasi Penanganan KBGO di Wilayah Kepulauan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
+      "title": "MUI Tegaskan Pelaku Kekerasan Seksual Tak Bisa Berlindung di Balik Nama Pesantren",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzQxTmVMaHBvNkpTREJabEpyWU81U0s0TkY3N0lUT2FLbWxIOV9wbEJwUldpSzVBRzlBa2RjZEwzYmR3NV8yMFE4aFdVdWtlcG0zRmtyWmNYeTM5ZmN1Yjg2NkRoNTRKNXlpeXhVZjFTRGpkTDIyMlNxQWJPZnZwa1BGR2xocnRrZnloQ0N6SXVVenhFUHA5NWdneXZpclR5UzF0MnJoUEdUWFl3bmVJbGx6b9IBuAFBVV95cUxPN1dCZE92U0l3RFVKTDAwTW42X2FzRTV6SW93M3VYYjlKSlVVdzlVeXNHSWNQcFpTQURNVVdQSkt6TjBwZnU1dEVfNE4yS2ZNUnZVNHZLWkdnc2dzRW1NLXdua0s2ZnN5cTNOQTd1TTBmNnR5UkZ0QnhhQzhiN3R6VVlzVFNuS05tamI4RHpqS0phUjZlVXU1SzQxbmRucTdFODU0V1UydXJsVUIzMlQ5N2J1YVBGOVhj?oc=5",
+      "pubDate": "2026-11-27T11:30:01+00:00",
+      "source": "NU Online",
+      "description": "MUI Tegaskan Pelaku Kekerasan Seksual Tak Bisa Berlindung di Balik Nama Pesantren",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Tersangka Kekerasan Seksual, Bupati Kupang Ditahan",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVk9CS2p1TmdEMFJSMVZCMEdlT250UmlGT21XenhvNElHbk9LXzZFdWxyYnBLVDZFMGx5dEp1eXhxblY5dWpEdmFkbVBZRGtHWFkyaDE2RnEycG5fT3NlMUJ2aXlfSWRuY2Q1RmNEOF9LMWYtRXRVYzMzdGNsbm9YbnZDMG5mWjN2a3hXdGVJZG03UQ?oc=5",
+      "pubDate": "2026-11-27T03:46:01+00:00",
+      "source": "NUSABALI.com",
+      "description": "Tersangka Kekerasan Seksual, Bupati Kupang Ditahan",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Perlindungan perempuan di era AI perlu diperkuat",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbzlzZmduTlNoS2R3emszSEx2SFFZOEFXd3lNOVpYRG85OWhzOHJybFZoSmEwa2luV014SmdKTGRTR01waVdpNG52TEpzWGhEbWR0eUpIVHVKenl1MmFkOXFHNkhuVlQ5blR4SVYtX29VR28wVFJ6c0tuMjZZQlNzTk5WOG9Lbm4ydkM4bEs0QkNUWkUyQUhfUGpLTXVIQdIBowFBVV95cUxOT3NraHhlUzJUWmlhcloydmwtZVhSbGlOWDVKRmRTX0NCUnExNC1DMjFScnFmUl9KeElSeFRlclBjYjRfdTl4dVZYR2tPano2UkdZTE82TjFKLWI5N0cwQ2xkLUtXcXF3c1duQ04tOHdGNEp6V010QkVqRXN6aGVKNTV2X2JvbEU5dTNEZ3hFVTJZR0NhY0I1WTA1Y0dnZDhzeWI4?oc=5",
+      "pubDate": "2026-11-27T03:37:26+00:00",
+      "source": "ANTARA News Megapolitan",
+      "description": "Perlindungan perempuan di era AI perlu diperkuat",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
+    },
+    {
       "title": "Perkuat Ruang Aman Kampus, Satgas PPKPT UNM Hadiri Forum Kemen PPPA",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWVXcUJTR2JPV2p6azlPXzdOTmFmdDU5cC1lQjM0N3RIXzNEZGZmblJXaFhaVmdtWkFvVnVDQXFzYzZxbTFkVXBUTlhMYWhTdVFpenRNYnItMU9YSE1WVFVQM0RsblB6aG55WUVXbl9GbnVLbVZUUFNobVdveEJwejFPcTNPcUtETFFnS3JNN1JqQzZMREFobS1iYVNKbktyYXg2LThwNXI?oc=5",
-      "pubDate": "2026-11-27T00:59:30+00:00",
+      "pubDate": "2026-11-27T01:00:03+00:00",
       "source": "Universitas Nusa Mandiri",
       "description": "Perkuat Ruang Aman Kampus, Satgas PPKPT UNM Hadiri Forum Kemen PPPA",
       "keyword_id": "tpks",
@@ -110,7 +155,7 @@
     },
     {
       "title": "Bupati NTT Tersangka Kekerasan Seksual",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcTMycTEzN0tjRjNPY01aSVg4UmxuMHJ0RU5KYzlWSU1nU3VBdTlUXzBRRlpDbnBwZ3puWUpCdUVyeGhRVjVuZUR3SGU3SWZRVW5LSTJBejFaY21Uck5NSFJ1eVFDM3FCVzdRN0hRZ3pPbXZYZ29adlpGbTJIS3pqekRNaGFHQlpxNWlrOWZFMXJlNE0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWRWV19rSXRERnR2aWtJYi13RW5lOFRwbFhTc0ItNks2WXJySGwwVFphanZsV1ZIVUVxSDg2N2M4bjBMeXZZOElobkVZZHpBTnhTRDh2bTFUOHJDc1JCbWtldmg1ZENiY2puN1NVSHBaVXoxaC1mNlRUNDhWUGp6eWtEcW4wWUpSUXZWbnQ0RUN6c2Fad0pDdQ?oc=5",
       "pubDate": "2026-11-26T04:41:00+00:00",
       "source": "Validnews",
       "description": "Bupati NTT Tersangka Kekerasan Seksual",
@@ -209,8 +254,8 @@
     },
     {
       "title": "Temukan Maladministrasi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren, Ombudsman RI: Negara Wajib Hadir Lindungi Santri",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSHNXWFFRTWhMbzljMU9jMUhiQkFraFVjUmlNNElOX05LR3p6bi0zaEVubm95TXJHYnpSbXBXbG1Oa3hWb1dacXZQek5pOVp5NTFGUHJ5X2tqZmxfXzZndVlZb3paSXNsNGtMeUdUempyN055QnhmOHdhS0tTV0pkWmV2cnJtVHNzTWVsMFN2cjhtT1ZoRWEyUnp3S3dUUXg2OWJwd0E3eU1IZXR2V2hzTU5wUWc2WUxyS2UwSXVmbW8zWkE0Q1N3ODhIU0tYa3dZWFRGMlVuRHNUbU9wS2ZHLTYxTkFqQ1JabGY2b0U5RFlzYWpZb055cUw5ak5YMGM?oc=5",
-      "pubDate": "2026-11-25T13:54:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWUs2d3FGRDhia3ZLVi1CYjU1ZkphSlRaTlZWRXUzaUNtOXJLTTZrbjExcGVGVUpfVEY3bm9uTGlGSlZQdFNZVGI0MFFKU25jRGhGVjRhNVFNLUE1SnlBbkRqX3pqQVVKQ01hcTUzTDVZOVcyY0hQU0loYWVnOGw3X1ZUV092c0JjSGdNQ2w5a2tHaEwyWUUyeFJaWjFaWjlhemQyYzdiT1U0enBxLUk2eThuemxhUjFkTFAxNExyZkhtall0VkhrZnhfWWhUMlFDNFZpTk9ubGZVYjB1Q3hTOTc5cHl4Mi1nNU41dzczOTk?oc=5",
+      "pubDate": "2026-11-25T11:18:21+00:00",
       "source": "Ombudsman Republik Indonesia",
       "description": "Temukan Maladministrasi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren, Ombudsman RI: Negara Wajib Hadir Lindungi Santri",
       "keyword_id": "kekerasan_seksual",
@@ -231,8 +276,8 @@
       "pubDate": "2026-11-25T09:24:00+00:00",
       "source": "Tirto.id",
       "description": "Ombudsman Sebut Indonesia Darurat Kekerasan Seksual Pesantren",
-      "keyword_id": "kekerasan_seksual",
-      "keyword_label": "Kekerasan Seksual"
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
     },
     {
       "title": "Ombudsman soroti penanganan kasus kekerasan seksual di pesantren",
@@ -240,6 +285,15 @@
       "pubDate": "2026-11-25T08:15:00+00:00",
       "source": "ANTARA News",
       "description": "Ombudsman soroti penanganan kasus kekerasan seksual di pesantren",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Ombudsman NTT Soroti Pemenuhan Hak Korban TPKS, Jangan Sampai Korban Dipingpong Antarinstansi",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFdyOWRWTmlJU0NERjZnb3pURm5tVkxJd3FKbXFkQUQ0ZGV1RHNyOTduZ1RCaTNEUTF4UkpPamJSLUVQS3BqaDU5RmlKc1lSazhxNzU1M05tQllidHp5S2JFS01XYVRQcUFuc2JNLVdYUjlPdUNIT280LWdzZDlWWUtkZElCVTJ4NmdlX282R1ZzU1h4X0NOWFRiaFItWmVkNFBTUU1QNy1DVlJkNzA4QmtWQTlwSWlSb0Fla1hueG9xZVBaREwzU2ZQdWNGbFdzT21EMjdR?oc=5",
+      "pubDate": "2026-11-25T08:00:00+00:00",
+      "source": "Ombudsman Republik Indonesia",
+      "description": "Ombudsman NTT Soroti Pemenuhan Hak Korban TPKS, Jangan Sampai Korban Dipingpong Antarinstansi",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -2224,15 +2278,6 @@
       "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
-      "title": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTFLOWxoNUdzR1lIZ1o4eFYzTEVBN2stR1ByUW13M0ttUXJsUDRGaUtibTFJMGlPLTJnWWZQaEhoZlZhSG12cnBnaFU0LWh0XzhkNUJqaFBPZ0paTFlZSk5EdDN3eDVqSEVWWU1FVVVlbXhnUUxnRUtqUm5lWG0xVEtQY0NZSzU5ZmRxbVpnRGJMYzlDNklUaTYzaDA?oc=5",
-      "pubDate": "2026-09-29T07:00:00+00:00",
-      "source": "Universitas Gadjah Mada",
-      "description": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
-    },
-    {
       "title": "Edukasi dan Penanganan Tindak Kekerasan Seksual",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaW1XTDdYQW82ZUJQNXNkenFPMVVUWHFFOHMtcnl4NF8wRG4zTDdpcnVTTlZlcWI5TzNSSkU1c20xdWNtT01Gbmd4ODlaeHE2bnRBMU1mWUVWX2lDNW5INHpWN0tBQVMzbmw3LWIxVUxZT0Ruc0tiRWtzcw?oc=5",
       "pubDate": "2026-09-29T07:00:00+00:00",
@@ -2249,6 +2294,15 @@
       "description": "Belasan orang korban kekerasan seksual di Ponpes Abul Barokat NTB bersuara – 'Sudah sangat lama memendam sendiri sampai hampir bunuh diri'",
       "keyword_id": "kekerasan_seksual",
       "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTFLOWxoNUdzR1lIZ1o4eFYzTEVBN2stR1ByUW13M0ttUXJsUDRGaUtibTFJMGlPLTJnWWZQaEhoZlZhSG12cnBnaFU0LWh0XzhkNUJqaFBPZ0paTFlZSk5EdDN3eDVqSEVWWU1FVVVlbXhnUUxnRUtqUm5lWG0xVEtQY0NZSzU5ZmRxbVpnRGJMYzlDNklUaTYzaDA?oc=5",
+      "pubDate": "2026-09-29T07:00:00+00:00",
+      "source": "Universitas Gadjah Mada",
+      "description": "Tanggapi Laporan KBGO, UGM Pastikan Penanganan Serius dan Transparan",
+      "keyword_id": "kbgo",
+      "keyword_label": "Kekerasan Berbasis Gender Online"
     },
     {
       "title": "FT UGM Nonaktifkan 10 Mahasiswa Terlibat Percakapan Cabul Grup Chat",
@@ -6486,8 +6540,8 @@
       "pubDate": "2026-06-27T07:00:00+00:00",
       "source": "Komnas Perempuan",
       "description": "Komnas Perempuan Dorong Percepatan Implementasi UU TPKS Melalui Dialog dengan Media Indonesia",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Polisi: Ahmad Al Misry Berkewarganegaraan Ganda",
