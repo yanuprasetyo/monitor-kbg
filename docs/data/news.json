@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-28T00:59:00.144943+00:00",
-  "total": 958,
+  "updated_at": "2026-11-28T14:56:57.958443+00:00",
+  "total": 962,
   "stats": {
-    "tpks": 262,
-    "kekerasan_seksual": 441,
-    "kbg": 94,
-    "kbgo": 161
+    "tpks": 263,
+    "kekerasan_seksual": 444,
+    "kbg": 96,
+    "kbgo": 159
   },
   "new_this_fetch": 60,
   "keywords": [
@@ -27,6 +27,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bupati Kupang Tersangka TPKS, DPR Minta Kemendagri Bentuk Satgas Pencegahan Kekerasan Seksual di Lingkungan Pemda",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTy1Mak1CX1I3cG1Ga3lLTHczU1hGSjF4eGo2ci1McWdDcVRYMVZjby1Rb05LeXVFLS1lZmZMem9FTWNFdVZTVzk4Q1MtOExLQnJJQzRnalNtQzJnR0FCdWlpUnRTa05KaUVlUUcyWDY0SUUyQ0xkOEpMQnBLNmltTUNCSnY0U1UwalFyS0JrendOZThXZGlhVnFZRmwwM1BRMFJBSEhGODNXUVl4azMwWnRjUTRlQm90YWZfTm5iVE5CMk5qT0ZLeW5rRG5FOXV2UHFlQVRhdDZfZVRjb1hMWTlSVUgxQQ?oc=5",
+      "pubDate": "2026-11-28T12:22:51+00:00",
+      "source": "TEROPONGSENAYAN.com",
+      "description": "Bupati Kupang Tersangka TPKS, DPR Minta Kemendagri Bentuk Satgas Pencegahan Kekerasan Seksual di Lingkungan Pemda",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Komisi VIII DPR RI Soroti Kasus Kekerasan Seksual di Ponpes, Dorong Penguatan Sosialisasi dan Edukasi",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFFaSXRYVTJLUGNILTZGUHItdk9JejhQM0F1bTUtdm5kT0FkUmdmVDEzNDlqb2tLSXZFbHBpdkVFWGowM3VocVhMXzRrZ1J3T3M2RmhVUUp2WmNtQlNqNW02U29ZTjh3a0w2eHlncTRzRzhITXJfbjBNUV9ZMDAxRzdwSVVEbERVX3pWMHVhOXlqODliVmdkOEluSlZ6dElZUlQ1MXc5S1BJZEFqcWd3bVdrdmxMRDlkV3Rjd04teW1VREZNYW5JRQ?oc=5",
+      "pubDate": "2026-11-28T06:54:00+00:00",
+      "source": "Kompas.com",
+      "description": "Komisi VIII DPR RI Soroti Kasus Kekerasan Seksual di Ponpes, Dorong Penguatan Sosialisasi dan Edukasi",
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
+    },
+    {
+      "title": "Mengapa Pemda Butuh Satgas Pencegahan Kekerasan Seksual",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdS1ZZUI4Z2RsYUl2REo2ZExLMGpSMEVZRG1rSDFXOWxNbnpadURTV3R3QlN5N1NKMXVoSGRpTTdDMWc0eEtOUU1oLUNSQlBmSEVsSlBZblBERTFNMGtEMUw5ZDJIOUFwMnpMYTRJY2ZCM0dMUEV3dXhmekhCZEEwU2loUFdUa1JPeE1NVWIwRzNxWk5TQk8yTWZNOFhZZw?oc=5",
+      "pubDate": "2026-11-28T03:00:00+00:00",
+      "source": "Tempo.co",
+      "description": "Mengapa Pemda Butuh Satgas Pencegahan Kekerasan Seksual",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
     {
       "title": "Peluncuran Kajian Situasi Penanganan KBGO di Wilayah Kepulauan",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1VpNkNwbTFkWGZWU3dLQU80UHgwR0RTYWF0VXdzLWxDNWlyZzFUSk9sZHVLRFYtNi12a0Q0U1ZEaVJvdnU4MlBhWnJlcHA2clhtTXU3ZjUyVGtMejc0Z2lQdHFxNW5qYWEtdGJkWWlpS0o4eDR2d2JTQ2NyT2xHekhYMzkwTTBTXzk2eUY0dlhkS1VPWG5UWjNzOGdISWlRbE42VG41ZXQ1QWhIbDBWVnRnLTRzZw?oc=5",
@@ -101,12 +128,12 @@
     },
     {
       "title": "Miris! Korban Pemerkosaan di RI Masih Dinikahkan dengan Pelaku",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDUxRnA0bjhLdmZ5dG8zX2QxSFRURHdieWV2VzRZQzlaTlcwb2I0Y3BiOU5yZ2FjMDd6Y0Fyemo5Vm5vY1VVNTBmZ2JHRHlwUUlOeFFDZ0Q4Um1ZMG1PSFZfTkFDYzEzS0t3cDB4MVJrem9QQnJ0dW1ZNGJncTc1RFVSYWRtdWJQczNZNmU5M3hXb0l2V3dJUmtUTmhfcnhaYk9oaWFRTnFaUlhYbGhPbVFwc1RER2hWQ214NmVBemhCY3NRNm82UHZB0gHKAUFVX3lxTE1kNTFGcDRuOEt2Znl0bzNfZDFIVFREd2J5ZXZXNFlDOVpOVzBvYjRjcGI5TnJnYWMwN3pjQXJ6ajlWbm9jVVU1MGZnYkdEeXBRSU54UUNnRDhSbVkwbU9IVl9OQUNjMTNLS3dwMHgxUmt6b1BCcnR1bVk0YmdxNzVEVVJhZG11YlBzM1k2ZTkzeFdvSXZXd0lSa1ROaF9yeFpiT2hpYVFOcVpSWFhsaE9tUXBzVERHaFZDbXg2ZUF6aEJjc1E2bzZQdkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTF5WE5vVGhMRVlMN3FXbm9MWUppRlFCa0tZOE1kQ25kLTVNYmM0UHhTdl9ZbHU4Z2czczh6RlBiLXIzQm1NM2JlMzlrSV9NZUZkUGptc240ZVFEenZ2R0tabTJDT0hiREZrZmJsWDNtTmZaazhIaG40LVlYdVA1RFZaTDM0azlhQ3Q4Y1YzTVdXSkNPV3VweGRZRDhIYmNxNzJRdlNsUExMUDlBMlJtWjZfWGJpVGVZQk8tOGc0dTdOQkZf0gHKAUFVX3lxTE1kNTFGcDRuOEt2Znl0bzNfZDFIVFREd2J5ZXZXNFlDOVpOVzBvYjRjcGI5TnJnYWMwN3pjQXJ6ajlWbm9jVVU1MGZnYkdEeXBRSU54UUNnRDhSbVkwbU9IVl9OQUNjMTNLS3dwMHgxUmt6b1BCcnR1bVk0YmdxNzVEVVJhZG11YlBzM1k2ZTkzeFdvSXZXd0lSa1ROaF9yeFpiT2hpYVFOcVpSWFhsaE9tUXBzVERHaFZDbXg2ZUF6aEJjc1E2bzZQdkE?oc=5",
       "pubDate": "2026-11-26T12:15:00+00:00",
       "source": "CNBC Indonesia",
       "description": "Miris! Korban Pemerkosaan di RI Masih Dinikahkan dengan Pelaku",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Tak Cukup Jago Jualan Online, Perempuan Sumenep Dibekali Perlindungan dari Ancaman KBGO",
@@ -254,8 +281,8 @@
     },
     {
       "title": "Temukan Maladministrasi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren, Ombudsman RI: Negara Wajib Hadir Lindungi Santri",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWUs2d3FGRDhia3ZLVi1CYjU1ZkphSlRaTlZWRXUzaUNtOXJLTTZrbjExcGVGVUpfVEY3bm9uTGlGSlZQdFNZVGI0MFFKU25jRGhGVjRhNVFNLUE1SnlBbkRqX3pqQVVKQ01hcTUzTDVZOVcyY0hQU0loYWVnOGw3X1ZUV092c0JjSGdNQ2w5a2tHaEwyWUUyeFJaWjFaWjlhemQyYzdiT1U0enBxLUk2eThuemxhUjFkTFAxNExyZkhtall0VkhrZnhfWWhUMlFDNFZpTk9ubGZVYjB1Q3hTOTc5cHl4Mi1nNU41dzczOTk?oc=5",
-      "pubDate": "2026-11-25T11:18:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSHNXWFFRTWhMbzljMU9jMUhiQkFraFVjUmlNNElOX05LR3p6bi0zaEVubm95TXJHYnpSbXBXbG1Oa3hWb1dacXZQek5pOVp5NTFGUHJ5X2tqZmxfXzZndVlZb3paSXNsNGtMeUdUempyN055QnhmOHdhS0tTV0pkWmV2cnJtVHNzTWVsMFN2cjhtT1ZoRWEyUnp3S3dUUXg2OWJwd0E3eU1IZXR2V2hzTU5wUWc2WUxyS2UwSXVmbW8zWkE0Q1N3ODhIU0tYa3dZWFRGMlVuRHNUbU9wS2ZHLTYxTkFqQ1JabGY2b0U5RFlzYWpZb055cUw5ak5YMGM?oc=5",
+      "pubDate": "2026-11-25T13:54:29+00:00",
       "source": "Ombudsman Republik Indonesia",
       "description": "Temukan Maladministrasi Pencegahan dan Penanganan Kekerasan Seksual di Pesantren, Ombudsman RI: Negara Wajib Hadir Lindungi Santri",
       "keyword_id": "kekerasan_seksual",
@@ -276,8 +303,8 @@
       "pubDate": "2026-11-25T09:24:00+00:00",
       "source": "Tirto.id",
       "description": "Ombudsman Sebut Indonesia Darurat Kekerasan Seksual Pesantren",
-      "keyword_id": "tpks",
-      "keyword_label": "UU TPKS"
+      "keyword_id": "kekerasan_seksual",
+      "keyword_label": "Kekerasan Seksual"
     },
     {
       "title": "Ombudsman soroti penanganan kasus kekerasan seksual di pesantren",
@@ -285,6 +312,15 @@
       "pubDate": "2026-11-25T08:15:00+00:00",
       "source": "ANTARA News",
       "description": "Ombudsman soroti penanganan kasus kekerasan seksual di pesantren",
+      "keyword_id": "tpks",
+      "keyword_label": "UU TPKS"
+    },
+    {
+      "title": "Kick-off 16 HAKtP, Kemen PPPA Refleksikan Empat Tahun Implementasi UU TPKS",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWE5ybGp2MlBEdUludmJJa2xNVXlwQ0JGbEZoaVBvX1d2TnJoZjQ4eHEwRVRmV0g5UEI0SDBaMVFBc3dBWUtiMDI0M1RYWDFGRFhBSVFMWGJwOG1tU2ZuNElGQWpJZ290b1VScXYzaGFVVmkzS3VkazhVbEh0MU9sMmM2OFZKWjAwSEh5TDRydHJIX2tmaHZkYk1RWE1oQ3VvX3VIdWRYS3AxSUg2ZXVHQmc4R254a1hfbG9z?oc=5",
+      "pubDate": "2026-11-25T08:00:00+00:00",
+      "source": "Kemen PPPA",
+      "description": "Kick-off 16 HAKtP, Kemen PPPA Refleksikan Empat Tahun Implementasi UU TPKS",
       "keyword_id": "tpks",
       "keyword_label": "UU TPKS"
     },
@@ -8079,8 +8115,8 @@
       "pubDate": "2026-02-06T08:00:00+00:00",
       "source": "Universitas Gadjah Mada",
       "description": "Perkuat Ketahanan Komunitas, Mahasiswa KKN UGM Ajak Perempuan Morotai Sadar Ancaman Kekerasan Berbasis Gender",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Child Grooming dan Tafsir Suka sama Suka Perkara Kekerasan Seksual Anak",
@@ -8574,8 +8610,8 @@
       "pubDate": "2024-08-05T07:00:00+00:00",
       "source": "Kementerian Sekretariat Negara",
       "description": "Mencapai Indonesia Emas 2045 Tanpa Kekerasan Berbasis Gender Online",
-      "keyword_id": "kbgo",
-      "keyword_label": "Kekerasan Berbasis Gender Online"
+      "keyword_id": "kbg",
+      "keyword_label": "Kekerasan Berbasis Gender"
     },
     {
       "title": "Workshop Stop Kekerasan Berbasis Gender Online (KBGO) dan Pameran Foto",
